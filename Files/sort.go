@@ -233,11 +233,6 @@ var ignoreWords = []string{
     "archive", "android", "ios", "config", "fast", "slow", "channel", "group",
 }
 
-// لیست پروتکل‌ها
-var protocols = []string{
-    "vmess://", "vless://", "trojan://", "ss://", "ssr://", "hy2://", "hysteria2://", "tuic://", "warp://", "wireguard://",
-}
-
 // شناسایی کشور با اولویت‌بندی
 func identifyCountry(config string) string {
     configLower := strings.ToLower(config)
@@ -332,7 +327,7 @@ func identifyCountry(config string) string {
     return "unknown"
 }
 
-// تابع جدید برای جداسازی بر اساس پروتکل (بهبودیافته)
+// تابع جداسازی بر اساس پروتکل
 func sortByProtocol() {
     inputFile := "All_Configs_Sorted.txt"
     outputDir := "Splitted-By-Protocol"
@@ -363,23 +358,15 @@ func sortByProtocol() {
         protocol := "unknown"
         for _, proto := range protocols {
             if strings.HasPrefix(strings.ToLower(line), strings.ToLower(proto)) {
-                // اعتبارسنجی اضافی برای Shadowsocks
-                if proto == "ss://" {
-                    if !isValidShadowsocksConfig(line) {
-                        continue // نادیده گرفتن کانفیگ‌های نامعتبر
-                    }
+                // اعتبارسنجی اضافی برای پروتکل‌ها
+                if proto == "ss://" && !isValidShadowsocksConfig(line) {
+                    continue
                 }
-                // اعتبارسنجی اضافی برای vmess
-                if proto == "vmess://" {
-                    if !isValidVmessConfig(line) {
-                        continue
-                    }
+                if proto == "vmess://" && !isValidVmessConfig(line) {
+                    continue
                 }
-                // اعتبارسنجی اضافی برای vless
-                if proto == "vless://" {
-                    if !isValidVlessConfig(line) {
-                        continue
-                    }
+                if proto == "vless://" && !isValidVlessConfig(line) {
+                    continue
                 }
                 protocol = strings.TrimSuffix(proto, "://")
                 break
@@ -428,7 +415,6 @@ func isValidShadowsocksConfig(config string) bool {
     if idx := strings.Index(encoded, "?"); idx != -1 {
         encoded = encoded[:idx]
     }
-    // بررسی base64 معتبر
     if len(encoded)%4 != 0 {
         encoded += strings.Repeat("=", 4-len(encoded)%4)
     }
@@ -436,7 +422,6 @@ func isValidShadowsocksConfig(config string) bool {
     if err != nil {
         return false
     }
-    // بررسی فرمت Shadowsocks (method:password@server:port)
     parts := strings.Split(string(decoded), "@")
     if len(parts) != 2 {
         return false
