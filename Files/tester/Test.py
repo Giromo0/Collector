@@ -11,14 +11,21 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # مسیر پوشه پروتکل‌ها
 PROTOCOL_DIR = "Splitted-By-Protocol"
-# فایل‌های پروتکل
+
+# لیست فایل‌های پروتکل (هماهنگ با خروجی اسکریپت Go)
 PROTOCOL_FILES = [
-    "Hysteria2.txt",
-    "ShadowSocks.txt",
-    "Trojan.txt",
-    "Vless.txt",
-    "Vmess.txt"
+    "vmess.txt",
+    "vless.txt",
+    "trojan.txt",
+    "ss.txt",
+    "ssr.txt",
+    "hysteria2.txt",
+    "hy2.txt",
+    "tuic.txt",
+    "warp.txt",
+    "wireguard.txt"
 ]
+
 # پوشه برای ذخیره نتایج
 OUTPUT_DIR = "tested"
 # فایل خروجی
@@ -28,7 +35,7 @@ MAX_SUCCESSFUL_CONFIGS = 20
 # حداکثر تعداد کانفیگ برای تست (برای کاهش زمان)
 MAX_CONFIGS_TO_TEST = 100
 # Timeout برای تست اتصال
-TIMEOUT = 1  # کاهش از 5 به 1 ثانیه
+TIMEOUT = 1  # ثانیه
 
 # ایجاد پوشه نتایج اگر وجود نداشته باشه
 if not os.path.exists(OUTPUT_DIR):
@@ -44,8 +51,9 @@ if os.path.exists(OUTPUT_DIR):
 # تابع برای استخراج IP/دامنه و پورت از لینک پروتکل
 def extract_host_port(config):
     patterns = [
-        r"(vless|vmess|ss|trojan|hysteria2)://.+?@(.+?):(\d+)",  # استاندارد
-        r"(vless|vmess|ss|trojan|hysteria2)://(.+?):(\d+)"  # بدون uuid
+        r"(vmess|vless|trojan|ss|ssr|hy2|hysteria2|tuic)://.+?@(.+?):(\d+)",  # فرمت استاندارد
+        r"(warp|wireguard)://(.+?):(\d+)",  # برای warp و wireguard
+        r"(vmess|vless|trojan|ss|ssr|hy2|hysteria2|tuic)://(.+?):(\d+)"  # بدون uuid
     ]
     for pattern in patterns:
         match = re.match(pattern, config)
@@ -75,7 +83,7 @@ def test_connection_and_ping(config, timeout=TIMEOUT):
                 "ping": ping_time
             }
         return None
-    except (socket.gaierror, socket.timeout):
+    except (socket.gaierror, socket.timeout, socket.error):
         return None
 
 # تاریخ و زمان برای نام‌گذاری (جلیلی، تهران)
@@ -92,13 +100,14 @@ all_successful_configs = []
 # پردازش هر فایل پروتکل
 for protocol_file in PROTOCOL_FILES:
     file_path = os.path.join(PROTOCOL_DIR, protocol_file)
-    protocol_name = protocol_file.replace(".txt", "").lower()
+    # نام پروتکل از نام فایل (بدون .txt)
+    protocol_name = protocol_file.replace(".txt", "")
     
     # خواندن لینک‌های پروتکل از فایل
     config_links = []
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding='utf-8') as f:
-            config_links = [line.strip() for line in f if line.strip()]
+            config_links = [line.strip() for line in f if line.strip() and not line.startswith('#')]
     
     # انتخاب تصادفی حداکثر 100 کانفیگ برای تست
     if len(config_links) > MAX_CONFIGS_TO_TEST:
@@ -124,10 +133,10 @@ for protocol_file in PROTOCOL_FILES:
 # ذخیره تمام کانفیگ‌های موفق در یک فایل
 if all_successful_configs:
     with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
-        file.write(f"#🌐 به روزرسانی شده در {final_string} | MTSRVRS\n")
+        file.write(f"#🌐 به‌روزرسانی‌شده در {final_string} | MTSRVRS\n")
         for i, result in enumerate(all_successful_configs, 1):
             config_string = f"#🌐سرور {i} | {result['protocol']} | {final_string} | Ping: {result['ping']:.2f}ms"
-            file.write(f"{result['config']}{config_string}\n")
+            file.write(f"{result['config']}\n{config_string}\n")
     print(f"All results saved to {OUTPUT_FILE}")
 else:
     print("No successful configs found for any protocol")
