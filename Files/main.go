@@ -4,10 +4,8 @@ import (
     "bufio"
     "context"
     "encoding/base64"
-    "encoding/json"
     "fmt"
     "io"
-    "net"
     "net/http"
     "os"
     "path/filepath"
@@ -295,7 +293,7 @@ func filterForProtocols(data []string) []string {
         found := false
         for _, protocol := range protocols {
             if strings.HasPrefix(strings.ToLower(line), strings.ToLower(protocol)) {
-                // اعتبارسنجی اضافی برای هر پروتکل
+                // اعتبارسنجی اضافی برای پروتکل‌ها
                 if protocol == "ss://" && !isValidShadowsocksConfig(line) {
                     continue
                 }
@@ -311,91 +309,11 @@ func filterForProtocols(data []string) []string {
                 break
             }
         }
-        // اگر پروتکل شناخته‌شده نبود، به unknown اضافه نمی‌کنیم
         if !found {
             continue
         }
     }
     return filtered
-}
-
-// اعتبارسنجی Shadowsocks
-func isValidShadowsocksConfig(config string) bool {
-    if !strings.HasPrefix(config, "ss://") {
-        return false
-    }
-    encoded := strings.TrimPrefix(config, "ss://")
-    if idx := strings.Index(encoded, "#"); idx != -1 {
-        encoded = encoded[:idx]
-    }
-    if idx := strings.Index(encoded, "?"); idx != -1 {
-        encoded = encoded[:idx]
-    }
-    if len(encoded)%4 != 0 {
-        encoded += strings.Repeat("=", 4-len(encoded)%4)
-    }
-    decoded, err := base64.StdEncoding.DecodeString(encoded)
-    if err != nil {
-        return false
-    }
-    parts := strings.Split(string(decoded), "@")
-    if len(parts) != 2 {
-        return false
-    }
-    auth := strings.Split(parts[0], ":")
-    if len(auth) != 2 {
-        return false
-    }
-    serverPort := strings.Split(parts[1], ":")
-    if len(serverPort) != 2 {
-        return false
-    }
-    return true
-}
-
-// اعتبارسنجی Vmess
-func isValidVmessConfig(config string) bool {
-    if !strings.HasPrefix(config, "vmess://") {
-        return false
-    }
-    encoded := strings.TrimPrefix(config, "vmess://")
-    if len(encoded)%4 != 0 {
-        encoded += strings.Repeat("=", 4-len(encoded)%4)
-    }
-    decoded, err := base64.StdEncoding.DecodeString(encoded)
-    if err != nil {
-        return false
-    }
-    var vmess struct {
-        V   string `json:"v"`
-        Ps  string `json:"ps"`
-        Add string `json:"add"`
-        Port string `json:"port"`
-    }
-    if err := json.Unmarshal(decoded, &vmess); err != nil {
-        return false
-    }
-    return vmess.Add != "" && vmess.Port != ""
-}
-
-// اعتبارسنجی Vless
-func isValidVlessConfig(config string) bool {
-    if !strings.HasPrefix(config, "vless://") {
-        return false
-    }
-    parts := strings.Split(config, "@")
-    if len(parts) != 2 {
-        return false
-    }
-    serverPort := strings.Split(parts[1], "?")
-    if len(serverPort) < 1 {
-        return false
-    }
-    addrPort := strings.Split(serverPort[0], ":")
-    if len(addrPort) != 2 {
-        return false
-    }
-    return true
 }
 
 func cleanExistingFiles(base64Folder string) {
