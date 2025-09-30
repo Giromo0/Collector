@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0,20 * * * *"  # هر 20 دقیقه
+    - cron: "0,20 * * * *" 
   workflow_dispatch:
 
 jobs:
@@ -17,46 +17,27 @@ jobs:
       - name: Checkout repo content
         uses: actions/checkout@v4
 
-      - name: Download configs from URL
+      - name: Check protocol files
         run: |
-          # دانلود فایل از URL و ذخیره در پوشه موقت
-          mkdir -p temp_configs
-          curl -s "https://raw.githubusercontent.com/Giromo0/Collector/refs/heads/main/All_Configs_Sub.txt" -o temp_configs/All_Configs_Sub.txt
-          ls -l temp_configs/
-          # فیلتر کانفیگ‌های معتبر (فقط خطوطی که با پروتکل شروع می‌شن)
-          grep -E "^(vmess|vless|trojan|ss|ssr|hy2|hysteria2|tuic|warp|wireguard)://" temp_configs/All_Configs_Sub.txt > temp_configs/filtered_configs.txt || true
-          echo "Downloaded and filtered configs. Total lines: $(wc -l < temp_configs/filtered_configs.txt)"
+          ls -l Splitted-By-Protocol/
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.9'
 
-      - name: Install Python packages (optional)
+      - name: Install Python packages
         run: |
           python -m pip install --upgrade pip
-          # اگر requirements.txt لازم باشه، اضافه کن: pip install -r Files/tester/requirements.txt
+          pip install -r Files/tester/requirements.txt
 
       - name: Execute Test.py script
         run: |
-          # کپی کانفیگ‌های دانلودشده به مسیر اسکریپت پایتون (اگر لازم باشه)
-          cp temp_configs/filtered_configs.txt Files/tester/input_configs.txt || true
           python Files/tester/Test.py
-          ls -l tested/  # بررسی خروجی
-
-      - name: Verify tested configs
-        run: |
-          if [ -f "tested/config_test.txt" ]; then
-            echo "Test results:"
-            head -20 tested/config_test.txt
-            wc -l tested/config_test.txt
-          else
-            echo "No test results found"
-          fi
 
       - name: Commit and push results
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "☑️ Tested configs $(date +'%Y-%m-%d %H:%M:%S')"
+          commit_message: "☑️ Tested configs $(date)"
           file_pattern: tested/*
-          # حذف force push برای ایمنی؛ اگر لازم باشه، اضافه کن: push_options: --force
+          push_options: --force
