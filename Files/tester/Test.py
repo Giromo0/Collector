@@ -9,6 +9,7 @@ from urllib.parse import urlparse, parse_qs
 import base64
 from concurrent.futures import ThreadPoolExecutor
 import logging
+import uuid
 
 # تنظیم لاگ‌گذاری
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -131,7 +132,8 @@ def create_xray_config(parsed_config):
             ]
         }
     }
-    config_file = f"temp_config_{os.getpid()}.json"
+    # استفاده از UUID برای نام فایل یکتا
+    config_file = f"temp_config_{uuid.uuid4().hex}.json"
     with open(config_file, "w") as f:
         json.dump(xray_config, f)
     return config_file
@@ -156,11 +158,17 @@ def test_config(config):
             timeout=5
         )
         process.terminate()
-        os.remove(config_file)
+        try:
+            os.remove(config_file)
+        except FileNotFoundError:
+            logging.warning(f"فایل {config_file} قبلاً حذف شده یا وجود ندارد")
         return result.returncode == 0, config
     except Exception as e:
         logging.error(f"خطا در تست اتصال: {e}")
-        os.remove(config_file) if os.path.exists(config_file) else None
+        try:
+            os.remove(config_file)
+        except FileNotFoundError:
+            logging.warning(f"فایل {config_file} قبلاً حذف شده یا وجود ندارد")
         return False, config
 
 def extract_configs(lines):
@@ -169,9 +177,9 @@ def extract_configs(lines):
     pattern = r'^(vless://|vmess://|ss://|trojan://)[^\s#]+'
 
     valid_configs = []
-    with ThreadPoolExecutor(max_workers=10) as executor:
+    with ThreadPoolExecutor(max_workers=5) as executor:  # کاهش کارگرها برای پایداری
         configs = [line for line in lines if re.match(pattern, line)]
-        results = executor.map(test_config, configs)
+        results = executor.map(test_config, configs[:100])  # محدود کردن به ۱۰۰ کانفیگ برای سرعت
         for is_valid, config in results:
             if is_valid:
                 protocol = config.split("://")[0]
@@ -184,9 +192,9 @@ def save_configs(protocols):
     """ذخیره کانفیگ‌های معتبر"""
     output_dir = "tested"
     os.makedirs(output_dir, exist_ok=True)
-    output_file = os.path.join(output_dir, "config_test.txt")
-
     current_date_time = jdatetime.datetime.now(pytz.timezone('Asia/Tehran'))
+    output_file = os.path.join(output_dir, f"config_test_{current_date_time.strftime('%Y-%m-%d_%H-%M')}.txt")
+
     final_string = current_date_time.strftime("%b-%d | %H:%M")
     final_others_string = current_date_time.strftime("%b-%d")
 
