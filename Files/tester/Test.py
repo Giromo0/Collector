@@ -12,7 +12,10 @@ import logging
 import uuid
 
 # تنظیم لاگ‌گذاری
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', handlers=[
+    logging.FileHandler('tested/test.log', encoding='utf-8'),
+    logging.StreamHandler()
+])
 
 # لینک سابسکریپشن
 SUBSCRIPTION_URL = "https://raw.githubusercontent.com/Giromo0/Collector/refs/heads/main/All_Configs_Sub.txt"
@@ -47,7 +50,8 @@ def parse_config(config):
                         "type": vmess_json.get("type", "none"),
                         "host": vmess_json.get("host", ""),
                         "path": vmess_json.get("path", ""),
-                        "tls": vmess_json.get("tls", "")
+                        "tls": vmess_json.get("tls", ""),
+                        "sni": vmess_json.get("sni", "")
                     }
                 }
             except (base64.binascii.Error, json.JSONDecodeError) as e:
@@ -68,7 +72,11 @@ def parse_config(config):
                     "net": params.get("type", ["tcp"])[0],
                     "path": params.get("path", [""])[0],
                     "security": params.get("security", ["none"])[0],
-                    "ps": params.get("ps", ["unnamed"])[0]
+                    "sni": params.get("sni", parsed.hostname),
+                    "alpn": params.get("alpn", [""])[0],
+                    "fp": params.get("fp", [""])[0],
+                    "allowInsecure": params.get("allowInsecure", ["0"])[0] == "1",
+                    "ps": params.get("ps", [parsed.fragment or "unnamed"])[0]
                 }
             }
         elif config.startswith("ss://"):
@@ -90,6 +98,7 @@ def parse_config(config):
                 return None
         elif config.startswith("trojan://"):
             parsed = urlparse(config)
+            params = parse_qs(parsed.query)
             if not parsed.hostname or not parsed.username:
                 logging.error(f"کانفیگ trojan ناقص است: hostname یا username وجود ندارد - کانفیگ: {config[:50]}...")
                 return None
@@ -99,9 +108,17 @@ def parse_config(config):
                     "password": parsed.username,
                     "add": parsed.hostname,
                     "port": int(parsed.port or 443),
+                    "sni": params.get("sni", [parsed.hostname])[0],
+                    "alpn": params.get("alpn", ["http/1.1"])[0],
+                    "path": params.get("path", [""])[0],
+                    "type": params.get("type", ["tcp"])[0],
+                    "allowInsecure": params.get("allowInsecure", ["0"])[0] == "1",
                     "ps": parsed.fragment or "unnamed"
                 }
             }
+        elif config.startswith("hysteria2://"):
+            logging.warning(f"پروتکل hysteria2 پشتیبانی نمی‌شود: {config[:50]}...")
+            return None
         return None
     except Exception as e:
         logging.error(f"خطا در پارس کانفیگ: {e} - کانفیگ: {config[:50]}...")
@@ -122,6 +139,15 @@ def create_xray_config(parsed_config):
                 "protocol": parsed_config["protocol"],
                 "settings": {
                     parsed_config["protocol"]: [parsed_config["config"]]
+                },
+                "streamSettings": {
+                    "network": parsed_config["config"].get("net", "tcp"),
+                    "security": parsed_config["config"].get("security", "none"),
+                    "tlsSettings": {
+                        "serverName": parsed_config["config"].get("sni", ""),
+                        "alpn": [parsed_config["config"].get("alpn", "http/1.1")],
+                        "allowInsecure": parsed_config["config"].get("allowInsecure", False)
+                    } if parsed_config["config"].get("security") == "tls" else {}
                 }
             },
             {"protocol": "freedom", "tag": "direct"}
@@ -145,19 +171,21 @@ def test_config(config):
 
     config_file = create_xray_config(parsed_config)
     try:
-        process = subprocess.Popen(
-            ["xray", "-c", config_file],
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE
-        )
-        result = subprocess.run(
-            ["curl", "-x", "socks5://127.0.0.1:10808", "--connect-timeout", "3", "http://1.1.1.1"],
-            capture_output=True,
-            text=True,
-            timeout=5
-        )
-        stdout, stderr = process.communicate()
-        process.terminate()
+        with open("tested/xray_output.log", "a") as log_file:
+            process = subprocess.Popen(
+                ["xray", "-c", config_file],
+                stdout=log_file,
+                stderr=log_file
+            )
+            result = subprocess.run(
+                ["curl", "-x", "socks5://127.0.0.1:10808", "--connect-timeout", "3", "http://1.1.1.1"],
+                capture_output=True,
+                text=True,
+                timeout=5
+            )
+            process.terminate()
+            with open("tested/curl_output.log", "a") as curl_log:
+                curl_log.write(f"Config: {config[:50]}...\nReturn Code: {result.returncode}\nStdout: {result.stdout}\nStderr: {result.stderr}\n---\n")
         try:
             os.remove(config_file)
         except FileNotFoundError:
@@ -185,8 +213,8 @@ def extract_configs(lines):
     valid_configs = []
     with ThreadPoolExecutor(max_workers=5) as executor:
         configs = [line for line in lines if re.match(pattern, line)]
-        logging.info(f"تعداد کانفیگ‌های یافت‌شده: {len(configs)}")
-        results = executor.map(test_config, configs[:50])  # محدود به ۵۰ کانفیگ
+        logging.info(f"تعداد کانفیگ‌های یافت‌شده (vless, vmess, ss, trojan): {len(configs)}")
+        results = executor.map(test_config, configs[:100])  # افزایش به ۱۰۰ کانفیگ
         for is_valid, config in results:
             if is_valid:
                 protocol = config.split("://")[0]
