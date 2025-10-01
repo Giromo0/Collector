@@ -4,6 +4,8 @@ import os
 import shutil
 import ssl
 import urllib.parse
+import json
+import base64
 from datetime import datetime
 import pytz
 import jdatetime
@@ -27,7 +29,7 @@ OUTPUT_FILE = os.path.join(OUTPUT_DIR, "config_test.txt")
 # حداکثر تعداد کانفیگ موفق برای هر پروتکل
 MAX_SUCCESSFUL_CONFIGS = 20
 # حداکثر تعداد کانفیگ برای تست
-MAX_CONFIGS_TO_TEST = 150  # افزایش به 200 برای شانس بیشتر
+MAX_CONFIGS_TO_TEST = 300  # افزایش به 300 برای شانس بیشتر
 # Timeout برای تست اتصال
 TIMEOUT = float(os.getenv("TEST_TIMEOUT", 2))  # پیش‌فرض 2 ثانیه
 
@@ -45,25 +47,25 @@ if os.path.exists(OUTPUT_DIR):
 # تابع برای استخراج IP/دامنه و پورت از لینک پروتکل
 def extract_host_port(config):
     patterns = [
-        r"(vmess|vless|trojan|ss|hy2)://.+?@(.+?):(\d+)",  # فرمت استاندارد
-        r"(vmess|vless|trojan|ss|hy2)://(.+?):(\d+)",  # بدون uuid
-        r"ss://(.+?)@(.+?):(\d+)",  # فرمت خاص Shadowsocks
+        r"(vless|trojan)://.+?@(.+?):(\d+)",  # فرمت استاندارد vless و trojan
+        r"ss://(.+?)@(.+?):(\d+)",  # فرمت Shadowsocks
+        r"hy2://(.+?)@(.+?):(\d+)",  # فرمت Hysteria2
         r"vmess://(.+)"  # فرمت base64 برای vmess
     ]
     for pattern in patterns:
         match = re.match(pattern, config)
         if match:
-            host = match.group(2) if pattern != patterns[3] else None
-            port = int(match.group(3)) if pattern != patterns[3] else None
             if pattern == patterns[3]:  # برای vmess base64
                 try:
-                    import base64
                     decoded = base64.b64decode(match.group(1)).decode('utf-8')
                     vmess_data = json.loads(decoded)
                     host = vmess_data.get('add')
                     port = int(vmess_data.get('port'))
                 except Exception:
                     return None, None
+            else:
+                host = match.group(2)
+                port = int(match.group(3))
             return host, port
     return None, None
 
@@ -120,11 +122,11 @@ def test_connection_and_ping(config, timeout=TIMEOUT):
         sock.close()
         if result == 0:  # اتصال TCP موفق
             ping_time = (time.time() - start_time) * 1000
-            # تست WebSocket فقط برای vless, trojan, و hy2 با type=ws
-            if ("type=ws" in config and config.startswith(("vless://", "trojan://", "hy2://")) and not test_websocket(config, timeout)):
+            # تست WebSocket فقط برای vless و trojan با type=ws
+            if config.startswith(("vless://", "trojan://")) and "type=ws" in config and not test_websocket(config, timeout):
                 return None
             # تست TLS فقط برای vless و trojan با security=tls
-            if ("security=tls" in config and config.startswith(("vless://", "trojan://")) and not test_tls(config, timeout)):
+            if config.startswith(("vless://", "trojan://")) and "security=tls" in config and not test_tls(config, timeout):
                 return None
             return {
                 "config": config,
@@ -164,7 +166,7 @@ for protocol_file in PROTOCOL_FILES:
     
     print(f"Read {len(config_links)} configs for {protocol_name}")
     
-    # انتخاب تصادفی حداکثر 200 کانفیگ برای تست
+    # انتخاب تصادفی حداکثر 300 کانفیگ برای تست
     if len(config_links) > MAX_CONFIGS_TO_TEST:
         config_links = random.sample(config_links, MAX_CONFIGS_TO_TEST)
     
