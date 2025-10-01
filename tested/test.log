@@ -2807,3 +2807,1406 @@ curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect
  - کانفیگ: trojan://NISHIKUITAN222@104.19.71.183:443?allowIns...
 2025-10-01 09:54:51,891 - INFO - کانفیگ‌های نامعتبر در tested/invalid_configs.txt ذخیره شدند.
 2025-10-01 09:54:51,904 - INFO - کانفیگ‌های معتبر در tested/config_test_1404-07-09_13-24.txt ذخیره شدند.
+2025-10-01 10:01:27,410 - INFO - تعداد کانفیگ‌های یافت‌شده: 6395 (vless: 3731, vmess: 1419, ss: 67, trojan: 1178)
+2025-10-01 10:01:28,512 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://b5ea09a3-c4b2-425b-c3f9-1b190ffd30f5@www.s...
+2025-10-01 10:01:28,514 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://2e54d111-18f0-4b69-a1af-3aa40e1f8ad6@172.6...
+2025-10-01 10:01:28,520 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://5c194be0-4c8e-4b83-aa34-383782e721bc@172.6...
+2025-10-01 10:01:28,521 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://575a7246-e065-4ded-d05b-5500cd6cbe21@172.6...
+2025-10-01 10:01:28,525 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.10...
+2025-10-01 10:01:29,545 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://06a69ade-0ebf-44dc-8f06-69dda39be844@www.s...
+2025-10-01 10:01:29,548 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://df0680ca-e43c-498d-ed86-8e196eedd012@63894...
+2025-10-01 10:01:29,569 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://a6c4db3e-7785-429e-8bc5-9eaf7b1a79b1@45.8....
+2025-10-01 10:01:29,576 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60...
+2025-10-01 10:01:29,580 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://a98d414e-9d9f-4e71-9f3c-427a47ee3226@172.6...
+2025-10-01 10:01:30,578 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://efed37ed-37e5-4100-a540-049dc7929984@172.6...
+2025-10-01 10:01:30,583 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://SVNTEAM-2@public.misvn.ir:443/?type=tcp&se...
+2025-10-01 10:01:30,627 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://0261c8f9-413a-455b-942b-3713c6b0084a@172.6...
+2025-10-01 10:01:30,635 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://b5ea09a3-c4b2-425b-c3f9-1b190ffd30f5@172.6...
+2025-10-01 10:01:30,635 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://df0680ca-e43c-498d-ed86-8e196eedd012@63894...
+2025-10-01 10:01:31,605 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://34797f17-09a1-400c-9f4b-275718d62a0f@brain...
+2025-10-01 10:01:31,610 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://%74%65%6C%65%67%72%61%6D%2D%69%64%2D%41%72...
+2025-10-01 10:01:31,689 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://af10a3c5-ffbf-4ebd-a798-831c8531484a@172.6...
+2025-10-01 10:01:31,711 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://SVNTEAM-3@public.misvn.ir:443/?type=tcp&se...
+2025-10-01 10:01:31,715 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://c319b01e-ac54-4d5c-f8b2-3fb2256c23cc@172.6...
+2025-10-01 10:01:32,632 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://ed26b867-1480-4a5e-a4f6-e533115eb973@172.6...
+2025-10-01 10:01:32,636 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://b655cdae-9b54-4a6a-bf1c-129857dd8676@172.6...
+2025-10-01 10:01:32,728 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82...
+2025-10-01 10:01:32,745 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://c319b01e-ac54-4d5c-f8b2-3fb2256c23cc@www.s...
+2025-10-01 10:01:32,751 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.1...
+2025-10-01 10:01:33,658 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.20...
+2025-10-01 10:01:33,662 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://462a4922-c80a-4347-a7b5-446cfcb08806@172.6...
+2025-10-01 10:01:33,755 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://350781ad-9abe-4df6-c10a-8988b9981fda@172.6...
+2025-10-01 10:01:33,777 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.1...
+2025-10-01 10:01:33,786 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://bcfaacaa-faec-4042-a599-75e5352b3e63@172.6...
+2025-10-01 10:01:34,684 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.1...
+2025-10-01 10:01:34,689 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://0bfe0c56-9e18-44ac-bf97-2c7bcb5cd3c0@172.6...
+2025-10-01 10:01:34,783 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://e9ba730d-76c9-4786-9f49-e13d7935e4ae@172.6...
+2025-10-01 10:01:34,810 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://06a69ade-0ebf-44dc-8f06-69dda39be844@172.6...
+2025-10-01 10:01:34,818 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://d342d11e-d424-4583-b36e-524ab1f0afa4@xn--k...
+2025-10-01 10:01:35,710 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.g...
+2025-10-01 10:01:35,715 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://44e16031-bde2-407a-b629-ae4b84e7e49f@ipw.g...
+2025-10-01 10:01:35,809 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://df0680ca-e43c-498d-ed86-8e196eedd012@63894...
+2025-10-01 10:01:35,837 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.1...
+2025-10-01 10:01:35,853 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://401374e6-df77-41fb-f638-dad8184f175b@45.81...
+2025-10-01 10:01:36,737 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://350781ad-9abe-4df6-c10a-8988b9981fda@www.s...
+2025-10-01 10:01:36,741 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://575a7246-e065-4ded-d05b-5500cd6cbe21@www.s...
+2025-10-01 10:01:36,835 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.2...
+2025-10-01 10:01:36,866 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://1f90ea31-15a1-4896-bfff-c83f74ce0f7e@141.2...
+2025-10-01 10:01:36,894 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 1 ms: Couldn't connect to server
+ - کانفیگ: vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.2...
+2025-10-01 10:01:37,763 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.2...
+2025-10-01 10:01:37,767 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSU...
+2025-10-01 10:01:37,864 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: trojan://f282b878-8711-45a1-8c69-5564172123c1@172....
+2025-10-01 10:01:37,893 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.1...
+2025-10-01 10:01:37,932 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.1...
+2025-10-01 10:01:38,790 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://d300ae15-2ba2-4f91-b1b0-b4510912e4cc@104.1...
+2025-10-01 10:01:38,795 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.1...
+2025-10-01 10:01:38,891 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://941d092e-8313-452a-ba21-c9995dcba79d@101re...
+2025-10-01 10:01:38,921 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://fd0cdd44-2361-11f0-9970-45e1d80c4039@62.60...
+2025-10-01 10:01:38,965 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://346264b7-975c-4891-8f7b-dcd6e5707a42@kerne...
+2025-10-01 10:01:39,816 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://7fa08b3d-86d8-4b14-92b3-4c56a83f027d@viop....
+2025-10-01 10:01:39,820 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://738c5a04-817a-4f50-b327-893595010155@all32...
+2025-10-01 10:01:39,916 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99...
+2025-10-01 10:01:39,950 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.a...
+2025-10-01 10:01:39,999 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.1...
+2025-10-01 10:01:40,842 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.2...
+2025-10-01 10:01:40,847 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@priva...
+2025-10-01 10:01:40,942 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.2...
+2025-10-01 10:01:40,977 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://a89357b8-a501-46bd-ac6d-c0f37f1fd0f5@104.1...
+2025-10-01 10:01:41,032 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@commu...
+2025-10-01 10:01:41,868 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.13...
+2025-10-01 10:01:41,873 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25...
+2025-10-01 10:01:41,966 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://%50a%72sa%73%68%6fna%6d-Bot-21@104.17.147....
+2025-10-01 10:01:42,013 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 1 ms: Couldn't connect to server
+ - کانفیگ: vless://%50a%72sa%73%68%6fna%6d-Bot-22@104.17.147....
+2025-10-01 10:01:42,060 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://%50a%72sa%73%68%6fna%6d-Bot-23@104.17.147....
+2025-10-01 10:01:42,895 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://%50a%72sa%73%68%6fna%6d-Bot-25@104.17.147....
+2025-10-01 10:01:42,900 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://%50a%72sa%73%68%6fna%6d-Bot-26@104.17.147....
+2025-10-01 10:01:42,991 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://06d4887e-9e2c-45a3-a0ac-309f4e47f047@iran....
+2025-10-01 10:01:43,042 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://06d4887e-9e2c-45a3-a0ac-309f4e47f047@mobin...
+2025-10-01 10:01:43,094 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://098f4eac-39fd-4c91-9bf3-dfe55e47e1ee@germa...
+2025-10-01 10:01:43,921 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://14495465-b6da-4530-95f7-e6f2965af44a@80.74...
+2025-10-01 10:01:43,925 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.1...
+2025-10-01 10:01:44,017 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.s...
+2025-10-01 10:01:44,071 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://3d9f9671-a9c0-4f05-bf9b-0ab1f1b44654@109.2...
+2025-10-01 10:01:44,123 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://40090834-1406-4c25-9c51-326d897e9aab@sir.s...
+2025-10-01 10:01:44,947 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.1...
+2025-10-01 10:01:44,951 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://4b1c3b24-ae03-4559-98fb-3ef706359cd5@185.2...
+2025-10-01 10:01:45,041 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://4b1c3b24-ae03-4559-98fb-3ef706359cd5@85.15...
+2025-10-01 10:01:45,104 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.7...
+2025-10-01 10:01:45,150 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://570f00ba-af38-44b9-955c-86f8272e0d3a@173.2...
+2025-10-01 10:01:45,973 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://58e596b3-e7e6-43c5-9c03-b1e90db428a9@www.s...
+2025-10-01 10:01:45,978 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://680eb606-0a50-4758-a75f-7d17ddeaf28a@aturk...
+2025-10-01 10:01:46,072 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://6d5d6143-2daa-41d5-c51f-cb7b64783b68@99.19...
+2025-10-01 10:01:46,133 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://7f93e196-1b2f-4a42-8051-5815554c05db@51.44...
+2025-10-01 10:01:46,186 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://8582e686-c209-4bfc-95ae-37ff0e20dd77@62.60...
+2025-10-01 10:01:47,000 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.1...
+2025-10-01 10:01:47,005 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.2...
+2025-10-01 10:01:47,097 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://95635fc6-3fe8-40f5-bb7b-a5ed8e83efb2@custo...
+2025-10-01 10:01:47,162 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://Parsashonam-254@185.146.173.39:8880?path=%...
+2025-10-01 10:01:47,219 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://Parsashonam-254@iP.BadZat.Space:443?securi...
+2025-10-01 10:01:48,026 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://afa3cd54-f05d-4e0b-a4d6-9f046f5d1c05@vp.he...
+2025-10-01 10:01:48,030 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@104.2...
+2025-10-01 10:01:48,122 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.6...
+2025-10-01 10:01:48,196 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.1...
+2025-10-01 10:01:48,247 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://bc84ff8c-d695-4217-abc7-5fbac2b0e49f@194.1...
+2025-10-01 10:01:49,052 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://bc84ff8c-d695-4217-abc7-5fbac2b0e49f@85.15...
+2025-10-01 10:01:49,057 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://c259672d-68a3-4cde-9cc2-87ae10f3b7bf@afran...
+2025-10-01 10:01:49,146 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://ccbd36f3-17b4-4619-9707-6bc540001e72@194.1...
+2025-10-01 10:01:49,223 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://d0c6d912-ca99-4cbc-8bda-e9f85854c7a6@103.2...
+2025-10-01 10:01:49,281 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://d0c6d912-ca99-4cbc-8bda-e9f85854c7a6@185.2...
+2025-10-01 10:01:50,079 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://d483e7ab-5223-44bd-b68d-b4f185b1801e@www.s...
+2025-10-01 10:01:50,084 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://d5c1abb8-2024-4fc0-9810-09dc10a5b948@104.1...
+2025-10-01 10:01:50,172 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://da45876f-e3be-477e-b513-6a85e470339b@62.60...
+2025-10-01 10:01:50,249 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://dded386e-260d-442f-a1da-c6c4dae339a5@91.24...
+2025-10-01 10:01:50,314 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://ebb066ca-ff0e-47b3-8eae-465f3e171e12@103.2...
+2025-10-01 10:01:51,106 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.6...
+2025-10-01 10:01:51,111 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://ed87c882-17f3-491a-810c-c0000e4b279e@speed...
+2025-10-01 10:01:51,198 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://ed87c882-17f3-491a-810c-c0000e4b279e@zmaoz...
+2025-10-01 10:01:51,274 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://f4b81795-2e5a-4584-ea25-44bc16e8fc2c@37.27...
+2025-10-01 10:01:51,342 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://84a20227-a400-4806-9c63-d4ca0f3b950b@hield...
+2025-10-01 10:01:52,133 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: trojan://telegram-id-directvpn@18.171.132.240:2222...
+2025-10-01 10:01:52,138 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://e160d2ab-60d3-49bf-afc8-cb98cc912dbc@germa...
+2025-10-01 10:01:52,224 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://61f5ccab-c245-471a-b286-9209f3c6421e@188.2...
+2025-10-01 10:01:52,300 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.s...
+2025-10-01 10:01:52,368 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://7ddf3ef9-a66b-4c8c-85b8-de843ceeb3a2@142.1...
+2025-10-01 10:01:53,160 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://01996d6c-ca12-a514-1884-58805e80e2c9@104.2...
+2025-10-01 10:01:53,164 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://672a7a10-7e7a-40c6-8a45-2b2f799ae1dc@79.12...
+2025-10-01 10:01:53,252 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://c712ab76-c37d-44ef-b940-a4b2932d207a@46.62...
+2025-10-01 10:01:53,326 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: trojan://3df56fd0-d1b7-4793-b877-acd356d960f3@172....
+2025-10-01 10:01:53,395 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://cf15937b-d90a-42ca-9b31-70f2680b9b40@172.6...
+2025-10-01 10:01:54,186 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: trojan://telegram-id-directvpn@15.157.44.120:22222...
+2025-10-01 10:01:54,191 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://0d89a36e-36bc-41d2-8bd3-bbd639991f29@154.2...
+2025-10-01 10:01:54,283 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98...
+2025-10-01 10:01:54,352 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: trojan://bf7e1009-1574-44f7-86df-6cbecd338477@pard...
+2025-10-01 10:01:54,422 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: trojan://ec94daf9-442f-4a6b-9633-70c90006dfdd@79.1...
+2025-10-01 10:01:55,213 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://6e305621-9c57-417a-aed1-95024bc5f6b2@91.98...
+2025-10-01 10:01:55,218 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://d36f457f-17a9-4891-a113-322ec6792917@m24a....
+2025-10-01 10:01:55,308 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://f6fa50e9-1455-4e89-84b5-224d5a9ada05@live....
+2025-10-01 10:01:55,378 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://c673acb2-aaf4-4e02-a12b-f328e9aee06d@em-3....
+2025-10-01 10:01:55,449 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://336a1cc3-dc1c-4d20-b2cc-618b50dc3f23@91.10...
+2025-10-01 10:01:56,239 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23...
+2025-10-01 10:01:56,244 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://0199889f-d499-8cad-99f7-7507ed9a819b@googl...
+2025-10-01 10:01:56,335 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38...
+2025-10-01 10:01:56,405 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.2...
+2025-10-01 10:01:56,475 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.6...
+2025-10-01 10:01:57,265 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@66.81...
+2025-10-01 10:01:57,270 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://169d94bb-e490-41e5-9cb1-5716f3d27d66@103.2...
+2025-10-01 10:01:57,360 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://32c57aea-0d78-42b9-975e-56c655a18600@pscre...
+2025-10-01 10:01:57,432 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: trojan://telegram-id-privatevpns@63.177.220.191:22...
+2025-10-01 10:01:57,504 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://0f52d2a3-151e-49ec-b816-afbfd269d521@nl2.a...
+2025-10-01 10:01:58,292 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://3e7f67de-648e-4871-b51a-a225214d41ee@171.2...
+2025-10-01 10:01:58,296 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://df0680ca-e43c-498d-ed86-8e196eedd012@63892...
+2025-10-01 10:01:58,386 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.4...
+2025-10-01 10:01:58,458 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://b168c449-ca1c-4514-e14b-156f0ddb9356@amin....
+2025-10-01 10:01:58,530 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://d3f0e44b-7aa9-4445-bafc-3546166ceaec@162.1...
+2025-10-01 10:01:59,318 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: trojan://blue2024@104.19.242.185:443?security=tls&...
+2025-10-01 10:01:59,323 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://accabba-bcaa-baca-bdca-cbaabcacbcab@127.0....
+2025-10-01 10:01:59,416 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://d30ff521-591c-4fba-9bc2-fc2b4602afd3@85.15...
+2025-10-01 10:01:59,484 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.18...
+2025-10-01 10:01:59,556 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: trojan://telegram-id-privatevpns@15.237.103.24:222...
+2025-10-01 10:02:00,345 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://98f0c223-cb75-4faa-859e-47110b1f052b@172.6...
+2025-10-01 10:02:00,350 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://4785f3ca-8fa3-4717-8c81-9d19087c73a3@172.6...
+2025-10-01 10:02:00,441 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.1...
+2025-10-01 10:02:00,513 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: trojan://ChaNNel_DailY_ConfIGs@162.159.153.2:2053?...
+2025-10-01 10:02:00,582 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://778d047f-a59b-4b58-b1a4-8ad9f249d13c@194.5...
+2025-10-01 10:02:01,371 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://df0680ca-e43c-498d-ed86-8e196eedd012@63892...
+2025-10-01 10:02:01,376 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://df0680ca-e43c-498d-ed86-8e196eedd012@63894...
+2025-10-01 10:02:01,466 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27...
+2025-10-01 10:02:01,539 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://6b3a7034-39ec-f057-377d-cf6af57b4db4@216.9...
+2025-10-01 10:02:01,608 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://4b3d1517-204f-423a-8469-2d79444418a9@104.1...
+2025-10-01 10:02:02,399 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vmess://eyJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsIm...
+2025-10-01 10:02:02,403 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://2232faac-959f-4707-beb7-a634bafb837d@172.6...
+2025-10-01 10:02:02,491 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://f8e49ef1-3541-4d72-8d0d-2c66edafdc4d@live....
+2025-10-01 10:02:02,565 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://5d0970e5-0915-425b-b507-bfe491b89d86@uisac...
+2025-10-01 10:02:02,635 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12...
+2025-10-01 10:02:03,426 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.6...
+2025-10-01 10:02:03,431 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://df0680ca-e43c-498d-ed86-8e196eedd012@63894...
+2025-10-01 10:02:03,518 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://df0680ca-e43c-498d-ed86-8e196eedd012@63894...
+2025-10-01 10:02:03,593 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://a1d93599-b324-4931-9190-8684487d00d5@194.8...
+2025-10-01 10:02:03,664 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://b65f4df7-f6af-42b2-877a-cef33f21675e@138.2...
+2025-10-01 10:02:04,452 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://8b0a592f-1fee-4da0-add6-f8e108611164@69.84...
+2025-10-01 10:02:04,457 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://b65f4df7-f6af-42b2-877a-cef33f21675e@91.14...
+2025-10-01 10:02:04,545 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@de01-...
+2025-10-01 10:02:04,619 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://8b0a592f-1fee-4da0-add6-f8e108611164@69.84...
+2025-10-01 10:02:04,692 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://b65f4df7-f6af-42b2-877a-cef33f21675e@132.1...
+2025-10-01 10:02:05,478 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vmess://eyJhZGQiOiIyMTYuMTczLjY5LjI1MCIsImFpZCI6Ij...
+2025-10-01 10:02:05,483 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://b65f4df7-f6af-42b2-877a-cef33f21675e@85.19...
+2025-10-01 10:02:05,573 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://1a6bf68f-9c30-4cac-905f-416b4199ffb3@d.ean...
+2025-10-01 10:02:05,644 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: trojan://f282b878-8711-45a1-8c69-5564172123c1@172....
+2025-10-01 10:02:05,718 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://d4769725-535f-4260-bc76-600f8d51cb87@151.1...
+2025-10-01 10:02:06,505 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://8347825d-e85b-4735-b27d-7c60ca32bd0c@141.2...
+2025-10-01 10:02:06,509 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://95dfa5f5-d47b-4629-a4f4-6a3f0b9ab052@104.1...
+2025-10-01 10:02:06,599 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.6...
+2025-10-01 10:02:06,670 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: trojan://blue2024@104.19.204.38:443?allowInsecure=...
+2025-10-01 10:02:06,743 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://80152525-b807-400b-8a19-1c9c73432484@141.2...
+2025-10-01 10:02:07,531 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://a9a5a7ed-d852-4b3b-af5d-6e8d721300b5@141.2...
+2025-10-01 10:02:07,536 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://7317bf15-91fe-4780-90a3-d5e385b039fb@103.2...
+2025-10-01 10:02:07,628 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://837545c0-74e1-4daa-9ea1-b8286762c399@Ger-s...
+2025-10-01 10:02:07,697 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28...
+2025-10-01 10:02:07,770 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.1...
+2025-10-01 10:02:08,557 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://c18000ca-af52-46a6-84f3-6e500b53009f@www.s...
+2025-10-01 10:02:08,560 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.6...
+2025-10-01 10:02:08,652 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://8434234d-f89f-d936-4622-2fa7a4851964@tunne...
+2025-10-01 10:02:08,721 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: vless://45d44338-30d2-439c-b765-90cb16f581c9@www.s...
+2025-10-01 10:02:08,794 - WARNING - تست کانفیگ شکست خورد:   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to 127.0.0.1 port 10808 after 0 ms: Couldn't connect to server
+ - کانفیگ: trojan://NISHIKUITAN222@104.19.71.183:443?allowIns...
+2025-10-01 10:02:08,795 - INFO - کانفیگ‌های نامعتبر در tested/invalid_configs.txt ذخیره شدند.
+2025-10-01 10:02:08,809 - INFO - کانفیگ‌های معتبر در tested/config_test_1404-07-09_13-32.txt ذخیره شدند.
