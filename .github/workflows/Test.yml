@@ -42,6 +42,11 @@ jobs:
         run: |
           python Files/tester/Test.py
 
+      - name: Save Xray logs
+        if: always()
+        run: |
+          cat /tmp/xray.log || echo "No Xray logs found"
+
       - name: Setup git config
         run: |
           git config user.name "GitHub Actions Bot"
