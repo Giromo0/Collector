@@ -15,10 +15,9 @@ import websocket
 # مسیر پوشه پروتکل‌ها
 PROTOCOL_DIR = "Splitted-By-Protocol"
 
-# لیست فایل‌های پروتکل
+# لیست فایل‌های پروتکل (فقط پروتکل‌های موردنظر)
 PROTOCOL_FILES = [
-    "vmess.txt", "vless.txt", "trojan.txt", "ss.txt", "ssr.txt",
-    "hysteria2.txt", "hy2.txt", "tuic.txt", "warp.txt", "wireguard.txt"
+    "vmess.txt", "vless.txt", "trojan.txt", "ss.txt", "hy2.txt"
 ]
 
 # پوشه برای ذخیره نتایج
@@ -27,8 +26,8 @@ OUTPUT_DIR = "tested"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "config_test.txt")
 # حداکثر تعداد کانفیگ موفق برای هر پروتکل
 MAX_SUCCESSFUL_CONFIGS = 20
-# حداکثر تعداد کانفیگ برای تست
-MAX_CONFIGS_TO_TEST = 100
+# حداکثر تعداد کانفیگ برای تست (برای پروتکل‌های اولویت‌دار)
+MAX_CONFIGS_TO_TEST = 150  # افزایش برای پروتکل‌های موردنظر
 # Timeout برای تست اتصال
 TIMEOUT = float(os.getenv("TEST_TIMEOUT", 2))  # پیش‌فرض 2 ثانیه
 
@@ -46,9 +45,8 @@ if os.path.exists(OUTPUT_DIR):
 # تابع برای استخراج IP/دامنه و پورت از لینک پروتکل
 def extract_host_port(config):
     patterns = [
-        r"(vmess|vless|trojan|ss|ssr|hy2|hysteria2|tuic)://.+?@(.+?):(\d+)",  # فرمت استاندارد
-        r"(warp|wireguard)://(.+?):(\d+)",  # برای warp و wireguard
-        r"(vmess|vless|trojan|ss|ssr|hy2|hysteria2|tuic)://(.+?):(\d+)"  # بدون uuid
+        r"(vmess|vless|trojan|ss|hy2)://.+?@(.+?):(\d+)",  # فرمت استاندارد
+        r"(vmess|vless|trojan|ss|hy2)://(.+?):(\d+)"  # بدون uuid
     ]
     for pattern in patterns:
         match = re.match(pattern, config)
@@ -153,7 +151,7 @@ for protocol_file in PROTOCOL_FILES:
     with open(file_path, 'r', encoding='utf-8') as f:
         config_links = [line.strip() for line in f if line.strip() and not line.startswith('#')]
     
-    # انتخاب تصادفی حداکثر 100 کانفیگ برای تست
+    # انتخاب تصادفی حداکثر 150 کانفیگ برای تست
     if len(config_links) > MAX_CONFIGS_TO_TEST:
         config_links = random.sample(config_links, MAX_CONFIGS_TO_TEST)
     
