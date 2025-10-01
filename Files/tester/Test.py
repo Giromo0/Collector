@@ -7,7 +7,11 @@ import pytz
 import jdatetime
 from urllib.parse import urlparse, parse_qs
 import base64
-import yaml
+from concurrent.futures import ThreadPoolExecutor
+import logging
+
+# تنظیم لاگ‌گذاری
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # لینک سابسکریپشن
 SUBSCRIPTION_URL = "https://raw.githubusercontent.com/Giromo0/Collector/refs/heads/main/All_Configs_Sub.txt"
@@ -19,36 +23,41 @@ def fetch_configs():
         response.raise_for_status()
         return response.text.splitlines()
     except requests.RequestException as e:
-        print(f"خطا در دریافت کانفیگ‌ها: {e}")
+        logging.error(f"خطا در دریافت کانفیگ‌ها: {e}")
         return []
 
 def parse_config(config):
     """پارس کردن کانفیگ و تبدیل به فرمت JSON برای Xray"""
     try:
         if config.startswith("vmess://"):
-            # پارس vmess
-            vmess_data = base64.b64decode(config.replace("vmess://", "")).decode()
-            vmess_json = json.loads(vmess_data)
-            return {
-                "protocol": "vmess",
-                "config": {
-                    "v": "2",
-                    "ps": vmess_json.get("ps", "unnamed"),
-                    "add": vmess_json["add"],
-                    "port": int(vmess_json["port"]),
-                    "id": vmess_json["id"],
-                    "aid": int(vmess_json.get("aid", 0)),
-                    "net": vmess_json.get("net", "tcp"),
-                    "type": vmess_json.get("type", "none"),
-                    "host": vmess_json.get("host", ""),
-                    "path": vmess_json.get("path", ""),
-                    "tls": vmess_json.get("tls", "")
+            try:
+                vmess_data = base64.b64decode(config.replace("vmess://", "") + "===").decode()
+                vmess_json = json.loads(vmess_data)
+                return {
+                    "protocol": "vmess",
+                    "config": {
+                        "v": "2",
+                        "ps": vmess_json.get("ps", "unnamed"),
+                        "add": vmess_json.get("add", ""),
+                        "port": int(vmess_json.get("port", 0)) or 443,
+                        "id": vmess_json.get("id", ""),
+                        "aid": int(vmess_json.get("aid", 0)),
+                        "net": vmess_json.get("net", "tcp"),
+                        "type": vmess_json.get("type", "none"),
+                        "host": vmess_json.get("host", ""),
+                        "path": vmess_json.get("path", ""),
+                        "tls": vmess_json.get("tls", "")
+                    }
                 }
-            }
+            except (base64.binascii.Error, json.JSONDecodeError) as e:
+                logging.error(f"خطا در پارس vmess: {e}")
+                return None
         elif config.startswith("vless://"):
-            # پارس vless
             parsed = urlparse(config)
             params = parse_qs(parsed.query)
+            if not parsed.hostname or not parsed.username:
+                logging.error("کانفیگ vless ناقص است: hostname یا username وجود ندارد")
+                return None
             return {
                 "protocol": "vless",
                 "config": {
@@ -62,22 +71,27 @@ def parse_config(config):
                 }
             }
         elif config.startswith("ss://"):
-            # پارس ss
-            parsed = urlparse(config)
-            auth = base64.b64decode(parsed.netloc.split("@")[0]).decode().split(":")
-            return {
-                "protocol": "ss",
-                "config": {
-                    "method": auth[0],
-                    "password": auth[1],
-                    "add": parsed.hostname,
-                    "port": int(parsed.port),
-                    "ps": parsed.fragment or "unnamed"
+            try:
+                parsed = urlparse(config)
+                auth = base64.b64decode(parsed.netloc.split("@")[0] + "===").decode().split(":")
+                return {
+                    "protocol": "ss",
+                    "config": {
+                        "method": auth[0],
+                        "password": auth[1],
+                        "add": parsed.hostname,
+                        "port": int(parsed.port or 443),
+                        "ps": parsed.fragment or "unnamed"
+                    }
                 }
-            }
+            except (base64.binascii.Error, IndexError) as e:
+                logging.error(f"خطا در پارس ss: {e}")
+                return None
         elif config.startswith("trojan://"):
-            # پارس trojan
             parsed = urlparse(config)
+            if not parsed.hostname or not parsed.username:
+                logging.error("کانفیگ trojan ناقص است: hostname یا username وجود ندارد")
+                return None
             return {
                 "protocol": "trojan",
                 "config": {
@@ -89,7 +103,7 @@ def parse_config(config):
             }
         return None
     except Exception as e:
-        print(f"خطا در پارس کانفیگ: {e}")
+        logging.error(f"خطا در پارس کانفیگ: {e}")
         return None
 
 def create_xray_config(parsed_config):
@@ -117,46 +131,52 @@ def create_xray_config(parsed_config):
             ]
         }
     }
-    with open("temp_config.json", "w") as f:
+    config_file = f"temp_config_{os.getpid()}.json"
+    with open(config_file, "w") as f:
         json.dump(xray_config, f)
-    return "temp_config.json"
+    return config_file
 
-def test_config(config_file):
+def test_config(config):
     """تست اتصال کانفیگ با Xray"""
+    parsed_config = parse_config(config)
+    if not parsed_config:
+        return False, config
+
+    config_file = create_xray_config(parsed_config)
     try:
-        # اجرای Xray در پس‌زمینه
         process = subprocess.Popen(
             ["xray", "-c", config_file],
             stdout=subprocess.PIPE,
             stderr=subprocess.PIPE
         )
-        # تست اتصال با curl
         result = subprocess.run(
-            ["curl", "-x", "socks5://127.0.0.1:10808", "--connect-timeout", "5", "https://www.google.com"],
+            ["curl", "-x", "socks5://127.0.0.1:10808", "--connect-timeout", "3", "https://www.google.com"],
             capture_output=True,
-            text=True
+            text=True,
+            timeout=5
         )
-        process.terminate()  # متوقف کردن Xray
-        return result.returncode == 0
+        process.terminate()
+        os.remove(config_file)
+        return result.returncode == 0, config
     except Exception as e:
-        print(f"خطا در تست اتصال: {e}")
-        return False
+        logging.error(f"خطا در تست اتصال: {e}")
+        os.remove(config_file) if os.path.exists(config_file) else None
+        return False, config
 
 def extract_configs(lines):
     """استخراج و تست کانفیگ‌ها"""
     protocols = {"vless": [], "vmess": [], "ss": [], "trojan": []}
     pattern = r'^(vless://|vmess://|ss://|trojan://)[^\s#]+'
 
-    for line in lines:
-        match = re.match(pattern, line)
-        if match:
-            protocol = match.group(1).replace("://", "")
-            if protocol in protocols and len(protocols[protocol]) < 20:
-                parsed_config = parse_config(line)
-                if parsed_config:
-                    config_file = create_xray_config(parsed_config)
-                    if test_config(config_file):
-                        protocols[protocol].append(line.split("#")[0].strip())
+    valid_configs = []
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        configs = [line for line in lines if re.match(pattern, line)]
+        results = executor.map(test_config, configs)
+        for is_valid, config in results:
+            if is_valid:
+                protocol = config.split("://")[0]
+                if protocol in protocols and len(protocols[protocol]) < 20:
+                    protocols[protocol].append(config.split("#")[0].strip())
     
     return protocols
 
@@ -185,12 +205,12 @@ def save_configs(protocols):
 def main():
     config_lines = fetch_configs()
     if not config_lines:
-        print("هیچ کانفیگی دریافت نشد.")
+        logging.error("هیچ کانفیگی دریافت نشد.")
         return
 
     protocols = extract_configs(config_lines)
     save_configs(protocols)
-    print(f"کانفیگ‌های معتبر در tested/config_test.txt ذخیره شدند.")
+    logging.info(f"کانفیگ‌های معتبر در tested/config_test.txt ذخیره شدند.")
 
 if __name__ == "__main__":
     main()
