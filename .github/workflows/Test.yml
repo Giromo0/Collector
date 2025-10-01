@@ -36,7 +36,7 @@ jobs:
 
       - name: Execute Python script
         run: |
-          python Files/tester/config.py
+          python Files/tester/Test.py
 
       - name: Setup git config
         run: |
