@@ -51,13 +51,13 @@ def parse_config(config):
                     }
                 }
             except (base64.binascii.Error, json.JSONDecodeError) as e:
-                logging.error(f"خطا در پارس vmess: {e}")
+                logging.error(f"خطا در پارس vmess: {e} - کانفیگ: {config[:50]}...")
                 return None
         elif config.startswith("vless://"):
             parsed = urlparse(config)
             params = parse_qs(parsed.query)
             if not parsed.hostname or not parsed.username:
-                logging.error("کانفیگ vless ناقص است: hostname یا username وجود ندارد")
+                logging.error(f"کانفیگ vless ناقص است: hostname یا username وجود ندارد - کانفیگ: {config[:50]}...")
                 return None
             return {
                 "protocol": "vless",
@@ -86,12 +86,12 @@ def parse_config(config):
                     }
                 }
             except (base64.binascii.Error, IndexError) as e:
-                logging.error(f"خطا در پارس ss: {e}")
+                logging.error(f"خطا در پارس ss: {e} - کانفیگ: {config[:50]}...")
                 return None
         elif config.startswith("trojan://"):
             parsed = urlparse(config)
             if not parsed.hostname or not parsed.username:
-                logging.error("کانفیگ trojan ناقص است: hostname یا username وجود ندارد")
+                logging.error(f"کانفیگ trojan ناقص است: hostname یا username وجود ندارد - کانفیگ: {config[:50]}...")
                 return None
             return {
                 "protocol": "trojan",
@@ -104,7 +104,7 @@ def parse_config(config):
             }
         return None
     except Exception as e:
-        logging.error(f"خطا در پارس کانفیگ: {e}")
+        logging.error(f"خطا در پارس کانفیگ: {e} - کانفیگ: {config[:50]}...")
         return None
 
 def create_xray_config(parsed_config):
@@ -132,7 +132,6 @@ def create_xray_config(parsed_config):
             ]
         }
     }
-    # استفاده از UUID برای نام فایل یکتا
     config_file = f"temp_config_{uuid.uuid4().hex}.json"
     with open(config_file, "w") as f:
         json.dump(xray_config, f)
@@ -152,19 +151,25 @@ def test_config(config):
             stderr=subprocess.PIPE
         )
         result = subprocess.run(
-            ["curl", "-x", "socks5://127.0.0.1:10808", "--connect-timeout", "3", "https://www.google.com"],
+            ["curl", "-x", "socks5://127.0.0.1:10808", "--connect-timeout", "3", "http://1.1.1.1"],
             capture_output=True,
             text=True,
             timeout=5
         )
+        stdout, stderr = process.communicate()
         process.terminate()
         try:
             os.remove(config_file)
         except FileNotFoundError:
             logging.warning(f"فایل {config_file} قبلاً حذف شده یا وجود ندارد")
-        return result.returncode == 0, config
+        if result.returncode == 0:
+            logging.info(f"کانفیگ با موفقیت تست شد: {config[:50]}...")
+            return True, config
+        else:
+            logging.warning(f"تست کانفیگ شکست خورد: {result.stderr} - کانفیگ: {config[:50]}...")
+            return False, config
     except Exception as e:
-        logging.error(f"خطا در تست اتصال: {e}")
+        logging.error(f"خطا در تست اتصال: {e} - کانفیگ: {config[:50]}...")
         try:
             os.remove(config_file)
         except FileNotFoundError:
@@ -175,17 +180,30 @@ def extract_configs(lines):
     """استخراج و تست کانفیگ‌ها"""
     protocols = {"vless": [], "vmess": [], "ss": [], "trojan": []}
     pattern = r'^(vless://|vmess://|ss://|trojan://)[^\s#]+'
+    invalid_configs = []
 
     valid_configs = []
-    with ThreadPoolExecutor(max_workers=5) as executor:  # کاهش کارگرها برای پایداری
+    with ThreadPoolExecutor(max_workers=5) as executor:
         configs = [line for line in lines if re.match(pattern, line)]
-        results = executor.map(test_config, configs[:100])  # محدود کردن به ۱۰۰ کانفیگ برای سرعت
+        logging.info(f"تعداد کانفیگ‌های یافت‌شده: {len(configs)}")
+        results = executor.map(test_config, configs[:50])  # محدود به ۵۰ کانفیگ
         for is_valid, config in results:
             if is_valid:
                 protocol = config.split("://")[0]
                 if protocol in protocols and len(protocols[protocol]) < 20:
                     protocols[protocol].append(config.split("#")[0].strip())
+            else:
+                invalid_configs.append(config)
     
+    # ذخیره کانفیگ‌های نامعتبر
+    if invalid_configs:
+        output_dir = "tested"
+        os.makedirs(output_dir, exist_ok=True)
+        with open(os.path.join(output_dir, "invalid_configs.txt"), "w", encoding="utf-8") as f:
+            for config in invalid_configs:
+                f.write(f"{config}\n")
+        logging.info(f"کانفیگ‌های نامعتبر در tested/invalid_configs.txt ذخیره شدند.")
+
     return protocols
 
 def save_configs(protocols):
@@ -209,6 +227,7 @@ def save_configs(protocols):
                 )
                 file.write(f"{config}{config_string}\n")
                 i += 1
+    logging.info(f"کانفیگ‌های معتبر در {output_file} ذخیره شدند.")
 
 def main():
     config_lines = fetch_configs()
@@ -218,7 +237,6 @@ def main():
 
     protocols = extract_configs(config_lines)
     save_configs(protocols)
-    logging.info(f"کانفیگ‌های معتبر در tested/config_test.txt ذخیره شدند.")
 
 if __name__ == "__main__":
     main()
