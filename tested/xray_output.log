@@ -7581,3 +7581,875 @@ A unified platform for anti-censorship.
 Failed to start: main: failed to load config files: [temp_config_30b58add7d904a9b85cf6ae1a359c7f6.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
 2025/10/01 11:46:43.154197 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
 Failed to start: main: failed to load config files: [temp_config_dcc15d6f0b2f4d6da98eeffa2b374c55.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol trojan > infra/conf: 0 Trojan server configured.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:09.629461 [Info] infra/conf/serial: Reading config: &{Name:temp_config_031a7d0df4a14478b843d18e491bba09.json Format:json}
+2025/10/01 12:16:09.630271 [Info] infra/conf/serial: Reading config: &{Name:temp_config_271c6cab76584b929625a15964c0066f.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:09.647939 [Info] infra/conf/serial: Reading config: &{Name:temp_config_2f2f91122ecd498c9c5737408438b10f.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:09.653059 [Info] infra/conf/serial: Reading config: &{Name:temp_config_76bf0ec1e609472dadd22e4b10c52178.json Format:json}
+2025/10/01 12:16:09.653215 [Info] infra/conf/serial: Reading config: &{Name:temp_config_6b3f67cce75947cb831403d7d221b84a.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_271c6cab76584b929625a15964c0066f.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:09.787203 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_031a7d0df4a14478b843d18e491bba09.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:09.790194 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_2f2f91122ecd498c9c5737408438b10f.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_6b3f67cce75947cb831403d7d221b84a.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:09.805977 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_76bf0ec1e609472dadd22e4b10c52178.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:10.739961 [Info] infra/conf/serial: Reading config: &{Name:temp_config_4ecb72810f404b83b29b3c2ca0508fa8.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:10.745073 [Info] infra/conf/serial: Reading config: &{Name:temp_config_12703c04fe0e45598d1b2146c7f2ffb6.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:10.746252 [Info] infra/conf/serial: Reading config: &{Name:temp_config_efd62a7023a8430cadb2a68451042b7d.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:10.755342 [Info] infra/conf/serial: Reading config: &{Name:temp_config_bcc90bb166644349ae5f04eab33348a9.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:10.764142 [Info] infra/conf/serial: Reading config: &{Name:temp_config_2cb2750ff42a449ba13fb38ba968a219.json Format:json}
+2025/10/01 12:16:10.864558 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_4ecb72810f404b83b29b3c2ca0508fa8.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:10.876004 [Warning] common/errors: This feature gRPC transport (with unnecessary costs, etc.) is deprecated and being migrated to XHTTP stream-up H2. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_efd62a7023a8430cadb2a68451042b7d.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:10.880128 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_bcc90bb166644349ae5f04eab33348a9.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_12703c04fe0e45598d1b2146c7f2ffb6.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_2cb2750ff42a449ba13fb38ba968a219.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:11.790938 [Info] infra/conf/serial: Reading config: &{Name:temp_config_e5060767371248bf9daae4db1951e08f.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:11.797979 [Info] infra/conf/serial: Reading config: &{Name:temp_config_5adefa41cd20486bb6726971f18587a9.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:11.804160 [Info] infra/conf/serial: Reading config: &{Name:temp_config_e4992a1514b3456e8044e7a903f1bfcc.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:11.819419 [Info] infra/conf/serial: Reading config: &{Name:temp_config_3682006688e24ac3ad9849c34ed30d15.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:11.834185 [Info] infra/conf/serial: Reading config: &{Name:temp_config_186b7bde575d4f8eaa207dbf25fe538c.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_e4992a1514b3456e8044e7a903f1bfcc.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+2025/10/01 12:16:11.915504 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_e5060767371248bf9daae4db1951e08f.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_5adefa41cd20486bb6726971f18587a9.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_3682006688e24ac3ad9849c34ed30d15.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_186b7bde575d4f8eaa207dbf25fe538c.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:12.816693 [Info] infra/conf/serial: Reading config: &{Name:temp_config_172120b1bfc3496aad53add5fd1a0e4d.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:12.836384 [Info] infra/conf/serial: Reading config: &{Name:temp_config_e319559452b54f14819bd86e7d8af964.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:12.864845 [Info] infra/conf/serial: Reading config: &{Name:temp_config_2cd93874e9184172857c9d630862f7d7.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:12.868444 [Info] infra/conf/serial: Reading config: &{Name:temp_config_5b017b2643d3433f96d620624c67f9d4.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:12.892336 [Info] infra/conf/serial: Reading config: &{Name:temp_config_1f4e73955b724d7d9094b0e4e1124f04.json Format:json}
+2025/10/01 12:16:12.921522 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_172120b1bfc3496aad53add5fd1a0e4d.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:12.957105 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_e319559452b54f14819bd86e7d8af964.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:12.980342 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_5b017b2643d3433f96d620624c67f9d4.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:12.992822 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_2cd93874e9184172857c9d630862f7d7.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_1f4e73955b724d7d9094b0e4e1124f04.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:13.842223 [Info] infra/conf/serial: Reading config: &{Name:temp_config_4a608e64779e4d2c9d2f5addce25547e.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:13.859514 [Info] infra/conf/serial: Reading config: &{Name:temp_config_3503f3099fab44839a9e5bfcc7a297aa.json Format:json}
+2025/10/01 12:16:13.924724 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_4a608e64779e4d2c9d2f5addce25547e.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:13.934269 [Info] infra/conf/serial: Reading config: &{Name:temp_config_1c4990d9b1764af4a146d8a93a897c24.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:13.945754 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_3503f3099fab44839a9e5bfcc7a297aa.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:13.947070 [Info] infra/conf/serial: Reading config: &{Name:temp_config_4655a416730045629d566e7bcb1cb9c5.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:13.952642 [Info] infra/conf/serial: Reading config: &{Name:temp_config_a51686763a0d43d9ad583c290a921771.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_4655a416730045629d566e7bcb1cb9c5.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_a51686763a0d43d9ad583c290a921771.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_1c4990d9b1764af4a146d8a93a897c24.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:14.867411 [Info] infra/conf/serial: Reading config: &{Name:temp_config_5f424fb6af5a4f30ad8c49e8dbd672b4.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:14.886810 [Info] infra/conf/serial: Reading config: &{Name:temp_config_bc0d678ad5064a60b3fb4e13a92292c2.json Format:json}
+2025/10/01 12:16:14.932907 [Warning] common/errors: This feature gRPC transport (with unnecessary costs, etc.) is deprecated and being migrated to XHTTP stream-up H2. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_5f424fb6af5a4f30ad8c49e8dbd672b4.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:14.970763 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_bc0d678ad5064a60b3fb4e13a92292c2.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:14.975252 [Info] infra/conf/serial: Reading config: &{Name:temp_config_d9cd6475c28743f1a8bab3e56202a605.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:14.984651 [Info] infra/conf/serial: Reading config: &{Name:temp_config_bc438d2b3a544cd5a388c315ddefe49a.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:14.988930 [Info] infra/conf/serial: Reading config: &{Name:temp_config_6f18544126a44221ac521768ca42d253.json Format:json}
+2025/10/01 12:16:15.061472 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_d9cd6475c28743f1a8bab3e56202a605.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:15.068727 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_6f18544126a44221ac521768ca42d253.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_bc438d2b3a544cd5a388c315ddefe49a.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:15.893666 [Info] infra/conf/serial: Reading config: &{Name:temp_config_047570f7a9ea410bb60f6c7f2b3a7b7d.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:15.914145 [Info] infra/conf/serial: Reading config: &{Name:temp_config_85a379a7f7f3439da581264bf614cc59.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_047570f7a9ea410bb60f6c7f2b3a7b7d.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:15.972726 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_85a379a7f7f3439da581264bf614cc59.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:16.007366 [Info] infra/conf/serial: Reading config: &{Name:temp_config_9a2365789c5d48849d9c38cc7f9f71a8.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:16.014071 [Info] infra/conf/serial: Reading config: &{Name:temp_config_587cef9cab234d348af84cb08e1ba423.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:16.020962 [Info] infra/conf/serial: Reading config: &{Name:temp_config_87026b8d6f044600ad9ef8023bfc57ab.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_587cef9cab234d348af84cb08e1ba423.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:16.098437 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_87026b8d6f044600ad9ef8023bfc57ab.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:16.101280 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_9a2365789c5d48849d9c38cc7f9f71a8.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:16.918604 [Info] infra/conf/serial: Reading config: &{Name:temp_config_7e816f66f5264fe1b683675fbd8a897d.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:16.942604 [Info] infra/conf/serial: Reading config: &{Name:temp_config_00b3d30056c6486cb803916efffc7b85.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_7e816f66f5264fe1b683675fbd8a897d.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:17.004187 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_00b3d30056c6486cb803916efffc7b85.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:17.035450 [Info] infra/conf/serial: Reading config: &{Name:temp_config_993b04cdc1a14960bdd72b8750a71b00.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:17.043852 [Info] infra/conf/serial: Reading config: &{Name:temp_config_8c8c826884444587beda3ffb332406ec.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:17.056210 [Info] infra/conf/serial: Reading config: &{Name:temp_config_9352795a682140bbba62aa589e0007f3.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_8c8c826884444587beda3ffb332406ec.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_993b04cdc1a14960bdd72b8750a71b00.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:17.119756 [Warning] common/errors: This feature gRPC transport (with unnecessary costs, etc.) is deprecated and being migrated to XHTTP stream-up H2. Please update your config(s) according to release note and documentation before removal.
+2025/10/01 12:16:17.128399 [Warning] common/errors: This feature gRPC transport (with unnecessary costs, etc.) is deprecated and being migrated to XHTTP stream-up H2. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_9352795a682140bbba62aa589e0007f3.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:17.944611 [Info] infra/conf/serial: Reading config: &{Name:temp_config_8da9846d3d50455c9c523e38134c6313.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:17.970171 [Info] infra/conf/serial: Reading config: &{Name:temp_config_81af043e7b774f31a997672fe5e62926.json Format:json}
+2025/10/01 12:16:18.009154 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_8da9846d3d50455c9c523e38134c6313.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_81af043e7b774f31a997672fe5e62926.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:18.065424 [Info] infra/conf/serial: Reading config: &{Name:temp_config_e5e057878c994d2ca954900489199297.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:18.070136 [Info] infra/conf/serial: Reading config: &{Name:temp_config_ff75b05332e64016870692f9d1e9faa9.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:18.088206 [Info] infra/conf/serial: Reading config: &{Name:temp_config_947bc5653c0749b4a0760d189beda32a.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_e5e057878c994d2ca954900489199297.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_ff75b05332e64016870692f9d1e9faa9.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_947bc5653c0749b4a0760d189beda32a.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:18.969391 [Info] infra/conf/serial: Reading config: &{Name:temp_config_b6faaebd44a94879bd5ecae0f20fdd74.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:18.998044 [Info] infra/conf/serial: Reading config: &{Name:temp_config_c8bacd710db94035bb95df5436e708fa.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_b6faaebd44a94879bd5ecae0f20fdd74.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_c8bacd710db94035bb95df5436e708fa.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vmess > infra/conf: 0 VMess receiver configured
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:19.090603 [Info] infra/conf/serial: Reading config: &{Name:temp_config_48eed3542620478b9ed08101024a0ddc.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:19.097100 [Info] infra/conf/serial: Reading config: &{Name:temp_config_735eb5b301074543acfa629ddfee628a.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:19.124351 [Info] infra/conf/serial: Reading config: &{Name:temp_config_2d1b94debac9408db37d690969f84802.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_48eed3542620478b9ed08101024a0ddc.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol trojan > infra/conf: 0 Trojan server configured.
+Failed to start: main: failed to load config files: [temp_config_735eb5b301074543acfa629ddfee628a.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_2d1b94debac9408db37d690969f84802.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:19.994012 [Info] infra/conf/serial: Reading config: &{Name:temp_config_27bc0dc50ff94a26aeaf85ba0546db27.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:20.026150 [Info] infra/conf/serial: Reading config: &{Name:temp_config_eda3995938684e5a978d7d27af5f8d25.json Format:json}
+2025/10/01 12:16:20.052115 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_27bc0dc50ff94a26aeaf85ba0546db27.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_eda3995938684e5a978d7d27af5f8d25.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:20.081179 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:20.116783 [Info] infra/conf/serial: Reading config: &{Name:temp_config_fe7de7ac13e04a0882fcdb9de01fabba.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:20.121851 [Info] infra/conf/serial: Reading config: &{Name:temp_config_8fbbe94d815f49ef95c2c78cada99c18.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:20.157967 [Info] infra/conf/serial: Reading config: &{Name:temp_config_0f31100de38348a0821a40c9852097e7.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_fe7de7ac13e04a0882fcdb9de01fabba.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_8fbbe94d815f49ef95c2c78cada99c18.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Failed to start: main: failed to load config files: [temp_config_0f31100de38348a0821a40c9852097e7.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:21.017729 [Info] infra/conf/serial: Reading config: &{Name:temp_config_01f25409a26e42d389e5b711373cbee1.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:21.052557 [Info] infra/conf/serial: Reading config: &{Name:temp_config_9943df9e527e434e98a622adeb69a68b.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_01f25409a26e42d389e5b711373cbee1.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_9943df9e527e434e98a622adeb69a68b.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:21.144145 [Info] infra/conf/serial: Reading config: &{Name:temp_config_4566b5091e2e443983a3a8729a216696.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:21.148064 [Info] infra/conf/serial: Reading config: &{Name:temp_config_75cbf95a00ab429b8c890be0d42a842a.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:21.184715 [Info] infra/conf/serial: Reading config: &{Name:temp_config_8c22b044ad904118a92492be184e55df.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_4566b5091e2e443983a3a8729a216696.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:21.234802 [Warning] common/errors: This feature HTTPUpgrade transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_75cbf95a00ab429b8c890be0d42a842a.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_8c22b044ad904118a92492be184e55df.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:22.042464 [Info] infra/conf/serial: Reading config: &{Name:temp_config_2782264fa7804e16a6f0f1d9911197e2.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:22.079235 [Info] infra/conf/serial: Reading config: &{Name:temp_config_03148d0158354b2a9dd270894dc9c843.json Format:json}
+2025/10/01 12:16:22.097950 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_2782264fa7804e16a6f0f1d9911197e2.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:22.136118 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_03148d0158354b2a9dd270894dc9c843.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:22.169620 [Info] infra/conf/serial: Reading config: &{Name:temp_config_0424bf212ef44f8787585ad401d7c464.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:22.172973 [Info] infra/conf/serial: Reading config: &{Name:temp_config_e924e83c478045bbba391caaad15e538.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:22.222116 [Info] infra/conf/serial: Reading config: &{Name:temp_config_820457883cd444c585e8a524f2ba2183.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_0424bf212ef44f8787585ad401d7c464.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:22.249657 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_e924e83c478045bbba391caaad15e538.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_820457883cd444c585e8a524f2ba2183.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:23.066992 [Info] infra/conf/serial: Reading config: &{Name:temp_config_09b665eb6a62417b8f753aada635e610.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:23.109640 [Info] infra/conf/serial: Reading config: &{Name:temp_config_3e423c8f5eef44dcbd0293fe59cce341.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_09b665eb6a62417b8f753aada635e610.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_3e423c8f5eef44dcbd0293fe59cce341.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:23.164083 [Warning] common/errors: This feature gRPC transport (with unnecessary costs, etc.) is deprecated and being migrated to XHTTP stream-up H2. Please update your config(s) according to release note and documentation before removal.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:23.194705 [Info] infra/conf/serial: Reading config: &{Name:temp_config_a079dbc5ba3942008afb789ca57f243b.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:23.198729 [Info] infra/conf/serial: Reading config: &{Name:temp_config_1878800de3a6457b96183c987fb0357c.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:23.263700 [Info] infra/conf/serial: Reading config: &{Name:temp_config_96c9276a3da149e9bfb66721e6a0295a.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_1878800de3a6457b96183c987fb0357c.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_a079dbc5ba3942008afb789ca57f243b.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_96c9276a3da149e9bfb66721e6a0295a.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:24.091762 [Info] infra/conf/serial: Reading config: &{Name:temp_config_170fc13dcbcf478682251a5a2985751d.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:24.140587 [Info] infra/conf/serial: Reading config: &{Name:temp_config_789639d04dc242d298982b4e1d14cca1.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_170fc13dcbcf478682251a5a2985751d.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:24.146222 [Warning] common/errors: This feature gRPC transport (with unnecessary costs, etc.) is deprecated and being migrated to XHTTP stream-up H2. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_789639d04dc242d298982b4e1d14cca1.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:24.222737 [Info] infra/conf/serial: Reading config: &{Name:temp_config_7d91a694eade431992d41c23ba60fe55.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:24.227966 [Info] infra/conf/serial: Reading config: &{Name:temp_config_808999a090bd4811b49bf6600bb22e7b.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_7d91a694eade431992d41c23ba60fe55.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+2025/10/01 12:16:24.295739 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_808999a090bd4811b49bf6600bb22e7b.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:24.303966 [Info] infra/conf/serial: Reading config: &{Name:temp_config_62bdba079866464494c7cc0f5a4d8d3a.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_62bdba079866464494c7cc0f5a4d8d3a.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:25.115985 [Info] infra/conf/serial: Reading config: &{Name:temp_config_b70b0c39154e4eccab45e40343be47f8.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:25.170351 [Info] infra/conf/serial: Reading config: &{Name:temp_config_ad3e62fbf2f24f98886182daa7c786a7.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_b70b0c39154e4eccab45e40343be47f8.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+2025/10/01 12:16:25.223751 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_ad3e62fbf2f24f98886182daa7c786a7.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:25.249053 [Info] infra/conf/serial: Reading config: &{Name:temp_config_8a5d2cf21fde4228906dd494a89fa24b.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:25.254457 [Info] infra/conf/serial: Reading config: &{Name:temp_config_72c09f9cc2384de4bd0ba47e9315edc7.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_72c09f9cc2384de4bd0ba47e9315edc7.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:25.332259 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_8a5d2cf21fde4228906dd494a89fa24b.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:25.342928 [Info] infra/conf/serial: Reading config: &{Name:temp_config_13c0e3ca631d4d2fae8063679ccd6ca2.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_13c0e3ca631d4d2fae8063679ccd6ca2.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:26.140480 [Info] infra/conf/serial: Reading config: &{Name:temp_config_def7c49f6dd3447ca7be6f114404ebf5.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_def7c49f6dd3447ca7be6f114404ebf5.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:26.200613 [Info] infra/conf/serial: Reading config: &{Name:temp_config_6be29361c439406eb6cbe7bc8d1725db.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_6be29361c439406eb6cbe7bc8d1725db.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:26.276704 [Info] infra/conf/serial: Reading config: &{Name:temp_config_d37b5230963a4b8eb75be2b98775a716.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:26.281965 [Info] infra/conf/serial: Reading config: &{Name:temp_config_fe2e8bcf3a3148c29b9406ce1a36e538.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_fe2e8bcf3a3148c29b9406ce1a36e538.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Failed to start: main: failed to load config files: [temp_config_d37b5230963a4b8eb75be2b98775a716.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:26.371128 [Info] infra/conf/serial: Reading config: &{Name:temp_config_9644b976d9cf4b2b9cc8d080241ac361.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_9644b976d9cf4b2b9cc8d080241ac361.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:27.164727 [Info] infra/conf/serial: Reading config: &{Name:temp_config_0e4cd4ee9faa4fa8971ff6efd1046e2a.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_0e4cd4ee9faa4fa8971ff6efd1046e2a.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:27.227433 [Info] infra/conf/serial: Reading config: &{Name:temp_config_2b7eb24f9d844d7e813d9b7157bde705.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_2b7eb24f9d844d7e813d9b7157bde705.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:27.304010 [Info] infra/conf/serial: Reading config: &{Name:temp_config_636793b747f14ae9a385aeb8869ddf3a.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:27.309839 [Info] infra/conf/serial: Reading config: &{Name:temp_config_bd9a4f02cf644f4bb4226a29c3eb6050.json Format:json}
+2025/10/01 12:16:27.362985 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_636793b747f14ae9a385aeb8869ddf3a.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_bd9a4f02cf644f4bb4226a29c3eb6050.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:27.395449 [Info] infra/conf/serial: Reading config: &{Name:temp_config_3c3f4159ed604394818a465635333449.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_3c3f4159ed604394818a465635333449.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:28.189283 [Info] infra/conf/serial: Reading config: &{Name:temp_config_17177af9ca444715a5b6fb5d3ee58bcd.json Format:json}
+2025/10/01 12:16:28.247933 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_17177af9ca444715a5b6fb5d3ee58bcd.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:28.257254 [Info] infra/conf/serial: Reading config: &{Name:temp_config_c828ea158516445ea6deb812f3c20d9a.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_c828ea158516445ea6deb812f3c20d9a.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:28.330675 [Info] infra/conf/serial: Reading config: &{Name:temp_config_5baf8e645cfa419fa843cf77bd8e3455.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:28.336434 [Info] infra/conf/serial: Reading config: &{Name:temp_config_08d81c41098f4ebea578ef156f0b1599.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_5baf8e645cfa419fa843cf77bd8e3455.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Failed to start: main: failed to load config files: [temp_config_08d81c41098f4ebea578ef156f0b1599.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:28.424662 [Info] infra/conf/serial: Reading config: &{Name:temp_config_9e30f700175746a5bf561feb733de90f.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_9e30f700175746a5bf561feb733de90f.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:29.214422 [Info] infra/conf/serial: Reading config: &{Name:temp_config_b87207139bb342f58c47308e6718ff3f.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_b87207139bb342f58c47308e6718ff3f.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:29.283155 [Info] infra/conf/serial: Reading config: &{Name:temp_config_2bbda4f3af4548459923bf3358521bdc.json Format:json}
+2025/10/01 12:16:29.333914 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_2bbda4f3af4548459923bf3358521bdc.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:29.357506 [Info] infra/conf/serial: Reading config: &{Name:temp_config_78e3249fba5541808519aef4d445d219.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:29.362537 [Info] infra/conf/serial: Reading config: &{Name:temp_config_dcc412b5f5904cde8c9390fa074298a6.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_78e3249fba5541808519aef4d445d219.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_dcc412b5f5904cde8c9390fa074298a6.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:29.448830 [Info] infra/conf/serial: Reading config: &{Name:temp_config_e5100a75a10047b2b697e75926a87f11.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_e5100a75a10047b2b697e75926a87f11.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:30.238117 [Info] infra/conf/serial: Reading config: &{Name:temp_config_6f80d27079294343be29aaa0d4a119d4.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_6f80d27079294343be29aaa0d4a119d4.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:30.308001 [Info] infra/conf/serial: Reading config: &{Name:temp_config_74a06e5bdc62481982f39a382a691c43.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_74a06e5bdc62481982f39a382a691c43.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:30.383648 [Info] infra/conf/serial: Reading config: &{Name:temp_config_5e3c2f4d0ad94cc49e77b8def72b7ff0.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:30.387575 [Info] infra/conf/serial: Reading config: &{Name:temp_config_e2a4edee9b9e4376a49a5b530a5e3008.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_e2a4edee9b9e4376a49a5b530a5e3008.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Failed to start: main: failed to load config files: [temp_config_5e3c2f4d0ad94cc49e77b8def72b7ff0.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:30.473854 [Info] infra/conf/serial: Reading config: &{Name:temp_config_78706d44687e4d1a8ead9d5aac4746ec.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_78706d44687e4d1a8ead9d5aac4746ec.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:31.262341 [Info] infra/conf/serial: Reading config: &{Name:temp_config_f6e00de5b2304d4081c13c66d5fb38bd.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_f6e00de5b2304d4081c13c66d5fb38bd.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:31.332823 [Info] infra/conf/serial: Reading config: &{Name:temp_config_3678a8d689054cc8a24a6ac9cb04b8a9.json Format:json}
+2025/10/01 12:16:31.384810 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_3678a8d689054cc8a24a6ac9cb04b8a9.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:31.410698 [Info] infra/conf/serial: Reading config: &{Name:temp_config_05c6ff4eaa24463185a01c11315b13ed.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:31.414490 [Info] infra/conf/serial: Reading config: &{Name:temp_config_db0324c926cd426b8c75add7dcb2c348.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_db0324c926cd426b8c75add7dcb2c348.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Failed to start: main: failed to load config files: [temp_config_05c6ff4eaa24463185a01c11315b13ed.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:31.501095 [Info] infra/conf/serial: Reading config: &{Name:temp_config_31596d51f624449cb52070258ff51638.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_31596d51f624449cb52070258ff51638.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:32.287095 [Info] infra/conf/serial: Reading config: &{Name:temp_config_2a5dabacef1843d6bc0330ba18c67af0.json Format:json}
+2025/10/01 12:16:32.340351 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_2a5dabacef1843d6bc0330ba18c67af0.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:32.358676 [Info] infra/conf/serial: Reading config: &{Name:temp_config_66b4f273a96b40ab92d4fff27c97e25b.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_66b4f273a96b40ab92d4fff27c97e25b.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:32.435824 [Info] infra/conf/serial: Reading config: &{Name:temp_config_8a02b1ad87f84125abf6476abf75ec5e.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:32.439942 [Info] infra/conf/serial: Reading config: &{Name:temp_config_9fe76a8cba8f45d59e28b9a4301f81bd.json Format:json}
+2025/10/01 12:16:32.492941 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_8a02b1ad87f84125abf6476abf75ec5e.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_9fe76a8cba8f45d59e28b9a4301f81bd.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:32.525300 [Info] infra/conf/serial: Reading config: &{Name:temp_config_e423a7ce10054e2e8b8949a66ec60c43.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_e423a7ce10054e2e8b8949a66ec60c43.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:33.311670 [Info] infra/conf/serial: Reading config: &{Name:temp_config_b7c00ab2f6004041a45d021fc29b0ada.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_b7c00ab2f6004041a45d021fc29b0ada.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol trojan > infra/conf: 0 Trojan server configured.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:33.383624 [Info] infra/conf/serial: Reading config: &{Name:temp_config_6d0d67501147420083f0544130b6df39.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_6d0d67501147420083f0544130b6df39.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:33.461926 [Info] infra/conf/serial: Reading config: &{Name:temp_config_ee71a8705b63497b94e87192e222d10b.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:33.466291 [Info] infra/conf/serial: Reading config: &{Name:temp_config_e3a6de369cb74694885df64a415e3621.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_ee71a8705b63497b94e87192e222d10b.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+2025/10/01 12:16:33.529255 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_e3a6de369cb74694885df64a415e3621.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:33.551487 [Info] infra/conf/serial: Reading config: &{Name:temp_config_7c8bea0f9acc47d6973ccfe35a70264f.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_7c8bea0f9acc47d6973ccfe35a70264f.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:34.336274 [Info] infra/conf/serial: Reading config: &{Name:temp_config_7795d780268a4d4190af7048b43b7c18.json Format:json}
+2025/10/01 12:16:34.388066 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_7795d780268a4d4190af7048b43b7c18.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:34.408456 [Info] infra/conf/serial: Reading config: &{Name:temp_config_c8156306efdc45caa06c3064063a985d.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_c8156306efdc45caa06c3064063a985d.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:34.489715 [Info] infra/conf/serial: Reading config: &{Name:temp_config_01fa665bc5874a889c3dbf95837f209d.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:34.495623 [Info] infra/conf/serial: Reading config: &{Name:temp_config_6d906f9f77354e028e7c9d196c36d3d5.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_01fa665bc5874a889c3dbf95837f209d.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_6d906f9f77354e028e7c9d196c36d3d5.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol trojan > infra/conf: 0 Trojan server configured.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:34.577736 [Info] infra/conf/serial: Reading config: &{Name:temp_config_73b3c3823c134e8aa744a64e120139cd.json Format:json}
+2025/10/01 12:16:34.638923 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_73b3c3823c134e8aa744a64e120139cd.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:35.360569 [Info] infra/conf/serial: Reading config: &{Name:temp_config_94aa0879200b4731853ddfca8bc29f83.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_94aa0879200b4731853ddfca8bc29f83.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol trojan > infra/conf: 0 Trojan server configured.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:35.432490 [Info] infra/conf/serial: Reading config: &{Name:temp_config_9c07e91624d249e98b96c8d8dfbf99ec.json Format:json}
+2025/10/01 12:16:35.481400 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_9c07e91624d249e98b96c8d8dfbf99ec.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:35.515452 [Info] infra/conf/serial: Reading config: &{Name:temp_config_4a87f0c03a6a4c1dba3943e18c4456a3.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:35.521466 [Info] infra/conf/serial: Reading config: &{Name:temp_config_b9d21f44f4b8401c98182b7c546e0cec.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_b9d21f44f4b8401c98182b7c546e0cec.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol trojan > infra/conf: 0 Trojan server configured.
+Failed to start: main: failed to load config files: [temp_config_4a87f0c03a6a4c1dba3943e18c4456a3.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:35.609695 [Info] infra/conf/serial: Reading config: &{Name:temp_config_5753df8add6d4070ac813eb21d9983d7.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_5753df8add6d4070ac813eb21d9983d7.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol trojan > infra/conf: 0 Trojan server configured.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:36.385619 [Info] infra/conf/serial: Reading config: &{Name:temp_config_4cdaff833e7447609c66b217fe4209fa.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_4cdaff833e7447609c66b217fe4209fa.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:36.459623 [Info] infra/conf/serial: Reading config: &{Name:temp_config_2883292d524c4d8db181f85fb14a808f.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_2883292d524c4d8db181f85fb14a808f.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:36.542653 [Info] infra/conf/serial: Reading config: &{Name:temp_config_1a5e86950cf5418289564169b1118c67.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:36.547061 [Info] infra/conf/serial: Reading config: &{Name:temp_config_c7f852fcf0a04a6e8cf3728e3b181725.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_1a5e86950cf5418289564169b1118c67.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_c7f852fcf0a04a6e8cf3728e3b181725.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:36.634170 [Info] infra/conf/serial: Reading config: &{Name:temp_config_c750837d302d46519b473925d5fab823.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_c750837d302d46519b473925d5fab823.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:37.409975 [Info] infra/conf/serial: Reading config: &{Name:temp_config_1e4f603c81504a40a6ba4ef790ce3447.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_1e4f603c81504a40a6ba4ef790ce3447.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:37.485235 [Info] infra/conf/serial: Reading config: &{Name:temp_config_d4386bf9e793493d98a15af01160de56.json Format:json}
+2025/10/01 12:16:37.537266 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_d4386bf9e793493d98a15af01160de56.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:37.568134 [Info] infra/conf/serial: Reading config: &{Name:temp_config_fa13747edfe741f2bfb6fb22e2a5786f.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:37.579295 [Info] infra/conf/serial: Reading config: &{Name:temp_config_2fcf0ecfc0ef44de9788b8c59cef1af4.json Format:json}
+2025/10/01 12:16:37.637449 [Warning] common/errors: This feature gRPC transport (with unnecessary costs, etc.) is deprecated and being migrated to XHTTP stream-up H2. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_fa13747edfe741f2bfb6fb22e2a5786f.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:37.643965 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_2fcf0ecfc0ef44de9788b8c59cef1af4.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:37.660201 [Info] infra/conf/serial: Reading config: &{Name:temp_config_cd2e2a3891b74352b6a38e29fff10840.json Format:json}
+2025/10/01 12:16:37.712228 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_cd2e2a3891b74352b6a38e29fff10840.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:38.434525 [Info] infra/conf/serial: Reading config: &{Name:temp_config_89487371968a405eb5cccb96031fa2db.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_89487371968a405eb5cccb96031fa2db.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:38.486947 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:38.509683 [Info] infra/conf/serial: Reading config: &{Name:temp_config_53cada1258e14f7d844395652948ee78.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_53cada1258e14f7d844395652948ee78.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:38.594694 [Info] infra/conf/serial: Reading config: &{Name:temp_config_e8c383848e0e45f29ebf5bde66da0163.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:38.605505 [Info] infra/conf/serial: Reading config: &{Name:temp_config_4ccd73557c804e59a868f01794a99b95.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_e8c383848e0e45f29ebf5bde66da0163.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_4ccd73557c804e59a868f01794a99b95.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol trojan > infra/conf: 0 Trojan server configured.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:38.684334 [Info] infra/conf/serial: Reading config: &{Name:temp_config_9214baf333974b0fa5dac5e9f64717a4.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_9214baf333974b0fa5dac5e9f64717a4.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:39.459157 [Info] infra/conf/serial: Reading config: &{Name:temp_config_8658e79c8893482982855da0ecd89ef6.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_8658e79c8893482982855da0ecd89ef6.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:39.534477 [Info] infra/conf/serial: Reading config: &{Name:temp_config_acf3a4b77ef947e2afd24c0228b42eb1.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_acf3a4b77ef947e2afd24c0228b42eb1.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:39.622530 [Info] infra/conf/serial: Reading config: &{Name:temp_config_7e0977f66ebb4863825a903910cfe806.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:39.633533 [Info] infra/conf/serial: Reading config: &{Name:temp_config_3241e417eec7482f884f2c117db9f9c3.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_7e0977f66ebb4863825a903910cfe806.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:39.712511 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_3241e417eec7482f884f2c117db9f9c3.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:39.716033 [Info] infra/conf/serial: Reading config: &{Name:temp_config_f9d5853f42bb485d9d847ca743167f5e.json Format:json}
+2025/10/01 12:16:39.768592 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_f9d5853f42bb485d9d847ca743167f5e.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:40.483288 [Info] infra/conf/serial: Reading config: &{Name:temp_config_1e660010d9ae48ab8bb9e2796e9bd3dd.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_1e660010d9ae48ab8bb9e2796e9bd3dd.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol trojan > infra/conf: 0 Trojan server configured.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:40.559902 [Info] infra/conf/serial: Reading config: &{Name:temp_config_eb816d464fcf4e029007fa2b666baa11.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_eb816d464fcf4e029007fa2b666baa11.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:40.649169 [Info] infra/conf/serial: Reading config: &{Name:temp_config_e5c9e99b42954b6087a832efb6ab5118.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:40.660749 [Info] infra/conf/serial: Reading config: &{Name:temp_config_390ed05b3b0c47d59e6126f378d1ca08.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_e5c9e99b42954b6087a832efb6ab5118.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+2025/10/01 12:16:40.727395 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_390ed05b3b0c47d59e6126f378d1ca08.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:40.741568 [Info] infra/conf/serial: Reading config: &{Name:temp_config_61f3587a27574793a621221cd64e58e3.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_61f3587a27574793a621221cd64e58e3.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol trojan > infra/conf: 0 Trojan server configured.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:41.508014 [Info] infra/conf/serial: Reading config: &{Name:temp_config_cf37cf76cb06462ebf0b0d1c98bb6e53.json Format:json}
+2025/10/01 12:16:41.559914 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_cf37cf76cb06462ebf0b0d1c98bb6e53.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:41.584705 [Info] infra/conf/serial: Reading config: &{Name:temp_config_20d39846e531465a89d49068df11ef9a.json Format:json}
+2025/10/01 12:16:41.651270 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_20d39846e531465a89d49068df11ef9a.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:41.680852 [Info] infra/conf/serial: Reading config: &{Name:temp_config_ca57c012e36b4a4cbde244fb14decdc0.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:41.693075 [Info] infra/conf/serial: Reading config: &{Name:temp_config_2e4ae0df9e094f2e947e5a9e107ef45d.json Format:json}
+2025/10/01 12:16:41.750207 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_ca57c012e36b4a4cbde244fb14decdc0.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_2e4ae0df9e094f2e947e5a9e107ef45d.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol trojan > infra/conf: 0 Trojan server configured.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:41.770470 [Info] infra/conf/serial: Reading config: &{Name:temp_config_535776257d0a46c7b517d5fa975653c3.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_535776257d0a46c7b517d5fa975653c3.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:42.532261 [Info] infra/conf/serial: Reading config: &{Name:temp_config_faca347f050646e1b114e7658d99cf91.json Format:json}
+2025/10/01 12:16:42.585250 [Warning] common/errors: This feature gRPC transport (with unnecessary costs, etc.) is deprecated and being migrated to XHTTP stream-up H2. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_faca347f050646e1b114e7658d99cf91.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:42.609375 [Info] infra/conf/serial: Reading config: &{Name:temp_config_c77d0cbf54ef410ea0943634a2eeffe1.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_c77d0cbf54ef410ea0943634a2eeffe1.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:42.713184 [Info] infra/conf/serial: Reading config: &{Name:temp_config_da017cff5b6b40fa8c8949efa6a6cec7.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:42.718526 [Info] infra/conf/serial: Reading config: &{Name:temp_config_f737ea14a75140688dd82a059db4925e.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_da017cff5b6b40fa8c8949efa6a6cec7.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_f737ea14a75140688dd82a059db4925e.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:42.799767 [Info] infra/conf/serial: Reading config: &{Name:temp_config_3471e60f88764e38a72e3f39ea5b7027.json Format:json}
+2025/10/01 12:16:42.852225 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_3471e60f88764e38a72e3f39ea5b7027.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:43.557107 [Info] infra/conf/serial: Reading config: &{Name:temp_config_4f2e5fe5118242cb91a988d956a1f8d3.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_4f2e5fe5118242cb91a988d956a1f8d3.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vmess > infra/conf: 0 VMess receiver configured
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:43.634820 [Info] infra/conf/serial: Reading config: &{Name:temp_config_c8b94b15b75947d2b12ff1e6220a5283.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_c8b94b15b75947d2b12ff1e6220a5283.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:43.739801 [Info] infra/conf/serial: Reading config: &{Name:temp_config_e2f13e6c16df4aafa6f6834a675879c5.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:43.742804 [Info] infra/conf/serial: Reading config: &{Name:temp_config_0d38b61275174995ae74c890723de076.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_e2f13e6c16df4aafa6f6834a675879c5.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_0d38b61275174995ae74c890723de076.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:43.826168 [Info] infra/conf/serial: Reading config: &{Name:temp_config_320b834dfbfd404a8bc42b14049eaaba.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_320b834dfbfd404a8bc42b14049eaaba.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:44.581053 [Info] infra/conf/serial: Reading config: &{Name:temp_config_59454270652f46a7ae2421fbd5e4723a.json Format:json}
+2025/10/01 12:16:44.630089 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_59454270652f46a7ae2421fbd5e4723a.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:44.659400 [Info] infra/conf/serial: Reading config: &{Name:temp_config_3080cd231805428ba88495cd99cdeff7.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_3080cd231805428ba88495cd99cdeff7.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:44.764926 [Info] infra/conf/serial: Reading config: &{Name:temp_config_d1adfce49bad425285c608f5b3b7c9fb.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:44.768944 [Info] infra/conf/serial: Reading config: &{Name:temp_config_51f174da2b7e4536b1fea66899221dc8.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_51f174da2b7e4536b1fea66899221dc8.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+2025/10/01 12:16:44.835848 [Warning] common/errors: This feature gRPC transport (with unnecessary costs, etc.) is deprecated and being migrated to XHTTP stream-up H2. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_d1adfce49bad425285c608f5b3b7c9fb.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:44.854797 [Info] infra/conf/serial: Reading config: &{Name:temp_config_d29d3a243db94d4f991c4dbb0f927a8b.json Format:json}
+2025/10/01 12:16:44.906698 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_d29d3a243db94d4f991c4dbb0f927a8b.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:45.605472 [Info] infra/conf/serial: Reading config: &{Name:temp_config_b346dc65ec3347ad8d02be0c6e1fd8b8.json Format:json}
+2025/10/01 12:16:45.654446 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_b346dc65ec3347ad8d02be0c6e1fd8b8.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:45.683286 [Info] infra/conf/serial: Reading config: &{Name:temp_config_737fe84617704560898192b3711dd9df.json Format:json}
+2025/10/01 12:16:45.735248 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_737fe84617704560898192b3711dd9df.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:45.790509 [Info] infra/conf/serial: Reading config: &{Name:temp_config_719708a8db0a46ae8cb8b8216c006376.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:45.794730 [Info] infra/conf/serial: Reading config: &{Name:temp_config_0d30d189213f463ab53ceca88610299b.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_719708a8db0a46ae8cb8b8216c006376.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+2025/10/01 12:16:45.849551 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_0d30d189213f463ab53ceca88610299b.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:45.879872 [Info] infra/conf/serial: Reading config: &{Name:temp_config_8ebc246b675d4670ad6bba3f6f3c7d35.json Format:json}
+2025/10/01 12:16:45.931089 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_8ebc246b675d4670ad6bba3f6f3c7d35.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:46.630244 [Info] infra/conf/serial: Reading config: &{Name:temp_config_5122cc604cc74ee3ab70f23e1c28ae60.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_5122cc604cc74ee3ab70f23e1c28ae60.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vmess > infra/conf: 0 VMess receiver configured
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:46.708355 [Info] infra/conf/serial: Reading config: &{Name:temp_config_e2a2c4d1779948c0926689ecfbf917ae.json Format:json}
+2025/10/01 12:16:46.759708 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_e2a2c4d1779948c0926689ecfbf917ae.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:46.816052 [Info] infra/conf/serial: Reading config: &{Name:temp_config_ad2f6665f59a4287960fe86a870277d6.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:46.819845 [Info] infra/conf/serial: Reading config: &{Name:temp_config_5a227c5c8f654588a1c1293913ade894.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_5a227c5c8f654588a1c1293913ade894.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol trojan > infra/conf: 0 Trojan server configured.
+Failed to start: main: failed to load config files: [temp_config_ad2f6665f59a4287960fe86a870277d6.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:46.905447 [Info] infra/conf/serial: Reading config: &{Name:temp_config_8e575d4164404d79bc61ad60d0f5abf1.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_8e575d4164404d79bc61ad60d0f5abf1.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:47.655201 [Info] infra/conf/serial: Reading config: &{Name:temp_config_ab3bad288c9e4dc2ab735de352c07e97.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_ab3bad288c9e4dc2ab735de352c07e97.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:47.705687 [Warning] common/errors: This feature gRPC transport (with unnecessary costs, etc.) is deprecated and being migrated to XHTTP stream-up H2. Please update your config(s) according to release note and documentation before removal.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:47.732909 [Info] infra/conf/serial: Reading config: &{Name:temp_config_f388ec5909db41a592312541418b24ef.json Format:json}
+2025/10/01 12:16:47.796992 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_f388ec5909db41a592312541418b24ef.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:47.842175 [Info] infra/conf/serial: Reading config: &{Name:temp_config_75cbc5c7b940405badfd41411133ede0.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:47.846353 [Info] infra/conf/serial: Reading config: &{Name:temp_config_dff48828d04e44458a56e71b4060ee07.json Format:json}
+2025/10/01 12:16:47.914918 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_75cbc5c7b940405badfd41411133ede0.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_dff48828d04e44458a56e71b4060ee07.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol trojan > infra/conf: 0 Trojan server configured.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:47.931270 [Info] infra/conf/serial: Reading config: &{Name:temp_config_aa511a6e3e29476f9268e0df33509ae0.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_aa511a6e3e29476f9268e0df33509ae0.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:47.993628 [Warning] common/errors: This feature gRPC transport (with unnecessary costs, etc.) is deprecated and being migrated to XHTTP stream-up H2. Please update your config(s) according to release note and documentation before removal.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:48.679595 [Info] infra/conf/serial: Reading config: &{Name:temp_config_8c6497aa8b614d918730d4cec99f87d0.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_8c6497aa8b614d918730d4cec99f87d0.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:48.757433 [Info] infra/conf/serial: Reading config: &{Name:temp_config_9e1a8a1649c0435da0916375d3fde9de.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_9e1a8a1649c0435da0916375d3fde9de.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:48.867511 [Info] infra/conf/serial: Reading config: &{Name:temp_config_cbca4e125d1d4e0da10a7aab1b83e19d.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:48.870159 [Info] infra/conf/serial: Reading config: &{Name:temp_config_823e5d1ab00048e7995c878b77108807.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_cbca4e125d1d4e0da10a7aab1b83e19d.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build stream settings for outbound detour > infra/conf: REALITY: Empty "realitySettings".
+Failed to start: main: failed to load config files: [temp_config_823e5d1ab00048e7995c878b77108807.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:48.959953 [Info] infra/conf/serial: Reading config: &{Name:temp_config_368086bda25247b185d6d9b8512b7c11.json Format:json}
+2025/10/01 12:16:49.010199 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_368086bda25247b185d6d9b8512b7c11.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:49.703927 [Info] infra/conf/serial: Reading config: &{Name:temp_config_467d084759b144288cf6dba183d4fefd.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_467d084759b144288cf6dba183d4fefd.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:49.781937 [Info] infra/conf/serial: Reading config: &{Name:temp_config_20c3cf9287e34fbc890ab999de04e0ba.json Format:json}
+2025/10/01 12:16:49.830297 [Warning] common/errors: This feature WebSocket transport (with ALPN http/1.1, etc.) is deprecated and being migrated to XHTTP H2 & H3. Please update your config(s) according to release note and documentation before removal.
+Failed to start: main: failed to load config files: [temp_config_20c3cf9287e34fbc890ab999de04e0ba.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:49.892097 [Info] infra/conf/serial: Reading config: &{Name:temp_config_9561e0d426d9467a85f80c7cf79e47c4.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:49.895427 [Info] infra/conf/serial: Reading config: &{Name:temp_config_ab98d7cb5e714c4cad033f84cb9d77c8.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_9561e0d426d9467a85f80c7cf79e47c4.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+Failed to start: main: failed to load config files: [temp_config_ab98d7cb5e714c4cad033f84cb9d77c8.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol vless > infra/conf: VLESS settings: "vnext" should have one and only one member
+2025/10/01 12:16:4Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 12:16:49.987783 [Info] infra/conf/serial: Reading config: &{Name:temp_config_7d70e86d18794ae9abbae356ba409e3a.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_7d70e86d18794ae9abbae356ba409e3a.json] > infra/conf: failed to build outbound config with tag  > infra/conf: failed to build outbound handler for protocol trojan > infra/conf: 0 Trojan server configured.
