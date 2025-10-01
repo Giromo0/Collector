@@ -30,9 +30,13 @@ MAX_CONFIGS_TO_TEST = 100
 # Timeout برای تست اتصال
 TIMEOUT = 1
 
+# دیباگ: چاپ مسیر فعلی
+print(f"Current working directory: {os.getcwd()}")
+
 # ایجاد پوشه نتایج اگر وجود نداشته باشه
 if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)
+    print(f"Created output directory: {OUTPUT_DIR}")
 
 # پاک کردن فایل‌های قدیمی در پوشه tested
 if os.path.exists(OUTPUT_DIR):
@@ -40,6 +44,7 @@ if os.path.exists(OUTPUT_DIR):
         file_path = os.path.join(OUTPUT_DIR, file)
         if os.path.isfile(file_path):
             os.remove(file_path)
+            print(f"Removed old file: {file_path}")
 
 # تابع برای استخراج IP/دامنه و پورت از لینک پروتکل
 def extract_host_port(config):
@@ -59,6 +64,7 @@ def extract_host_port(config):
 def test_connection_and_ping(config, timeout=TIMEOUT):
     host, port = extract_host_port(config)
     if not host or not port:
+        print(f"Invalid config format: {config}")
         return None
     try:
         start_time = time.time()
@@ -68,14 +74,18 @@ def test_connection_and_ping(config, timeout=TIMEOUT):
         sock.close()
         if result == 0:  # اتصال موفق
             ping_time = (time.time() - start_time) * 1000  # تبدیل به میلی‌ثانیه
+            print(f"Successful connection to {host}:{port}, ping: {ping_time:.2f}ms")
             return {
                 "config": config,
                 "host": host,
                 "port": port,
                 "ping": ping_time
             }
+        else:
+            print(f"Failed connection to {host}:{port}, result: {result}")
         return None
-    except (socket.gaierror, socket.timeout):
+    except (socket.gaierror, socket.timeout) as e:
+        print(f"Error connecting to {host}:{port}: {str(e)}")
         return None
 
 # تاریخ و زمان برای نام‌گذاری (جلیلی، تهران)
@@ -100,10 +110,13 @@ for protocol_file in PROTOCOL_FILES:
         with open(file_path, 'r', encoding='utf-8') as f:
             config_links = [line.strip() for line in f if line.strip()]
             print(f"Found {len(config_links)} configs in {protocol_file}")
+    else:
+        print(f"Protocol file not found: {file_path}")
     
     # انتخاب تصادفی حداکثر 100 کانفیگ برای تست
     if len(config_links) > MAX_CONFIGS_TO_TEST:
         config_links = random.sample(config_links, MAX_CONFIGS_TO_TEST)
+        print(f"Selected {len(config_links)} random configs for testing in {protocol_file}")
     
     # تست موازی کانفیگ‌ها
     configs_with_ping = []
