@@ -28,11 +28,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r Files/tester/requirements.txt
 
-      - name: Install Xray
+      - name: Install Xray and ss
         run: |
           wget https://github.com/XTLS/Xray-core/releases/latest/download/xray-linux-64.zip
           unzip xray-linux-64.zip -d /usr/local/bin/
           chmod +x /usr/local/bin/xray
+          sudo apt-get update
+          sudo apt-get install -y net-tools iproute2
 
       - name: Check installed packages
         run: |
@@ -42,10 +44,15 @@ jobs:
         run: |
           python Files/tester/Test.py
 
-      - name: Save Xray logs
+      - name: Save logs
         if: always()
         run: |
-          cat /tmp/xray.log || echo "No Xray logs found"
+          echo "Xray logs:"
+          cat tested/xray_output.log || echo "No Xray logs found"
+          echo "Curl logs:"
+          cat tested/curl_output.log || echo "No curl logs found"
+          echo "Port check logs:"
+          cat tested/port_check.log || echo "No port check logs found"
 
       - name: Setup git config
         run: |
