@@ -45,7 +45,7 @@ if os.path.exists(OUTPUT_DIR):
 def extract_host_port(config):
     patterns = [
         r"(vless|vmess|ss|trojan|hysteria2)://.+?@(.+?):(\d+)",  # استاندارد
- pok      r"(vless|vmess|ss|trojan|hysteria2)://(.+?):(\d+)"  # بدون uuid
+        r"(vless|vmess|ss|trojan|hysteria2)://(.+?):(\d+)"  # بدون uuid
     ]
     for pattern in patterns:
         match = re.match(pattern, config)
