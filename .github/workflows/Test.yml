@@ -34,6 +34,10 @@ jobs:
           unzip xray-linux-64.zip -d /usr/local/bin/
           chmod +x /usr/local/bin/xray
 
+      - name: Check installed packages
+        run: |
+          pip list
+
       - name: Execute Python script
         run: |
           python Files/tester/Test.py
