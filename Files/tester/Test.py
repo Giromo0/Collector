@@ -72,8 +72,8 @@ def parse_config(config):
                     "net": params.get("type", ["tcp"])[0],
                     "path": params.get("path", [""])[0],
                     "security": params.get("security", ["none"])[0],
-                    "sni": params.get("sni", parsed.hostname),
-                    "alpn": params.get("alpn", [""])[0],
+                    "sni": params.get("sni", [parsed.hostname])[0],
+                    "alpn": params.get("alpn", ["http/1.1"])[0].split(",")[0],  # اطمینان از رشته بودن
                     "fp": params.get("fp", [""])[0],
                     "allowInsecure": params.get("allowInsecure", ["0"])[0] == "1",
                     "ps": params.get("ps", [parsed.fragment or "unnamed"])[0]
@@ -109,7 +109,7 @@ def parse_config(config):
                     "add": parsed.hostname,
                     "port": int(parsed.port or 443),
                     "sni": params.get("sni", [parsed.hostname])[0],
-                    "alpn": params.get("alpn", ["http/1.1"])[0],
+                    "alpn": params.get("alpn", ["http/1.1"])[0].split(",")[0],  # اطمینان از رشته بودن
                     "path": params.get("path", [""])[0],
                     "type": params.get("type", ["tcp"])[0],
                     "allowInsecure": params.get("allowInsecure", ["0"])[0] == "1",
@@ -126,6 +126,11 @@ def parse_config(config):
 
 def create_xray_config(parsed_config):
     """ایجاد فایل JSON برای Xray"""
+    alpn = parsed_config["config"].get("alpn", "http/1.1")
+    if isinstance(alpn, list):
+        alpn = alpn[0] if alpn else "http/1.1"
+    sni = parsed_config["config"].get("sni", parsed_config["config"].get("add", ""))
+
     xray_config = {
         "inbounds": [
             {
@@ -144,8 +149,8 @@ def create_xray_config(parsed_config):
                     "network": parsed_config["config"].get("net", "tcp"),
                     "security": parsed_config["config"].get("security", "none"),
                     "tlsSettings": {
-                        "serverName": parsed_config["config"].get("sni", ""),
-                        "alpn": [parsed_config["config"].get("alpn", "http/1.1")],
+                        "serverName": sni,
+                        "alpn": [alpn],
                         "allowInsecure": parsed_config["config"].get("allowInsecure", False)
                     } if parsed_config["config"].get("security") == "tls" else {}
                 }
@@ -177,6 +182,18 @@ def test_config(config):
                 stdout=log_file,
                 stderr=log_file
             )
+            # صبر برای اطمینان از راه‌اندازی Xray
+            subprocess.run(["sleep", "1"])
+            # بررسی پورت 10808
+            port_check = subprocess.run(
+                ["ss", "-tuln", "|", "grep", "10808"],
+                shell=True,
+                capture_output=True,
+                text=True
+            )
+            with open("tested/port_check.log", "a") as port_log:
+                port_log.write(f"Config: {config[:50]}...\nPort Check: {port_check.stdout}\n---\n")
+            
             result = subprocess.run(
                 ["curl", "-x", "socks5://127.0.0.1:10808", "--connect-timeout", "3", "http://1.1.1.1"],
                 capture_output=True,
@@ -209,12 +226,18 @@ def extract_configs(lines):
     protocols = {"vless": [], "vmess": [], "ss": [], "trojan": []}
     pattern = r'^(vless://|vmess://|ss://|trojan://)[^\s#]+'
     invalid_configs = []
+    protocol_counts = {"vless": 0, "vmess": 0, "ss": 0, "trojan": 0}
 
     valid_configs = []
     with ThreadPoolExecutor(max_workers=5) as executor:
-        configs = [line for line in lines if re.match(pattern, line)]
-        logging.info(f"تعداد کانفیگ‌های یافت‌شده (vless, vmess, ss, trojan): {len(configs)}")
-        results = executor.map(test_config, configs[:100])  # افزایش به ۱۰۰ کانفیگ
+        configs = []
+        for line in lines:
+            if re.match(pattern, line):
+                protocol = line.split("://")[0]
+                protocol_counts[protocol] += 1
+                configs.append(line)
+        logging.info(f"تعداد کانفیگ‌های یافت‌شده: {len(configs)} (vless: {protocol_counts['vless']}, vmess: {protocol_counts['vmess']}, ss: {protocol_counts['ss']}, trojan: {protocol_counts['trojan']})")
+        results = executor.map(test_config, configs[:200])  # افزایش به ۲۰۰ کانفیگ
         for is_valid, config in results:
             if is_valid:
                 protocol = config.split("://")[0]
