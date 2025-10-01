@@ -20,6 +20,7 @@ jobs:
       - name: Check protocol files
         run: |
           ls -l Splitted-By-Protocol/
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -28,13 +29,22 @@ jobs:
       - name: Install Python packages
         run: |
           python -m pip install --upgrade pip
-          pip install -r Files/tester/requirements.txt
+          if [ -f Files/tester/requirements.txt ]; then
+            pip install -r Files/tester/requirements.txt
+          else
+            echo "requirements.txt not found!"
+            exit 1
+          fi
+
       - name: Execute Test.py script
+        env:
+          TEST_TIMEOUT: 2  # تنظیم Timeout به 2 ثانیه
         run: |
           python Files/tester/Test.py
+
       - name: Commit and push results
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "☑️ Tested configs $(date)"
-          file_pattern: tested/*
+          file_pattern: tested/config_test.txt  # فقط فایل متنی
           push_options: --force
