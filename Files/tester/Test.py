@@ -11,13 +11,16 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # مسیر پوشه پروتکل‌ها
 PROTOCOL_DIR = "Splitted-By-Protocol"
-# فایل‌های پروتکل
+# فایل‌های پروتکل (هماهنگ با نام‌های واقعی توی مخزن)
 PROTOCOL_FILES = [
-    "Hysteria2.txt",
-    "ShadowSocks.txt",
-    "Trojan.txt",
-    "Vless.txt",
-    "Vmess.txt"
+    "hysteria2.txt",
+    "ss.txt",
+    "ssr.txt",
+    "trojan.txt",
+    "tuic.txt",
+    "vless.txt",
+    "vmess.txt",
+    "wireguard.txt"
 ]
 # پوشه برای ذخیره نتایج
 OUTPUT_DIR = "tested"
@@ -28,7 +31,7 @@ MAX_SUCCESSFUL_CONFIGS = 20
 # حداکثر تعداد کانفیگ برای تست
 MAX_CONFIGS_TO_TEST = 100
 # Timeout برای تست اتصال
-TIMEOUT = 1
+TIMEOUT = 1.5  # افزایش به 1.5 ثانیه برای شانس بیشتر پیدا کردن کانفیگ موفق
 
 # دیباگ: چاپ مسیر فعلی و چک کردن وجود پوشه پروتکل‌ها
 print(f"Current working directory: {os.getcwd()}")
@@ -53,8 +56,8 @@ if os.path.exists(OUTPUT_DIR):
 # تابع برای استخراج IP/دامنه و پورت از لینک پروتکل
 def extract_host_port(config):
     patterns = [
-        r"(vless|vmess|ss|trojan|hysteria2)://.+?@(.+?):(\d+)",  # استاندارد
-        r"(vless|vmess|ss|trojan|hysteria2)://(.+?):(\d+)"  # بدون uuid
+        r"(vless|vmess|ss|ssr|trojan|hysteria2|tuic|wireguard)://.+?@(.+?):(\d+)",  # استاندارد
+        r"(vless|vmess|ss|ssr|trojan|hysteria2|tuic|wireguard)://(.+?):(\d+)"  # بدون uuid
     ]
     for pattern in patterns:
         match = re.match(pattern, config)
@@ -141,17 +144,17 @@ for protocol_file in PROTOCOL_FILES:
     all_successful_configs.extend(successful_configs)
 
 # ذخیره تمام کانفیگ‌های موفق در یک فایل
-if all_successful_configs:
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
-        file.write(f"#🌐 به روزرسانی شده در {final_string} | MTSRVRS\n")
+with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
+    file.write(f"#🌐 به روزرسانی شده در {final_string} | MTSRVRS\n")
+    if all_successful_configs:
         for i, result in enumerate(all_successful_configs, 1):
             config_string = f"#🌐سرور {i} | {result['protocol']} | {final_string} | Ping: {result['ping']:.2f}ms"
             file.write(f"{result['config']}{config_string}\n")
-    print(f"All results saved to {OUTPUT_FILE}")
-    # دیباگ: چک کردن وجود فایل
-    if os.path.exists(OUTPUT_FILE):
-        print(f"Output file {OUTPUT_FILE} created successfully with size {os.path.getsize(OUTPUT_FILE)} bytes")
     else:
-        print(f"Failed to create output file {OUTPUT_FILE}")
+        file.write("# No successful configs found\n")
+print(f"Output file {OUTPUT_FILE} created")
+# دیباگ: چک کردن وجود فایل
+if os.path.exists(OUTPUT_FILE):
+    print(f"Output file {OUTPUT_FILE} created successfully with size {os.path.getsize(OUTPUT_FILE)} bytes")
 else:
-    print("No successful configs found for any protocol")
+    print(f"Failed to create output file {OUTPUT_FILE}")
