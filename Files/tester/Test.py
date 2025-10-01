@@ -65,8 +65,8 @@ def clean_config(config, server_num, date_string):
         comment = urllib.parse.unquote(config.split("#")[1])
         # حذف کاراکترهای غیرالفبایی و غیرضروری
         cleaned_comment = "".join(c for c in comment if c.isalnum() or c in ".-_ ")
-        return f"{main_config}#سرور-{server_num}-{date_string}"
-    return f"{config}#سرور-{server_num}-{date_string}"
+        return f"{main_config}#🌐 server-{server_num}-{date_string}"
+    return f"{config}#🌐 server-{server_num}-{date_string}"
 
 # تابع تست WebSocket
 def test_websocket(config, timeout=TIMEOUT):
@@ -177,10 +177,10 @@ for protocol_file in PROTOCOL_FILES:
 # ذخیره تمام کانفیگ‌های موفق در فایل
 if all_successful_configs:
     with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
-        file.write(f"#🌐 به‌روزرسانی‌شده در {final_string} | MTSRVRS\n")
+        file.write(f"# 🌐 به‌روزرسانی‌شده در {final_string} | MTSRVRS\n")
         for i, result in enumerate(all_successful_configs, 1):
             cleaned_config = clean_config(result["config"], i, final_string)
-            config_string = f"#🌐سرور {i} | {result['protocol']} | {final_string} | Ping: {result['ping']:.2f}ms"
+            config_string = f"# 🌐 server {i} | {result['protocol']} | {final_string} | Ping: {result['ping']:.2f}ms"
             file.write(f"{cleaned_config}\n{config_string}\n")
     print(f"All results saved to {OUTPUT_FILE}")
 else:
