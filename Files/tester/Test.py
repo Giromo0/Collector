@@ -1,293 +1,140 @@
-import requests
+import socket
 import re
-import json
-import subprocess
 import os
+import shutil
+from datetime import datetime
 import pytz
 import jdatetime
-from urllib.parse import urlparse, parse_qs
-import base64
-from concurrent.futures import ThreadPoolExecutor
-import logging
-import uuid
+import time
+import random
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# تنظیم لاگ‌گذاری
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', handlers=[
-    logging.FileHandler('tested/test.log', encoding='utf-8'),
-    logging.StreamHandler()
-])
+# مسیر پوشه پروتکل‌ها
+PROTOCOL_DIR = "Splitted-By-Protocol"
+# فایل‌های پروتکل
+PROTOCOL_FILES = [
+    "Hysteria2.txt",
+    "ShadowSocks.txt",
+    "Trojan.txt",
+    "Vless.txt",
+    "Vmess.txt"
+]
+# پوشه برای ذخیره نتایج
+OUTPUT_DIR = "tested"
+# فایل خروجی
+OUTPUT_FILE = os.path.join(OUTPUT_DIR, "config_test.txt")
+# حداکثر تعداد کانفیگ موفق برای هر پروتکل
+MAX_SUCCESSFUL_CONFIGS = 20
+# حداکثر تعداد کانفیگ برای تست
+MAX_CONFIGS_TO_TEST = 100
+# Timeout برای تست اتصال
+TIMEOUT = 1
 
-# لینک سابسکریپشن
-SUBSCRIPTION_URL = "https://raw.githubusercontent.com/Giromo0/Collector/refs/heads/main/All_Configs_Sub.txt"
+# ایجاد پوشه نتایج اگر وجود نداشته باشه
+if not os.path.exists(OUTPUT_DIR):
+    os.makedirs(OUTPUT_DIR)
 
-def fetch_configs():
-    """دریافت کانفیگ‌ها از لینک سابسکریپشن"""
-    try:
-        response = requests.get(SUBSCRIPTION_URL, timeout=10)
-        response.raise_for_status()
-        return response.text.splitlines()
-    except requests.RequestException as e:
-        logging.error(f"خطا در دریافت کانفیگ‌ها: {e}")
-        return []
+# پاک کردن فایل‌های قدیمی در پوشه tested
+if os.path.exists(OUTPUT_DIR):
+    for file in os.listdir(OUTPUT_DIR):
+        file_path = os.path.join(OUTPUT_DIR, file)
+        if os.path.isfile(file_path):
+            os.remove(file_path)
 
-def parse_config(config):
-    """پارس کردن کانفیگ و تبدیل به فرمت JSON برای Xray"""
-    try:
-        if config.startswith("vmess://"):
-            try:
-                vmess_data = base64.b64decode(config.replace("vmess://", "") + "===").decode()
-                vmess_json = json.loads(vmess_data)
-                return {
-                    "protocol": "vmess",
-                    "config": {
-                        "v": "2",
-                        "ps": vmess_json.get("ps", "unnamed"),
-                        "add": vmess_json.get("add", ""),
-                        "port": int(vmess_json.get("port", 0)) or 443,
-                        "id": vmess_json.get("id", ""),
-                        "aid": int(vmess_json.get("aid", 0)),
-                        "net": vmess_json.get("net", "tcp"),
-                        "type": vmess_json.get("type", "none"),
-                        "host": vmess_json.get("host", ""),
-                        "path": vmess_json.get("path", ""),
-                        "tls": vmess_json.get("tls", ""),
-                        "sni": vmess_json.get("sni", "")
-                    }
-                }
-            except (base64.binascii.Error, json.JSONDecodeError) as e:
-                logging.error(f"خطا در پارس vmess: {e} - کانفیگ: {config[:50]}...")
-                return None
-        elif config.startswith("vless://"):
-            parsed = urlparse(config)
-            params = parse_qs(parsed.query)
-            if not parsed.hostname or not parsed.username:
-                logging.error(f"کانفیگ vless ناقص است: hostname یا username وجود ندارد - کانفیگ: {config[:50]}...")
-                return None
-            return {
-                "protocol": "vless",
-                "config": {
-                    "id": parsed.username,
-                    "add": parsed.hostname,
-                    "port": int(parsed.port or 443),
-                    "net": params.get("type", ["tcp"])[0],
-                    "path": params.get("path", [""])[0],
-                    "security": params.get("security", ["none"])[0],
-                    "sni": params.get("sni", [parsed.hostname])[0],
-                    "alpn": params.get("alpn", ["http/1.1"])[0].split(",")[0],  # اطمینان از رشته بودن
-                    "fp": params.get("fp", [""])[0],
-                    "allowInsecure": params.get("allowInsecure", ["0"])[0] == "1",
-                    "ps": params.get("ps", [parsed.fragment or "unnamed"])[0]
-                }
-            }
-        elif config.startswith("ss://"):
-            try:
-                parsed = urlparse(config)
-                auth = base64.b64decode(parsed.netloc.split("@")[0] + "===").decode().split(":")
-                return {
-                    "protocol": "ss",
-                    "config": {
-                        "method": auth[0],
-                        "password": auth[1],
-                        "add": parsed.hostname,
-                        "port": int(parsed.port or 443),
-                        "ps": parsed.fragment or "unnamed"
-                    }
-                }
-            except (base64.binascii.Error, IndexError) as e:
-                logging.error(f"خطا در پارس ss: {e} - کانفیگ: {config[:50]}...")
-                return None
-        elif config.startswith("trojan://"):
-            parsed = urlparse(config)
-            params = parse_qs(parsed.query)
-            if not parsed.hostname or not parsed.username:
-                logging.error(f"کانفیگ trojan ناقص است: hostname یا username وجود ندارد - کانفیگ: {config[:50]}...")
-                return None
-            return {
-                "protocol": "trojan",
-                "config": {
-                    "password": parsed.username,
-                    "add": parsed.hostname,
-                    "port": int(parsed.port or 443),
-                    "sni": params.get("sni", [parsed.hostname])[0],
-                    "alpn": params.get("alpn", ["http/1.1"])[0].split(",")[0],  # اطمینان از رشته بودن
-                    "path": params.get("path", [""])[0],
-                    "type": params.get("type", ["tcp"])[0],
-                    "allowInsecure": params.get("allowInsecure", ["0"])[0] == "1",
-                    "ps": parsed.fragment or "unnamed"
-                }
-            }
-        elif config.startswith("hysteria2://"):
-            logging.warning(f"پروتکل hysteria2 پشتیبانی نمی‌شود: {config[:50]}...")
-            return None
+# تابع برای استخراج IP/دامنه و پورت از لینک پروتکل
+def extract_host_port(config):
+    patterns = [
+        r"(vless|vmess|ss|trojan|hysteria2)://.+?@(.+?):(\d+)",  # استاندارد
+ pok      r"(vless|vmess|ss|trojan|hysteria2)://(.+?):(\d+)"  # بدون uuid
+    ]
+    for pattern in patterns:
+        match = re.match(pattern, config)
+        if match:
+            host = match.group(2)  # IP یا دامنه
+            port = int(match.group(3))  # پورت
+            return host, port
+    return None, None
+
+# تابع تست TCP connection و محاسبه پینگ
+def test_connection_and_ping(config, timeout=TIMEOUT):
+    host, port = extract_host_port(config)
+    if not host or not port:
         return None
-    except Exception as e:
-        logging.error(f"خطا در پارس کانفیگ: {e} - کانفیگ: {config[:50]}...")
+    try:
+        start_time = time.time()
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.settimeout(timeout)
+        result = sock.connect_ex((host, port))
+        sock.close()
+        if result == 0:  # اتصال موفق
+            ping_time = (time.time() - start_time) * 1000  # تبدیل به میلی‌ثانیه
+            return {
+                "config": config,
+                "host": host,
+                "port": port,
+                "ping": ping_time
+            }
+        return None
+    except (socket.gaierror, socket.timeout):
         return None
 
-def create_xray_config(parsed_config):
-    """ایجاد فایل JSON برای Xray"""
-    alpn = parsed_config["config"].get("alpn", "http/1.1")
-    if isinstance(alpn, list):
-        alpn = alpn[0] if alpn else "http/1.1"
-    sni = parsed_config["config"].get("sni", parsed_config["config"].get("add", ""))
+# تاریخ و زمان برای نام‌گذاری (جلیلی، تهران)
+current_date_time = jdatetime.datetime.now(pytz.timezone('Asia/Tehran'))
+current_month = current_date_time.strftime("%b")
+current_day = current_date_time.strftime("%d")
+updated_hour = current_date_time.strftime("%H")
+updated_minute = current_date_time.strftime("%M")
+final_string = f"{current_month}-{current_day} | {updated_hour}:{updated_minute}"
 
-    xray_config = {
-        "inbounds": [
-            {
-                "port": 10808,
-                "protocol": "socks",
-                "settings": {"auth": "noauth", "udp": True}
-            }
-        ],
-        "outbounds": [
-            {
-                "protocol": parsed_config["protocol"],
-                "settings": {
-                    parsed_config["protocol"]: [parsed_config["config"]]
-                },
-                "streamSettings": {
-                    "network": parsed_config["config"].get("net", "tcp"),
-                    "security": parsed_config["config"].get("security", "none"),
-                    "tlsSettings": {
-                        "serverName": sni,
-                        "alpn": [alpn],
-                        "allowInsecure": parsed_config["config"].get("allowInsecure", False)
-                    } if parsed_config["config"].get("security") == "tls" else {}
-                }
-            },
-            {"protocol": "freedom", "tag": "direct"}
-        ],
-        "routing": {
-            "rules": [
-                {"type": "field", "outboundTag": "direct", "domain": ["geosite:category-ads-all"]}
-            ]
-        }
-    }
-    config_file = f"temp_config_{uuid.uuid4().hex}.json"
-    with open(config_file, "w") as f:
-        json.dump(xray_config, f)
-    return config_file
+# لیست برای ذخیره تمام کانفیگ‌های موفق
+all_successful_configs = []
 
-def test_config(config):
-    """تست اتصال کانفیگ با Xray"""
-    parsed_config = parse_config(config)
-    if not parsed_config:
-        return False, config
-
-    config_file = create_xray_config(parsed_config)
-    try:
-        with open("tested/xray_output.log", "a") as log_file:
-            process = subprocess.Popen(
-                ["xray", "-c", config_file],
-                stdout=log_file,
-                stderr=log_file
-            )
-            # صبر برای اطمینان از راه‌اندازی Xray
-            subprocess.run(["sleep", "1"])
-            # بررسی پورت 10808
-            port_check = subprocess.run(
-                ["ss", "-tuln", "|", "grep", "10808"],
-                shell=True,
-                capture_output=True,
-                text=True
-            )
-            with open("tested/port_check.log", "a") as port_log:
-                port_log.write(f"Config: {config[:50]}...\nPort Check: {port_check.stdout}\n---\n")
-            
-            result = subprocess.run(
-                ["curl", "-x", "socks5://127.0.0.1:10808", "--connect-timeout", "3", "http://1.1.1.1"],
-                capture_output=True,
-                text=True,
-                timeout=5
-            )
-            process.terminate()
-            with open("tested/curl_output.log", "a") as curl_log:
-                curl_log.write(f"Config: {config[:50]}...\nReturn Code: {result.returncode}\nStdout: {result.stdout}\nStderr: {result.stderr}\n---\n")
-        try:
-            os.remove(config_file)
-        except FileNotFoundError:
-            logging.warning(f"فایل {config_file} قبلاً حذف شده یا وجود ندارد")
-        if result.returncode == 0:
-            logging.info(f"کانفیگ با موفقیت تست شد: {config[:50]}...")
-            return True, config
-        else:
-            logging.warning(f"تست کانفیگ شکست خورد: {result.stderr} - کانفیگ: {config[:50]}...")
-            return False, config
-    except Exception as e:
-        logging.error(f"خطا در تست اتصال: {e} - کانفیگ: {config[:50]}...")
-        try:
-            os.remove(config_file)
-        except FileNotFoundError:
-            logging.warning(f"فایل {config_file} قبلاً حذف شده یا وجود ندارد")
-        return False, config
-
-def extract_configs(lines):
-    """استخراج و تست کانفیگ‌ها"""
-    protocols = {"vless": [], "vmess": [], "ss": [], "trojan": []}
-    pattern = r'^(vless://|vmess://|ss://|trojan://)[^\s#]+'
-    invalid_configs = []
-    protocol_counts = {"vless": 0, "vmess": 0, "ss": 0, "trojan": 0}
-
-    valid_configs = []
-    with ThreadPoolExecutor(max_workers=5) as executor:
-        configs = []
-        for line in lines:
-            if re.match(pattern, line):
-                protocol = line.split("://")[0]
-                protocol_counts[protocol] += 1
-                configs.append(line)
-        logging.info(f"تعداد کانفیگ‌های یافت‌شده: {len(configs)} (vless: {protocol_counts['vless']}, vmess: {protocol_counts['vmess']}, ss: {protocol_counts['ss']}, trojan: {protocol_counts['trojan']})")
-        results = executor.map(test_config, configs[:200])  # افزایش به ۲۰۰ کانفیگ
-        for is_valid, config in results:
-            if is_valid:
-                protocol = config.split("://")[0]
-                if protocol in protocols and len(protocols[protocol]) < 20:
-                    protocols[protocol].append(config.split("#")[0].strip())
-            else:
-                invalid_configs.append(config)
+# پردازش هر فایل پروتکل
+for protocol_file in PROTOCOL_FILES:
+    file_path = os.path.join(PROTOCOL_DIR, protocol_file)
+    protocol_name = protocol_file.replace(".txt", "").lower()
     
-    # ذخیره کانفیگ‌های نامعتبر
-    if invalid_configs:
-        output_dir = "tested"
-        os.makedirs(output_dir, exist_ok=True)
-        with open(os.path.join(output_dir, "invalid_configs.txt"), "w", encoding="utf-8") as f:
-            for config in invalid_configs:
-                f.write(f"{config}\n")
-        logging.info(f"کانفیگ‌های نامعتبر در tested/invalid_configs.txt ذخیره شدند.")
+    # خواندن لینک‌های پروتکل از فایل
+    config_links = []
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as f:
+            config_links = [line.strip() for line in f if line.strip()]
+            print(f"Found {len(config_links)} configs in {protocol_file}")
+    
+    # انتخاب تصادفی حداکثر 100 کانفیگ برای تست
+    if len(config_links) > MAX_CONFIGS_TO_TEST:
+        config_links = random.sample(config_links, MAX_CONFIGS_TO_TEST)
+    
+    # تست موازی کانفیگ‌ها
+    configs_with_ping = []
+    with ThreadPoolExecutor(max_workers=20) as executor:
+        future_to_config = {executor.submit(test_connection_and_ping, config): config for config in config_links}
+        for future in as_completed(future_to_config):
+            result = future.result()
+            if result and len(configs_with_ping) < MAX_SUCCESSFUL_CONFIGS:
+                result["protocol"] = protocol_name
+                configs_with_ping.append(result)
+    
+    # مرتب‌سازی بر اساس پینگ و انتخاب حداکثر 20 کانفیگ
+    configs_with_ping.sort(key=lambda x: x["ping"])
+    successful_configs = configs_with_ping[:MAX_SUCCESSFUL_CONFIGS]
+    print(f"Found {len(successful_configs)} successful configs for {protocol_name}")
+    
+    # اضافه کردن به لیست کلی
+    all_successful_configs.extend(successful_configs)
 
-    return protocols
-
-def save_configs(protocols):
-    """ذخیره کانفیگ‌های معتبر"""
-    output_dir = "tested"
-    os.makedirs(output_dir, exist_ok=True)
-    current_date_time = jdatetime.datetime.now(pytz.timezone('Asia/Tehran'))
-    output_file = os.path.join(output_dir, f"config_test_{current_date_time.strftime('%Y-%m-%d_%H-%M')}.txt")
-
-    final_string = current_date_time.strftime("%b-%d | %H:%M")
-    final_others_string = current_date_time.strftime("%b-%d")
-
-    with open(output_file, "w", encoding="utf-8") as file:
-        i = 0
-        for protocol, configs in protocols.items():
-            for config in configs:
-                config_string = (
-                    f"#🌐 به روزرسانی شده در {final_string} | هر 15 دقیقه کانفیگ جدید داریم"
-                    if i == 0
-                    else f"#🌐سرور {i} | {final_others_string} | {protocol.upper()}"
-                )
-                file.write(f"{config}{config_string}\n")
-                i += 1
-    logging.info(f"کانفیگ‌های معتبر در {output_file} ذخیره شدند.")
-
-def main():
-    config_lines = fetch_configs()
-    if not config_lines:
-        logging.error("هیچ کانفیگی دریافت نشد.")
-        return
-
-    protocols = extract_configs(config_lines)
-    save_configs(protocols)
-
-if __name__ == "__main__":
-    main()
+# ذخیره تمام کانفیگ‌های موفق در یک فایل
+if all_successful_configs:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
+        file.write(f"#🌐 به روزرسانی شده در {final_string} | MTSRVRS\n")
+        for i, result in enumerate(all_successful_configs, 1):
+            config_string = f"#🌐سرور {i} | {result['protocol']} | {final_string} | Ping: {result['ping']:.2f}ms"
+            file.write(f"{result['config']}{config_string}\n")
+    print(f"All results saved to {OUTPUT_FILE}")
+    # دیباگ: چک کردن وجود فایل
+    if os.path.exists(OUTPUT_FILE):
+        print(f"Output file {OUTPUT_FILE} created successfully with size {os.path.getsize(OUTPUT_FILE)} bytes")
+    else:
+        print(f"Failed to create output file {OUTPUT_FILE}")
+else:
+    print("No successful configs found for any protocol")
