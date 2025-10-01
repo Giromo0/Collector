@@ -305,3 +305,291 @@ Failed to start: main: failed to load config files: [temp_config_4a536522056e46d
 Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
 A unified platform for anti-censorship.
 2025/10/01 09:45:20.117253 [Info] infra/conf/serial: Reading config: &{Name:temp_config_84a44a8c90f1490da30fc1398ab8f338.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.003806 [Info] infra/conf/serial: Reading config: &{Name:temp_config_eb8346b6c410423db94117f245e301dd.json Format:json}
+2025/10/01 09:47:05.005031 [Info] infra/conf/serial: Reading config: &{Name:temp_config_b0cb1e80c50b45c5895ad04e885a82ed.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.011565 [Info] infra/conf/serial: Reading config: &{Name:temp_config_337b967cec6c41789d3b4c363cdd71b2.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+Failed to start: main: failed to load config files: [temp_config_64a9cb1f486349d7ab83692fb8480b83.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_64a9cb1f486349d7ab83692fb8480b83.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 878 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.021117 [Info] infra/conf/serial: Reading config: &{Name:temp_config_692ec32f13444b03890585c64d8c54c3.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_692ec32f13444b03890585c64d8c54c3.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_692ec32f13444b03890585c64d8c54c3.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 878 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.058361 [Info] infra/conf/serial: Reading config: &{Name:temp_config_953a3068c4924465b86898a0e5894eea.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.064649 [Info] infra/conf/serial: Reading config: &{Name:temp_config_1a592c6cc5f1424fae861a52292cb474.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.067002 [Info] infra/conf/serial: Reading config: &{Name:temp_config_7769d8dc8aaf4356829a23a5205b08c7.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.085105 [Info] infra/conf/serial: Reading config: &{Name:temp_config_1ad22114645a42c194703c791831c363.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.100810 [Info] infra/conf/serial: Reading config: &{Name:temp_config_468885b1b3974412966ad1e1d857f8ae.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.109517 [Info] infra/conf/serial: Reading config: &{Name:temp_config_ad488ee4da6d49d68ebb27a236b27d44.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_ad488ee4da6d49d68ebb27a236b27d44.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_ad488ee4da6d49d68ebb27a236b27d44.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 559 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+Failed to start: main: failed to load config files: [temp_config_a6a4d4b7ecab429aa545f6a204606397.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_a6a4d4b7ecab429aa545f6a204606397.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 879 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.130063 [Info] infra/conf/serial: Reading config: &{Name:temp_config_26519669815446c580667e3964512021.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.135442 [Info] infra/conf/serial: Reading config: &{Name:temp_config_a7fb8b0a8891495a8de54356a94c06b7.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+Failed to start: main: failed to load config files: [temp_config_d213a6ad61834339ac55a727e47541f3.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_d213a6ad61834339ac55a727e47541f3.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 793 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.160444 [Info] infra/conf/serial: Reading config: &{Name:temp_config_c4f8df6d572d41b497a3a575e330ae73.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.169095 [Info] infra/conf/serial: Reading config: &{Name:temp_config_982f2102039b4d9a96bc8119e475677b.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.180932 [Info] infra/conf/serial: Reading config: &{Name:temp_config_f2496da1f9af4b419734e6f3c8d32408.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_f2496da1f9af4b419734e6f3c8d32408.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_f2496da1f9af4b419734e6f3c8d32408.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 879 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.188105 [Info] infra/conf/serial: Reading config: &{Name:temp_config_1daba0167dcc40d9a6c6094f972530a8.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_1daba0167dcc40d9a6c6094f972530a8.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_1daba0167dcc40d9a6c6094f972530a8.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 879 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.196103 [Info] infra/conf/serial: Reading config: &{Name:temp_config_de3f8dcf7f2c40d2bac45a9069555c33.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.199236 [Info] infra/conf/serial: Reading config: &{Name:temp_config_946262f946ca4e6e95db8dd8fcc1b0e4.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.227453 [Info] infra/conf/serial: Reading config: &{Name:temp_config_c5ee7bff8f1a44159e7261a7d952fd24.json Format:json}
+2025/10/01 09:47:05.229942 [Info] infra/conf/serial: Reading config: &{Name:temp_config_ab9303c0ac274034bf0b70971de370f3.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.246960 [Info] infra/conf/serial: Reading config: &{Name:temp_config_30079134b97f4abfa802285fbdf0b727.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_30079134b97f4abfa802285fbdf0b727.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_30079134b97f4abfa802285fbdf0b727.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 879 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+2025/10/01 09:47:05.248037 [Info] infra/conf/serial: Reading config: &{Name:temp_config_2dcd2cf2b89942a89d97a9c90c7e8df5.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.248835 [Info] infra/conf/serial: Reading config: &{Name:temp_config_d70c22b2812b4d2aa369697f6ebf6744.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.272764 [Info] infra/conf/serial: Reading config: &{Name:temp_config_c17757c81f76489ea16573f8fbdf36a0.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.287734 [Info] infra/conf/serial: Reading config: &{Name:temp_config_abaa15f407f3470a8b5046f512098822.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_abaa15f407f3470a8b5046f512098822.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_abaa15f407f3470a8b5046f512098822.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 879 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.291541 [Info] infra/conf/serial: Reading config: &{Name:temp_config_f45bed4effcc477b88f1c3ad74a8209d.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.303396 [Info] infra/conf/serial: Reading config: &{Name:temp_config_eb4556298d754bd785c17b64ea5e6ae8.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_eb4556298d754bd785c17b64ea5e6ae8.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_eb4556298d754bd785c17b64ea5e6ae8.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 879 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+Failed to start: main: failed to load config files: [temp_config_78fa564021374914ad6b8cc4a9e26d50.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_78fa564021374914ad6b8cc4a9e26d50.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 879 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.311205 [Info] infra/conf/serial: Reading config: &{Name:temp_config_16d82d2e40cb40a4b66484f3a5746340.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.320031 [Info] infra/conf/serial: Reading config: &{Name:temp_config_e901f1b13fbe4a63aa8e6040924b0508.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_e901f1b13fbe4a63aa8e6040924b0508.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_e901f1b13fbe4a63aa8e6040924b0508.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 584 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.335022 [Info] infra/conf/serial: Reading config: &{Name:temp_config_0c6ca6a35cbf437cad6e1ff39efe87e2.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_0c6ca6a35cbf437cad6e1ff39efe87e2.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_0c6ca6a35cbf437cad6e1ff39efe87e2.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 555 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.336586 [Info] infra/conf/serial: Reading config: &{Name:temp_config_2245991d0d7e4647a5fac00684af5c74.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_2245991d0d7e4647a5fac00684af5c74.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_2245991d0d7e4647a5fac00684af5c74.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 555 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.352572 [Info] infra/conf/serial: Reading config: &{Name:temp_config_41a54ec34e5a4d468b512788c87c4c0b.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.356020 [Info] infra/conf/serial: Reading config: &{Name:temp_config_ba50805b44d14b6a9814c055dcb2262e.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.364506 [Info] infra/conf/serial: Reading config: &{Name:temp_config_b95cabbe039841e49739df03d7719073.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_b95cabbe039841e49739df03d7719073.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_b95cabbe039841e49739df03d7719073.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 525 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.370134 [Info] infra/conf/serial: Reading config: &{Name:temp_config_206eb7685abc440e8f7bfb90b62abf27.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.383126 [Info] infra/conf/serial: Reading config: &{Name:temp_config_93343d57e6474f4695aa53ef2f6b1f0e.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.403023 [Info] infra/conf/serial: Reading config: &{Name:temp_config_5935b30cd40d45c58b2dba4cbcb10786.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.406410 [Info] infra/conf/serial: Reading config: &{Name:temp_config_714cc68b4c89413b80b7d135479555ac.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.426118 [Info] infra/conf/serial: Reading config: &{Name:temp_config_90083a7b2653485c80eba17c10a384fd.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.446906 [Info] infra/conf/serial: Reading config: &{Name:temp_config_05f55267178b466fb3cc68696daafaf1.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.449397 [Info] infra/conf/serial: Reading config: &{Name:temp_config_e43688ae10a74758834d46f340a283ad.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.460476 [Info] infra/conf/serial: Reading config: &{Name:temp_config_c90fc178659f41f6af9369dfc4c8d0a4.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.486042 [Info] infra/conf/serial: Reading config: &{Name:temp_config_ea794cbce468468b944787943c9835bd.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_ea794cbce468468b944787943c9835bd.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_ea794cbce468468b944787943c9835bd.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 594 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.487911 [Info] infra/conf/serial: Reading config: &{Name:temp_config_561ab8237e6b4470861942b6d6733c7d.json Format:json}
+2025/10/01 09:47:05.488067 [Info] infra/conf/serial: Reading config: &{Name:temp_config_188ca693872d4e759c214a3e22ec9668.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.520366 [Info] infra/conf/serial: Reading config: &{Name:temp_config_00642f95e0444d5e863a7b651f91ca23.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.520667 [Info] infra/conf/serial: Reading config: &{Name:temp_config_3235663b3c844ad2a5ef9c05187d309c.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.542028 [Info] infra/conf/serial: Reading config: &{Name:temp_config_fa02c080139742c583a96ad4cb7a4756.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.545623 [Info] infra/conf/serial: Reading config: &{Name:temp_config_010430174dd64220a2724954b0ccd179.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.551535 [Info] infra/conf/serial: Reading config: &{Name:temp_config_debf6170f8494e058d268850f4ef7771.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.564139 [Info] infra/conf/serial: Reading config: &{Name:temp_config_c03a07ddb9df49dd8df4853fd59f0fe9.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.583075 [Info] infra/conf/serial: Reading config: &{Name:temp_config_3762c8014f4d400d9f0d6e28f8b59034.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_026c018852c94892845acb3d23f75114.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_026c018852c94892845acb3d23f75114.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 571 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.585989 [Info] infra/conf/serial: Reading config: &{Name:temp_config_9be15ae84f3c42e8a02813d8176e44ac.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_3762c8014f4d400d9f0d6e28f8b59034.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_3762c8014f4d400d9f0d6e28f8b59034.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 525 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Failed to start: main: failed to load config files: [temp_config_9be15ae84f3c42e8a02813d8176e44ac.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_9be15ae84f3c42e8a02813d8176e44ac.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 571 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.604569 [Info] infra/conf/serial: Reading config: &{Name:temp_config_49930e6d135b46e0be85e68bae02fec9.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.615618 [Info] infra/conf/serial: Reading config: &{Name:temp_config_41857b4dce47469b96eea069d9b7a603.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.620746 [Info] infra/conf/serial: Reading config: &{Name:temp_config_ae9a0a4d87ea4562b56d51f4c3e49b88.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.632572 [Info] infra/conf/serial: Reading config: &{Name:temp_config_0d0b134814e94eeda02db6bd1a5605e4.json Format:json}
+2025/10/01 09:47:05.636957 [Info] infra/conf/serial: Reading config: &{Name:temp_config_55fef0a579e14ba29ec6f1ffd225a2df.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.653186 [Info] infra/conf/serial: Reading config: &{Name:temp_config_2dc3bba75ada4662a0d25870d22edc58.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.656026 [Info] infra/conf/serial: Reading config: &{Name:temp_config_cd6bcfed4e734d899514d9314e9eb41f.json Format:json}
+2025/10/01 09:47:05.656997 [Info] infra/conf/serial: Reading config: &{Name:temp_config_2459d0fb575c4b88b534413e683137a0.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.684872 [Info] infra/conf/serial: Reading config: &{Name:temp_config_f99ce5e2cc2f47f0b98d6eae86ed4c1c.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_f99ce5e2cc2f47f0b98d6eae86ed4c1c.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_f99ce5e2cc2f47f0b98d6eae86ed4c1c.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 503 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.711937 [Info] infra/conf/serial: Reading config: &{Name:temp_config_502334a7b2d741489aeab7f5b937e534.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.719357 [Info] infra/conf/serial: Reading config: &{Name:temp_config_00b71e9e731149bdab9d70fce8f2f5d7.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_00b71e9e731149bdab9d70fce8f2f5d7.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_00b71e9e731149bdab9d70fce8f2f5d7.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 498 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.737720 [Info] infra/conf/serial: Reading config: &{Name:temp_config_42a272c0f62e4ff6afaa837373dfc09a.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.738213 [Info] infra/conf/serial: Reading config: &{Name:temp_config_b3c2e3954453413a8e467b79aa4f0629.json Format:json}
+2025/10/01 09:47:05.738361 [Info] infra/conf/serial: Reading config: &{Name:temp_config_06fb1377002849d794b1d1fd1dce5e43.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.738934 [Info] infra/conf/serial: Reading config: &{Name:temp_config_b62a53c540564c98b2962b03070513c0.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_06fb1377002849d794b1d1fd1dce5e43.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_06fb1377002849d794b1d1fd1dce5e43.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 494 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.763608 [Info] infra/conf/serial: Reading config: &{Name:temp_config_f8e29c14f7304f1e83270feca93f89ee.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.776094 [Info] infra/conf/serial: Reading config: &{Name:temp_config_ead2f7c0797f45f78b36f6c5b4554d45.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.784103 [Info] infra/conf/serial: Reading config: &{Name:temp_config_b45455ec55444d12bdbf821ca0d3c2d6.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.786916 [Info] infra/conf/serial: Reading config: &{Name:temp_config_8d33d99a4bc345ea8844e709b5e2664a.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.790380 [Info] infra/conf/serial: Reading config: &{Name:temp_config_4b3c90dba66c49d1a07aec333ba8ef1f.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.808067 [Info] infra/conf/serial: Reading config: &{Name:temp_config_52cfab1ec8264030ac456bc4a9bbe7e0.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.819354 [Info] infra/conf/serial: Reading config: &{Name:temp_config_ec52614ef52c4785b7c3f098ccfe91fc.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.845634 [Info] infra/conf/serial: Reading config: &{Name:temp_config_5b7d4721e6d6473fb1fb47e336052b1b.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.848834 [Info] infra/conf/serial: Reading config: &{Name:temp_config_3567ff3d1ffa4470b6761b181d4c02e3.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_3567ff3d1ffa4470b6761b181d4c02e3.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_3567ff3d1ffa4470b6761b181d4c02e3.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 579 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.863656 [Info] infra/conf/serial: Reading config: &{Name:temp_config_0dbee270252f4e0c97cc9466ca1d7157.json Format:json}
+Failed to start: main: failed to load config files: [temp_config_0dbee270252f4e0c97cc9466ca1d7157.json] > infra/conf/serial: failed to decode config: &{Name:temp_config_0dbee270252f4e0c97cc9466ca1d7157.json Format:json} > infra/conf/serial: failed to read config file at line 1 char 564 > json: cannot unmarshal array into Go struct field TLSConfig.outbounds.streamSettings.tlsSettings.serverName of type string
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.870548 [Info] infra/conf/serial: Reading config: &{Name:temp_config_942efef3c0f04ad79d96f902964d7603.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.885111 [Info] infra/conf/serial: Reading config: &{Name:temp_config_84dd5838093643c381fba88e4dbc5648.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.891391 [Info] infra/conf/serial: Reading config: &{Name:temp_config_67943b6e2b954024bc7dce7df0932719.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.897868 [Info] infra/conf/serial: Reading config: &{Name:temp_config_2721d6d5d9f54d8a909bef175847f645.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.904811 [Info] infra/conf/serial: Reading config: &{Name:temp_config_410cf643a6a14b93bc448c24bffcbca0.json Format:json}
+Xray 25.9.11 (Xray, Penetrates Everything.) 3edfb0e (go1.25.1 linux/amd64)
+A unified platform for anti-censorship.
+2025/10/01 09:47:05.924425 [Info] infra/conf/serial: Reading config: &{Name:temp_config_4ab63b54e6c347dd93f29ab73c6756ab.json Format:json}
