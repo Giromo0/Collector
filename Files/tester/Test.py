@@ -30,8 +30,12 @@ MAX_CONFIGS_TO_TEST = 100
 # Timeout برای تست اتصال
 TIMEOUT = 1
 
-# دیباگ: چاپ مسیر فعلی
+# دیباگ: چاپ مسیر فعلی و چک کردن وجود پوشه پروتکل‌ها
 print(f"Current working directory: {os.getcwd()}")
+if os.path.exists(PROTOCOL_DIR):
+    print(f"Protocol directory found: {PROTOCOL_DIR}")
+else:
+    print(f"Protocol directory NOT found: {PROTOCOL_DIR}")
 
 # ایجاد پوشه نتایج اگر وجود نداشته باشه
 if not os.path.exists(OUTPUT_DIR):
