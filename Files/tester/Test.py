@@ -8,6 +8,7 @@ import jdatetime
 import time
 import random
 import base64
+import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # مسیر پوشه پروتکل‌ها
@@ -30,9 +31,9 @@ OUTPUT_FILE = os.path.join(OUTPUT_DIR, "config_test.txt")
 # حداکثر تعداد کانفیگ موفق برای هر پروتکل
 MAX_SUCCESSFUL_CONFIGS = 20
 # حداکثر تعداد کانفیگ برای تست
-MAX_CONFIGS_TO_TEST = 200  # افزایش به 200 برای شانس بیشتر
+MAX_CONFIGS_TO_TEST = 300  # افزایش به 300 برای شانس بیشتر
 # Timeout برای تست اتصال
-TIMEOUT = 2  # افزایش به 2 ثانیه
+TIMEOUT = 4  # افزایش به 4 ثانیه برای پروتکل‌های سنگین‌تر
 
 # دیباگ: چاپ مسیر فعلی و چک کردن وجود پوشه پروتکل‌ها
 print(f"Current working directory: {os.getcwd()}")
@@ -73,30 +74,68 @@ def decode_ssr_config(config):
         if config.startswith("ssr://"):
             encoded = config.split("://")[1].split("/")[0]
             decoded = base64.urlsafe_b64decode(encoded + "=" * (4 - len(encoded) % 4)).decode()
-            match = re.match(r"(.+?):(\d+):(.+?):(.+?):(.+?):(.+)", decoded)
-            if match:
-                return match.group(1), int(match.group(2))
+            parts = decoded.split(":")
+            if len(parts) >= 6:
+                host, port = parts[0], int(parts[1])
+                return host, port
     except Exception as e:
         print(f"Error decoding ssr config: {config}, error: {str(e)}")
     return None, None
 
+# تابع برای دیکد کردن کانفیگ‌های vmess
+def decode_vmess_config(config):
+    try:
+        if config.startswith("vmess://"):
+            encoded = config.split("://")[1].split("#")[0]
+            decoded = base64.urlsafe_b64decode(encoded + "=" * (4 - len(encoded) % 4)).decode()
+            data = json.loads(decoded)
+            host = data.get("add")
+            port = int(data.get("port"))
+            return host, port
+    except Exception as e:
+        print(f"Error decoding vmess config: {config}, error: {str(e)}")
+    return None, None
+
 # تابع برای استخراج IP/دامنه و پورت از لینک پروتکل
 def extract_host_port(config):
+    # فیلتر کردن آدرس‌های نامعتبر
+    def is_valid_host(host):
+        if not host:
+            return False
+        # چک کردن IPv6 ناقص
+        if host.startswith("[") and not host.endswith("]"):
+            return False
+        # چک کردن فرمت دامنه یا IP
+        if "@" in host or not re.match(r"^[a-zA-Z0-9\.\-:]+$", host):
+            return False
+        # چک کردن طول دامنه
+        if len(host) > 255:
+            return False
+        return True
+
     patterns = [
-        r"(vless|vmess|trojan|hysteria2|tuic|wireguard)://.+?@(.+?):(\d+)",  # استاندارد
-        r"(vless|vmess|trojan|hysteria2|tuic|wireguard)://(.+?):(\d+)"  # بدون uuid
+        r"(vless|trojan|hysteria2|tuic|wireguard)://.+?@(.+?):(\d+)",  # استاندارد
+        r"(vless|trojan|hysteria2|tuic|wireguard)://(.+?):(\d+)"  # بدون uuid
     ]
     for pattern in patterns:
         match = re.match(pattern, config)
         if match:
-            host = match.group(2)  # IP یا دامنه
-            port = int(match.group(3))  # پورت
-            return host, port
-    # برای ss و ssr
+            host = match.group(2)
+            port = int(match.group(3))
+            if is_valid_host(host):
+                return host, port
     if config.startswith("ss://"):
-        return decode_ss_config(config)
+        host, port = decode_ss_config(config)
+        if is_valid_host(host):
+            return host, port
     if config.startswith("ssr://"):
-        return decode_ssr_config(config)
+        host, port = decode_ssr_config(config)
+        if is_valid_host(host):
+            return host, port
+    if config.startswith("vmess://"):
+        host, port = decode_vmess_config(config)
+        if is_valid_host(host):
+            return host, port
     return None, None
 
 # تابع تست TCP connection و محاسبه پینگ
@@ -153,7 +192,7 @@ try:
         else:
             print(f"Protocol file not found: {file_path}")
         
-        # انتخاب تصادفی حداکثر 200 کانفیگ برای تست
+        # انتخاب تصادفی حداکثر 300 کانفیگ برای تست
         if len(config_links) > MAX_CONFIGS_TO_TEST:
             config_links = random.sample(config_links, MAX_CONFIGS_TO_TEST)
             print(f"Selected {len(config_links)} random configs for testing in {protocol_file}")
