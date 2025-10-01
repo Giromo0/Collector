@@ -17,9 +17,11 @@ jobs:
       - name: Checkout repo content
         uses: actions/checkout@v4
 
-      - name: Check protocol files
+      - name: Debug repository structure
         run: |
-          ls -l Splitted-By-Protocol/
+          ls -R
+          echo "Checking Splitted-By-Protocol directory:"
+          ls -l Splitted-By-Protocol/ || echo "Directory Splitted-By-Protocol not found"
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -37,21 +39,21 @@ jobs:
 
       - name: Debug output directory
         run: |
-          ls -l tested/
+          ls -l tested/ || echo "Directory tested/ is empty or does not exist"
           cat tested/config_test.txt || echo "No config_test.txt found"
 
       - name: Commit changes before pull
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add tested/*
+          git add tested/* || echo "No files to add in tested/"
           git commit -m "Temporary commit before pull" || echo "No changes to commit"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Pull latest changes
         run: |
-          git pull --rebase origin main
+          git pull --rebase origin main || echo "Failed to pull, continuing"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
