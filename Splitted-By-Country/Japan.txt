@@ -1,15 +1,19 @@
+trojan://253bc477d4e43c209f2d427272968280@160.16.124.55:3160?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
+trojan://ef43453f-1eae-4501-8c9e-5c17e9f50758@lazy.rsqpq.cn:32001?allowInsecure=1#01-JP01%E6%97%A5%E6%9C%AC
+trojan://f0f66b33-35d5-4d0e-bed3-f75b3d41267d@lazy.rsqpq.cn:32001?allowInsecure=1#02-JP01%E6%97%A5%E6%9C%AC
+trojan://0ea82d15-8bb2-4223-9602-fd09698cea48@lazy.rsqpq.cn:32001?allowInsecure=1#04-JP01%E6%97%A5%E6%9C%AC
+trojan://f34966cd-2c76-48cd-94d5-90293682e14c@lazy.rsqpq.cn:32001?allowInsecure=1#05-JP01%E6%97%A5%E6%9C%AC
+trojan://53ff4df4-1951-4e5e-8c4d-340b5c693ae8@lazy.rsqpq.cn:32001?allowInsecure=1#06-JP01%E6%97%A5%E6%9C%AC
+trojan://6f2d40d8-f47a-4ae0-9ca8-c1d46cc6bc8b@lazy.rsqpq.cn:32001?allowInsecure=1#07-JP01%E6%97%A5%E6%9C%AC
+trojan://57e41491-08ec-4798-ab19-8398d921e0f7@lazy.rsqpq.cn:32001?allowInsecure=1#08-JP01%E6%97%A5%E6%9C%AC
+trojan://ef43453f-1eae-4501-8c9e-5c17e9f50758@lazy.rsqpq.cn:32002?allowInsecure=1#01-JP02%E6%97%A5%E6%9C%AC
+trojan://f0f66b33-35d5-4d0e-bed3-f75b3d41267d@lazy.rsqpq.cn:32002?allowInsecure=1#02-JP02%E6%97%A5%E6%9C%AC
+trojan://0ea82d15-8bb2-4223-9602-fd09698cea48@lazy.rsqpq.cn:32002?allowInsecure=1#04-JP02%E6%97%A5%E6%9C%AC
+trojan://f34966cd-2c76-48cd-94d5-90293682e14c@lazy.rsqpq.cn:32002?allowInsecure=1#05-JP02%E6%97%A5%E6%9C%AC
+trojan://53ff4df4-1951-4e5e-8c4d-340b5c693ae8@lazy.rsqpq.cn:32002?allowInsecure=1#06-JP02%E6%97%A5%E6%9C%AC
+trojan://6f2d40d8-f47a-4ae0-9ca8-c1d46cc6bc8b@lazy.rsqpq.cn:32002?allowInsecure=1#07-JP02%E6%97%A5%E6%9C%AC
+trojan://57e41491-08ec-4798-ab19-8398d921e0f7@lazy.rsqpq.cn:32002?allowInsecure=1#08-JP02%E6%97%A5%E6%9C%AC
 trojan://0df6b9c4e7d58d84@54.178.71.192:443?security=tls&sni=n2.gladns.com&type=grpc#🔒 TR-GRPC-TLS 🇯🇵 JP-54.178.71.192:443
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.74.162:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-160.16.74.162:443
-trojan://253bc477d4e43c209f2d427272968280@160.16.124.55:3160?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
-trojan://76b65886-6a71-47cd-9478-2c2f1f43ffc0@lazy.rsqpq.cn:32001?allowInsecure=1#01-JP01%7C%E6%97%A5%E6%9C%AC
-trojan://d1e387e9-1798-4ca6-b12a-a52a9dd4002c@lazy.rsqpq.cn:32001?allowInsecure=1#02-JP01%7C%E6%97%A5%E6%9C%AC
-trojan://41a6b54a-9797-41a2-b329-63c31c197db8@lazy.rsqpq.cn:32001?allowInsecure=1#03-JP01%7C%E6%97%A5%E6%9C%AC
-trojan://320e1c1d-2838-492c-95de-2edb29ba13d5@lazy.rsqpq.cn:32001?allowInsecure=1#04-JP01%7C%E6%97%A5%E6%9C%AC
-trojan://76b65886-6a71-47cd-9478-2c2f1f43ffc0@lazy.rsqpq.cn:32002?allowInsecure=1#01-JP02%7C%E6%97%A5%E6%9C%AC
-trojan://d1e387e9-1798-4ca6-b12a-a52a9dd4002c@lazy.rsqpq.cn:32002?allowInsecure=1#02-JP02%7C%E6%97%A5%E6%9C%AC
-trojan://41a6b54a-9797-41a2-b329-63c31c197db8@lazy.rsqpq.cn:32002?allowInsecure=1#03-JP02%7C%E6%97%A5%E6%9C%AC
-trojan://320e1c1d-2838-492c-95de-2edb29ba13d5@lazy.rsqpq.cn:32002?allowInsecure=1#04-JP02%7C%E6%97%A5%E6%9C%AC
-vmess://eyJhZGQiOiIzOC42MC4yMTcuMTQ2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjI2YWUzNmE0LWUyMWYtNDhhZS1lOTBiLTVhZGYyNzFiMDQ2ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDIxNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://0c07016f-6238-4a17-a414-ab0ecd8a8b5e@npmjs.com:80?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&path=/?ed=2560&security=none&encryption=none&host=soft-wave-5d2a.kyng-ayaan.workers.dev&type=ws#AZADIV2RAYY JAPAN 🇯🇵
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkB2MnJheV9jb25maWdzX3Bvb2wiLA0KICAiYWRkIjogIjE5Mi4zLjIzMy4yMTYiLA0KICAicG9ydCI6ICIxNjU1NiIsDQogICJpZCI6ICI2MDBmMGQzZS1hMjVkLTQ2OGItYzc4OS0wYjViYWEyZjUyYzEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAiYXV0byIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vmess://eyJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIwMTciLCJwcyI6IvCfh6/wn4e1QHZwbl9pb3NzIOKZu++4jyDYudi22Ygg2LTZiCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
