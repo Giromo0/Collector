@@ -1,11 +1,6 @@
 trojan://123456@192.65.217.53:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒 TR-WS-TLS 🇦🇺 AU-192.65.217.53:8443
-vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh6bwn4e6XSBbdm0tbm8tcmFdIFsyNTEwMDUtMDExNjM0LjMyMV0iLCJhZGQiOiI0Ni4yNTAuMjQzLjU2IiwicG9ydCI6IjUwMzk0IiwidHlwZSI6Im5vbmUiLCJpZCI6ImE3NWYzZjk1LWFkNGUtNDQ5OC1mYzcyLWRkNzQwZGQwMmJmYyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-vmess://eyJhZGQiOiIxNDguMTEzLjE1My4xMTIiLCJhaWQiOiIwIiwiaG9zdCI6InNlcmthdC5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDE5OSIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJrYXQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AUS
-vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443?security=tls&encryption=none&type=grpc&sni=pqh31v6.hiddendom.shop#%3E%3E%40configV2rayNG%3A%3AUS
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR85r6z5aSn5Yip5LqafEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjExMi4yOS4yMTMuMjI4IiwgInBvcnQiOiAiNDYwMjIiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0YzVhOGE3NS03ZDY1LTQwYTktOGMzYi1hNjdhYmFlMDg1MzQiLCAic25pIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi96aC1jbiJ9
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AUS
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?security=tls&encryption=none&type=grpc&sni=pqh31v7.hiddendom.shop#%3E%3E%40configV2rayNG%3A%3AUS
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017448326.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AUS
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378511390.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AUS
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378513079.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AUS
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510543.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AUS
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510115.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AUS
-vless://0c0537c3-f0fb-40e6-bd59-f5038e1855ed@162.159.43.92:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=juzi.634676.xyz&type=ws&sni=juzi.634676.xyz#%3E%3E%40shadowproxy66%3A%3AUS
