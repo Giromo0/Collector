@@ -1,7 +1,5 @@
 trojan://123456@192.65.217.53:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒 TR-WS-TLS 🇦🇺 AU-192.65.217.53:8443
-vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh6bwn4e6XSBbdm0tbm8tcmFdIFsyNTEwMDYtMDExNzAxLjExNF0iLCJhZGQiOiI0Ni4yNTAuMjQzLjU2IiwicG9ydCI6IjUwMzk0IiwidHlwZSI6Im5vbmUiLCJpZCI6ImE3NWYzZjk1LWFkNGUtNDQ5OC1mYzcyLWRkNzQwZGQwMmJmYyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?security=&encryption=none&type=grpc#%3E%3E%40shadowproxy66%3A%3AUS
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510543.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AUS
-vless://2737c5a4-50d5-46a2-9c8c-86920088b8c7@104.21.67.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=4g.zippza404abp.webredirect.org&type=ws&sni=4g.zippza404abp.webredirect.org#%3E%3E%40configV2rayNG%3A%3AUS
-hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AUS
-vless://0c0537c3-f0fb-40e6-bd59-f5038e1855ed@162.159.43.92:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=juzi.634676.xyz&type=ws&sni=juzi.634676.xyz#%3E%3E%40shadowproxy66%3A%3AUS
+vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMTYzIiwiYWlkIjoiMCIsImhvc3QiOiJ5aWNodWVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDE1NyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ5aWNodWVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjQ0NTc5IiwicHMiOiJAUmF5YW5fQ29uZmlnIDE0NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AUS
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378511390.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AUS
