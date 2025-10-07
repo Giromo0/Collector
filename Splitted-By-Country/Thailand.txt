@@ -1,8 +1,5 @@
 wireguard://YITZuwr5mNre35n6zFqjdpmjLDH%2FCTqcpLfVBkcoZU4%3D@85.12.5.80:51820?address=100.64.15.28%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#🇹🇭Bangkok🇹🇭.conf
-vless://ca3822f1-ef8d-4eca-ae5a-aa1ea1df8384@172.66.40.99:443?path=%40ln2ray%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=ircp.55994421.xyz&amp;fp=firefox&amp;type
-vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=%2Fwebsocket&amp;security=tls&amp;encryption=none&amp;host=de02.abvpn.ru&amp;type=ws&amp;sni=de02.abvpn.ru#7
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=%2FTelegram8%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=ipsycho.suex12.ir&amp;fp=randomized&amp;type=ws&amp;sni=ipsychO.SUEx12.Ir#8
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@148.135.110.150:48503?&security=tls&fp=chrome&sni=kejiland.freewarp.eu.org&type=ws&headerType=none&host=kejiland.freewarp.eu.org&path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560#%E7%91%9E%E5%85%B8%20001
-vless://86be7d6e-9dda-433b-8ea8-0c44a7dfcfbd@85.158.110.62:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&sni=google.com#VPNKEY-Netherlands
+vless://46c4bca1-3899-496c-9fd5-358fc5b08d01@85.158.110.62:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&sni=google.com#VPNKEY-Netherlands
 hy2://abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d@af01e9-330-3.9966661.xyz:3000/?sni=af01e9-330.9966661.xyz#Channel id: @ShadowProxy66🇹🇭
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#
+vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&amp;security=&amp;encryption=none&amp;host=melovy.ir&amp;type=ws#
+vmess://eyJ2IjoiMiIsInBzIjoiR2l0aHVi5pCc57SiVHJvamFuTGlua3MgMTYiLCJhZGQiOiIxMDYuMTQuNzUuMTE0IiwicG9ydCI6IjUwMDAyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
