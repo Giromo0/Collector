@@ -1,7 +1,21 @@
 trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#2%7C%F0%9F%87%BA%F0%9F%87%B845%20%7C%20%202.5MB/s%7C46%25%7COpenai%7CGem...
+vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=%2FTel-%40%56%32%72%61%79%5f%41%6c%70%68%61&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#
+hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@172.252.236.213:57275/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
+hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@172.252.236.213:57275/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
+hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@172.252.236.213:57275/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
+hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+vmess://eyJhZGQiOiIxNTguNTEuMTIxLjYzIiwiYWlkIjoiMCIsImhvc3QiOiJzZXJpYnVzLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBSYXlhbl9Db25maWcgMjIzIiwic2N5IjoiYXV0byIsInNuaSI6InNlcmlidXMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://118c8145-8922-44e9-e885-35173e859748@46.101.204.39:443/?type=xhttp&amp;encryption=none&amp;flow=&amp;sni=store.steampowered.com&amp;fp=chrome&amp;security=reality&amp;pbk=72fN35cLzXeFyWy471g1th6Q9BKyRfXzMYbAGEx3SXs&amp;sid=
+trojan://telegram-id-privatevpns@52.47.54.131:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@15.236.86.144:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 vless://52264e0b-f6ff-4282-a935-0aa9ab434827@vcheatv.shop:10808?security=reality&type=tcp&headerType=&path=&host=&sni=www.cloudflare.com&fp=chrome&pbk=YIABykCa2jUOBKxGdsAgiXmODljVw6TmgSGmpj-Frj4&sid=05aeb4aef8a5a503#GERMANY%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@172.252.236.213:57275/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+vless://4f53514e-bf21-4d46-8c11-3ac9297927a6@ge2.soleymani.shop:9393?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ge2ray%20%5B3%5D
+vless://01996549-6892-dbf0-0453-f700236936bd@104.17.145.3:2053?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40orange_vpns%20%5B14%5D
+vmess://eyJhZGQiOiJpci5zdmdzcGVlZHRlc3QubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJza3lyb29tLm9ubGluZSIsImlkIjoiNDFjOTFiODUtNjZiYi00YWE3LWE3ZjUtZTMwZWM4MmNmZmFiIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjM4OTYwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJwcyI6Ilx1Mjc1NCBYWCB8IFx1ZDgzZFx1ZGQxMyBWTUVTUyB8IEBzYXZhZ2VuZXQgWzJdIn0
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IOWNjuebm+mhv0NvZ2VudOmAmuS/oeWFrOWPuCIsImFkZCI6IjM4LjExNC4xMTQuMjQxIiwicG9ydCI6IjQ1MjMxIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQ2OWUwYjMxLTMwYzMtNGRhYi04MDBkLTcxMTIzMjYzNGNlMSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJsdC5meGxjbi5jb20iLCJ0bHMiOiIifQ==
+vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTA5NTdjYTYtZjYxMy00MDE3LWZmM2MtZWZmZDFkYTg4NzFhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MjYxMCIsInBzIjoi2K7YsduM2K8gQE9yYW5nZV9zdXBwb3J0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+trojan://telegram-id-directvpn@13.37.13.220:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
+vless://29b79b80-fb25-47e5-b7f4-4dcbcc491e54@104.21.69.44:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
+vmess://eyJhZGQiOiIzNy4yMjEuMTI1LjE1OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzNTNlMDc4Ny03MWJjLTQ0MmQtOWM5ZC05MDJmOTAzNTllYjUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzOTQwIiwicHMiOiLYrtix24zYryBAT3JhbmdlX3N1cHBvcnQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://9a1e5469-35e9-4d98-b831-28bc6073f685@45.194.11.176:443?mode=gun&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=gprc&sni=de.outberlin.online#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supp
