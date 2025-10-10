@@ -1,1 +1,2 @@
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.189:443?sni=45.32.28.232&allowInsecure=0#🔒 TR-TCP-NA 🇹🇼 TW-210.203.60.189:443
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.35.168:443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&encryption=none&host=edcck.ambercc.filegear-sg.me&fp=random&type=ws&sni=edcck.ambercc.filegear-sg.me#%40v2ray
