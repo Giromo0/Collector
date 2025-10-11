@@ -1,4 +1,5 @@
 trojan://123456@192.65.217.53:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒 TR-WS-TLS 🇦🇺 AU-192.65.217.53:8443
-vless://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@backus1.dh03.shop:443?path=%2Fhigate&security=tls&encryption=none&host=backus1.dh03.shop&type=ws&sni=backus1.dh03.shop#%3E%3E%40configV2rayNG%3A%3AUS
-vless://2737c5a4-50d5-46a2-9c8c-86920088b8c7@104.21.67.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=4g.zippza404abp.webredirect.org&type=ws&sni=4g.zippza404abp.webredirect.org#%3E%3E%40configV2rayNG%3A%3AUS
-vless://35edd316-09cd-4e1f-a6a6-d91dfea28a52@170.64.182.57:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20AU%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+vmess://eyJ2IjoiMiIsInBzIjoi5r6z5aSn5Yip5LqaIC0g5oKJ5bC8IC0gT3JhY2xlIENvcnBvcmF0aW9uIC0gMyIsImFkZCI6InN5NC42MjA3MjAueHl6IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJzeTQuNjIwNzIwLnh5eiIsInRscyI6InRscyJ9
+vless://d4437242-7039-4e88-b83b-f383fa5ffda2@m57a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vmessorg%20%5B4%5D
+vless://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@172.67.203.89:443?path=%2Fhigate&security=tls&encryption=none&host=backus1.dh03.shop&type=ws&sni=backus1.dh03.shop#%3E%3E%40configV2rayNG%3A%3AUS
+vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@212.18.104.19:443?security=reality&encryption=none&pbk=9tpeVTkuJ5il6GaLG9YqMn99OK8AFlzgEFtoD1_MkyI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nspk.ru&sid=f8c64c7a#%3E%3E%40free_nettm%3A%3AUS
