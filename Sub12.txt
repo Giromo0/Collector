@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
+vless://02efda19-4437-4d67-ad4f-3ca613dd80b1@kifpool.me:443?path=%2FkuF4zJYa4FBeudGb&security=tls&encryption=none&host=mdrN.paGes.Dev&fp=chrome&type=ws&sni=mdrN.paGes.Dev#%40V2RAY_VMESS_free
 vless://e5c2e234-333e-48b4-8199-2793a64527bc@104.21.48.1:443?path=%2F&security=tls&encryption=none&host=s1-c3r.pages.dev&fp=chrome&type=ws&sni=s1-c3r.pages.dev#%40V2RAY_VMESS_free
 vless://e138b9d4-1bc9-49d0-b6ad-34347e464c05@188.245.222.196:8081?security=none&encryption=none&headerType=none&type=tcp#%40vpnaloo
 vless://48849943-b490-493c-8eae-9ba5da532c23@91.98.161.85:443?security=reality&encryption=none&pbk=U593zOEZ2sAAD_NXXxAwj9Ez-eIzfXbZPZglX1K6PzM&headerType=none&fp=firefox&spx=%2FTELEGRAM--BYA--KANAL--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=www.tgju.org&sid=8be6aa26#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
@@ -501,4 +502,3 @@ vmess://eyJhZGQiOiAiOTEuMTM0LjguMTAyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjog
 vmess://eyJhZGQiOiI1Ny4xMjguMjE2LjEyNSIsImFpZCI6IjAiLCJob3N0Ijoia2FtcG9uZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAdjJyYXlpbmciLCJzY3kiOiJhdXRvIiwic25pIjoia2FtcG9uZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI1LjE4Mi4zNy4yMzEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTM5NTQ3NGMtZTJhMS00NTY1LWJhNTYtYzE2ZTczNzNjNGM0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0OTY2NCIsInBzIjoiQFZNRVNTSVI0TiDYrNmH2Kog2K7YsduM2K8g2qnYp9mG2YHbjNqvIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNDguMTEzLjE1My4xMTMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNlcmthdC5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4eo8J+HpkBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJrYXQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBHb2xlc3Rhbl9WUE4gLSBKT0lOIiwNCiAgImFkZCI6ICI0NS42Ny4yMzAuNzkiLA0KICAicG9ydCI6ICIxMTA1MiIsDQogICJpZCI6ICIzMTQxODVmNy05MzFkLTQ2NTYtOTIyZC0wODU3ZTdhZmQyMjQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIvIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
