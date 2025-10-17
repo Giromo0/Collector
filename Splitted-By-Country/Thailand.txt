@@ -1,5 +1,4 @@
-vless://46c4bca1-3899-496c-9fd5-358fc5b08d01@85.158.110.62:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&sni=google.com#VPNKEY-Netherlands
-vless://f4d8b865-a620-4e1d-802a-6bcf5a48c49e@85.158.110.62:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&sni=google.com#VPNKEY-Netherlands
+vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#89.44.242.222
+vmess://eyJ2IjoiMiIsInBzIjoiR2l0aHVi5pCc57SiVHJvamFuTGlua3MgMTYiLCJhZGQiOiIxMDYuMTQuNzUuMTE0IiwicG9ydCI6IjUwMDAyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
 trojan://3beeaf86-5522-4278-a1e9-b24a776552cd@190.93.246.255:2053?path=/TM (@AZARBAYJAB1)/TM (@AZARBAYJAB1)/TM (@AZARBAYJAB1)&security=tls&host=gamang.gpj1.dpdns.org&type=ws&sni=gamang.gpj1.dpdns.org#🇹🇭TM (@AZARBAYJAB1)
-vless://bf36173f-dbdb-4a2d-bc54-8140c352e013@159.89.98.13:443/?type=tcp&path=/&host=playstation.com&headerType=http&security=none#SecreTVPS-Testhaji
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?encryption=none&security=none&fp=chrome&type=grpc#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%F0%9F%8D%93%20%40xixv2ray
+vless://09d370df-d609-4697-8b72-2324135abe16@51.79.103.225:443?path=/linkws?ed&security=none&encryption=none&host=51.79.103.225&type=ws#🏴🏳
