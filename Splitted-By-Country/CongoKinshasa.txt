@@ -1,2 +1,3 @@
+vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&amp;encryption=none#38.47.176.134
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.conf…
-vmess://eyJhZGQiOiIxODguMjEzLjEyOC42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiMTE3YmQyNy0wZTE2LTQzNDItODUyYS01OWYwYzBhYTYxZjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiQGFkYW1ha192cG5cdTAwM2VcdTAwM2VcdTAwM2VcdTAwM2Vqb2luIiwicG9ydCI6IjIwMTAiLCJwcyI6IkB2MnJheTMxMyDaqdin2YbYp9mE2YXZiNmGIPCfqr8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#🥹
