@@ -1,5 +1,4 @@
 hysteria2://a28e61d9-61f9-4058-be6c-cc4ad07e01a4@kt01.tehuicloud.top:57338?insecure=1&sni=kt01.tehuicloud.top#kr01
-hysteria2://a28e61d9-61f9-4058-be6c-cc4ad07e01a4@kt01.tehuicloud.top:57338?security=tls&insecure=1&sni=kt01.tehuicloud.top#kr01
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgVk1FU1Mt5pyq55+lPumfqeWbvS1ORuino+mUgemfqeWbveWcsOWMuumdnuiHquWItuWJpy1DaGF0R1BULVRpa1Rvay1Zb3VUdWJlLXRpbWUuaXM6ODAiLCJhZGQiOiJ0aW1lLmlzIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjY2ZGRkNzkwLTEwZWQtNGExNi1iMzM0LTBiN2UzNTc3YjViNyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InRpbWUuaXMiLCJ0bHMiOiIifQ==
 vmess://eyJhZGQiOiIxODUuMTQyLjUzLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjJiYWJmMzRhLTE2ZjUtNGUzOC1hODg1LTczOGZkZmM4ZWFiZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDM1ODUiLCJwcyI6IvCfh7Dwn4e3QHZwbl9pb3NzIOKZu++4jyDYudi22Ygg2LTZiCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@182.31.70.92:12147?&security=tls&fp=chrome&sni=gaosir.unfeeling.sbs&type=ws&headerType=none&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#KR_speednode_0014
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@119.65.139.101:60001?&security=tls&fp=chrome&sni=gaosir.unfeeling.sbs&type=ws&headerType=none&host=gaosir.unfeeling.sbs&path=%2Fx%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94security%3Dtls#KR_speednode_0016
+hysteria2://a28e61d9-61f9-4058-be6c-cc4ad07e01a4@kt01.tehuicloud.top:57338?security=tls&insecure=1&sni=kt01.tehuicloud.top#kr01
