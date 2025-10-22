@@ -1,18 +1,17 @@
-vless://21f78714-2df6-4757-9fa5-f583eb0290cf@194.110.246.61:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=okKUcvjT68odjfLWEZ47XopjP3AqHfbC4jsxfN2-i30&sni=google.com#VPNKEY-United
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.250:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%9A%9C%E2%9B%B5%EF%B8%8F%F0%9F%9B%B08
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+Ut/CfhpRAdjJyYXlfY29uZmlnc19wb29s8J+UtyIsICJhZGQiOiAiaW5mby5hbmRpc2hlaG5lZ2FyaXJhbi5pciIsICJwb3J0IjogIjg0NDMiLCAiaWQiOiAiNjk2YWE5ODItZTVmZS00YjNiLWI4NTMtNmQyMTc0YjczODczIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJpbmZvLmFuZGlzaGVobmVnYXJpcmFuLmlyIiwgInBhdGgiOiAiL/CfhpRATTNIRElPMSIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJpbmZvLmFuZGlzaGVobmVnYXJpcmFuLmlyIiwgImFscG4iOiAiaDMsaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIn0=
-vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40vipvpn_v2ray%E2%9C%A8
-trojan://telegram-id-privatevpns@13.39.253.187:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@63.180.173.173:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
-trojan://telegram-id-privatevpns@63.176.244.93:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
-trojan://telegram-id-privatevpns@18.157.240.119:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
-trojan://telegram-id-privatevpns@3.67.23.48:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
-trojan://telegram-id-privatevpns@35.181.183.37:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
-vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:7601?security=reality&type=tcp&headerType=none&path=&host=&sni=www.yahoo.com&fp=chrome&pbk=d0MTB2pELj6kUMwYkDZCyf65mA9TbEa45bNJIqgRHTU&sid=9f54d072d0c27dc6#💎Hddify - Vip+
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@5.10.214.253:2096?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=
+vmess://eyJhZGQiOiI1Ny4xMjkuNTkuMjAyIiwiYWlkIjoiMCIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAxNDEiLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiR2l0aHVi5pCc57SiVHJvamFuTGlua3MgNyIsImFkZCI6IjExMi4xMzIuMjE1LjEyIiwicG9ydCI6IjUwMDAyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@116.203.249.124:2020?type=tcp&headerType=none&security=none#
 vless://cf20441a-0ca5-4eeb-bda7-4b6cb5d8b207@185.137.27.165:443?path=/?ed=2048&security=tls&encryption=none&host=dl-it.eth0.lat&type=ws&sni=dl-it.eth0.lat#🇮🇹 pardazeshVPN
-vless://55d7c587-7d65-4cd2-a51a-0a7fb6a63285@germany.fast.hosting-ip.com:80?mode=auto&path=%2F%40v2pediabot%40v2pediabot%40v2pediabot%40v2pediabot%40v2pediabot%40v2pediabot%3Fed%3D2048&security=none&encryption=none&host=v2pediabot71.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40eliteproxyv2%20%5B8%5D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=none&encryption=none&type=grpc#r♡ya
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880?mode=gun&security=&encryption=none&type=grpc#r♡ya
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965946052583460.arak-blkaft-aaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#🏴🏳
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fupload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40eliteproxyv2%20%5B6%5D
 vless://Channel-ITV2RAY@iTV2RAY.ddns.net:969?path=%2FiTV2RAY&security=reality&encryption=none&pbk=BK8bqxmSO3nF4r8wMDTJ7wl97UQ3uSVEw60cnPk7zW4&host=%40iTV2RAY#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40itv2ray%20%5B30%5D
-vless://5b9fb1fe-f919-426b-761c-55a5d9139e0e@khabar.motionbetter.ir:20854?security=none&type=httpupgrade&headerType=&path=&host=#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mimitdl%20%5B6%5D
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?&security=tls&fp=chrome&sni=gaosir.unfeeling.sbs&type=ws&headerType=none&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#HK_d9713_0006
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.85.53.74:443?&security=tls&fp=chrome&sni=gaosir.unfeeling.sbs&type=ws&headerType=none&host=gaosir.unfeeling.sbs&path=%2FX%40freecodes%2F%3Fed%3D2560#HK_d9713_0007
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.38:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%F0%9F%A4%93%F0%9F%A6%95%F0%9F%A6%967
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40v2rayan
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@147.45.51.160:443?security=reality&amp;encryption=none&amp;pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.company-target.com#Italy%20Rostelecom
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#3
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
+vless://0d0782a3-2c62-4936-b893-5790188778ea@www.speedtest.net:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=XbU10cS9vT.gIgA1.oRg&fp=chrome&type=ws&sni=XbU10cS9vT.gIgA1.oRg#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A5%B9
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?mode=gun&security=&encryption=none&type=grpc#%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20satellitenewspersian%40%E2%9C%85
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?mode=gun&security=&encryption=none&type=grpc&sni=pqh26v3.sport26tennis.shop#%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20satellitenewspersian%40%E2%9C%85
