@@ -1,4 +1,6 @@
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#[
-vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=%2FTel-%40%56%32%72%61%79%5f%41%6c%70%68%61&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#
-vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#
+trojan://telegram-id-privatevpns@35.181.70.1:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+vless://2fb8383b-2b12-463e-a20d-674c36d9b7d3@Filter5050.nabxcsjghjs2004.shop:27940?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#‌‌-یک
+vless://b7437f7a-783f-4e6f-a555-a2a589f42b5a@77.83.245.223:443?security=reality&encryption=none&pbk=3eGr9c-fUH929mb7yjP5DZJUH56fhkb_RsOp165s4W4&headerType=none&fp=chrome&spx=/GiRQZlbZBrXqbYO&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=783500cd7f#r♡ya
 vless://f055d270-0e76-4a41-a53f-871bbb51b003@190.93.247.172:443?path=%2F&security=tls&encryption=none&host=what.zhonghuoxing.top&fp=chrome&type=ws&sni=what.zhonghuoxing.top#%40v2ray
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@160.16.203.210:443?&security=tls&fp=chrome&sni=gaosir.unfeeling.sbs&type=ws&headerType=none&host=gaosir.unfeeling.sbs&path=%2FX%40freecodes%2F#%E6%97%A5%E6%9C%AC_9
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@153.121.45.101:443?&security=tls&fp=chrome&sni=gaosir.unfeeling.sbs&type=ws&headerType=none&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#%E6%97%A5%E6%9C%AC_10
