@@ -147,6 +147,8 @@ trojan://telegram-id-privatevpns@63.179.28.156:22222?security=tls&amp;alpn=http/
 trojan://telegram-id-privatevpns@63.180.165.233:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@35.180.216.160:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@15.236.140.255:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@3.120.0.227:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
+trojan://telegram-id-privatevpns@63.177.195.85:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&amp;security=tls&amp;alpn=http%2F1.1&amp;host=kotlet.arshiacomplus.dpdns.org&amp;fp=firefox&amp;type=ws&amp;sni=kotlet.arshiacomplus.dpdns.org#%40EuServer
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&amp;security=tls&amp;alpn=http%2F1.1&amp;host=kotlet.arshiacomplus.dpdns.org&amp;fp=firefox&amp;type=ws&amp;sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&amp;security=tls&amp;alpn=http%2F1.1&amp;host=kotlet.arshiacomplus.dpdns.org&amp;fp=chrome&amp;type=ws&amp;sni=kotlet.arshiacomplus.dpdns.org#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
@@ -500,5 +502,3 @@ vless://2836c061-ea09-45e5-a98e-4ca478e744b0@172.66.47.63:443?path=%2Ff2GYY0Yixk
 vless://2836c061-ea09-45e5-a98e-4ca478e744b0@172.66.47.63:2083?path=%2FkbQ09oXGr8jE2RIC%2FY2RuLWIxMDAueG4tLWI2Z2FjLmV1Lm9yZw&amp;security=tls&amp;encryption=none&amp;host=Add-1Cv.PAGes.deV&amp;fp=random&amp;type=ws&amp;sni=Add-1Cv.PAGes.deV#%40V2RAY_VMESS_free
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2RAY_VMESS_free
 vless://19b7d4d8-de95-41cf-b270-a310cc21f151@a-lf-0.okamii.ir:2095?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%40V2RAY_VMESS_free
-vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@104.21.48.1:443?mode=packet-up&amp;path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D443&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;fp=chrome&amp;type=xhttp&amp;sni=cho.chonon.sbs#%40V2RAY_VMESS_free
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@50.62.194.253:2096?security=tls&amp;encryption=none&amp;type=ws&amp;sni=vless.muzheng.top#%40V2RAY_VMESS_free
