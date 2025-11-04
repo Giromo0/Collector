@@ -1,2 +1,2 @@
-vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=%2FTel-%40%56%32%72%61%79%5f%41%6c%70%68%61&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#
-tuic://2f77527e-678c-4af6-9a0a-30823885bd53:2f77527e-678c-4af6-9a0a-30823885bd53@134.209.28.89.sslip.io:54773?congestion_control=cubic&udp_relay_mode=native&sni=134.209.28.89.sslip.io&alpn=h3#Tuic3
+trojan://telegram-id-privatevpns@35.159.205.228:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsdg.huasuan666.top:22155?security=tls&insecure=1&sni=hsdg.huasuan666.top#@Hddify
