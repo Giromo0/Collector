@@ -1,3 +1,2 @@
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&alpn=h3&encryption=none=&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
-vless://40730d97-ffa7-1108-2c53-761516eb5fda@45.88.13.10:443?security=reality&encryption=none&pbk=Tv-cNH4ADnhrcIc_JIHdTCz2PJ3b4jkmLNAJ4OVKuzY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#r♡ya
-vless://b5544203-55e3-426e-92f1-0684c93f9829@47.239.105.224:443?&security=tls&fp=chrome&sni=snippet.danfeng.site&type=ws&headerType=none&host=snippet.danfeng.site&path=%2F%3Fed%3D2560#4
+trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
