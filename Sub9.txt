@@ -2,16 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#telegram ☂️ v2ray_configs_pools
-vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#
-vless://bc310b8d-fbe8-4c55-970b-be77816fceea@45.79.10.46:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram 🚀 v2ray_configs_pools
-vless://bc310b8d-fbe8-4c55-970b-be77816fceea@45.79.10.46:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram 🍀 v2ray_configs_pools
-vless://bc310b8d-fbe8-4c55-970b-be77816fceea@45.79.10.46:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram 🌟 v2ray_configs_pools
-vless://bc310b8d-fbe8-4c55-970b-be77816fceea@45.79.10.46:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram ☂️ v2ray_configs_pools
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.220.150:8443?type=xhttp&path=/xhttp&host=&mode=stream-one&security=none#telegram ☂️ v2ray_configs_pools
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#telegram 🌺 v2ray_configs_pools
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?type=xhttp&path=/xhttp&host=&mode=stream-one&security=none#telegram ⚡️ v2ray_configs_pools
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.145.167:8443?type=xhttp&path=/xhttp&host=&mode=stream-one&security=none#telegram 🚀 v2ray_configs_pools
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#
 vless://baacdf7d-1ede-4b30-e396-6153c03b3a1e@104.16.1.106:80?path=/&security=&encryption=none&host=eng.vinamarketcenter.ir&type=ws#telegram 🌈 v2ray_configs_pools
 vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@www.speedtest.net:2096?path=/tjkqcpws&security=tls&encryption=none&host=638879176706477448.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706477448.amsterdam-prx-dnraaal.info#telegram 🌺 v2ray_configs_pools
@@ -502,3 +492,13 @@ trojan://trojan@22b.net:2087?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1
 trojan://trojan@109.234.211.66:2087?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&security=tls&type=ws&sni=store.timimi.dpdns.org#🔥Join Telegram:@AZARBAYJAB1🟣
 trojan://telegram-id-privatevpns@63.180.165.233:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 2825 | Germany
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
+trojan://telegram-id-directvpn@51.45.22.229:22223?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Daily_Configs
+trojan://telegram-id-directvpn@35.159.205.228:22223?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 2885 | Germany
+trojan://telegram-id-directvpn@3.120.76.197:22223?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 2877 | Germany
+trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@V2rayNG3
+trojan://on4fCamU2E@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn 〰〰〰〰〰〰〰〰〰〰 ‼️نکته: اندرویدی ها فرگمنت رو خاموش کنید ✅  𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
+trojan://on4fCamU2E@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
+trojan://mXP68BRNvU@66.59.208.7:17136?security=none&headerType=&type=tcp#⚜️Telegram: @IP_CF
+trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1ch-ovh.devefun.net#@V2rayNG3
+trojan://hNv80y7CWu@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
+trojan://fi1DPGOQ0I34PYZfaYyTvQ@91.107.172.48:443?security=tls&headerType=none&type=tcp&sni=www.twitch.tv#@IRAN_V2RAY1
