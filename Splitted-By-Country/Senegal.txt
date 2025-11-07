@@ -1,3 +1,4 @@
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&sni=147135001195.sec22org.com&type=tcp&fp=chrome#[
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=none&encryption=none&authority=_&type=grpc&sni=pqh27v7.ipforvetra.shop#%F0%9F%90%8C%F0%9F%90%8C%F0%9F%90%8C4
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?&security=tls&fp=chrome&sni=gaosir.unfeeling.sbs&type=ws&headerType=none&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%E8%8D%B7%E5%85%B0%20060
+vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#[
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.29:443?&security=tls&fp=chrome&sni=rayan-007.parvin.dpdns.org&type=ws&headerType=none&host=rayan-007.parvin.dpdns.org&path=%2F#45.83.21.29%3A443
+trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#FreeV2Alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
+tuic://2f77527e-678c-4af6-9a0a-30823885bd53:2f77527e-678c-4af6-9a0a-30823885bd53@134.209.28.89.sslip.io:54773?congestion_control=cubic&udp_relay_mode=native&sni=134.209.28.89.sslip.io&alpn=h3#Tuic3
