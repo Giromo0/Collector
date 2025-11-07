@@ -1,2 +1,1 @@
-vless://5915f034-a53b-4b63-b0e7-b29194de3fe9@bitpay.com:443?&security=tls&fp=chrome&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&type=ws&headerType=none&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&path=%2Fws#bitpay.com%3A443
 tuic://2f77527e-678c-4af6-9a0a-30823885bd53:2f77527e-678c-4af6-9a0a-30823885bd53@134.209.28.89.sslip.io:54773?congestion_control=cubic&udp_relay_mode=native&sni=134.209.28.89.sslip.io&alpn=h3#Tuic3
