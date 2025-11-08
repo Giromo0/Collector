@@ -1,3 +1,1 @@
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&alpn=h3&encryption=none=&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#00
-vless://cb796646-d528-4b96-9984-86dbceed95ad@104.21.16.1:443?&security=tls&fp=chrome&sni=DD3A34A9.bPB1-1TS.PaGeS.DEV&type=ws&headerType=none&host=DD3A34A9.bPB1-1TS.PaGeS.DEV&path=%2F#%E6%9C%AA%E7%9F%A5%209
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#Dr-Anv%20%F0%9F%87%AC%F0%9F%87%A7`
