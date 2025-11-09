@@ -1,9 +1,1 @@
-trojan://BxceQaOe@58.152.46.98:443?sni=58.152.46.98#HK
-trojan://telegram-id-privatevpns@15.188.72.68:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
-trojan://telegram-id-privatevpns@63.180.193.173:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
-trojan://telegram-id-privatevpns@15.188.180.198:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
-hy2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk:443/?mport=20000-50000&amp;sni=9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk#C
-vless://2456f90c-5183-476d-b069-16ae74ce120f@45.40.151.253:2096?security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#🏴🏳
-vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053?path=/containers/de&security=tls&encryption=none&host=om4.omidsuccess.uk&fp=chrome&type=ws&sni=om4.omidsuccess.uk#00
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh29v6.hiddendom.shop#🏴🏳
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=none&encryption=none&authority=---_T&type=grpc&sni=pqh27v7.ipforvetra.shop#[
+hy2://92b2a3d4-f353-11ef-b714-f23c93136cb3@9b91d3c4-t53wg0-t6h87s-63bp.la.shifen.uk:443/?mport=20000-50000&amp;sni=9b91d3c4-t53wg0-t6h87s-63bp.la.shifen.uk#C
