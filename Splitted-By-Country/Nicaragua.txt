@@ -1,17 +1,17 @@
-trojan://7d82af32-915f-4619-aa9c-7d3b612d33ff@65.109.227.138:2053?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/65.109.227.138=2053&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A53
-trojan://d5a49621-b25c-4684-aea8-8389f3a8afaf@94.177.199.119:8443?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/94.177.199.119=8443&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A511
-trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/94.131.114.50=81&host=joss.dus.biz.id#%E6%9C%AA%E7%9F%A522
-trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?path=/azadnet-bdr.pages.dev/?ed=2560&PROT_TYPE=trojan&security=tls&host=azadnet-bdr.pages.dev&type=ws&sni=azadnet-bdr.pages.dev#@Hddify
-vless://3aa3f0d8-ae20-4ead-8585-c3717c03ddd7@zula.ir:8443?type=grpc&encryption=none&serviceName=ahwaz.infinitespd.com&authority=&mode=multi&security=tls&fp=chrome&alpn=h2,h3&allowInsecure=1&sni=ahwaz.infinitespd.com#MININIGHT
-vless://710bd6ff-a325-4767-9cb0-159eb190adcd@155.254.35.78:33811?type=grpc&encryption=none&serviceName=miro.com&authority=&security=reality&pbk=fa3n6JDInXvPSrde2HYqogCf2YheiIgxhhO3N3gO1Qs&fp=chrome&sni=miro.com&sid=63f811342e9c75&spx=/#NIGHTLY2
+vless://96b84d8a-6355-4422-8e65-42d3ccdb17c4@194.110.246.61:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=okKUcvjT68odjfLWEZ47XopjP3AqHfbC4jsxfN2-i30&sni=google.com#VPNKEY-United
+vmess://eyJhZGQiOiI0MC4xNjAuMTYuMjE2IiwiYWlkIjoiMCIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyAyMjciLCJzY3kiOiJhdXRvIiwic25pIjoiZmFwZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNDguMTEzLjE3Ni4xOTIiLCJhaWQiOiIwIiwiaG9zdCI6ImZhcGVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAUmF5YW5fQ29uZmlnIDI0MSIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+trojan://BxceQaOe@116.49.237.130:4569?sni=t.me/ripaojiedian#HK
+wireguard://KAMAnbaLSpaJuIVcsPaHw3RhZEEbMyRbjxH%2Fxn7J81U%3D@[2606:4700:d0::f557:bf85:0a3a:d827]:2408?address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=110%2C174%2C17#Tel= @darkness_427 wire  For nika ng: 💙 ipv4: 😋
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.226.198:59483?security=&amp;encryption=none&amp;pbk=&amp;headerType=none&amp;fp=&amp;type=grpc&amp;sni=&amp;sid=#United%20States%2092%20dailyv2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.47.58:59483?security=&amp;encryption=none&amp;pbk=&amp;headerType=none&amp;fp=&amp;type=grpc&amp;sni=&amp;sid=#United%20States%2068%20dailyv2ry
+hy2://8f43835e-10b3-4744-915c-cecb33ee7ff2@[2604:6600:2000:c::3f]:443/?mport=45000-46000&amp;insecure=1&amp;sni=
 vless://9dde40ad-29f2-4a6c-b1a5-0a149f583404@zula.ir:8443?mode=multi&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=ahwaz.infinitespd.com&sni=ahwaz.infinitespd.com#NIGHTLY CONFIG🌙
-vless://9dde40ad-29f2-4a6c-b1a5-0a149f583404@zula.ir:8443?mode=multi&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=ahwaz.infinitespd.com&sni=ahwaz.infinitespd.com#NIGHTLY CONFIG🌙  GOOD NIGHT🌙
-vless://cf024442-3f26-4224-8422-f4043ae0006f@MINIPROXY.NET:8443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=ahwaz.infinitespd.com&sni=ahwaz.infinitespd.com#MININIGHT🌙
-vless://cf024442-3f26-4224-8422-f4043ae0006f@MINIPROXY.NET:8443?type=grpc&encryption=none&serviceName=ahwaz.infinitespd.com&authority=&mode=multi&security=tls&fp=chrome&alpn=h2,h3&allowInsecure=1&sni=ahwaz.infinitespd.com#MININIGHT
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#mtnirancell ✨️ azadiiivpn
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942912656604786.malayer-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#mtnirancell ✨️ azadiiivpn
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638944337658439808.dezful-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#mtnirancell ✨️ azadiiivpn
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860201969.lisbon-prx-dnraacq.info:8880?mode=gun&security=none&encryption=none&type=grpc#mtnirancell ✨️ azadiiivpn
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#mtnirancell ✨️ azadiiivpn
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#mtnirancell ✨️ azadiiivpn
+vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443?path=/J5aKLOY1R7ONXYCM&security=tls&encryption=none&host=private.besttotaldns.com&type=ws&sni=private.besttotaldns.com#r♡ya
 hysteria2://94931862-1484-11f0-9ab7-f23c95b6f51d@98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk:1743?insecure=0#98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk%3A1743
-vmess://eyJhZGQiOiIxODUuMTQ2LjE3My4yNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0udG9yb2IuTWNpLnphcmFzaG9wMC5pci4iLCJpZCI6ImVkMWI1NzQzLTM4OWItNDhhMi04ZDYwLTM3OTBlZGVkN2NhNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkBmcmVlaXJhbmlhbnYycmV5IGNoIPCfkq8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@lundun1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=lundun1.nezhasu.com#@𝗦𝗞𝗬𝗣𝗥𝗢_𝗩𝗣𝗡
 vless://30e16ca9-edee-4ce5-8ba4-e53caa10ebae@apple5.mobile-unix.com:26425?security=&encryption=none&host=skyroom.online%2Cigap.net%2Cgharar.ir&headerType=http&type=tcp#Unix.5%F0%9F%87%A9%F0%9F%87%AA-javid.503
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.47.58:59483?encryption=none&amp;type=grpc#United%20States%2023%20dailyv2ry
