@@ -1,8 +1,12 @@
-wireguard://6LA%2FT7pxg%2F0YMZQQhZyOJt%2Bq2K0Mltx7llnyVsCMp3w%3D@91.148.248.64:51820?wnoise=quic&presharedkey=&address=100.64.47.155%2F32&keepalive=5&wpayloadsize=5-10&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#W1
 hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#%40NoForcedheaven
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#%40EuServer
+hy2://a2678c97b8d79059@46.62.152.236:443/?insecure=1&obfs=salamander&obfs-password=9242a8bf#@NoForcedheaven
+trojan://8OXD5VVt8s@176.32.39.29:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=chrome&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#@NoForcedHeaven
+trojan://AdPYCBfMUM@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=chrome&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=/yethePcHjaf#@NoForcedHeaven
+trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=chrome&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=/yethePcHjaf#@NoForcedHeaven
+vless://8463d263-a7cd-4258-b7f9-d380e253382e@nl2.asc-sam.ir:8880?path=%2F%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven&security=none&encryption=none&type=ws#%40NoForcedHeaven%F0%9F%87%B3%F0%9F%87%B1
 vless://a51c444a-8c41-44e4-8a19-f4194d69d0fb@nl2.asc-sam.ir:8080?mode=auto&path=%2FrwtjhkOSFVOgw&security=&encryption=none&type=xhttp#%40NoForcedHeaven%F0%9F%87%B3%F0%9F%87%B1
 vless://49ac7381-1c06-4d80-9b57-e0484c2607b0@194.116.216.21:8080?type=xhttp&encryption=none&path=%2FrwtjhkOSFVOgw&host=&mode=auto&security=none#%40NoForcedHeaven
-vless://3956e45d-e9fa-4f2a-a831-b7e8e5904692@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&security=none&encryption=none&host=Gn8656.io&type=ws#%40server_nekobox
-vless://b52df04c-493a-4faa-9a2c-db46860ee2df@us1.projecthope.ir:2053?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven&sni=us1.projecthope.ir#%40NoForcedHeaven%F0%9F%87%BA%F0%9F%87%B8
-vless://7045ed78-d73c-43f1-9ba5-9e20c704ac88@mstr.fastly80.hosting-ip.com:80?path=%2Fadmin&security=none&encryption=none&host=Gn8656.io&type=ws#%40server_nekobox
+vless://7fe7aca2-124e-4d0b-9911-8a5312f0be34@us1.projecthope.ir:2053?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven&sni=us1.projecthope.ir#%40NoForcedHeaven%F0%9F%87%BA%F0%9F%87%B8
+vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=firefox&type=tcp&sni=uk-09.allhubb.info#%40Noforcedheaven%F0%9F%87%AC%F0%9F%87%A7
+vless://8080748c-8053-4c25-88cc-9f9633ee3b3e@us1.projecthope.ir:2053?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=android&type=grpc#%40noforcedheaven
+vless://0f52d2a3-151e-49ec-b816-afbfd269d521@nl2.asc-sam.ir:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=android&type=tcp#%40NoForcedHeaven%F0%9F%87%B3%F0%9F%87%B1
