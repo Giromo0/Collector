@@ -1,2 +1,3 @@
-vless://faec23a3-1cab-4ef2-b9aa-4999ea14e451@151.101.66.219:80?security=none&amp;sni=speedtest.net&amp;type=ws&amp;host=alf17.ir&amp;path=/
-vless://4a5a2645-4b3a-41fe-8ad2-51907824f62d@45.140.167.94:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=sourceforge.net#_____%E2%99%A6%EF%B8%8F%E2%99%A3%EF%B8%8F+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%7C+%D8%B1%D8%A7%DB%8C%D8%AA%D9%84+%E2%99%A3%EF%B8%8F%E2%99%A6%EF%B8%8F_____
+trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
+vless://4a5a2645-4b3a-41fe-8ad2-51907824f62d@45.140.167.94:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net#_____%E2%99%A6%EF%B8%8F%E2%99%A3%EF%B8%8F+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%7C+%D8%B1%D8%A7%DB%8C%D8%AA%D9%84+%E2%99%A3%EF%B8%8F%E2%99%A6%EF%B8%8F_____
+vless://b822c358-a4f6-43e4-94b7-7d8be09ddff5@176.9.123.216:443?security=tls&encryption=none&headerType=none&type=tcp&sni=ui.zerooners.com#r%E2%99%A1ya
