@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-vless://48caa578-241e-43eb-817f-0854b84b0fb0@www.speedtest.net:443?path=%2Fedrlz7qvrhekjll8%2Fmtq0lji0ljkwljewnw%3D%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=config-vortex55-ar5.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=config-vortex55-ar5.pages.dev#%40V2RAY_VMESS_free
 vless://c8b64c88-278c-4e3c-a849-ff1e7deab335@212.41.6.36:6063?security=reality&amp;encryption=none&amp;pbk=lp9rnXXvOSixI0G-t_2zWrfVpuuQbJnxxNqupTDUKnU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=e4syg0auth.com&amp;sid=8e775a3062b428e2#%40V2RAY_VMESS_free
 vless://954cddd2-17fd-4591-9473-e9bca69687a8@37.27.21.218:8443?security=reality&amp;encryption=none&amp;pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=refersion.com&amp;sid=27e6b66aa77662fb#%40V2RAY_VMESS_free
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?path=%2Fx%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&amp;security=tls&amp;encryption=none&amp;host=gaosir.unfeeling.sbs&amp;fp=chrome&amp;type=ws&amp;sni=gaosir.unfeeling.sbs#%40V2RAY_VMESS_free
@@ -502,3 +501,4 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@192.241.251.158:59483?encryption=no
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.3.144:59483?encryption=none&amp;type=grpc#telegram%20%F0%9F%8C%9F%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@192.241.177.251:59483?encryption=none&amp;type=grpc#United%20States%2071%20dailyv2ry
 vless://cd63ebff-ba44-44d1-96c7-a23705245fce@norman.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=638985935581764577.mustang-amshq.info&amp;type=ws&amp;host=638985935581764577.mustang-amshq.info&amp;path=/dwtfnjws#Malaysia%2060%20dailyv2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.226.100:59483?encryption=none&amp;type=grpc#United%20States%2080%20dailyv2ry
