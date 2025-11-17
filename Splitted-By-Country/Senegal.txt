@@ -1,11 +1,2 @@
-trojan://2274c52572e721086f8bd8f88984643c@160.16.151.196:127?allowInsecure=1&sni=www.nintendogames.net#_%E6%97%A5%E6%9C%AC%207
-trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#%E6%9C%AA%E7%9F%A5
-trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?allowInsecure=0&amp;sni=cloudflare.node-ssl.cdn-alibaba.com#%E6%9C%AA%E7%9F%A5
-vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@www.speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h3&host=7f905f51.garywelch.pages.dev&fp=chrome&type=ws&sni=7f905f51.garywelch.pages.dev#_____%E2%99%A6%EF%B8%8F%E2%99%A3%EF%B8%8F+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%7C+%D8%B1%D8%A7%DB%8C%D8%AA%D9%84+%E2%99%A3%EF%B8%8F%E2%99%A6%EF%B8%8F_____
-vless://4a5a2645-4b3a-41fe-8ad2-51907824f62d@45.140.167.94:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=sourceforge.net#_____%E2%99%A6%EF%B8%8F%E2%99%A3%EF%B8%8F+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%7C+%D8%B1%D8%A7%DB%8C%D8%AA%D9%84+%E2%99%A3%EF%B8%8F%E2%99%A6%EF%B8%8F_____
-trojan://a25e963f-8f68-4b28-8c11-5d721f616434@62.60.246.168:443?security=tls&type=ws&sni=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/62.60.246.168=443&host=joss.gpj.web.id#%E6%9C%AA%E7%9F%A52
-trojan://e812343b-61a1-46fd-b086-b1395d0eb7de@89.110.116.141:443?type=ws&sni=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/89.110.116.141=443&host=joss.gpj.web.id#%E6%9C%AA%E7%9F%A514
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@www.speedtest.net:443?path=%2Fapi%2Fv1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&type=ws&sni=gb-8981.shenzogmbh.com#%E2%9A%9B%E2%9A%9B%E2%9A%9B4
-trojan://-4146XJHYAzJ4K8Ov6_LBQ@lv.podpiska.vip:11000?path=/tw&security=tls&type=ws&sni=noproblemvpn.ru#r♡ya
-tuic://2f77527e-678c-4af6-9a0a-30823885bd53:2f77527e-678c-4af6-9a0a-30823885bd53@134.209.28.89.sslip.io:54773?congestion_control=cubic&udp_relay_mode=native&sni=134.209.28.89.sslip.io&alpn=h3#Tuic3
-hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#@Hddify
+hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743/?sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk
+vless://d511b732-ade2-43dd-b2b9-76b215782326@152.53.142.129:35580?security=reality&encryption=none&pbk=gZ5Jr2vSi47aGdLo3321fO_bH7Kv3_Pdv6ZjQAEY7Vs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=expedia.com&sid=3ab4#r♡ya
