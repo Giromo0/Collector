@@ -1,1 +1,5 @@
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.131.243:1334?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=www.nintendogames.net#%40Filter_breaker-164
+vless://64bac080-e220-4ad2-eb97-56d5cf18b8c3@64.226.107.71:443?security=&encryption=none&type=grpc#%40Filter_breaker-6
+vless://Warpi-Free-Vpn-In-GooglePlay@78.47.80.152:443?security=none&encryption=none&headerType=none&type=tcp#%40Filter_breaker-3
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.134:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40Filter_breaker-10
 vless://e1628f52-dcbd-417c-90cc-e9266b28ea38@pq-brazil1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=%2Fvless%2F#[🇧🇷]t.me/ConfigsHub
