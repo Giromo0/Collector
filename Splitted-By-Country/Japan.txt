@@ -1,3 +1,6 @@
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.76.9:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.76.9-1433
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.246-1429
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3%204.2MB%2Fs
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093?allowInsecure=1&sni=www.nintendogames.net#JP-160.16.150.76-43
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.240.91:5553?allowInsecure=1&sni=www.nintendogames.net#JP-160.16.240.91-45
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?allowInsecure=1&sni=www.nintendogames.net#JP-160.16.116.227-46
@@ -15,11 +18,11 @@ hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp10.dexlos.com:19504?insecure=
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP7-HY2
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp4.dexlos.com:7940?insecure=1#JP4-HY2
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp1.dexlos.com:1556?insecure=1#JP1-HY2
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3%204.2MB%2Fs
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.112.83.7:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=chatgpt.com&amp;sid=f5#Japan%2066%20dailyv2ry
-trojan://2274c52572e721086f8bd8f88984643c@160.16.63.16:2890?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#[🇯🇵]t.me/ConfigsHub
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.131.243:4210?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#[🇯🇵]t.me/ConfigsHub
+vmess://eyJ2IjogIjIiLCAicHMiOiAi5pel5pysNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxNzguMTU3LjU3LjE2NiIsICJwb3J0IjogIjE1MDAzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImVkZjRjODQ3LTMxNjQtNGQ2My1hYjliLWM5OGFjYmE5NmYxZSIsICJzbmkiOiAiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysNHxAcmlwYW9qaWVkaWFuIiwiYWRkIjoiMTc4LjE1Ny41Ny4xNjYiLCJwb3J0IjoiMTUwMDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZWRmNGM4NDctMzE2NC00ZDYzLWFiOWItYzk4YWNiYTk2ZjFlIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Join Sho:@IRAN_V2RAY1 🇯🇵
 vless://0c07016f-6238-4a17-a414-ab0ecd8a8b5e@npmjs.com:80?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&path=/?ed=2560&security=none&encryption=none&host=soft-wave-5d2a.kyng-ayaan.workers.dev&type=ws#AZADIV2RAYY JAPAN 🇯🇵
-vless://6c0472bc-82df-449e-90bd-2f91c6a46402@aws-linkjp44.eovay.com:40044?security=reality&encryption=none&pbk=9o3SRBZXuCmIzT62VDD49t1iizy80sU_Sx05HQO_bh4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gghouse.co.jp&sid=c46b996f#r♡ya
 vmess://eyJ2IjoiMiIsImFkZCI6IjQ1LjE1OS41MS4xMTYiLCJwb3J0IjoiNDgwMTkiLCJpZCI6ImMwNjc5N2Q1LWZhNDEtNGI0OC1iMTMyLWQyNjhkMmFjYjMwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpQIHwgXHVkODNkXHVkZDEzIFZNRVNTIHwgQG1mdGl6aSBbMTldIn0
+trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40netfreedom0%20%5B19%5D
+trojan://2274c52572e721086f8bd8f88984643c@160.16.63.16:2890?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#[🇯🇵]t.me/ConfigsHub
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.131.243:4210?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#[🇯🇵]t.me/ConfigsHub
