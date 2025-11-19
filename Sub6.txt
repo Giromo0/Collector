@@ -2,13 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=&amp;type=ws&amp;path=/http&amp;encryption=none#https://t.me/ShadowsocksM2
-vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@84.201.138.55:443?security=reality&amp;sni=io.ozone.ru&amp;fp=chrome&amp;pbk=RnIvbd50ZLR_blaue_KkJua5_z6pNgpO3RPiqAN3swg&amp;sid=a20d3ed244c76426&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#https://t.me/ShadowsocksM1
-vless://981d217a-17c5-4e9f-9147-8c9ad3c0707b@l23.magicnetwork.info:28995/?type=tcp&amp;encryption=none#l23.magicnetwork.info
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&amp;encryption=none#95.164.45.122
-vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&amp;encryption=none#45.88.183.164
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934/?type=tcp&amp;encryption=none#179.61.219.170
-vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&amp;encryption=none#38.47.176.134
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?security=tls&amp;sni=snippets.nneko.netlib.re&amp;fp=random&amp;type=ws&amp;path=/?ed%3D2048Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;host=snippets.nneko.netlib.re&amp;encryption=none#https://t.me/ShadowsocksM32
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@104.26.9.133:443?security=tls&amp;sni=snippets.nneko.netlib.re&amp;fp=random&amp;type=ws&amp;path=/?ed%3D2048&amp;host=snippets.nneko.netlib.re&amp;encryption=none#https://t.me/ShadowsocksM31
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.194:443?security=tls&amp;sni=snippets.nneko.netlib.re&amp;fp=random&amp;type=ws&amp;path=/?ed%3D2048J_T&amp;host=snippets.nneko.netlib.re&amp;encryption=none#https://t.me/ShadowsocksM28
@@ -502,3 +495,10 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.33.160:59483?security=&amp;
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@107.170.6.102:59483?security=&amp;encryption=none&amp;pbk=&amp;headerType=none&amp;fp=&amp;type=grpc&amp;sni=&amp;sid=#United%20States%2080%20dailyv2ry
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.245.51:59483?encryption=none&amp;type=grpc#United%20States%201%20dailyv2ry
 vless://9d0f2788-472a-499e-aa32-f34ede085a41@164.92.253.155:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany%2010%20dailyv2ry
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638964706453370319.birjand-blkaft-aaar.info:8880?mode=&amp;security=&amp;alpn=&amp;encryption=none&amp;fp=&amp;type=grpc&amp;serviceName=&amp;sni=&amp;allowInsecure=#France%2072%20dailyv2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.83.88:59483?encryption=none&amp;type=grpc#United%20States%2091%20dailyv2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.47.113:59483?encryption=none&amp;type=grpc#United%20States%2092%20dailyv2ry
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.183.118.10:443?security=reality&amp;encryption=none&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=chatgpt.com&amp;sid=f5#telegram%20%F0%9F%8E%AF%20dailyv2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.231.61:59483?security=&amp;encryption=none&amp;pbk=&amp;headerType=none&amp;fp=&amp;type=grpc&amp;sni=&amp;sid=#United%20States%2016%20dailyv2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.33.37:59483?encryption=none&amp;type=grpc#United%20States%2083%20dailyv2ry
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@betty.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=638988506154325684.civic-amshw.info&amp;type=ws&amp;host=638988506154325684.civic-amshw.info&amp;path=/cahttingws#telegram%20%F0%9F%8C%9F%20dailyv2ry
