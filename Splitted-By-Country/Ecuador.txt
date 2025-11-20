@@ -1,38 +1,29 @@
-vless://e9c011b3-5e03-4496-c030-3dba558d87d3@165.232.120.27:443?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%90%8C%F0%9F%A6%8B%F0%9F%8C%B14
 vless://1lpxy6haqm@45.15.167.13:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#%F0%9F%87%B1%F0%9F%87%AE%20Liechtenstein%20%F0%9F%94%A5
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20by%20%40oneclickvpnkeys
-vmess://eyJ2IjoiMiIsInBzIjoiNTdAb25lY2xpY2t2cG5rZXlzIiwiYWRkIjoiMTY1LjE0MC4yMTYuMTQxIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiNzlAb25lY2xpY2t2cG5rZXlzIiwiYWRkIjoiMTUuMjM1LjQxLjIwMCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsInRscyI6IiJ9
 vless://02529660-52bf-4896-951a-1857c88d1dba@164.92.143.135:47542/?type=grpc&encryption=none&flow=&sni=zula.ir&fp=chrome&security=reality&pbk=krsHuR6-NfPzTvW8uE9b_Xbjj-48yI91kLqhx4tWPUg&sid=7a6d1a#%F0%9F%A6%8113%40oneclickvpnkeys
-hysteria2://7daa4a7f-f76e-4941-84bd-c6004cdbb859@94.249.197.95:30000/?insecure=1&sni=bing.com#%F0%9F%A6%8144%40oneclickvpnkeys
-trojan://2227640f-bc85-3b8d-9028-552118c934e9@43.160.193.245:443/?type=tcp&security=tls#%F0%9F%A6%8171%40oneclickvpnkeys
-trojan://fg20mtCFHy@jpcfg.zippydeal.xyz:5705/?type=tcp&security=tls#%F0%9F%A6%8164%40oneclickvpnkeys
-trojan://telegram-id-directvpn@18.195.65.62:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@18.198.122.60:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#%F0%9F%93%9F4%40oneclickvpnkeys
-trojan://telegram-id-directvpn@3.64.3.30:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=fkhamnei.kosnanatfilterchi.eu.org&amp;type=ws#%40v2rayan
-trojan://telegram-id-privatevpns@15.236.59.28:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
-trojan://telegram-id-privatevpns@35.181.82.189:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+vless://0eb0019b66404203a7e07701f61bf766@91.220.8.177:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.com&fp=chrome&security=reality&pbk=n0e-y_JNPYLzhJkFuhlq6-k1lgUG43cmiQXkP2Pv_wc&sid=aabbccdd#%F0%9F%93%9F11%40oneclickvpnkeys
+vless://18881ae6-1e7d-48db-9c2f-27da9a58d63e@65.109.179.90:443/?type=tcp&encryption=none&flow=&security=tls&sni=node.chandplus.com&allowInsecure=1#%F0%9F%A7%B839%40oneclickvpnkeys
+hysteria2://642dc0b9-6481-4d84-ad60-3586e870f263@xg.xn--mes13n8pi8x2b.shop:21072?mport=21001-21999&insecure=0#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-12-19
+trojan://fb61f373-1a11-33d4-9e9f-5f0d984b28bc@vd0ee3cg.cs53rvhb.aliyunglsb.com:443/?type=tcp&security=tls#%F0%9F%A6%8174%40oneclickvpnkeys
+trojan://fg20mtCFHy@tksjx.zippydeal.xyz:5517/?type=tcp&security=tls#%F0%9F%A6%8165%40oneclickvpnkeys
+trojan://3672449442956713984@present-blowfish.sunbeam921.monster:443?allowInsecure=0&amp;sni=present-blowfish.sunbeam921.monster#%E6%9C%AA%E7%9F%A5
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%E2%9C%A8
+trojan://telegram-id-directvpn@13.37.184.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@15.188.255.203:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2ray
 trojan://telegram-id-directvpn@15.237.104.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@18.159.76.1:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@18.199.45.203:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@63.178.210.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@51.44.191.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 trojan://telegram-id-directvpn@15.188.128.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@3.65.213.56:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@63.176.41.214:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@35.156.41.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@52.29.139.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 trojan://telegram-id-directvpn@35.180.8.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@3.71.147.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@63.178.128.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#[
-hysteria2://5ea499f5c73554214870e187a55f4d71@dd.openaccessnode.com:989?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=0&sni=dd.ircybersec.org#r♡ya
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Hddify |^| چنل هدیفای
-vless://14305246-dc93-4b3c-9f6c-d0b29fa7e4fa@ru-msk.shvurgceo.online:51224?security=reality&encryption=none&pbk=DvKMFkm82Jkp6Jk_7pXYb0fMXq1MsLMNxDeQfcCSbEA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=download.max.ru&sid=ab12cd34#r♡ya
+trojan://telegram-id-directvpn@35.159.102.83:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
+trojan://telegram-id-directvpn@35.180.72.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+vless://49d598ee-4dfc-4001-95ca-99a5b6002e3c@tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev:443?path=ws&security=tls&encryption=none&host=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&fp=chrome&type=ws&sni=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev#r♡ya
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&type=ws&sni=638989641550992554.sonata-amshx.info#r♡ya
+vless://TELEGRAM-CONFiGLiNE-49@151.101.67.8:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=&encryption=none&host=azaiji3.global.ssl.fastly.net&type=xhttp#r♡ya
+vless://b4f3041b-e939-4c1a-8f1d-70e8369b25eb@185.213.240.86:4655?security=none&encryption=none&headerType=none&type=tcp#r♡ya
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?
-vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=&type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_collector%20%5B16%5D
+vmess://eyJhZGQiOiI0NS42Ny4yMzAuNzkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMzE0MTg1ZjctOTMxZC00NjU2LTkyMmQtMDg1N2U3YWZkMjI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTA1MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYSBSVSB8IFx1ZDgzZFx1ZGQxMyBWTUVTUyB8IEB2MnJheV9jb2xsZWN0b3IgWzE3XSJ9
 trojan://z-H_x58nS%3DVUaw.o@216.238.94.42:19939/?type=tcp&security=tls&sni=xuhyqrwofidgl.zwodhfgqaps.click#%253E%253E%2540oneclickvpnkeys%3A%3AMX
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#%253E%253E%2540oneclickvpnkeys%3A%3AUS
-vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.229.161.107:10001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=4jNz4Bw-FZlaX-WtfAdwK0hegY28W_k8AttGd-7hZn4&sid=fb2c6678#%253E%253E%2540oneclickvpnkeys%3A%3AUS
-vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443/?type=tcp&encryption=none&flow=#%253E%253E%2540oneclickvpnkeys%3A%3AFI
-vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@104.17.147.22:2096/?type=ws&encryption=none&flow=&host=GRouND-sloth.zulair.SIte.&path=%2F&security=tls&sni=GRouND-sloth.zulair.SIte.&fp=chrome#%253E%253E%2540oneclickvpnkeys%3A%3AXX
-hy2://338ce171-d764-4610-8fd5-6688b0d321f0@46.17.43.71:30102/?insecure=1&sni=du.wish.ml#%253E%253E%2540oneclickvpnkeys%3A%3ARU
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102?security=tls&insecure=1&sni=du.wish.ml#r♡ya
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443/?type=ws&encryption=none&flow=&host=gb-021.shenzogmbh.com&path=%2Fapi%2Fv1&security=tls&sni=gb-021.shenzogmbh.com#%253E%253E%2540oneclickvpnkeys%3A%3AXX
+hy2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102/?insecure=1&sni=du.wish.ml#%253E%253E%2540oneclickvpnkeys%3A%3ACA
