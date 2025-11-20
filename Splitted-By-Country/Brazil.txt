@@ -1,7 +1,2 @@
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.131.243:1334?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=www.nintendogames.net#%40Filter_breaker-164
-vless://1a79938c-e170-4d9b-99ac-2bfd19582461@144.124.255.72:443?security=&encryption=none&headerType=none&type=tcp#%40Filter_breaker-8
-vless://9dc11620-987c-4344-9088-f46fdfae4054@40.160.4.127:8080?path=%2F%3Fed&security=&encryption=none&type=ws#%40Filter_breaker-18
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.134:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%40Filter_breaker-10
-vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?path=%2Fybkqtgws&security=tls&encryption=none&insecure=1&host=638991523882288916.impreza-amsia.info&type=ws&allowInsecure=1&sni=638991523882288916.impreza-amsia.info#%40Filter_breaker-4
-vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443/?type=ws&encryption=none&flow=&host=gb-8981.shenzogmbh.com&path=%2Fapi%2Fv1&security=tls&sni=gb-8981.shenzogmbh.com&fp=chrome#%40Filter_breaker-14
+vmess://eyJhZGQiOiIxMzQuMTIyLjEwNC42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2ZjRhMTYwMy02NzYxLWJlZTktZTNkNC1mNjBkMTc5N2U0YTAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwNjQiLCJwcyI6IkFaQURJVjJSQVlZIEJSSVRBSU4g8J+HrPCfh6ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQlItNDUuMjMxLjEzMi40Ni01NjA1IiwiYWRkIjoiNDUuMjMxLjEzMi40NiIsInBvcnQiOiI0NTk3OSIsInR5cGUiOiJub25lIiwiaWQiOiIyM2JkZjZkZi1jNDgyLTQ2ZDAtYzBmNC01YTk4ZDUzNGVhMTEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3Rlc3QiLCJob3N0IjoiIiwidGxzIjoiIn0=
