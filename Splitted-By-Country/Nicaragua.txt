@@ -1,23 +1,9 @@
-vless://21f78714-2df6-4757-9fa5-f583eb0290cf@194.110.246.61:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=okKUcvjT68odjfLWEZ47XopjP3AqHfbC4jsxfN2-i30&sni=google.com#VPNKEY-United
-vless://6f0d0074-c227-4370-84aa-4b198955398a@145.249.109.54:10343?security=reality&encryption=none&pbk=0D54zil8NeTzPPOBQgx1nXaITEE14UqeTJ4IUyvLvTk&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=cdbd76ca6912d8c9#%F0%9F%8C%8E%E2%9A%A1%EF%B8%8F%F0%9F%8C%8E7
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%F0%9F%A6%85%20United%20States
-vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%91%80
-vless://0cc731b9-0375-4590-aeaa-7e2611a149fe@104.21.36.57:443?path=%2Fwsv%2F0cc731b9-0375-4590-aeaa-7e2611a149fe&security=tls&encryption=none&host=black.fullmargintraders.com&type=ws&sni=black.fullmargintraders.com#%F0%9F%87%A9%F0%9F%87%AA%20%D9%86%D9%88%D9%87%20%D9%87%DB%8C%D8%AA%D9%84%D8%B1
-trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/37.252.5.75=443&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A58
-trojan://8b7d4642-dff2-4c16-81a4-88ca738d6718@91.199.32.191:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.199.32.191=2053&host=joss.gpj1.web.id#%E6%9C%AA%E7%9F%A527
-vless://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@104.26.15.108:443?&security=tls&fp=chrome&sni=bp.hexo.cloudns.ch&type=ws&headerType=none&host=bp.hexo.cloudns.ch&path=%2Fproxyip%3Dproxyip.sg.cmliussss.net#%E6%9C%AA%E7%9F%A5%2016
-vless://e258977b-e413-4718-a3af-02d75492c349@www.udacity.com:8443?&security=tls&fp=chrome&sni=ww1.x-aniu-hk.netlib.re&type=ws&headerType=none&host=ww1.x-aniu-hk.netlib.re&path=%2F%3Fed%3D2560#%E6%9C%AA%E7%9F%A5%2018
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?&security=tls&fp=chrome&sni=gaosir.unfeeling.sbs&type=ws&headerType=none&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%E8%8D%B7%E5%85%B0%20060
+vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@start.adsplustnet.com:80?path=%2Ftest%3Dtrue&security=none&alpn=http%2F1.1&encryption=none&host=d1.hetzner.com&type=ws&sni=epgs9l0n.salamtrip.ir#
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk:1743?sni=3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk&insecure=0#United%20States%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk&insecure=0#United%20States%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk&insecure=1#United%20States%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743?sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk&insecure=0#United%20States%F0%9F%87%BA%F0%9F%87%B8
-trojan://telegram-id-privatevpns@63.181.53.217:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Hddify |~| چنل هدیفای
-trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
-vless://7d324dde-c366-4d29-bb39-28f3245829cd@aus.chatoochak.com:444?path=/&security=none&encryption=none&type=ws&sni=aus.chatoochak.com#🏴🏳
-vless://9dde40ad-29f2-4a6c-b1a5-0a149f583404@zula.ir:8443?mode=multi&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=grpc&serviceName=ahwaz.infinitespd.com&sni=ahwaz.infinitespd.com#NIGHTLY CONFIG🌙  GOOD NIGHT🌙
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860213179.lisbon-prx-dnraacq.info:8880?mode=gun&security=none&encryption=none&type=grpc#mtnirancell ✨️ azadiiivpn
-vless://e258977b-e413-4718-a3af-02d75492c349@104.17.239.84:443?path=/?ed=2560&security=tls&encryption=none&host=www.x-aniu-hk.netlib.re&type=ws&sni=www.x-aniu-hk.netlib.re#r♡ya
-vless://e258977b-e413-4718-a3af-02d75492c349@104.19.189.82:443?path=/?ed=2560&security=tls&encryption=none&host=www.x-aniu-hk.netlib.re&type=ws&sni=www.x-aniu-hk.netlib.re#r♡ya
-vless://e258977b-e413-4718-a3af-02d75492c349@104.21.238.119:443?path=/?ed=2560&security=tls&encryption=none&host=www.x-aniu-tw.netlib.re&type=ws&sni=www.x-aniu-tw.netlib.re#r♡ya
-vless://e258977b-e413-4718-a3af-02d75492c349@162.159.35.249:2087?path=/?ed=2560&security=tls&encryption=none&host=www.x-aniu-sg.netlib.re&type=ws&sni=www.x-aniu-sg.netlib.re#r♡ya
-vless://bc197c34-6f69-4d81-ab2e-bc942f750c44@cellone.moon-night.ir:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=3vUR24mjjFpGWH1SXOye4ByKlKzQOEDjCHEH5gSoZFw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=khanacade…
-vless://f30b6745-cb70-214a-078b-d15edc51df4f@germenynaran.studentcp.ir:2083?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=germenynaran.studentcp.ir#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%E2%9A%A1
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.114:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh25v1.vetdomok.shop#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20A
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#[
+vless://22948aee-4981-4ba1-b8df-7a2b494a8a28@advertisement.app-browser.org:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=advertisement.app-browser.org#r♡ya
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.42.57.241:443?encryption=none&amp;security=reality&amp;sni=chatgpt.com&amp;fp=chrome&amp;pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&amp;sid=f5&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;spx=%2F#United%20Kingdom%2071%20dailyv2ry
