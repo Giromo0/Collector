@@ -1,6 +1,6 @@
 vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=&encryption=none&headerType=none&type=tcp#%40Filter_breaker-9%20%7C%20%F0%9F%87%AB%F0%9F%87%AE
-vless://d11fb55a-d651-4f6d-828b-ee7f2b1f0d78@70.34.214.175:23129?mode=gun&security=reality&encryption=none&pbk=pInfFMwVy_AJ7Nul07Ol-ZR2IprBpr5idc3mtGwoDnw&fp=chrome&spx=%2F&type=grpc&sni=cloudflare.com&sid=c8de20#%40Filter_breaker-10
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443/?type=ws&encryption=none&flow=&host=gb-8981.shenzogmbh.com&path=%2Fapi%2Fv1&security=tls&sni=gb-8981.shenzogmbh.com&fp=chrome#%40Filter_breaker-14
 trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415/?type=tcp&security=tls&sni=quietplace.lazymountain.click&allowInsecure=1#%40Filter_breaker-65
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930/?type=tcp&security=tls&sni=softpillow.silentrocket.click&allowInsecure=1#%40Filter_breaker-67
-trojan://WmFcbQ1O%3DhAJd-i2@158.247.206.18:15974/?type=tcp&security=tls&sni=kszfviehlrb.zwodhfgqaps.click&allowInsecure=1#%40Filter_breaker-77
-trojan://OWB0=fZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&sni=temporaltortellini.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none&host=t.me/v2Line#t.me/v2Line | Free | 2950 | Brazil
+trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288/?type=tcp&security=tls&sni=sweetdream.sweetthunder.click&allowInsecure=1#%40Filter_breaker-70
+trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849/?type=tcp&security=tls&sni=hotcoffee.angrypiano.click&allowInsecure=1#%40Filter_breaker-68
+vmess://eyJhZGQiOiIxMzQuMTIyLjEwNC42NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2ZjRhMTYwMy02NzYxLWJlZTktZTNkNC1mNjBkMTc5N2U0YTAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwNjQiLCJwcyI6IkFaQURJVjJSQVlZIEJSSVRBSU4g8J+HrPCfh6ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
