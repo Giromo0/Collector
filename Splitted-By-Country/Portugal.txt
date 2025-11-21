@@ -1,6 +1,11 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogVk1FU1Mt5Y2X6Z2ePuW+t+WbvS1ORuino+mUgeW+t+WbveWcsOWMuumdnuiHquWItuWJpy1DaGF0R1BULVRpa1Rvay1Zb3VUdWJlLTEwMi4xMzIuMTg4LjM6ODAiLCJhZGQiOiIxMDIuMTMyLjE4OC4zIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImU5NWUzNWJhLWY4NzQtNGViMy05NjAwLTRkYmQ2ZDA5OWY0ZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
+vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934/?type=tcp&amp;encryption=none#179.61.219.170
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&amp;encryption=none#45.88.183.164
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?security=&amp;type=grpc&amp;encryption=none#
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#6
+vless://b79ee06f-d158-48c3-b32d-7ecb90f5f317@91.99.232.132:39954?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#vip_vpn_2022
 trojan://tunnel-astrovpn_official918@195.133.92.56:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=195.133.92.56#[@AstroVPN_Official] 🇵🇹
+vless://74946f36-45d7-436c-b24e-ba5002cad041@185.177.238.40:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=alban.normbot.ru&sid=4d2c4fa29e40fb49#r♡ya
+vless://bae2d072-d260-4ecb-8a0e-ee1e5b207914@51.77.79.208:20382?mode=gun&security=reality&encryption=none&pbk=5co7lYAzP1xAQPAJ36zIEOjPmTiIjJJvJmlIyyJxPks&fp=chrome&type=grpc&serviceName=---skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn------skypro_vpn---&sni=google.com&sid=e9fde331c4a02cfd#r♡ya
+vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#
 vless://bdb68d99-443c-4831-aea8-549a635644ea@93.115.240.74:15500?type=ws&security=none#OPT
 trojan://6ead60c4-4321-45d5-81a9-ba4835f7c692@45.159.251.8:81?path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#[🇵🇹]t.me/ConfigsHub
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@188.245.34.12:2087?sni=www.target.com&sid=e6&mode=gun&security=reality&encryption=none&fp=chrome&type=grpc&pbk=_Qos-LNNG2nnPEFrTHSotINN3VcKWcVF7sCaw1HUElM#قهرمان پوشالی
