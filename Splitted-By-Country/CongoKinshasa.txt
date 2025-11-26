@@ -1,2 +1,4 @@
-hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#H3
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=/?ed=2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&fp=chrome&type=ws&sni=abcd.taraneh.dpdns.org#.
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?insecure=0&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#H3
+vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.conf…
+vless://3c9c9708-abd6-2996-ce7b-1fccd88d0beb@199.232.214.172:80?mode=auto&path=/hu?ed=2560&security=none&encryption=none&extra={'headers': {}, 'xPaddingBytes': '0', 'noGRPCHeader': False}&host=Snapp.Team.&type=xhttp#.
+vless://af00dfbf-5d98-4cd8-80a7-df2b296c5ccf@tci.shadow-net.ir:1370?security=tls&encryption=none&headerType=none&type=tcp#.
