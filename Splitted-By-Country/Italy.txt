@@ -1,12 +1,11 @@
-trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#[
-vless://Warpi-Free-Vpn-In-GooglePlay@78.47.80.152:443?type=tcp&amp;encryption=none&amp;security=none#
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#3
-vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A5%B0
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@78.47.141.72:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2ray
-trojan://pHEiSqez.13#6bctokYl@217.170.194.223:24591?security=tls&headerType=none&type=tcp&sni=bldgmy.nejzftlubrig.click#@V2rayNGVPN <= کانفیگ رایگان
-vless://089d3a3d-40ef-49a3-8f47-49b00dbde0fc@cd.reata.ir:2053?path=?ed=2096&security=tls&alpn=h2&encryption=none&host=dl2.hupcloud.com&fp=chrome&type=ws&sni=dl2.hupcloud.com#.
-vless://5982634b-e9b1-4e1d-97cb-2780f3235718@latin.valorweb.tech:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#r♡ya
-vless://b00fb164-0491-432a-baf0-c904d1953425@speedtest.net:80?path=/ed=2560&security=none&encryption=none&host=speedtest.net.km&type=ws#.
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#
-vless://c7158ca6-7c6c-4701-bf7d-df0f98a9ca33@speedtest.org:443?path=/harman&security=tls&encryption=none&host=iwukb.ava-shabane.com&type=ws&sni=iwukb.ava-shabane.com#r♡ya
-vless://cdd6164f-efd8-4704-9d78-2cf5b412d346@91.107.132.227:7443?security=none&encryption=none&headerType=none&type=tcp#
+vless://21f78714-2df6-4757-9fa5-f583eb0290cf@194.110.246.61:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=okKUcvjT68odjfLWEZ47XopjP3AqHfbC4jsxfN2-i30&sni=google.com#VPNKEY-United
+vless://96b84d8a-6355-4422-8e65-42d3ccdb17c4@194.110.246.61:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=okKUcvjT68odjfLWEZ47XopjP3AqHfbC4jsxfN2-i30&sni=google.com#VPNKEY-United
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjMiLCJhZGQiOiJmYXBlbmcub3JnIiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiZmFwZW5nLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoiZmFwZW5nLm9yZyIsInRlc3RfbmFtZSI6IjIzIn0=
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056?sni=🔒&insecure=1#United%20States%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056?sni=mg2.mangshe.xyz&insecure=1#United%20States%F0%9F%87%BA%F0%9F%87%B8
+vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#45.88.183.164%3A49355
+vless://77f806f0-8f87-4c01-8e07-c88d52092e92@cs2.film2serial.cloud:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=6k9LhPdmkFyy7eL4dZlhBC&sni=cs2.film2serial.cloud#🇩
+vmess://eyJ2IjoiMiIsInBzIjoidC5tZS92MkxpbmUgfCBGcmVlIHwgMzAyNyB8IFVuaXRlZCBTdGF0ZXMiLCJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsInBvcnQiOiIxNTA5NyIsImlkIjoiNDYwOTA4YjgtZGUxNi00MmU5LWJkMGQtMTkxNTIyYWI5MmE1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IiIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20satellitenewspersian%40%E2%9C%85
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.44:8880?mode=gun&security=&encryption=none&type=grpc#%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20satellitenewspersian%40%E2%9C%85
+vless://37ce86f5-df0c-0384-a4b2-8cedd9a1aedc@37.156.46.65:31548?security=reality&encryption=none&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&headerType=none&fp=chrome&spx=%2FBia_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=d6d54c08fbbf895f#[🏁]
