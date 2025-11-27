@@ -1,4 +1,2 @@
-vless://289f0d70-5985-46e9-b05a-9f66f821f47d@diana.ns.cloudflare.com:443?flow=&type=ws&host=all1azar.darolmajanin.com&path=/assets?ed%3D512&security=tls&sni=all1azar.darolmajanin.com&alpn=http/1.1&fp=chrome&allowInsecure=0#%40Filter_breaker-14
-vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.212.226:80?path=/?ed=2560&security=none&encryption=none&host=br.presskiwi.dpdns.org&fp=chrome&type=ws&sni=br.presskiwi.dpdns.org#.
-vmess://eyJ2IjoiMiIsInBzIjoidC5tZS92MkxpbmUgfCBGcmVlIHwgMzAzOSB8IEJyYXppbCIsImFkZCI6IjQ1LjIzMS4xMzIuNDYiLCJwb3J0IjoiNDU5NzkiLCJpZCI6IjIzYmRmNmRmLWM0ODItNDZkMC1jMGY0LTVhOThkNTM0ZWExMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJ0Lm1lL3YyTGluZSIsInBhdGgiOiIvdGVzdCIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vless://9dc11620-987c-4344-9088-f46fdfae4054@147.135.77.76:8080?path=%2F%3Fed&security=none&encryption=none&type=ws#%40Filter_breaker-6
+trojan://z-H_x58nS%3DVUaw.o@216.238.94.42:19939/?type=tcp&security=tls&sni=xuhyqrwofidgl.zwodhfgqaps.click&allowInsecure=1#%40Filter_breaker-78
