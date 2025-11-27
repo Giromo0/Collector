@@ -1,4 +1,2 @@
-trojan://x3wOepOcT04FnR8YYF35pzSACDgRBa3CAe9qNalDCy6a2uE8Z7xlX3SSyZKDIj@154.17.24.29:443?security=tls#%E6%9C%AA%E7%9F%A5152
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#H3
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934/?type=tcp&amp;encryption=none#179.61.219.170
-hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&amp;sni=de.eyucdn.xyz#H1
+hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#H3
+vless://3c9c9708-abd6-2996-ce7b-1fccd88d0beb@199.232.214.172:80?mode=auto&path=/hu?ed=2560&security=none&encryption=none&extra={'headers': {}, 'xPaddingBytes': '0', 'noGRPCHeader': False}&host=fast.com.pl&type=xhttp#.
