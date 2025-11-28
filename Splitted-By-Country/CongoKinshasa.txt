@@ -1,6 +1,2 @@
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@us01.trojanyyds.xyz:443?security=tls#%E6%9C%AA%E7%9F%A537
-trojan://286d5fae-eb42-4cd2-96c5-c7dfaaae67ac@t5.583181.xyz:1258?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A5135
-vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#38.47.176.134%3A59967
-trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#%E6%9C%AA%E7%9F%A5
-hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&amp;sni=de.eyucdn.xyz#H1
-vless://089d3a3d-40ef-49a3-8f47-49b00dbde0fc@cd.reata.ir:2053?path=?ed=2096&security=tls&alpn=h2&encryption=none&host=dl2.hupcloud.com&fp=chrome&type=ws&sni=dl2.hupcloud.com#.
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#H3
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?insecure=0&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#H3
