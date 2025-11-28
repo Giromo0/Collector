@@ -1,20 +1,8 @@
-vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#%F0%9F%91%91%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
+trojan://mainssh-ddoejfv14@108.61.170.104:443?security=tls&type=grpc&sni=frtgrpc.mainssh.xyz#%E6%9C%AA%E7%9F%A5103
 vless://0ed12b3a-3985-48e4-b3fe-b146a8eaf2c9@164.90.210.31:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%20D1%2016%20dailyv2ry
-vless://0ed12b3a-3985-48e4-b3fe-b146a8eaf2c9@164.90.210.31:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%20D1%2044%20dailyv2ry
-vless://0ed12b3a-3985-48e4-b3fe-b146a8eaf2c9@165.22.95.130:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%20D3%2057%20dailyv2ry
-vless://221667cc-6a36-4852-ea20-462b10bc3cf8@165.227.142.254:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%20D22%206%20dailyv2ry
-vless://221667cc-6a36-4852-ea20-462b10bc3cf8@207.154.224.182:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany%20D19%2092%20dailyv2ry
-hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056/?insecure=1&sni=%F0%9F%94%92#H2
-trojan://2cf6d686799e6fa95316394064f26c0a@160.16.240.91:2760?security=tls&sni=www.nintendogames.net&type=tcp&path=/#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-vless://68304d6d-3e6d-46f6-9db7-8fc0bd1eb245@164.90.190.31:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany%20D7%2095%20dailyv2ry
-vless://68304d6d-3e6d-46f6-9db7-8fc0bd1eb245@161.35.23.67:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany%20D1%2029%20dailyv2ry
-vless://4e860869-8ca7-46cb-9460-7b15abbea4f2@46.101.128.96:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany%20D7%2049%20dailyv2ry
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.38.116:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany%2010%20dailyv2ry
-vless://4e860869-8ca7-46cb-9460-7b15abbea4f2@64.226.67.41:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany%20D9%207%20dailyv2ry
+vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.177.240:443?security=&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#Germany%20PO%2017%20dailyv2ry
+vless://fbe678e2-aace-41b1-89a7-040284ab7028@161.35.74.10:10192?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany%2099%20dailyv2ry
 vless://733344ad-ef4b-4a85-a8f9-28a87a582103@138.68.71.121:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany%2066%20dailyv2ry
-vless://4e860869-8ca7-46cb-9460-7b15abbea4f2@64.226.76.117:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany%20D29%2076%20dailyv2ry
-vless://acb85d83-ab4e-4449-96af-561bcf4420eb@brenna.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=638998095066901842.fit-amsik.info&amp;type=ws&amp;host=638998095066901842.fit-amsik.info&amp;path=/lsmtywws#Germany%2013%20dailyv2ry
-vless://221667cc-6a36-4852-ea20-462b10bc3cf8@142.93.161.229:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany%20D9%2096%20dailyv2ry
-vmess://eyJhZGQiOiI2NC4yMjcuNDUuOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWUwMmJjMDEtNDJhNy00NjA5LWIyMGEtNGQ5M2ZlZWE2NWM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDA4NiIsInBzIjoiQHYycmF5bmd6ZW5kZWdpbWFtYWTwn5WK77iPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJtY2kueWVrdGFuZXQuaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNGI0MWRjOC1iNjg0LTQ5ZTQtYjNkYi1hZGUzODJjMTEzZDMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1NTU1IiwicHMiOiJATUFSQU1CQVNISSDwn5KcIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.38.151:443?security=tls&headerType=none&type=tcp&sni=copy-wifi-twins.stark-industries.solutions#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+vless://2c5228c3-b989-4e3f-9b0c-7621a54059f4@164.92.182.147:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#Germany%20D21%2077%20dailyv2ry
+vmess://eyJhZGQiOiI5MS45OS4xODUuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdiZDZhMWVhLWEyMjAtNGYxYy1hZmVkLTZjZmI4YWI5NmFkOSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6IkB2MnJheW5nemVuZGVnaW1hbWFk8J+Viu+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+trojan://maradona_vpn@maradona_vpn10.history-paint.art:443?path=%2Fwss24142%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=teo.history-paint.art&fp=chrome&type=ws&sni=teo.history-paint.art#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40maradona_vpn%20%5B8%5D
