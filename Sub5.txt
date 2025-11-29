@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
+vless://4a5a2645-4b3a-41fe-8ad2-51907824f62d@45.140.167.94:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=sourceforge.net#_____%E2%99%A6%EF%B8%8F%E2%99%A3%EF%B8%8F+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%7C+%D8%B1%D8%A7%DB%8C%D8%AA%D9%84+%E2%99%A3%EF%B8%8F%E2%99%A6%EF%B8%8F_____
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
 vless://06c4d024-6079-430e-bbc4-53a340ac933e@167.172.51.202:2096?mode=gun&security=reality&encryption=none&pbk=29iCBehXD9OCK1B5fDd7hwiOZEtm7BXiwzZpwggESzo&fp=chrome&spx=%2F&type=grpc&sni=zula.ir#%40vpnaloo
 vless://57234258-f291-49b0-9574-9526f8acf825@FRANCE.TORPROSPEED.IR:223?security=reality&encryption=none&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=cloudflare.com&sid=c7f175a94bd79f8d#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
@@ -501,4 +502,3 @@ vless://Warpi-Free-Vpn-In-GooglePlay@vp10.myphotomoments.ir:443?security=none&en
 vless://1066d126-3412-4dfd-ab5d-42cfb26572f6@xfer.mos-drywall.shop:443?mode=auto&security=reality&encryption=none&pbk=H5OKR0_3GwnEuBLAapDBXdyhGl4M0vw76grUnPpqu28&fp=chrome&spx=%2Fsinavm&type=xhttp&sni=xfer.my-rebar.shop#%40V2RAY_VMESS_free
 vless://aa0a3771-d590-4702-9681-e8d69c7c2428@194.87.29.240:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=82c8140feb118043#%40V2RAY_VMESS_free
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&type=ws&sni=ensHOLP-91s.pageS.DEv#%40EuServer
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@159.89.36.16:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.gstatic.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#telegram%20%F0%9F%8C%9F%20dailyv2ry
