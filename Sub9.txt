@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=wus01.weyaf9sdoh2h.space#@V2rayNG3
 trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=bldgmy.nejzftlubrig.click#I%201234%20%28%40Outline_Vpn%29%20free
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&amp;security=reality&amp;pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&amp;fp=chrome&amp;type=grpc&amp;sni=cloudflare.com&amp;sid=d9#I%201232%20%28%40Outline_Vpn%29%20free
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=rc8.freeguard.org#%40VMESSIR4N%20%D8%AC%D9%87%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
@@ -502,3 +501,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.201:8880?mode=gun&amp;se
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2RAY_VMESS_free
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.123:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2RAY_VMESS_free
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.47:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2RAY_VMESS_free
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.43:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2RAY_VMESS_free
