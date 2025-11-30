@@ -1,2 +1,4 @@
-vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
-vmess://eyJhZGQiOiIyMDAxOmJjODoxMjAzOjIwOTo6NTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5iaW5nLmNvbSIsImlkIjoiZTk5NGI4MDQtMzQ1Yy00ZThiLWE4MjctN2UwMDU2OTRkMTQ2IiwibmV0Ijoid3MiLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5IiwicG9ydCI6IjIzMDA4IiwicHMiOiJAVEVIUkFOQVJHTyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#95.164.45.122%3A50268
+vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#38.47.176.134%3A59967
+trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
+vless://17a6bdcf-9d94-45ec-b31c-154825e991c6@MINIPROXY.NET:8443?type=grpc&encryption=none&serviceName=ahwaz.infinitespd.com&authority=&mode=multi&security=tls&fp=chrome&alpn=h2,h3&allowInsecure=1&sni=ahwaz.infinitespd.com#ام ابیها🏴
