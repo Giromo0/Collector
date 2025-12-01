@@ -1,1 +1,1 @@
-trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#%E6%9C%AA%E7%9F%A5179
+vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&fp=chrome&type=xhttp&sni=plb.tunnelguard.ru#r♡ya
