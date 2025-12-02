@@ -1,4 +1,2 @@
-vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?flow=&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.ok.ru&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&sid=fdc8125ea6f61323#%40Filter_breaker-9
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#%40Filter_breaker-13
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.39:443?mode=gun&security=reality&encryption=none&authority=%2F%3F&pbk=FCg2XiFJrpH-2XlELSSSyEC7zkeW29HOgp4rfrqXEAI&fp=chrome&spx=%2F&type=grpc&serviceName=xyz&sni=cloudflare.com&sid=123abc#%40Filter_breaker-14
-vless://793099c5-0712-4ea0-bbe1-455da88fc671@193.36.132.87:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=21181028b56c8702#%40Filter_breaker-1
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#%40Filter_breaker-8
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#%40Filter_breaker-5
