@@ -1,6 +1,1 @@
-trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#%3E%3E%40FreakConfig%3A%3AUS
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&fp=chrome#%3E%3E%40DailyV2RY%3A%3AUS
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.113.54:80?encryption=none&security=none&sni=vless.hubp.de&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=vless.hubp.de&path=t.me%2Fv2Line#%3E%3E%40v2line%3A%3AUS
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@104.19.106.68:2096?path=%2FTelegram%40ShadowProxy66%20%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#%3E%3E%40FreakConfig%3A%3AUS
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@167.68.4.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=vless.muzheng.top#%3E%3E%40flyv2ray%3A%3AUS
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@104.21.224.5:2096?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#%3E%3E%40DailyV2RY%3A%3AUS
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#%3E%3E%40FreakConfig%3A%3AUS
