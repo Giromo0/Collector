@@ -1,8 +1,4 @@
-trojan://trojan@38.207.133.204:10002?security=tls&type=ws&sni=qingming-b08.pages.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A514
-trojan://8kQaUakMBb@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-rpm37orb
-trojan://PavClLIvFd@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-bq9n8ql8
-trojan://vip@www.iplocation.net:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A588
-vless://2a325803-9458-455d-ad20-e51fab100145@51.68.198.51:8080?encryption=none&security=none&type=ws&path=%2FYUYETrenyklxeoyemeWFCrneerV#%3E%3E%40v2ray_configs_pool%3A%3AGB
-vless://69310d96-7045-c206-a2d0-f8ae6e49b726@91.199.32.86:2053?encryption=none&security=tls&sni=act12.sni565.netlib.re&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=act12.sni565.netlib.re&path=%2Fproxyip%3Dtw.sni2025.netlib.re#%3E%3E%40v2ray_configs_pool%3A%3AGB
-vless://6931c31c-4dca-b047-9fd3-196f0e6c7c2b@67.226.223.45:443?encryption=none&security=tls&sni=act13.sni565.netlib.re&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=act13.sni565.netlib.re&path=%2Fproxyip%3Dtw.sni2025.netlib.re#%3E%3E%40v2ray_configs_pool%3A%3AGB
+trojan://vip@japan.com:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A575
+trojan://tgegXRzYrR@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-m2uv025p
+vless://2917d821-9327-4c76-bf7f-1b7857b38811@dash.svgspeedtest.net:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=&fp=random&type=tcp&sni=www.speedtest.net&sid=69#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40savagenet%20%5B1%5D
 vless://e64c5bbb-a4b8-498e-b374-4462d961c8a2@38.60.196.27:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&pbk=j_b7jaRqL2-82XSGRL0IYkNJ2Y3hrhhgq5kIBIK76lk&fp=chrome#%3E%3E%40DailyV2RY%3A%3AGB
