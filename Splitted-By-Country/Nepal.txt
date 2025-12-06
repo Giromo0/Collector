@@ -1,3 +1,1 @@
-vless://1a2880c5-c4dc-42df-8013-627584af81f4@77.72.80.143:8080?path=/&security=none&encryption=none&type=ws#https://t.me/v2raynplus |
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.30.138:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#https://t.me/v2raynplus |
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@89.116.250.203:2053?path=/&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#https://t.me/v2raynplus |
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=&encryption=none&type=grpc#https://t.me/v2raynplus |🇨🇵
