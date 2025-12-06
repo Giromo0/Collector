@@ -1,27 +1,29 @@
-trojan://QkxJPTkWg3@lqoo.xyz:60006?security=tls#%E6%9C%AA%E7%9F%A526
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp04a.roc-taiwan.net.ua:65014?security=tls#%E6%9C%AA%E7%9F%A5117
+vmess://eyJ2IjoiMiIsInBzIjoiSEtfMTM0IiwiYWRkIjoiNDE4NDQ2ZTItc3Yyc2cwLXQybmt1dC1qeDVyLmhrMy5wNXB2LmNvbSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiI3M2JmY2MxYy01ODE0LTVmMmEtYjQzYS0zZWY2YWYwMTFkYjgiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsInRscyI6IiJ9
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.131.243:127?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.131.243-3358
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.151.196:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.151.196-3361
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.68.250:1596?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.68.250-2204
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.144.208:3145?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.144.208-0380
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.57.238:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.57.238-0387
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.63.16:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.63.16-0404
+trojan://79314e99f0a473fe86efc7827942ad00@153.121.51.29:127/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#🇯🇵
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.70.180:1331?allowInsecure=1&sni=www.nintendogames.net#JP-160.16.70.180-066
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.130.66:3093?allowInsecure=1&sni=www.nintendogames.net#JP-160.16.130.66-067
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.131.243:127?allowInsecure=1&sni=www.nintendogames.net#JP-160.16.131.243-068
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.68.250:1596?allowInsecure=1&sni=www.nintendogames.net#JP-160.16.68.250-069
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.151.196:2890?allowInsecure=1&sni=www.nintendogames.net#JP-160.16.151.196-071
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?allowInsecure=0&sni=kuame.missionsec.us#JP%20TROJAN-93%20%7C%20free-nodes
 vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?&security=reality&flow=xtls-rprx-vision&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&sid=6ba85179e30d4fc2&fp=chrome&sni=mensura.cdn-apple.com&type=tcp&headerType=none&path=%2F#JP%20VLESS-131%20%7C%20free-nodes
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.131.243:2890?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.131.243-0013
 trojan://79314e99f0a473fe86efc7827942ad00@153.121.51.29:127?allowInsecure=0&sni=www.nintendogames.net#JP-153.121.51.29-0382
 trojan://79314e99f0a473fe86efc7827942ad00@153.121.65.107:3169?allowInsecure=0&sni=www.nintendogames.net#JP-153.121.65.107-0436
 vless://bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c@172.84.92.152:58723?security=tls&sni=us.xiaoer8867785.us.kg&type=ws&path=%2F&fp=random#[🇯🇵]t.me/ConfigsHub
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=kuame.missionsec.us#[🇯🇵]t.me/ConfigsHub
-vless://693396aa-4a97-7463-a242-64d39d7c31f2@103.200.30.25:443?encryption=none&security=tls&sni=s3.sni2010.netlib.re&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=s3.sni2010.netlib.re&path=%2Fproxyip%3Dtw.sni2025.netlib.re#[🇯🇵]t.me/ConfigsHub
-trojan://79314e99f0a473fe86efc7827942ad00@153.121.51.29:127/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#🇯🇵
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.151.196:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.151.196-3361
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.81.84:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.81.84-0370
-vmess://eyJhZGQiOiI0NS44OS4xMDkuNDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMTI5NDdlNTYtYWI4MC00M2JmLTkxNDUtNzJmYTUwZTQxYzlhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MTAzOSIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4ev8J+HtSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Join Sho:@IRAN_V2RAY1 🇯🇵
 trojan://BxceQaOe@153.121.51.221:1821?security=tls&headerType=none&type=tcp&sni=t.me/ripaojiedian#@IRAN_V2RAY1 🇯🇵
 vless://6931c31c-4dca-b047-9fd3-196f0e6c7c2b@172.105.197.52:20205?encryption=none&security=tls&sni=act13.sni565.netlib.re&fp=chrome&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=act13.sni565.netlib.re&path=/proxyip=tw.sni2025.netlib.re#[🇯🇵]t.me/ConfigsHub
 vless://6932aea6-ddb8-724b-92b6-cd16b24d72ae@38.207.130.5:443?encryption=none&security=tls&sni=s3.sni2010.netlib.re&fp=chrome&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=s3.sni2010.netlib.re&path=/proxyip=tw.sni2025.netlib.re#[🇯🇵]t.me/ConfigsHub
 vless://6932aea6-ddb8-724b-92b6-cd16b24d72ae@57.181.148.76:10005?encryption=none&security=tls&sni=s3.sni2010.netlib.re&fp=chrome&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=s3.sni2010.netlib.re&path=/proxyip=tw.sni2025.netlib.re#[🇯🇵]t.me/ConfigsHub
 vless://e258977b-e413-4718-a3af-02d75492c349@18.176.73.69:443?encryption=none&security=tls&sni=www.x-aniu----tw.netlib.re&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.x-aniu----tw.netlib.re&path=/?ed=2560#[🇯🇵]t.me/ConfigsHub
-vless://6931c31c-4dca-b047-9fd3-196f0e6c7c2b@64.176.42.125:10001?encryption=none&security=tls&sni=act13.sni565.netlib.re&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=act13.sni565.netlib.re&path=%2Fproxyip%3Dtw.sni2025.netlib.re#%3E%3E%40v2ray_configs_pool%3A%3AJP
-hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?sni=iij.mggl.wang&insecure=1&allowInsecure=1#👉🆔 @v2ray_configs_pool 📡 🇯🇵JP 🧭 2.8MB/s
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t14.qifei.app:443?security=reality&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=1a#[🇯🇵]t.me/ConfigsHub
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@151.101.195.6:443?mode=auto&security=tls&alpn=h3&encryption=none&host=adsmiatm1764454498.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=hls-amt.itunes.apple.com#%3E%3E%40DailyV2RY%3A%3AJP
+vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJyYXlfY29uZmlnc19wb29sOjpISyIsImFkZCI6IjQ3LjI0My4yMTMuMjQ3IiwicG9ydCI6IjU2ODkiLCJpZCI6ImE5OWQwOGViLTgxYzUtNDk0NC1iYTE2LTQ0NjFiYjJlYzgwOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2Fya2kiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ
+vless://693396aa-4a97-7463-a242-64d39d7c31f2@103.200.30.25:443?encryption=none&security=tls&sni=s3.sni2010.netlib.re&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=s3.sni2010.netlib.re&path=%2Fproxyip%3Dtw.sni2025.netlib.re#[🇯🇵]t.me/ConfigsHub
