@@ -1,4 +1,3 @@
-vmess://eyJ2IjoiMiIsInBzIjoiSEtfNjUiLCJhZGQiOiJjMDM2ZDIxZi10MTViNDAtdGdsMDJ1LTFqcjF1LmhrMy5wNXB2LmNvbSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIyYzAxZWFlNi0wYjZhLTExZWUtYTA1OC1mMjNjOTEzNjlmMmQiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsInRscyI6IiJ9
-vless://2a325803-9458-455d-ad20-e51fab100145@51.68.198.51:8080?encryption=none&security=none&type=ws&path=%2FYUYETrenyklxeoyemeWFCrneerV#%3E%3E%40v2ray_configs_pool%3A%3AGB
-vless://69310d96-7045-c206-a2d0-f8ae6e49b726@91.199.32.86:2053?encryption=none&security=tls&sni=act12.sni565.netlib.re&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=act12.sni565.netlib.re&path=%2Fproxyip%3Dtw.sni2025.netlib.re#%3E%3E%40v2ray_configs_pool%3A%3AGB
-vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@84.8.145.58:443?&security=tls&fp=random&sni=ak.suoni.nyc.mn&type=ws&headerType=none&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo#%3E%3E%40v2nodes%3A%3AGB
+trojan://8kQaUakMBb@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-rpm37orb
+trojan://PavClLIvFd@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-bq9n8ql8
+trojan://vip@fbi.gov:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A594
