@@ -1,5 +1,6 @@
-trojan://vip@www.visa.com.tw:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560#TW
+trojan://vip@www.visa.com.tw:443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#TW%20TROJAN-421%20%7C%20free-nodes
+trojan://vip@www.visa.com.tw:443?security=tls&sni=heihu880.pages.dev&type=ws&path=/?ed=2560&Host=heihu880.pages.dev#TW%20TROJAN-874%20%7C%20free-nodes
 vless://2a27156d-f499-4608-a1f1-852bd2a09f27@103.61.139.122:2096?encryption=none&security=reality&sni=downloads.dc.siemens.com&fp=random&pbk=fiDmBkIxNgF-EzisgcmnacIyMkKtCIVs2kjdvmvhoFQ&sid=1e1febe100&type=raw&headertype=none#[🇹🇼]t.me/ConfigsHub
-vless://2456f90c-5183-476d-b069-16ae74ce120f@91.206.71.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=fast01.0860852.xyz&type=ws&allowInsecure=0&sni=fast01.0860852.xyz#Telegram%3A%40Enzewa_network
+trojan://vip@www.visa.com.tw:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560#TW
 vless://4aa980fb-b1f8-45ca-90d0-46ebeca227a0@84.32.244.5:22230?security=reality&encryption=none&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=a9725715bf4c62ff#Telegram%3A%40Enzewa_network
 vless://6932aea6-ddb8-724b-92b6-cd16b24d72ae@203.69.248.40:10443?encryption=none&security=tls&sni=s3.sni2010.netlib.re&fp=chrome&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=s3.sni2010.netlib.re&path=/proxyip=tw.sni2025.netlib.re#[🇹🇼]t.me/ConfigsHub
