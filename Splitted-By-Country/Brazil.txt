@@ -1,3 +1,1 @@
-vless://b964cfbe-5f8a-47ae-9f14-4a6e36bfed2b@154.31.113.124:443?security=reality&encryption=none&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=cb37b04594#%40Filter_breaker
-vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#%F0%9F%87%A7%F0%9F%87%B7%20Brazil
-vless://49bfe308-0c0f-4770-bd81-bb2ff8efa03a@140.238.101.212:443?security=reality&encryption=none&pbk=_dsOu_vxEU7pY3sIeGJxIpR0Ac2KoqIyBor2Bx0CwGA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.bp.com&sid=d923#%40Filter_breaker
+trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#%40Filter_breaker-6
