@@ -1,14 +1,19 @@
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#[🇯🇵]t.me/ConfigsHub
-vmess://eyJ2IjoiMiIsImFkZCI6IjQ1LjE1OS41MS4xMTYiLCJwb3J0IjoiNDgwMTkiLCJpZCI6ImMwNjc5N2Q1LWZhNDEtNGI0OC1iMTMyLWQyNjhkMmFjYjMwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpQIHwgXHVkODNkXHVkZDEzIFZNRVNTIHwgQG1mdGl6aSBbMTldIn0
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5py65Zy65o6o6I2QOmRhZmVpLmRlIOaXpeacrCAwMyIsImFkZCI6InhpYW9saXl1NDYyNC52LmpzcWNkbi5iaWQiLCJwb3J0IjoiNDEzMTUiLCJpZCI6IjgyNTM5ZWI3LTE4YzgtNDhkMC1iYjljLTU1ZDFiNmU0N2Y1OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii9vYmoiLCJob3N0IjoiaW1nMTQuMzYwYnV5aW1nLmNvbSJ9
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.117.182:3093?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.117.182-1627%20%7C%206.211MB
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.196.59:2890?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.196.59-1220%20%7C%205.56MB
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.136.130:4054?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.136.130-1585%20%7C%200.093MB
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp06a.roc-taiwan.org.ua:65016?security=tls#%E6%9C%AA%E7%9F%A5154
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.196.59:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.196.59-1220
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp02a.roc-taiwan.net.ua:65012?security=tls#%E6%9C%AA%E7%9F%A5117
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp04a.roc-taiwan.net.ua:65014?security=tls#%E6%9C%AA%E7%9F%A5135
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP%20%231
 hysteria2://97f8e11a-683a-493d-839a-3340a7bc63fb@dg1.xiaohuolongjc.top:37771?sni=dg1.xiaohuolongjc.top#JP%20%232
 hysteria2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712?insecure=1&sni=bing.com#JP%20%233
 hysteria2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789?insecure=1&sni=bing.com#JP%20%234
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5py65Zy65o6o6I2QOmRhZmVpLmRlIOaXpeacrCAwMSIsImFkZCI6Imh4Yi5kYXNodWFpLmhlbHAiLCJwb3J0IjoiNDUwNTciLCJpZCI6ImY0YzBlYjU4LTQ5NWUtNDkzZC04ZjE4LWI3NTRjMGFmYjg2ZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.117.182:3093?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.117.182-1627%20%7C%206.211MB
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.196.59:2890?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.196.59-1220%20%7C%205.56MB
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.136.130:4054?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.136.130-1585%20%7C%200.093MB
+vless://6a6f5102-de1b-4513-bde9-07d22d4889d5@45.83.22.118:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20JP%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#[🇯🇵]t.me/ConfigsHub
+vless://549da73c-e0c5-4590-a31e-1fc23d222a19@46.250.250.149:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=NTI9xX2nhvkiIda2Y4aExcxIxOOc6MctDWBPZqeN6QE&amp;sid=7795775a7afe0581&amp;type=grpc&amp;serviceName=92b9086d26e6417608e7a1f4#Japan%2013%20dailyv2ry
+vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=swdist.apple.com&amp;sid=232c6f7b520b89&amp;fp=ios&amp;pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&amp;spx=/WrlEujUojrpP7Bk&amp;headerType=none#Japan+AWS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTk5LjE1LjcwOjQ0Mw==#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC_6
 hy2://16461a78-363c-457a-92f9-83b0a68edc37@zp1.eyucdn.xyz:2056/?insecure=1&sni=zp1.eyujichang.xyz#JP
 hy2://89a62b16-a3c3-4ad7-be18-6f0266f7a2c5@jpjp.gzcloud.shop:443/?mport=10000-20000&insecure=1&sni=jpjp.gzcloud.shop&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇯🇵日本
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
@@ -18,6 +23,3 @@ hy2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789/?insecure=1&sni=bing.com#JP
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Join Sho:@IRAN_V2RAY1 🇯🇵
 trojan://BxceQaOe@153.121.51.221:1821?security=tls&headerType=none&type=tcp&sni=t.me/ripaojiedian#@IRAN_V2RAY1 🇯🇵
 vless://89a62b16-a3c3-4ad7-be18-6f0266f7a2c5@cf.090227.xyz:80/?type=ws&encryption=none&flow=&host=xn--wgv71a.xn--4gqza090la383cba657a9rw23a362bz35amu9c.site&path=/#🇯🇵日本
-vmess://eyJhZGQiOiI4LjIxMS4xNjQuMjE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjczMTkzY2NlLTdjYTEtNGIwOC05M2ZmLTRlZThiMDE0NzM3NCIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWxlZ3JhbV9Ac3N3aWEiLCJwb3J0IjoiMjA1MjIiLCJwcyI6Ilvwn4ev8J+HtV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxZTQyNjA0Ni10MGZkczAtdDEyY25qLTFvbDk3LmhrLnA1cHYuY29tIiwiYWlkIjoiMiIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsImlkIjoiOTNmYjY5ZmMtNzdjZi0xMWVlLTg1ZWUtZjIzYzkxMzY5ZjJkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoi8J+HrfCfh7BISyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDg1LjIwOC4xMDguNjA6ODg4Mg==#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%ACss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTM0NzA1Ny03YWY1LTQ1NjItYjkxMi1mMWMyMTdjNGMxNjBAaG50LmNuZG5zLnNob3A6Mjc3NjY=#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6vmess://eyJhZGQiOiJwb3dlcnNlcnZpY2UuY29tIiwidiI6MiwicHMiOiLwn4e68J+HuF9VU1/nvo7lm70tPvCfh6vwn4e3X0ZSX+azleWbvSIsInBvcnQiOjQ0MywiaWQiOiIwNzY0YTU5OC04MmM0LTRiNDEtYmExMC01NTFhNjI1YmVlZDUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiL3NzaG9jZWFuIiwiaG9zdCI6InVrMi52MnJheXNlcnYuY29tIn0=vmess://eyJhZGQiOiIxOTguNDEuMjAzLjQiLCJ2IjoyLCJwcyI6ImRlZmF1bHRfbmFtZSIsInBvcnQiOjQ0MywiaWQiOiJmY2ZhZWM5MS02MDk2LTQ0ZDgtOTU2Yy03ODY4ZDllODc0YjEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiL3JheSIsImhvc3QiOiJsZzEuY2ZjZG4xLnh5eiJ9------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
