@@ -1,7 +1,9 @@
 vmess://eyJhZGQiOiIxMzguMi40Mi4yNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTNjN2NiNjMtYmMzOS00NjBiLWU0MWItY2E2NTM2M2UzZTgzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoi8J+Hr/Cfh7VKUC0xMzguMi40Mi4yNDEtMTA1MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=kuame.missionsec.us#[🇯🇵]t.me/ConfigsHub
-trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=kuame.missionsec.us#Japan%20Klayer%20LLC
-vless://bc9a8522-d884-41cd-de9c-9a29812b55ef@138.2.50.155:38487?security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com#JP%20VLESS-89%20%7C%20free-nodes
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.196.59:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.196.59-1220
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.233.76:507?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.233.76-1214
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.136.130:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.136.130-1585
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgVk1FU1Mt576O5Zu9PuaXpeacrC1ORuino+mUgeaXpeacrOWcsOWMuumdnuiHquWItuWJpy1DaGF0R1BULVlvdVR1YmUtdDEuNjIwNzIwLnh5ejo4NDQzIiwiYWRkIjoidDEuNjIwNzIwLnh5eiIsInBvcnQiOiI4NDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InQxLjYyMDcyMC54eXoiLCJ0bHMiOiJ0bHMifQ==
 hy2://16461a78-363c-457a-92f9-83b0a68edc37@zp1.eyucdn.xyz:2056/?insecure=1&sni=zp1.eyujichang.xyz#JP
 hy2://89a62b16-a3c3-4ad7-be18-6f0266f7a2c5@jpjp.gzcloud.shop:443/?mport=10000-20000&insecure=1&sni=jpjp.gzcloud.shop&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇯🇵日本
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
@@ -10,14 +12,19 @@ hy2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712/?insecure=1&sni=bing.com#J
 hy2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789/?insecure=1&sni=bing.com#JP
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Join Sho:@IRAN_V2RAY1 🇯🇵
 trojan://BxceQaOe@153.121.51.221:1821?security=tls&headerType=none&type=tcp&sni=t.me/ripaojiedian#@IRAN_V2RAY1 🇯🇵
+vless://6a753f74-b279-44d7-a442-b5cbc425569f@ua.griffon-guard.com:8443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#r♡ya
 vless://89a62b16-a3c3-4ad7-be18-6f0266f7a2c5@cf.090227.xyz:80/?type=ws&encryption=none&flow=&host=xn--wgv71a.xn--4gqza090la383cba657a9rw23a362bz35amu9c.site&path=/#🇯🇵日本
-vmess://eyJ2IjoiMiIsImFkZCI6IjQ1LjE1OS41MS4xMTYiLCJwb3J0IjoiNDgwMTkiLCJpZCI6ImMwNjc5N2Q1LWZhNDEtNGI0OC1iMTMyLWQyNjhkMmFjYjMwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpQIHwgXHVkODNkXHVkZDEzIFZNRVNTIHwgQG1mdGl6aSBbMTldIn0
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.117.182:3093?allowInsecure=1&sni=www.nintendogames.net#JP-160.16.117.182-070
-trojan://76d630f2af6619c4a5de0ef953df3c6a@202.181.103.246:2760?allowInsecure=1&sni=www.nintendogames.net#JP-202.181.103.246-072
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.233.76:507?allowInsecure=1&sni=www.nintendogames.net#JP-160.16.233.76-073
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.136.130:4054?allowInsecure=1&sni=www.nintendogames.net#JP-160.16.136.130-075
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP%20%231
 hysteria2://97f8e11a-683a-493d-839a-3340a7bc63fb@dg1.xiaohuolongjc.top:37771?sni=dg1.xiaohuolongjc.top#JP%20%232
 hysteria2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712?insecure=1&sni=bing.com#JP%20%233
 hysteria2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789?insecure=1&sni=bing.com#JP%20%234
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.70.180:1331?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Japan%20NTT%20PC%20Conmunications
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-jp-11.mielink-dns2.com:443?security=tls&sni=paydiu.com#%E6%9C%AA%E7%9F%A5125
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.117.182:3093?allowInsecure=1&sni=www.nintendogames.net#JP-160.16.117.182-070
+trojan://76d630f2af6619c4a5de0ef953df3c6a@202.181.103.246:2760?allowInsecure=1&sni=www.nintendogames.net#JP-202.181.103.246-072
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.233.76:507?allowInsecure=1&sni=www.nintendogames.net#JP-160.16.233.76-073
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.136.130:4054?allowInsecure=1&sni=www.nintendogames.net#JP-160.16.136.130-075
+vmess://eyJ2IjoiMiIsInBzIjoiSEstMjIwLjI0Ni4xNzIuMzAtMTE0IiwiYWRkIjoiNGE5YjVlYjktc3ZhNzQwLXN2ZXlleS00NGs0LmhrMy5wNXB2LmNvbSIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiJjNWViMmMyYy1iYzFkLTExZWQtYThiZi1mMjNjOTFjZmJiYzkiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiSEtfYTkwNzRfMDAxMCIsImFkZCI6ImhrdC5nb3RvY2hpbmF0b3duLm5ldCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIzODRkMWI0Mi02NTVmLTExZWQtYThiZi1mMjNjOTFjZmJiYzkiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiSEstMjIwLjI0Ni4xNzIuMzAtNzI3OSIsImFkZCI6ImY3MjczOGQyLXN2MHhzMC10YzJzb2QtMXRpem8uaGszLnA1cHYuY29tIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImJmMzYyMjdjLTAxOTEtMTFmMC1hZWUxLWYyM2M5MWNmYmJjOSIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImY3MjczOGQyLXN2MHhzMC10YzJzb2QtMXRpem8uaGszLnA1cHYuY29tIiwidGxzIjoiIn0=
+vmess://eyJhZGQiOiI0NS44OS4xMDkuNDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMTI5NDdlNTYtYWI4MC00M2JmLTkxNDUtNzJmYTUwZTQxYzlhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MTAzOSIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4ev8J+HtSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
