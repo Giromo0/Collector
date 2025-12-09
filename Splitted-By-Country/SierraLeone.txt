@@ -1,1 +1,2 @@
-hysteria2://520b9126-9870-11ef-81b0-f23c9164ca5d@71477f9c-t53wg0-t95ncr-1slop.hk1.hyhuawei.com:443?insecure=0#71477f9c-t53wg0-t95ncr-1slop.hk1.hyhuawei.com%3A443
+hysteria2://SNItest@46.243.232.105:443?insecure=1&sni=gosuslugi.ru#r%E2%99%A1ya%20%231
+vless://d300ae15-2ba2-4f91-b1b0-b4510912e4cc@104.18.26.90:443?path=%2Fadmin&security=tls&encryption=none&host=2free2.aparatir.xyz&fp=randomized&type=ws&sni=2free2.aparatir.xyz#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40tobevasl%20%5B14%5D
