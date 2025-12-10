@@ -1,8 +1,7 @@
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.106.144:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.144-1625
-hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP%20%231
-hysteria2://97f8e11a-683a-493d-839a-3340a7bc63fb@dg1.xiaohuolongjc.top:37771?sni=dg1.xiaohuolongjc.top#JP%20%232
-hysteria2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712?insecure=1&sni=bing.com#JP%20%233
-hysteria2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789?insecure=1&sni=bing.com#JP%20%234
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.117.182:3093?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.117.182-0287
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.153.13:3145?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.153.13-1235
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.229.223:3093?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.229.223-4188
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.214.6:2890?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.6-4194
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.117.182:3093?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.117.182-0315
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.196.59:2890?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.196.59-0320
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.153.13:3145?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.153.13-0330
@@ -22,4 +21,8 @@ hy2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789/?insecure=1&sni=bing.com#JP
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Join Sho:@IRAN_V2RAY1 🇯🇵
 trojan://BxceQaOe@153.121.51.221:1821?security=tls&headerType=none&type=tcp&sni=t.me/ripaojiedian#@IRAN_V2RAY1 🇯🇵
 vless://89a62b16-a3c3-4ad7-be18-6f0266f7a2c5@cf.090227.xyz:80/?type=ws&encryption=none&flow=&host=xn--wgv71a.xn--4gqza090la383cba657a9rw23a362bz35amu9c.site&path=/#🇯🇵日本
-vmess://eyJhZGQiOiJhLmNvbmZpZ25vci5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImVlNTY2MTIzLWY5MjgtNDc3My1hN2I3LWQ5NjhlZDAyY2YxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNzQ0MyIsInBzIjoiQFNoaWthVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTk5LjE1LjcwOjQ0Mw==#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC_6
+hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP%20%231
+hysteria2://97f8e11a-683a-493d-839a-3340a7bc63fb@dg1.xiaohuolongjc.top:37771?sni=dg1.xiaohuolongjc.top#JP%20%232
+hysteria2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712?insecure=1&sni=bing.com#JP%20%233
+hysteria2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789?insecure=1&sni=bing.com#JP%20%234
