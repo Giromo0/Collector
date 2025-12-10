@@ -1,7 +1,15 @@
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.117.182:3093?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.117.182-0322
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.153.13:3145?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.153.13-2921
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.242.183:1331?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.242.183-2721
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#[🇯🇵]t.me/ConfigsHub
+hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP%20%231
+hysteria2://97f8e11a-683a-493d-839a-3340a7bc63fb@dg1.xiaohuolongjc.top:37771?sni=dg1.xiaohuolongjc.top#JP%20%232
+hysteria2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712?insecure=1&sni=bing.com#JP%20%233
+hysteria2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789?insecure=1&sni=bing.com#JP%20%234
 vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=swdist.apple.com&amp;sid=232c6f7b520b89&amp;fp=ios&amp;pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&amp;spx=/WrlEujUojrpP7Bk&amp;headerType=none#Japan+AWS
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTk5LjE1LjcwOjQ0Mw==#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC_6
+vmess://eyJ2IjoiMiIsInBzIjoiSEstMjIwLjI0Ni4xNzIuMzAtNzMxMCB8IDAuMTgxTUIiLCJhZGQiOiJhMGFlOGYyNy1zdjRuNDAtc3c1d2k3LXVmYzAuaGszLnA1cHYuY29tIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjIyMzA4OTg4LTg1NDgtMTFlYS1hMjJlLWYyM2M5MWNmYmJjOSIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImEwYWU4ZjI3LXN2NG40MC1zdzV3aTctdWZjMC5oazMucDVwdi5jb20iLCJ0bHMiOiIifQ==
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.136.130:4054?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.136.130-1585%20%7C%200.146MB
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#[🇯🇵]t.me/ConfigsHub
 hy2://16461a78-363c-457a-92f9-83b0a68edc37@zp1.eyucdn.xyz:2056/?insecure=1&sni=zp1.eyujichang.xyz#JP
 hy2://89a62b16-a3c3-4ad7-be18-6f0266f7a2c5@jpjp.gzcloud.shop:443/?mport=10000-20000&insecure=1&sni=jpjp.gzcloud.shop&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇯🇵日本
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
@@ -11,11 +19,3 @@ hy2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789/?insecure=1&sni=bing.com#JP
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Join Sho:@IRAN_V2RAY1 🇯🇵
 trojan://BxceQaOe@153.121.51.221:1821?security=tls&headerType=none&type=tcp&sni=t.me/ripaojiedian#@IRAN_V2RAY1 🇯🇵
 vless://89a62b16-a3c3-4ad7-be18-6f0266f7a2c5@cf.090227.xyz:80/?type=ws&encryption=none&flow=&host=xn--wgv71a.xn--4gqza090la383cba657a9rw23a362bz35amu9c.site&path=/#🇯🇵日本
-vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJyYXlfY29uZmlnc19wb29sOjpISzo6SEs6OkhLOjpISyIsImFkZCI6IjQ3LjI0My4yMTMuMjQ3IiwicG9ydCI6IjU2ODkiLCJpZCI6ImE5OWQwOGViLTgxYzUtNDk0NC1iYTE2LTQ0NjFiYjJlYzgwOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2Fya2kiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ
-vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?&security=reality&flow=xtls-rprx-vision&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&sid=6ba85179e30d4fc2&fp=chrome&sni=mensura.cdn-apple.com&type=tcp&headerType=none&path=%2F#%5BVless%5D%20%F0%9F%87%AF%F0%9F%87%B5%20JP%20VLESS-129%40free-nodes
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.89.176:4054?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.89.176-0012
-hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP%20%231
-hysteria2://97f8e11a-683a-493d-839a-3340a7bc63fb@dg1.xiaohuolongjc.top:37771?sni=dg1.xiaohuolongjc.top#JP%20%232
-hysteria2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712?insecure=1&sni=bing.com#JP%20%233
-hysteria2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789?insecure=1&sni=bing.com#JP%20%234
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5py65Zy65o6o6I2QOmRhZmVpLmRlIOaXpeacrCAwNCIsImFkZCI6Imh4Yi5kYXNodWFpLmhlbHAiLCJwb3J0IjoiNDUwNTciLCJpZCI6ImI0YTc2MzI5LTU2YmItNDI0YS1iZDNlLTZiMzgzZjc1YWY4OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
