@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh23v1.hiddendom.shop&alpn=h2&type=grpc&host=pqh23v1.hiddendom.shop#telegram ☂️ v2ray_configs_pools
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.34:80?mode=gun&security=none&encryption=none&type=grpc#azadiiivpn ⁷🎀
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.250:80?encryption=none&security=none&type=grpc#t.me/v2Line | Free | 3081 | United States
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.249:80?mode=gun&security=none&encryption=none&type=grpc#skypro_vpn
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.249:80?encryption=none&security=none&type=grpc#t.me/v2Line | Free | 3102 | United States
 vless://401374e6-df77-41fb-f638-dad8184f175b@172.67.68.36:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh23v2.hiddendom.shop#telegram 🎯 v2ray_configs_pools
@@ -502,3 +499,6 @@ hy2://331cae90-f7e9-11ed-b4e2-f23c913c8d2b@220.246.94.129:443/?insecure=1&sni=bb
 hy2://2d8c38cc-fc12-11ef-94aa-f23c913c8d2b@369741ab-t48f40-tbpu76-1thmd.hk1.hyhuawei.com:443/?insecure=1&sni=369741ab-t48f40-tbpu76-1thmd.hk1.hyhuawei.com#⚛️77@oneclickvpnkeys
 hy2://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@1ee38495-t6t0g0-t94bdb-mrtr.hk1.hyhuawei.com:443/?insecure=1&sni=1ee38495-t6t0g0-t94bdb-mrtr.hk1.hyhuawei.com#⚛️76@oneclickvpnkeys
 hy2://16461a78-363c-457a-92f9-83b0a68edc37@zp1.eyucdn.xyz:2056/?insecure=1&sni=zp1.eyujichang.xyz#东京
+hy2://16461a78-363c-457a-92f9-83b0a68edc37@zp1.eyucdn.xyz:2056/?insecure=1&sni=zp1.eyujichang.xyz#JP
+hy2://16461a78-363c-457a-92f9-83b0a68edc37@sg3.eyucdn.xyz:2056/?insecure=1&sni=sg3.eyucdn.xyz#新加坡
+hy2://16461a78-363c-457a-92f9-83b0a68edc37@sg2.eyucdn.xyz:2056/?insecure=1&sni=sg2.eyucdn.xyz#新加坡
