@@ -1,43 +1,20 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag5Lit5Zu9IC0g6aaZ5rivIC0gSG9uZyBLb25nIFRlbGVjb21tdW5pY2F0aW9ucyAoSEtUKSBMaW1pdGVkIE1hc3MgSW50ZXJuZXQgLSA1MyIsImFkZCI6IjQwMGNlOWI2LXQ2bmdnMC10YW11bWMtMWxrYnMuaGszLnA1cHYuY29tIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjVhNGMxM2FlLTY2NzMtMTFlZS1hMTQ5LWYyM2M5MTY0Y2E1ZCIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IjQwMGNlOWI2LXQ2bmdnMC10YW11bWMtMWxrYnMuaGszLnA1cHYuY29tIiwidGxzIjoiIn0=
-vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%91%80
-trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443?security=tls&sni=de2-full.privateip.net#%E6%9C%AA%E7%9F%A53
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.zhetengsha.eu.org:443?security=tls&sni=_acme-challenge.2go.cloudns.be#%E6%9C%AA%E7%9F%A511
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.106.144:316?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A513
-trojan://telegram-id-privatevpns@63.181.72.176:22222?security=tls&sni=trojan.burgerip.co.uk#%E6%9C%AA%E7%9F%A524
-trojan://vip@www.wto.org:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A563
-trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.56.122:5041?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A567
-trojan://76d630f2af6619c4a5de0ef953df3c6a@13.112.81.124:3169?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A580
-trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4317?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A593
-trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@jp.mjt001.com:443?security=tls&sni=jp.mjt001.com#%E6%9C%AA%E7%9F%A594
-trojan://253bc477d4e43c209f2d427272968280@160.16.63.16:447?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A599
-trojan://BxceQaOe@58.152.25.242:443?security=tls&sni=t.me%252Fripaojiedian#HK2
-trojan://79314e99f0a473fe86efc7827942ad00@153.121.44.99:507?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5132
-trojan://mainssh-ddoejfv14@140.82.38.103:443?security=tls&type=grpc&sni=frtgrpc.mainssh.xyz#%E6%9C%AA%E7%9F%A5169
-trojan://BxceQaOe@16.163.138.120:2752?security=tls&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A5177
-trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz#%E6%9C%AA%E7%9F%A5192
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.196.59:2890?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#United%20State%20Hivelocity
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info%E2%9C%85
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.infofree
+trojan://8r<[9'l6hAO#8ZQi@koma-yt.pages.dev:8443?sni=Koma-YT.PAGeS.Dev&type=ws&path=%2Ftro8sFW1S91B6sZrM1&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2019
+trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@51.195.219.173:443?security=tls&sni=ukt1.sshocean.net#%E6%9C%AA%E7%9F%A577
+trojan://telegram-id-privatevpns@54.93.240.151:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5166
+trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store#%E6%9C%AA%E7%9F%A5174
 trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#[
-vless://b0e5da32-8bb4-4e65-94f1-99ddeefeaa5e@ium3uojslvj2shb1yh8zu7etc34vmyfb.z8f5hmu0ue.workers.dev:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=PmlMyazd.pagEs.Dev%F0%9F%8F%B4%F0%9F%8F%B3
-vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
-vless://c921c664-d82d-4317-b4d0-7640cc9aa760@151.101.3.8:80?allowInsecure=0&amp;sni=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&amp;type=ws&amp;host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&amp;path=/
-trojan://telegram-id-privatevpns@63.180.137.98:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.70.180:1331?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Japan%20NTT%20PC%20Conmunications
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Hddify |~| چنل هدیفای
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&fp=chrome&type=tcp&sni=wus02.weyaf9sdoh2h.space#@Hddify
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#✅
+vless://2a269c03-fd20-46e2-8464-60b10a244801@104.20.2.1:80?path=%2Fdl%2Findex.php&amp;security=none&amp;encryption=none&amp;host=RFDJCK.%D8%B3%DB%8C%D8%B3%DB%8C.wOrLd&amp;type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.20.156.248:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=current.ircp.online&amp;type=ws&amp;sni=current.ircp.online#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyY0BzZXJpZXMtYTItbWVjLnNhbWFuZWhoYS5jbzo0NDM=#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
+trojan://telegram-id-privatevpns@52.47.108.239:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#H3
+hy2://16461a78-363c-457a-92f9-83b0a68edc37@zp1.eyucdn.xyz:2056/?insecure=1&sni=zp1.eyujichang.xyz#东京
+hy2://de8854c7-fa17-4266-ae18-50a9732a0c4e@hk1.1010991.xyz:3001/?insecure=1&sni=hk1.1010991.xyz#🇭🇰香港
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&type=ws&allowInsecure=0&sni=terazhedi.info#1
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&type=ws&allowInsecure=0&sni=terazhedi.info#[🛸]
-vless://3121850a-24aa-41f9-936d-dbdf10a3b31f@85.209.154.133:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#⚡
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.249:80?encryption=none&security=none&type=grpc#t.me/v2Line | Free | 3102 | United States
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&host=picassoo.info&fp=chrome&type=ws&sni=picassoo.info#r♡ya
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=picassoo.info#24
-vless://db54c2ca-abe2-19ae-9abf-46a4aa1598f8@de.u-team.ir:8989?mode=gun&security=reality&encryption=none&pbk=qdAbPwxdT1Jd6gou8moNKiPocp5yGcan0JQpBUHTNgQ&fp=chrome&type=grpc&serviceName=grpc-reality&sni=tgju.org&sid=ce8b0dc11675f0a4#1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#mtnirancell ✨️ azadiiivpn
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860201969.lisbon-prx-dnraacq.info:8880?mode=gun&security=none&encryption=none&type=grpc#mtnirancell ✨️ azadiiivpn
-vless://e74dc1a5-7d48-400b-93c6-efb860b706fa@nla.tunnelguard.ru:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=nla.tunnelguard.ru#1
-vless://ee41a97f-e3b7-4ab2-97cf-f12f93d69698@158.220.82.224:443?security=reality&encryption=none&pbk=tTyX27Ray_QxyZv9ICeurhJkRaTp7t98UrBI1EDYVi8&headerType=none&fp=chrome&spx=/ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#0
-vless://fd84e1b2-b3f7-4d8a-bbff-fe2d9065d076@wa.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#0
+vless://bf92bdef-ab8d-4481-8798-2d39023357b2@net2.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#.
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.18.86.131:443?path=/?ed&security=tls&encryption=none&insecure=0&host=vless5-edu.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=vless5-edu.pages.dev#V2RAY
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946555860213179.lisbon-prx-dnraacq.info:8880?mode=gun&security=none&encryption=none&type=grpc#mtnirancell ✨️ azadiiivpn
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A5%B0
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.35.168:443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&encryption=none&host=edcck.ambercc.filegear-sg.me&fp=random&type=ws&sni=edcck.ambercc.filegear-sg.me#%40v2ray
 vless://30e16ca9-edee-4ce5-8ba4-e53caa10ebae@apple5.mobile-unix.com:26425?security=&encryption=none&host=skyroom.online%2Cigap.net%2Cgharar.ir&headerType=http&type=tcp#Unix.5%F0%9F%87%A9%F0%9F%87%AA-javid.503
-vless://cbb4251b-9b20-4c42-b09d-df77666bda12@188.245.34.12:2087?sni=www.target.com&sid=e6&mode=gun&security=reality&encryption=none&fp=chrome&type=grpc&pbk=_Qos-LNNG2nnPEFrTHSotINN3VcKWcVF7sCaw1HUElM#قهرمان پوشالی
