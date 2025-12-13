@@ -1,68 +1,27 @@
-vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=%2Fwebsocket&amp;security=tls&amp;encryption=none&amp;host=de02.abvpn.ru&amp;type=ws&amp;sni=de02.abvpn.ru#7
-vless://af9fdedf-dca8-405d-9aa4-98ebcc99e84b@ipe3.alighan.ir:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s.alighan.ir&amp;fp=chrome&amp;type=ws&amp;sni=ipe4.aligh…
-trojan://253bc477d4e43c209f2d427272968280@153.121.51.29:409?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A541
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10826?security=tls#%E6%9C%AA%E7%9F%A542
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-1.mielink-dns2.com:443?security=tls&sni=paydiu.com#%E6%9C%AA%E7%9F%A564
-trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4317?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A593
-trojan://7b06d22a8a7c764f@211.72.35.154:3389?security=tls#%E6%9C%AA%E7%9F%A5153
-trojan://FodSUXysuS@180.131.145.161:23274?security=tls#%E6%9C%AA%E7%9F%A5167
-trojan://2a9ba60d-10ce-4f79-97e7-817334456195@3.85.62.200:54527?security=tls&sni=tr7.tgcunzhang.xyz#%E6%9C%AA%E7%9F%A5181
-trojan://Aimer@188.164.159.43:2083?path=/?ed?ed=2048@v2ray_configs_pools--@v2ray_configs_pools--@v2ray_configs_pools--@v2ray_configs_pools&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#telegram 🍊 v2ray_configs_pools
-trojan://tunnel-v2ray_configs_pools_official-us@us-3.stunnel.cc:8441?security=tls&alpn=http/1.1&host=us-3.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev#@v2ray_configs_pools
-vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@cloudgetservice.mcloudservice.site:443?path=/linkws&security=tls&encryption=none&host=maxnetvipap-cloud76.netkh3.site&type=ws#telegram 🌺 v2ray_configs_pools
-vless://239cfabf-d064-4cfd-8c2a-c74babc1c77b@172.233.181.175:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram ☂️ v2ray_configs_pools
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=EdI6cCk0Kn.AaAzZzAaA-89.iNfO&type=ws&alpn=h3h2&host=EdI6cCk0Kn.AaAzZzAaA-89.iNfO&path=/#telegram 🍀 v2ray_configs_pools
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=V680pKiHuC.aAaZzZaAa-89.InFo&type=ws&alpn=h3h2&host=V680pKiHuC.aAaZzZaAa-89.InFo&path=/#telegram 🚀 v2ray_configs_pools
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=XrKp5F97u7.TaKtAk00121.InFo&fp=chrome&type=ws&sni=XrKp5F97u7.TaKtAk00121.InFo#telegram 🎯 v2ray_configs_pools
-vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.58.220:80?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram 🎯 v2ray_configs_pools
-vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.238.190.16:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram ⚡️ v2ray_configs_pools
-vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.238.190.16:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram 🍊 v2ray_configs_pools
-vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh26v8.hiddendom.shop#telegram ⚡️ v2ray_configs_pools
-vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@159.203.10.217:443?type=xhttp&path=/sf&host=&mode=stream-one&security=none#telegram ☂️ v2ray_configs_pools
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss29026.tas-bazi.com:443?type=xhttp&path=/sc&host=&mode=stream-one&security=none#telegram ☂️ v2ray_configs_pools
-vless://47994c30-bd6e-4045-9e1c-1841a4acab30@85.9.214.105:80?type=tcp&path=/&host=zula.ir&headerType=http&security=none#telegram 🎯 v2ray_configs_pools
-vless://48ce2e19-3d40-4df7-9da8-0252d1e6a22a@85.133.236.1:5208?encryption=none&security=none&alpn=http/1.1&type=tcp&headerType=http&path=/&host=skyroom.online,igap.net,gharar.ir#telegram 🍀 v2ray_configs_pools
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.183.13.244:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#telegram 🌈 v2ray_configs_pools
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.97.115.40:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#telegram 🍊 v2ray_configs_pools
-vless://4cc04a11-08c8-4aa5-8ee4-1173bfdf9df5@5.22.217.136:80?type=tcp&path=/&host=zula.ir&headerType=http&security=none#telegram ⚡️ v2ray_configs_pools
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@f1.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#telegram ⚡️ v2ray_configs_pools
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@s3.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#telegram 🎪 v2ray_configs_pools
-vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server220219218087614861.tas-bazi.com:443?type=xhttp&path=/frf&host=&mode=stream-one&security=none#telegram 🎪 v2ray_configs_pools
-vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server422977785106074358.tas-bazi.com:443?type=xhttp&path=/frf&host=&mode=stream-one&security=none#telegram 🚀 v2ray_configs_pools
-vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server510120227793510198.tas-bazi.com:443?mode=stream-one&path=/frf&security=&encryption=none&type=xhttp#telegram ☂️ v2ray_configs_pools
-vless://57f00763-7751-4e0c-a6c9-29d3176a74fb@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=638895063452643248.paris-prx-dnraaay.info&type=ws&alpn=&host=638895063452643248.paris-prx-dnraaay.info&path=/urdpjvws#telegram 🍊 v2ray_configs_pools
-vless://666a2803-43f2-4317-9661-dc978d869d47@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638899136128783410.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638899136128783410.amsterdam-prx-dnraaal.info&path=/dahstrws#telegram 🌈 v2ray_configs_pools
-vless://8a009663-9afa-4f0f-aac0-23e743a89e08@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638895562737046416.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638895562737046416.amsterdam-prx-dnraaal.info&path=/zwtnbvws#telegram 🌺 v2ray_configs_pools
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@173.208.51.18:443?security=reality&encryption=none&type=xhttp#telegram 🚀 v2ray_configs_pools
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@46.62.160.173:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#telegram 🌺 v2ray_configs_pools
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@5.75.201.11:55778?encryption=none&security=reality&sni=&type=tcp&alpn=&host=&path=#telegram 🚀 v2ray_configs_pools
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.107.171.123:443?security=reality&encryption=none&type=xhttp#telegram 🌟 v2ray_configs_pools
-vless://a6b02202-a87a-4a79-b186-a7f59b989556@FASTSHOVPNTELEGRAM.fast.hosting-ip.com:80?mode=auto&path=/FASTSHOVPN?ed&security=&encryption=none&host=FASTSHOVPNTELEGRAMMM.COM&type=xhttp#telegram 🌟 v2ray_configs_pools
-vless://b0e5da32-8bb4-4e65-94f1-99ddeefeaa5e@ium3uojslvj2shb1yh8zu7etc34vmyfb.z8f5hmu0ue.workers.dev:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=PmlMyazd.pagEs.Dev#🏴🏳
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.145.167:8443?type=xhttp&path=/xhttp&host=&mode=stream-one&security=none#telegram 🚀 v2ray_configs_pools
-vless://cd54a584-2aeb-4a81-8558-84822c5e60d1@15.223.180.240:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=J2bRPBQbUXzfoe-sch7fxMlzKqaX2L0kEm4Rcly6Kgo&sid=d0c43a7737&fp=chrome&spx=/#telegram 🍊 v2ray_configs_pools
-vless://d214752d-1ebd-40be-89f6-7e901a4066f1@nufilter.fast.hosting-ip.com:80?mode=auto&path=/telegram-v2ray_configs_pools-v2ray_configs_pools,telegram-v2ray_configs_pools?ed=80&security=&encryption=none&host=abazsargozashteh.com&type=xhttp#telegram 🎯 v2ray_configs_pools
-vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?type=xhttp&path=/gftrdd?ed=2560&host=take5.global.ssl.fastly.net&mode=auto&security=none#telegram 🌈 v2ray_configs_pools
-vless://d814beb3-f48d-4bbe-b6ba-b084ffea4d91@37.32.6.8:35021?security=none&type=tcp&headerType=http&path=/&host=skyroom.online#telegram 🌈 v2ray_configs_pools
-vless://dbd0ec7c-b8a0-4c60-a87e-d00edd6f0248@senator.cdniran.info:8443?security=tls&type=ws&headerType=&path=&host=srv26.flightbean24.com&sni=srv26.flightbean24.com&fp=chrome&alpn=h2,http/1.1#telegram 🍀 v2ray_configs_pools
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/yhowcws&security=tls&encryption=none&insecure=0&host=azizoarjmand.info&fp=chrome&type=ws&allowInsecure=0&sni=azizoarjmand.info#[⚡]
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=/v2ray_configs_pools---v2ray_configs_pools?ed=2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#telegram 🎯 v2ray_configs_pools
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.75.192:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram 🚀 v2ray_configs_pools
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.75.62:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram ⚡️ v2ray_configs_pools
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.77.190:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram ⚡️ v2ray_configs_pools
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.7.224:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram 🍊 v2ray_configs_pools
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram 🍊 v2ray_configs_pools
-vless://fa92e9cd-b5be-4e00-8fc4-4543012d1fd0@5.34.214.154:443?security=reality&encryption=none&pbk=RW2LSBmmSe02gQ2e4OGfNmggZbuO4trpafPiNqVEajs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=e0b8e166#telegram ⚡️ v2ray_configs_pools
-vless://telegram-id-Arfilter@172.66.40.99:443?path=/telegram-v2ray_configs_pools?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=eDg.SpEeDtEsT2029.CoM&fp=chrome&type=ws&sni=eDg.SpEeDtEsT2029.CoM#telegram 🍀 v2ray_configs_pools
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:19365?security=tls&sni=$$supaz041.xiaohouzi.club#%E6%9C%AA%E7%9F%A52
 trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@89.163.220.99:28443?security=tls#%E6%9C%AA%E7%9F%A59
-trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@sg.stablize.top:443?security=tls#%E6%9C%AA%E7%9F%A519
-trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@mel12.yukiss.eu.org:18818?security=tls#%E6%9C%AA%E7%9F%A531
-trojan://origin@51.77.71.134:443?security=tls#%E6%9C%AA%E7%9F%A541
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:19359?security=tls&sni=$$$$$hn.xiaohouzi.club#%E6%9C%AA%E7%9F%A580
-trojan://d150c8c3-a667-4d3e-843c-739f8558c7d2@198.244.190.189:443?security=tls#%E6%9C%AA%E7%9F%A592
-trojan://253bc477d4e43c209f2d427272968280@160.16.87.174:1700?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5100
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:17103?security=tls&sni=$$canada01.xiaohouzi.club#%E6%9C%AA%E7%9F%A5118
-trojan://253bc477d4e43c209f2d427272968280@153.121.73.102:3296?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A5122
-trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?security=tls#%E6%9C%AA%E7%9F%A5166
-trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#%E6%9C%AA%E7%9F%A5179
-vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.206.76:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135010072.sec21org.com#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%92%93
+trojan://e2afc128-ca51-39b6-897c-eb2649825df9@yn-zf.jiashumao.net:40375?security=tls#%E6%9C%AA%E7%9F%A510
+trojan://O4K-nAbZC4qEnBA0a_9EWQ@66.228.55.178:2083?security=tls&type=ws&sni=gstatic.com#%E6%9C%AA%E7%9F%A514
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-4.mielink-dns2.com:443?security=tls&sni=paydiu.com#%E6%9C%AA%E7%9F%A550
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.144.208:1331?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A554
+trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:2381?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A568
+trojan://BxceQaOe@219.79.186.107:443?security=tls&sni=t.me/ripaojiedian#%E6%9C%AA%E7%9F%A596
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#%E6%9C%AA%E7%9F%A5162
+trojan://xxoo@194.156.99.39:443?security=tls#%E6%9C%AA%E7%9F%A5186
+trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls#%E6%9C%AA%E7%9F%A5188
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info%E2%9C%85
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:19362?security=tls&sni=$$$$$$$$aws-hk03.xiaohouzi.club#%E6%9C%AA%E7%9F%A528
+trojan://1b26d982-fd68-44f4-bf6d-22fe17a9249a@sg006.421421.xyz:20230?security=tls&sni=www.alibaba.com#%E6%9C%AA%E7%9F%A531
+trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@141.95.61.209:1145?security=tls#%E6%9C%AA%E7%9F%A569
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1801?security=tls&sni=www.nintendogames.net#%E6%9C%AA%E7%9F%A573
+trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:4397?security=tls&sni=www.baidu.com#%E6%9C%AA%E7%9F%A581
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#%E6%9C%AA%E7%9F%A5124
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:60047?security=tls&sni=$$supaz05.xiaohouzi.club#%E6%9C%AA%E7%9F%A5130
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.88.148.234:28443?security=tls#%E6%9C%AA%E7%9F%A5154
+trojan://2a9ba60d-10ce-4f79-97e7-817334456195@3.85.62.200:54527?security=tls&sni=tr7.tgcunzhang.xyz#%E6%9C%AA%E7%9F%A5181
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=XrKp5F97u7.TaKtAk00121.InFo&fp=chrome&type=ws&sni=XrKp5F97u7.TaKtAk00121.InFo#telegram 🎯 v2ray_configs_pools
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.97.115.40:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#telegram 🍊 v2ray_configs_pools
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@91.99.177.121:55778?encryption=none&security=reality&sni=&type=tcp&alpn=&host=&path=#telegram 🌺 v2ray_configs_pools
+vless://bf92bdef-ab8d-4481-8798-2d39023357b2@tr.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#✅
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443?path=/yhowcws&security=tls&encryption=none&insecure=0&host=azizoarjmand.info&fp=chrome&type=ws&allowInsecure=0&sni=azizoarjmand.info#[⚡]
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/yhowcws&security=tls&encryption=none&insecure=0&host=azizoarjmand.info&fp=chrome&type=ws&allowInsecure=0&sni=azizoarjmand.info#[⚡]
