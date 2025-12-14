@@ -1,4 +1,5 @@
-trojan://bpb-trojan@162.159.153.172:443?security=tls&sni=cf.090227.xyz&type=tcp#https://t.me/ShadowsocksM3
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?security=&amp;type=ws&amp;path=/news&amp;host=cdn.ir&amp;encryption=none#https://t.me/ShadowsocksM26
 vless://02e46039-200d-4ae4-ac90-b0d619f72034@172.64.33.91:443?security=tls&amp;sni=redlabell.info&amp;type=ws&amp;path=/aafeuws&amp;host=redlabell.info&amp;encryption=none#https://t.me/ShadowsocksM30
-vless://fabc8a38-76c5-48fe-ada7-a9e52dd16225@179.61.251.78:443?security=reality&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=esHsu3-Fj0aZ0xuNBV6qW1zu1hLbas8YDn7AO0QGsBw&amp;sid=0ff58d687a4c6c&amp;spx=/&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#https://t.me/ShadowsocksM44
-trojan://rV3TjWB8R1EiK1xhmnypsgeo@172.236.2.42:19872?security=tls&amp;sni=ads.x5.ru&amp;allowInsecure=1&amp;fp=chrome&amp;type=tcp#https://t.me/ShadowsocksM21
+vless://20cf5921-f7fa-47c5-81ae-947fbef83a4d@51.250.20.121:443?security=reality&amp;sni=ads.x5.ru&amp;fp=chrome&amp;pbk=bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo&amp;sid=a20d3ed244c76426&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#https://t.me/ShadowsocksM45
+trojan://bpb-trojan@162.159.153.172:443?security=tls&amp;sni=cf.090227.xyz&amp;type=tcp#https://t.me/ShadowsocksM3
+trojan://79314e99f0a473fe86efc7827942ad00@153.121.38.213:1331?security=tls&amp;sni=www.nintendogames.net&amp;type=tcp#https://t.me/ShadowsocksM28
