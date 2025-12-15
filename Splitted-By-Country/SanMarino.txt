@@ -1,1 +1,3 @@
-trojan://bpb-trojan@162.159.153.229:443?security=tls&amp;sni=cf.090227.xyz&amp;type=tcp#https://t.me/ShadowsocksM1
+trojan://bpb-trojan@162.159.153.172:443?security=tls&sni=cf.090227.xyz&type=tcp#https://t.me/ShadowsocksM3
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?security=&amp;type=ws&amp;path=/news&amp;host=cdn.ir&amp;encryption=none#https://t.me/ShadowsocksM26
+trojan://bpb-trojan@162.159.152.59:443?security=tls&amp;sni=cf.090227.xyz&amp;type=tcp#https://t.me/ShadowsocksM2
