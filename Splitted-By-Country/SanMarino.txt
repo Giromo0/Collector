@@ -1,15 +1,1 @@
-vless://0267c264-2d80-4eec-fc61-6a77e3e2fa93@128.140.14.218:8585?security=&type=tcp&encryption=none#https://t.me/ShadowsocksM10
-trojan://79314e99f0a473fe86efc7827942ad00@153.121.38.213:1331?security=tls&sni=www.nintendogames.net&type=tcp#https://t.me/ShadowsocksM28
-trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443?security=tls&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM29
-trojan://bpb-trojan@108.165.216.155:443?security=tls&sni=bpb.my79801.com&type=tcp#https://t.me/ShadowsocksM4
-trojan://bpb-trojan@162.159.152.59:443?security=tls&sni=cf.090227.xyz&type=tcp#https://t.me/ShadowsocksM2
-trojan://bpb-trojan@162.159.153.172:443?security=tls&sni=cf.090227.xyz&type=tcp#https://t.me/ShadowsocksM3
-trojan://bpb-trojan@45.80.111.9:443?security=tls&sni=bpb.my79801.com&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM5
-vless://0267c264-2d80-4eec-fc61-6a77e3e2fa93@128.140.14.218:8585?security=&amp;type=tcp&amp;encryption=none#https://t.me/ShadowsocksM10
-vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@162.19.175.55:9954?security=reality&amp;sni=store.steampowered.com&amp;fp=chrome&amp;pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#https://t.me/ShadowsocksM17
-vless://1859f2db-e6e8-4dc4-b21e-99da517e2e62@147.45.230.128:4443?security=reality&amp;sni=github.com&amp;fp=chrome&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;sid=aa7e96542880027a&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#https://t.me/ShadowsocksM23
-vless://2d49e4fb-51ae-4d55-bcca-12b9383c91ae@51.75.82.192:52167?security=&amp;type=ws&amp;path=/&amp;host=speedtest.net&amp;encryption=none#https://t.me/ShadowsocksM24
-trojan://bpb-trojan@162.159.153.229:443?security=tls&amp;sni=cf.090227.xyz&amp;type=tcp#https://t.me/ShadowsocksM1
-trojan://bpb-trojan@162.159.152.59:443?security=tls&amp;sni=cf.090227.xyz&amp;type=tcp#https://t.me/ShadowsocksM2
-trojan://bpb-trojan@45.80.111.9:443?security=tls&amp;sni=bpb.my79801.com&amp;allowInsecure=1&amp;type=tcp#https://t.me/ShadowsocksM5
-trojan://rV3TjWB8R1EiK1xhmnypsgeo@172.236.2.42:19872?security=tls&amp;sni=ads.x5.ru&amp;allowInsecure=1&amp;fp=chrome&amp;type=tcp#https://t.me/ShadowsocksM21
+vless://20cf5921-f7fa-47c5-81ae-947fbef83a4d@51.250.20.121:443?security=reality&amp;sni=ads.x5.ru&amp;fp=chrome&amp;pbk=bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo&amp;sid=a20d3ed244c76426&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#https://t.me/ShadowsocksM45
