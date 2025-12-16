@@ -1,4 +1,2 @@
-trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#%E6%9C%AA%E7%9F%A5
-hy2://16461a78-363c-457a-92f9-83b0a68edc37@de.eyucdn.xyz:2056/?insecure=1&sni=de.eyucdn.xyz#法兰克福
-hy2://16461a78-363c-457a-92f9-83b0a68edc37@zp1.eyucdn.xyz:2056/?insecure=1&sni=zp1.eyujichang.xyz#东京
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=/news&security=none&encryption=none&host=cdn.ir&type=ws#1
+hysteria2://16461a78-363c-457a-92f9-83b0a68edc37@de.eyucdn.xyz:2056?insecure=1&sni=de.eyucdn.xyz#%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F
+vless://48a8cab5-ce75-4c8a-90f5-dcd020c89b4b@31.44.0.63:58349?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#31.44.0.63%3A58349
