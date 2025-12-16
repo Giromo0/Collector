@@ -1,9 +1,10 @@
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#%F0%9F%87%AB%F0%9F%87%B7%F0%9F%97%BC%20Paris
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=random&type=ws&sni=kawaiifreevpn-7ds.pages.dev#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%40ParsiV2ray%20%D9%BE%D8%B1%20%D8%B3%D8%B1%D8%B9%D8%AA
+vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=%2F&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%40ParsiV2ray%20%D9%BE%D8%B1%20%D8%B3%D8%B1%D8%B9%D8%AA
 trojan://e2722c0fb503f8a592436c12bce0509a@202.181.103.246:4054?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
-trojan://BxceQaOe@13.113.164.125:5156?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://e2722c0fb503f8a592436c12bce0509a@153.121.45.139:3093?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-trojan://e2722c0fb503f8a592436c12bce0509a@18.179.119.5:3145?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://e2722c0fb503f8a592436c12bce0509a@160.16.136.130:2890?allowInsecure=1&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=swdist.apple.com&amp;sid=232c6f7b520b89&amp;fp=ios&amp;pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&amp;spx=/WrlEujUojrpP7Bk&amp;headerType=none#Japan+AWS
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.70.180:1331?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Japan%20NTT%20PC%20Conmunications
+hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#HY2
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?path=/news&security=none&encryption=none&host=cdn.ir&type=ws#0
-vless://8997a0a4-0e51-43b9-b13d-210265d00d3a@51.79.29.17:443?path=/linkws?ed=2560&security=none&encryption=none&host=51.79.29.17&type=ws&sni=51.79.29.17#0
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=%2FMTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN-mtmvpn-MTMVPN%3Fed%3D2048&fp=random#
+vless://5fb84306-16c0-42ce-997f-55b79a356522@138.68.159.32:443?path=/cbgvtxws&security=tls&encryption=none&type=ws&sni=github.com#r♡ya
+vless://e8a471a3-4837-41fc-9a96-14dfd205306d@45.87.154.92:443?path=/pypcnmws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ads.x5.ru#🍄
+vless://10d9df89-9a20-4110-9711-bca119490ee9@tabrizm137.owner.pages.dev:80?path=%2FTM%40AZAFBAYJAB1flow%3D-udp443&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#
