@@ -1,2 +1,5 @@
-vless://0267c264-2d80-4eec-fc61-6a77e3e2fa93@128.140.14.218:8585?security=&type=tcp&encryption=none#https://t.me/ShadowsocksM10
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80?security=&amp;type=ws&amp;path=/news&amp;host=cdn.ir&amp;encryption=none#https://t.me/ShadowsocksM26
+trojan://79314e99f0a473fe86efc7827942ad00@153.121.38.213:1331?security=tls&sni=www.nintendogames.net&type=tcp#https://t.me/ShadowsocksM28
+trojan://bpb-trojan@108.165.216.155:443?security=tls&sni=bpb.my79801.com&type=tcp#https://t.me/ShadowsocksM4
+trojan://bpb-trojan@162.159.152.59:443?security=tls&sni=cf.090227.xyz&type=tcp#https://t.me/ShadowsocksM2
+vless://fabc8a38-76c5-48fe-ada7-a9e52dd16225@179.61.251.78:443?security=reality&amp;sni=refersion.com&amp;fp=chrome&amp;pbk=esHsu3-Fj0aZ0xuNBV6qW1zu1hLbas8YDn7AO0QGsBw&amp;sid=0ff58d687a4c6c&amp;spx=/&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none#https://t.me/ShadowsocksM44
+trojan://bpb-trojan@162.159.153.229:443?security=tls&amp;sni=cf.090227.xyz&amp;type=tcp#https://t.me/ShadowsocksM1
