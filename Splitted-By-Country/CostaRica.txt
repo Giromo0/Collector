@@ -1,20 +1,15 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5Lit5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoidjMwLmhkYWNkLmNvbSIsInBvcnQiOiIzMDgzMCIsInR5cGUiOiJub25lIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoidjMwLmhkYWNkLmNvbSIsInRscyI6IiJ9
-vless://81fae892-37b3-47d5-d047-b44b3395fa38@f2.askkf.com:443?path=%2F&security=tls&encryption=none&host=s.askkf.com&type=ws&sni=s.askkf.com#%F0%9F%A6%88%F0%9F%8C%B19
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTJkXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICJ2MzAuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MzAiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogInYzMC5oZGFjZC5jb20iLCAidGxzIjogIiJ9
-vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655/?type=tcp&amp;encryption=none=ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY&amp;flow=#
-vless://a3e76574-9458-4783-905b-970cf0ccdcd1@melo-mtn.outline-vpn.cloud:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=
-vless://0d25085e-b6c4-410a-b206-4dde607cff6c@v2ngnet.heloisfood.ir:4488?encryption=none&amp;type=grpc&amp;serviceName=
-vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=fkhamnei.kosnanatfilterchi.eu.org&amp;type=ws#%40v2rayan
-vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.conf…
+vless://0c6fc388-2d1b-450b-a232-9df7dd56cd6b@168.119.104.156:10100?security=none=ELiV2RAY--ELiV2RAY--ELiV2RAY&amp;encryption=none&amp;headerType=none&amp;type=tcp#
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40v2rayan
 vless://12345678-1234-1234-1234-123456789123@190.93.246.61:2096?security=tls&type=ws&path=%2Fsnippets&host=vless.hubp.de&sni=vless.hubp.de&fp=chrome&encryption=none#[🇨🇷]t.me/ConfigsHub
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@190.93.245.108:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=h3&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#[🇨🇷]t.me/ConfigsHub
-vless://1588ca4b-d27a-4447-9dfc-a772c3fe2baf@uk.api-music-fa.com:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#0
-vless://47ea964c-2d7e-4907-bd22-7b3502ab77b2@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#0
-vless://8997a0a4-0e51-43b9-b13d-210265d00d3a@51.79.29.17:443?path=/linkws?ed=2560&security=none&encryption=none&host=51.79.29.17&type=ws&sni=51.79.29.17#r♡ya
-vless://e25bd23b-22f0-4026-8883-59486d1761c5@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetuk43.global.ssl.fastly.net&type=xhttp#♨️
-vless://ebe6918f-ff88-4da5-8181-fbb7a161927a@51.68.198.51:8080?path=/YUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#r♡ya
+vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?security=none&encryption=none&headerType=none&type=tcp#r♡ya
+vless://4394eb25-5dfc-4bf1-a363-1ae168e200b9@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetde157.global.ssl.fastly.net&type=xhttp#r♡ya
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&extra={'headers': {}, 'noGRPCHeader': True, 'xmux': {'maxConnections': '8'}}&insecure=0&host=statue.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#⚡️
+vless://b959b824-4aaf-4fbd-f0ad-7f676b7fcb6f@151.101.3.8:80?type=xhttp&encryption=none&path=
+vless://bf92bdef-ab8d-4481-8798-2d39023357b2@de.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#.
+vless://c69ccf0c-02e4-4325-8687-3a622a9f9fcf@51.250.43.141:8443?security=reality&encryption=none&pbk=e2X3eYakAbU2NCCldc2uRMJG00SBKv9Nzp8AcCRlMik&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=c950#r♡ya
+vless://e25bd23b-22f0-4026-8883-59486d1761c5@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetuk43.global.ssl.fastly.net&type=xhttp#0
 vless://f0a44f8f-c01f-490c-a6eb-29106a2509a4@3.143.235.221:32252?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&type=grpc&serviceName=www.bing.com&sni=3.143.235.221#r♡ya
-vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&fp=chrome&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B4%5D
-vless://e323c1bf-9e9a-0336-961a-b813ac35fd4b@www.speedtest.net:2052?path=%2F&security=&encryption=none&host=ar.close-softmeto.ir&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B5%5D
-vless://42a2c432-9a33-4199-8492-a707c95e30e9@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws#
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh78g5o235YWLIFYyQ1JPU1MuQ09NIiwiYWRkIjoiMTg1LjE4OS4zMi4xNzkiLCJwb3J0IjoiMjI3MDIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDgzYTFjY2UtYWY5Yi00NDE2LWQ3YzYtMTBiOWI2M2JlNjZmIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
+vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#سرورها به ترتیب خلوت بودن از بالا به پایین مرتب شده اند:
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:80?path=%2FVb2kRpQSrEqsUKCX%3Fed%3D2560%2F%3FBIA_CHANEL%40JOKERRVPN&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%AB%86
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.206.76:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135010072.sec21org.com#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%92%93
