@@ -1,18 +1,10 @@
-vless://21f78714-2df6-4757-9fa5-f583eb0290cf@194.110.246.61:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=okKUcvjT68odjfLWEZ47XopjP3AqHfbC4jsxfN2-i30&sni=google.com#VPNKEY-United
-vless://96b84d8a-6355-4422-8e65-42d3ccdb17c4@194.110.246.61:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=okKUcvjT68odjfLWEZ47XopjP3AqHfbC4jsxfN2-i30&sni=google.com#VPNKEY-United
-vless://0dd1347e-e342-456c-b802-779b859cca42@104.31.16.32:443?path=%2Fmhdshws&amp;security=tls&amp;encryption=none&amp;host=loolu.tech&amp;type=ws&amp;sni=loolu.tech#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
+vless://81fae892-37b3-47d5-d047-b44b3395fa38@f2.askkf.com:443?path=%2F&security=tls&encryption=none&host=s.askkf.com&type=ws&sni=s.askkf.com#%F0%9F%A6%88%F0%9F%8C%B19
 vless://1c3b5f09-d3f4-44cc-adfc-5d74a71d33f2@91.107.240.177:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=%2Ffflsws&amp;security=tls&amp;encryption=none&amp;host=lmn39.sbs&amp;type=ws&amp;sni=lmn39.sbs#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
-vless://47cb67c7-00ec-49b5-cd2b-a3edbcfcae2c@172.233.57.233:54538?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@141.101.113.89:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=watashi.free.hkpublic.moh539.link&amp;type=ws&amp;sni=watashi.free.hkpublic.moh539.link#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
-vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://faec23a3-1cab-4ef2-b9aa-4999ea14e451@151.101.66.219:80?security=none&amp;sni=speedtest.net&amp;type=ws&amp;host=alf17.ir&amp;path=/
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyY0BzZXJpZXMtYTItbWVjLnNhbWFuZWhoYS5jbzo0NDM=#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
-trojan://telegram-id-privatevpns@35.181.177.242:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@18.199.26.199:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Hddify |^| چنل هدیفای
-vless://81fae892-37b3-47d5-d047-b44b3395fa38@f1.askkf.com:443?path=/&security=tls&encryption=none&host=s.askkf.com&type=ws&sni=s.askkf.com#r♡ya
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638944337658439808.dezful-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#mtnirancell ✨️ azadiiivpn
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#V2ray
+hysteria2://130ec091-df05-4af9-9695-dc982e98a8ec@168.138.194.92:28253?security=tls&insecure=1&sni=www.bing.com#r♡ya
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#0
 vless://30e16ca9-edee-4ce5-8ba4-e53caa10ebae@apple5.mobile-unix.com:26425?security=&encryption=none&host=skyroom.online%2Cigap.net%2Cgharar.ir&headerType=http&type=tcp#Unix.5%F0%9F%87%A9%F0%9F%87%AA-javid.503
+vless://4c67a898-2de1-49b4-c35d-43b65ab63bf7@s2.skullvpn.xyz:443?path=downloader%2F52915&security=tls&encryption=none&host=words.skullvpn.xyz&type=ws&sni=words.skullvpn.xyz#a57بزنید لینک پولیه nv😐✅
