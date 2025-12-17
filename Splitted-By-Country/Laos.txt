@@ -1,9 +1,5 @@
+vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Z%203
 vless://297df885-9161-46cb-94d4-90a8a8489645@45.128.54.17:443?path=%2Fdahuqpws&security=tls&encryption=none&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia
-trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=%25252F#RELAY-109.234.211.66-0890
-vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#%40vipvpn_v2ray%E2%9C%A8
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=kuame.missionsec.us#Japan%20Klayer%20LLC
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#V2ray
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#0
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096?encryption=none&security=tls&sni=vless.hubp.de&alpn=h2,http/1.1&fp=chrome&allowInsecure=1&type=ws&host=vless.hubp.de#t.me/v2Line | Free | 2941 | Cloudflare
-vmess://eyJhZGQiOiI5MS45OS4xNjcuMTEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjFlNjAxOTMwLTIwN2QtNGE4MS05MGJiLWVhNDQ4MjcwODU2MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODg4MCIsInBzIjoiQHN1bmZsb3dlcnBsYXRvIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://96b43cf5-e7c2-45b4-acdc-9fc68b814e6a@91.107.160.240:15684?security=none&encryption=none&headerType=none&type=tcp#ALAEDIN+1
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#Japan%20Klayer%20LLC
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@108.162.194.176:443?encryption=none&security=tls&sni=terazhedi.info&fp=chrome&allowInsecure=1&type=ws&host=terazhedi.info&path=/sghiyws#t.me/v2Line | Free | 3183 | Cloudflare
