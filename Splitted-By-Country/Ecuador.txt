@@ -1,198 +1,74 @@
-vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%91%80
+vless://1lpxy6haqm@45.15.167.13:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#%F0%9F%87%B1%F0%9F%87%AE%20Liechtenstein%20%F0%9F%94%A5
 vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#%F0%9F%87%B1%F0%9F%87%AE%20Liechtenstein%20%28%D9%84%DB%8C%D8%AE%D8%AA%D9%86%E2%80%8C%D8%A7%D8%B4%D8%AA%D8%A7%DB%8C%D9%86%29
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%202%20by%20%40oneclickvpnkeys
-vless://0062f09d-9579-4722-9bd3-d5438970d54a@us7.candyfans.win:443/?type=ws&encryption=none&flow=&host=us7.candyfans.win&path=%2Fjqliws&security=tls&sni=us7.candyfans.win&allowInsecure=1#%F0%9F%A7%A218%40oneclickvpnkeys
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#%F0%9F%A7%A249%40oneclickvpnkeys
-trojan://1Z%23.lL57MaJA+txGN8SEv@45.77.216.146:25727/?type=tcp&security=tls&sni=ya.ru&allowInsecure=1#%F0%9F%A7%A240%40oneclickvpnkeys
-trojan://5dcqVXE%3DHhI.O+BMwAQJv@45.76.28.186:19557/?type=tcp&security=tls&sni=eh.vk.com&allowInsecure=1#%F0%9F%A7%A254%40oneclickvpnkeys
-trojan://90y2l3mu48d10uy3ibad@195.154.202.112:58290/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#%E2%9C%8538%40oneclickvpnkeys
-trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#%F0%9F%94%B620%40oneclickvpnkeys
-trojan://9BbIGN.nF%3DgztO-iq7ETmxdJ@80.240.17.154:13448/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#%F0%9F%9A%A820%40oneclickvpnkeys
-trojan://Iisy37ABxOJ8Ha_cb5fpXKkm-WSFV@209.250.224.246:24293/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#%E2%9C%8522%40oneclickvpnkeys
-trojan://a5inYFE%3DJGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&sni=io.ozone.ru&allowInsecure=1#%F0%9F%A7%A28%40oneclickvpnkeys
-trojan://cwCv14UD6o-XbGm7NKjHWPJ819FL@45.32.220.19:29014/?type=tcp&security=tls&sni=vk.com&allowInsecure=1#%F0%9F%A7%A258%40oneclickvpnkeys
-trojan://fri4wn77p7urww5on3bt@185.212.171.204:58670/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#%F0%9F%9A%A83%40oneclickvpnkeys
-trojan://gDhwWvdNLQqr+V4SYMO.G02zXm8jB@38.60.215.19:21534/?type=tcp&security=tls&sni=st.ozone.ru&allowInsecure=1#%F0%9F%A7%A226%40oneclickvpnkeys
-trojan://iwHDQcVXz-U11Ndl25CAveL@213.111.130.30:15145/?type=tcp&security=tls&sni=vk.com&allowInsecure=1#%F0%9F%A7%A259%40oneclickvpnkeys
-trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.135.134.198:10668/?type=tcp&security=tls&sni=api-maps.yandex.ru&allowInsecure=1#%F0%9F%A7%A227%40oneclickvpnkeys
-trojan://telegram-id-directvpn@18.199.26.199:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%A7%A241%40oneclickvpnkeys
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%94%B734%40oneclickvpnkeys
-vless://e258977b-e413-4718-a3af-02d75492c349@95.40.61.115:443?&security=tls&fp=chrome&sni=ww.x-aniu---tw.netlib.re&type=ws&headerType=none&host=ww.x-aniu---tw.netlib.re&path=%2F#_%E6%B3%A2%E5%85%B0
-vless://e258977b-e413-4718-a3af-02d75492c349@104.16.111.253:443?&security=tls&fp=chrome&sni=ww.x-aniu---tw.netlib.re&type=ws&headerType=none&host=ww.x-aniu---tw.netlib.re&path=%2F#%E6%9C%AA%E7%9F%A5%2041
+vless://b79ba265-aff0-4d16-9322-7b124465dc38@188.253.16.31:443?&security=reality&flow=xtls-rprx-vision&pbk=KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8&sid=e33013f4&fp=chrome&sni=yahoo.com&type=tcp&headerType=none&path=%2F#_%E6%97%A5%E6%9C%AC%208
 hysteria2://dongtaiwang.com@195.154.206.231:33880?insecure=1&sni=apple.com#15%40oneclickvpnkeys
-hysteria2://dongtaiwang.com@62.210.99.49:40088?insecure=1&sni=apple.com#%E2%9C%8572%40oneclickvpnkeys
-hy2://16461a78-363c-457a-92f9-83b0a68edc37@hk.eyucdn.xyz:2056/?insecure=1&sni=hk.eyucdn.xyz#香港
-hy2://16461a78-363c-457a-92f9-83b0a68edc37@zp1.eyucdn.xyz:2056/?insecure=1&sni=zp1.eyujichang.xyz#东京
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#⭕19@oneclickvpnkeys
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🧢41@oneclickvpnkeys
-hy2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#🔶15@oneclickvpnkeys
-hy2://dongtaiwang.com@62.210.99.49:40088/?insecure=1&sni=apple.com#✅72@oneclickvpnkeys
-hy2://dongtaiwang.com@[2001:bc8:1203:209::60]:33880/?insecure=1&sni=apple.com#🟣3@oneclickvpnkeys
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#@Hddify
-hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#28YB5qK!5t#U&insecure=1&sni=nalog.ru#All-@V2rayAlpha--3
-trojan://1Z#.lL57MaJA+txGN8SEv@45.77.216.146:25727/?type=tcp&security=tls&sni=ya.ru&allowInsecure=1#🧢40@oneclickvpnkeys
-trojan://25IYE1_dhFCBi6omM3qf9@144.202.8.250:23239/?type=tcp&security=tls&sni=api-maps.yandex.ru&allowInsecure=1#🧢37@oneclickvpnkeys
-trojan://57ilz74461jfayyqbb83@194.59.250.52:58499/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅49@oneclickvpnkeys
-trojan://57ilz74461jfayyqbb83@194.59.250.54:58499/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅39@oneclickvpnkeys
-trojan://5dcqVXE=HhI.O+BMwAQJv@45.76.28.186:19557/?type=tcp&security=tls&sni=eh.vk.com&allowInsecure=1#🧢54@oneclickvpnkeys
-trojan://90y2l3mu48d10uy3ibad@195.154.202.110:58290/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅26@oneclickvpnkeys
-trojan://90y2l3mu48d10uy3ibad@195.154.202.111:58290/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨61@oneclickvpnkeys
-trojan://90y2l3mu48d10uy3ibad@195.154.202.112:58290/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅38@oneclickvpnkeys
-trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨64@oneclickvpnkeys
-trojan://90y2l3mu48d10uy3ibad@51.159.103.137:58290/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨75@oneclickvpnkeys
-trojan://9BbIGN.nF=gztO-iq7ETmxdJ@80.240.17.154:13448/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨20@oneclickvpnkeys
-trojan://9JwHtxaPCBdgM=bEqQDoYOV4Xmfh@144.202.24.102:16149/?type=tcp&security=tls&sni=eh.vk.com&allowInsecure=1#🧢55@oneclickvpnkeys
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅52@oneclickvpnkeys
-trojan://BmVsa+yhb-QwGYXD7t.LKPNnRMqeI@108.61.123.140:25075/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨49@oneclickvpnkeys
-trojan://BmVsa+yhb-QwGYXD7t.LKPNnRMqeI@95.179.210.231:25075/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨31@oneclickvpnkeys
-trojan://Ha8emXW0_NOSEAYTy7p-wIx.G9kg@167.17.70.62:12151/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨53@oneclickvpnkeys
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅19@oneclickvpnkeys
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051/?type=tcp&security=tls&sni=api.avito.ru&allowInsecure=1#🧢15@oneclickvpnkeys
-trojan://Szb=-Zguo53QhmivcJqEAWtpdPX6Y@45.63.40.126:13345/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨2@oneclickvpnkeys
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158/?type=tcp&security=tls&sni=ya.ru&allowInsecure=1#🧢43@oneclickvpnkeys
-trojan://a1sQe6Zbpxf0LyhdkBjlr@64.176.189.166:17219/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅69@oneclickvpnkeys
-trojan://a1sQe6Zbpxf0LyhdkBjlr@66.245.193.147:17219/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅71@oneclickvpnkeys
-trojan://cwCv14UD6o-XbGm7NKjHWPJ819FL@45.32.220.19:29014/?type=tcp&security=tls&sni=vk.com&allowInsecure=1#🧢58@oneclickvpnkeys
-trojan://fapgdGnC=-b#6BEwUSNsI@70.34.223.58:29730/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅65@oneclickvpnkeys
-trojan://gDhwWvdNLQqr+V4SYMO.G02zXm8jB@38.60.215.19:21534/?type=tcp&security=tls&sni=st.ozone.ru&allowInsecure=1#🧢26@oneclickvpnkeys
-trojan://iCfh96DEJn3=QRbzF.Tdl@212.192.214.46:18069/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#🔷16@oneclickvpnkeys
-trojan://iwHDQcVXz-U11Ndl25CAveL@213.111.130.30:15145/?type=tcp&security=tls&sni=vk.com&allowInsecure=1#🧢59@oneclickvpnkeys
-trojan://jDKgCAysZceRJ+IVv-t69w.p8=mB@172.238.237.107:19973/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#🔷11@oneclickvpnkeys
-trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅97@oneclickvpnkeys
-trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.250:27234/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅94@oneclickvpnkeys
-trojan://l9lTBt.P8x2LOHCsnhNRq@45.76.62.85:14090/?type=tcp&security=tls&sni=eh.vk.com&allowInsecure=1#🧢56@oneclickvpnkeys
-trojan://nE2MvzFYVLxXWh#-QJ+_T@45.63.114.118:23403/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨73@oneclickvpnkeys
-trojan://rV3TjWB8R1EiK1xhmnypsgeo@172.236.2.42:19872/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨74@oneclickvpnkeys
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.194:57452/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅85@oneclickvpnkeys
-trojan://tRxkV-KcTuypP=8Yj6Bgd@70.34.220.34:25599/?type=tcp&security=tls&sni=cryptographiccupcake.silentrocket.click&allowInsecure=1#✅51@oneclickvpnkeys
-trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@140.82.35.244:20994/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨13@oneclickvpnkeys
-trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.153.36:20994/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨26@oneclickvpnkeys
-trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨7@oneclickvpnkeys
-trojan://y0.qLgDed4ElASjr_3+B7kTVb9np1@83.172.159.181:17860/?type=tcp&security=tls&sni=www.vk.ru&allowInsecure=1#🔷19@oneclickvpnkeys
-vless://2fb8383b-2b12-463e-a20d-674c36d9b7d3@Filter5050.nabxcsjghjs2004.shop:27940?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#‌‌-یک
-vless://7ac65633-fc3c-4a97-b010-421816210b0b@64.188.115.181:26968?security=reality&encryption=none&pbk=EgoxLYZ4OrrYTBL_WzWNkY-W3w2P9aEXRkyMp6sjqD8&headerType=none&fp=chrome&spx=/&type=tcp&sni=stackoverflow.com&sid=04#1
-vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@89.23.123.15:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#1
-vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjE0MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IuKchTUzQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjI0MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IuKchTYzQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjIxMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IuKchTczQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cudmsuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjIyNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfmqg2OUBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjIzMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfmqg1NUBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjIwMTM6OjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5iaW5nLmNvbSIsImlkIjoiZTE3ODZkNDktY2NiYS00NjZiLWEwZGQtZTFhYjU5YmQ4M2JiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5IiwicG9ydCI6IjYyMjExIiwicHMiOiLinIU1OUBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNDhIaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4tLUhpQnllVlBOTi0tSGlCeWVWUE5OLS1IaUJ5ZVZQTk4iLCJwb3J0IjoiNDQ1NzkiLCJwcyI6IuKchTI4QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://89743cca-6855-478c-b9a8-79ae9ab9c3e4@s2.skullvpn.xyz:443?path=%2Fdownloader%2F30665&security=tls&encryption=none&host=words.skullvpn.xyz&type=ws&sni=words.skullvpn.xyz#a56بزنید لینک پولی nv✅
-trojan://tRxkV-KcTuypP%3D8Yj6Bgd@70.34.220.34:25599/?type=tcp&security=tls&sni=cryptographiccupcake.silentrocket.click&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASE
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=%2Fsghiyws&security=tls&sni=terazhedi.info&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.81:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3ANL
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80/?type=ws&encryption=none&flow=&host=cdn.ir&path=%2Fnews#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://bf8ce0b2-71f3-4237-81eb-1dfeb66bd183@alhilal.com:443/?type=ws&encryption=none&flow=&host=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443/?type=ws&encryption=none&flow=&host=azizoarjmand.info&path=%2Fyhowcws&security=tls&sni=azizoarjmand.info&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=azizoarjmand.info&path=%2Fyhowcws&security=tls&sni=azizoarjmand.info&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@172.64.32.220:443/?type=ws&encryption=none&flow=&host=freudd.info&path=%2Fxxvclws&security=tls&sni=freudd.info&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AXX
-hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?insecure=1&sni=bing.com#HK%20%231
-hysteria2://571ec94e-613c-430a-93de-397d3d237475@213.108.198.123:22155?insecure=1&sni=hsdg.huasuan666.top#%40Hddify
-hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?obfs=salamander&obfs-password=&O#28YB5qK%215t%23U%26insecure%3D1%26sni%3Dna...%20%231
-hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#@Hddify
-vless://6a2f8236-d5e1-467d-8aca-9248ddb025c5@134.209.190.163:443/?type=ws&encryption=none&flow=&path=%2Fsitjppws&security=tls&sni=www.vk.com&allowInsecure=1#%F0%9F%94%B613%40oneclickvpnkeys
-vless://f85e7cc8-82c9-4b84-b1bf-25011697b6dd@167.172.59.135:443/?type=ws&encryption=none&flow=&path=%2Fafrphkws&security=tls&sni=io.ozone.ru&allowInsecure=1#%F0%9F%94%B676%40oneclickvpnkeys
-vless://6f9d30a9-5b6e-4d17-b6b2-1bcab16222e5@165.227.228.57:443/?type=ws&encryption=none&flow=&path=%2Fyueggdws&security=tls&sni=fuck.rkn&allowInsecure=1#%F0%9F%94%B625%40oneclickvpnkeys
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%E2%9C%8518%40oneclickvpnkeys
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424/?type=tcp&encryption=none&flow=&sni=ya.ru&fp=chrome&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#%F0%9F%A7%A239%40oneclickvpnkeys
-vless://f7012057-f31e-4e5c-92f2-908e67fca540@91.242.229.141:443/?type=ws&encryption=none&flow=&path=%2Fiwykvews&security=tls&sni=github.com&allowInsecure=1#%F0%9F%94%B728%40oneclickvpnkeys
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638825998487466587.prague-drc-dcraae.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#4
+vless://faec23a3-1cab-4ef2-b9aa-4999ea14e451@151.101.66.219:80?security=none&amp;sni=speedtest.net&amp;type=ws&amp;host=alf17.ir&amp;path=/
+trojan://telegram-id-privatevpns@52.47.143.44:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443/?type=ws&encryption=none&flow=&path=%2Fulptgqws&security=tls&sni=api.avito.ru&allowInsecure=1#%F0%9F%94%B668%40oneclickvpnkeys
 vless://c387af70-ae0e-41b7-af76-3a7a99357a6f@138.68.164.180:443/?type=ws&encryption=none&flow=&path=%2Fayynocws&security=tls&sni=github.com&allowInsecure=1#%F0%9F%94%B644%40oneclickvpnkeys
-vless://ff3c6dcf-08ae-4165-a2a9-00cb9e7c361e@193.233.133.166:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=PgDz7FY2A1E-3wc77XVnCd3nOeoJMz-hKi-ZeAjhAxA&sid=980305d865849874#%F0%9F%94%B76%40oneclickvpnkeys
-vless://aa18548a-4498-48c9-99b0-55d32a8ca8ba@64.227.43.249:443/?type=ws&encryption=none&flow=&path=%2Fevoloows&security=tls&sni=github.com&allowInsecure=1#%F0%9F%94%B65%40oneclickvpnkeys
 vless://ca78d2ae-e837-467e-bd89-91b98968f987@143.110.172.232:443/?type=ws&encryption=none&flow=&path=%2Flafnojws&security=tls&sni=github.com&allowInsecure=1#%F0%9F%94%B619%40oneclickvpnkeys
-vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.130.214:41647/?type=grpc&encryption=none&flow=#%F0%9F%94%B623%40oneclickvpnkeys
-vless://8d42b432-c651-4304-bf78-5f853d771360@142.93.37.93:443/?type=ws&encryption=none&flow=&path=%2Fzffwggws&security=tls&sni=fuck.rkn&allowInsecure=1#%F0%9F%94%B629%40oneclickvpnkeys
-vless://0ea84d1f-2687-467d-97dd-ed8d5e8f3f42@51.250.71.197:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=static.rutube.ru&allowInsecure=1&fp=chrome&security=reality&pbk=96px9lCo9VgWb1Je0958ayYtcwyOAmpCBmbfK0O6jxI&sid=db92410532#%F0%9F%A7%A265%40oneclickvpnkeys
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.148.160:443/?type=grpc&encryption=none&flow=#%F0%9F%94%B662%40oneclickvpnkeys
-vless://4a5b69b4-8f1c-48b8-a7d1-2f00ddb2e2d5@144.126.225.77:443/?type=ws&encryption=none&flow=&path=%2Fzmiuyqws&security=tls&sni=wikiportal.ru&allowInsecure=1#%F0%9F%94%B679%40oneclickvpnkeys
-vless://9818b579-3746-468b-88ac-65bd26b28e86@95.163.251.240:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&allowInsecure=1&fp=chrome&security=reality&pbk=tEt-vtWho9yRtM2sz5pjolmh4aAshJDxvgtPwR-FIEc&sid=e74115#%F0%9F%A7%A264%40oneclickvpnkeys
-vless://bf8ce0b2-71f3-4237-81eb-1dfeb66bd183@57.128.219.105:443/?type=ws&encryption=none&flow=&path=%2Fws&security=tls&sni=zula.ir&allowInsecure=1&fp=chrome#%F0%9F%94%B710%40oneclickvpnkeys
-vless://918d1882-5fab-4442-aa6a-98a0cd6708d3@134.209.28.121:443/?type=ws&encryption=none&flow=&path=%2Fkcsoihws&security=tls&sni=github.com&allowInsecure=1#%F0%9F%94%B66%40oneclickvpnkeys
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.38:443/?type=ws&encryption=none&flow=&path=%2Fhormoz&security=tls&sni=github.com&allowInsecure=1#%F0%9F%94%B731%40oneclickvpnkeys
-vless://c6210540-defd-4649-9d88-d21e75f4274d@165.227.225.236:443/?type=ws&encryption=none&flow=&path=%2Fgbksanws&security=tls&sni=io.ozone.ru&allowInsecure=1#%F0%9F%94%B671%40oneclickvpnkeys
-vless://34ad014b-23dd-438b-9e5f-d2994578033f@103.35.189.146:443/?type=ws&encryption=none&flow=&path=%2Fyebnszws&security=tls&sni=ya.ru&allowInsecure=1#%F0%9F%A7%A245%40oneclickvpnkeys
-vless://921290a9-6e24-4661-82fb-844d88164b74@167.99.91.171:443/?type=ws&encryption=none&flow=&path=%2Fsbqbfows&security=tls&sni=api.avito.ru&allowInsecure=1#%F0%9F%94%B667%40oneclickvpnkeys
-vless://5ac0a5b2-33dd-44d4-ad2b-838cead54f7d@148.113.207.224:443/?type=ws&encryption=none&flow=&path=%2Fws&security=tls&sni=zula.ir&allowInsecure=1&fp=chrome#%F0%9F%A7%A257%40oneclickvpnkeys
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.93:443/?type=ws&encryption=none&flow=&path=%2Fhormoz&security=tls&sni=www.vk.com&allowInsecure=1#%F0%9F%94%B612%40oneclickvpnkeys
-vless://3ced94cb-7df6-44e5-b0c9-2cb2d7ec1688@176.124.206.205:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=web.max.ru&allowInsecure=1&fp=chrome&security=reality&pbk=_A94OkOy0oIRFQCQbEWkF1BJXHu1mwgOroq9ZvgbTHQ&sid=797266d9ff91c8c7#%F0%9F%A7%A263%40oneclickvpnkeys
-vless://cedf84c5-d429-4e42-a977-18c597a3c51a@144.126.230.207:443/?type=ws&encryption=none&flow=&path=%2Fbwcqggws&security=tls&sni=m.vk.com&allowInsecure=1#%F0%9F%94%B646%40oneclickvpnkeys
-vless://5fb84306-16c0-42ce-997f-55b79a356522@138.68.159.32:443/?type=ws&encryption=none&flow=&path=%2Fcbgvtxws&security=tls&sni=github.com&allowInsecure=1#%F0%9F%94%B61%40oneclickvpnkeys
-vless://fd0718a1-c463-4297-8ba9-a7f4b93ce436@147.45.234.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.vk.com&fp=chrome&security=reality&pbk=GjFTD96cethyxcRuToHUwv741QoDB9-V7LRsxEh6jTU&sid=ab1cd2#%F0%9F%94%B62%40oneclickvpnkeys
-vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.247.137.183:443?encryption=none&security=tls&sni=ak.suoni.nyc.mn&fp=random&allowInsecure=1&type=ws&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo#2
-vless://bc920cd0-6a85-4841-871f-46c440f22353@206.189.29.23:443/?type=ws&encryption=none&flow=&path=%2Faeyloows&security=tls&sni=ozon.ru&allowInsecure=1#%F0%9F%94%B657%40oneclickvpnkeys
-vless://b214d4b1-2496-407a-8ab2-391e66915291@134.209.29.189:443/?type=ws&encryption=none&flow=&path=%2Fuebodows&security=tls&sni=ozon.ru&allowInsecure=1#%F0%9F%A7%A24%40oneclickvpnkeys
-vless://f3a623d4-5569-44d8-a4e3-2becf94056ef@91.242.229.187:443/?type=ws&encryption=none&flow=&path=%2Fwtnaqiws&security=tls&sni=github.com&allowInsecure=1#%F0%9F%94%B732%40oneclickvpnkeys
-vless://77049c89-eacb-4911-ade2-3854d3fae634@134.209.19.124:443/?type=ws&encryption=none&flow=&path=%2Fhdjwgvws&security=tls&sni=ads.x5.ru&allowInsecure=1#%F0%9F%94%B638%40oneclickvpnkeys
-vless://8ec48ed8-cc7c-4cc6-a69a-c95adfe4c371@188.166.150.79:443/?type=ws&encryption=none&flow=&path=%2Famuggqws&security=tls&sni=ozon.ru&allowInsecure=1#%F0%9F%94%B660%40oneclickvpnkeys
-vless://7e0ac0af-282a-42c4-9b16-a7144f9769a8@46.101.82.35:443/?type=ws&encryption=none&flow=&path=%2Fsbaakhws&security=tls&sni=io.ozone.ru&allowInsecure=1#%F0%9F%A7%A27%40oneclickvpnkeys
-vless://53800ae5-ece5-4d1f-ac6d-407d1a8b0b95@103.35.189.137:443/?type=ws&encryption=none&flow=&path=%2Fmrtejzws&security=tls&sni=ya.ru&allowInsecure=1#%F0%9F%A7%A244%40oneclickvpnkeys
-vless://f2a59636-7a71-477b-87fa-3d8d3d0e32ee@138.68.141.171:443/?type=ws&encryption=none&flow=&path=%2Fvkdfadws&security=tls&sni=github.com&allowInsecure=1#%F0%9F%94%B622%40oneclickvpnkeys
-vless://99ce2f8d-0119-4e92-b16a-48683f5012ef@5.188.140.156:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&allowInsecure=1&fp=random&security=reality&pbk=tSiK_xTsdY3_oI4qqCWZwodTbrXmWl8IPTZbpIKiiiY&sid=9d#%F0%9F%A7%A273%40oneclickvpnkeys
-vless://e8a471a3-4837-41fc-9a96-14dfd205306d@45.87.154.92:443/?type=ws&encryption=none&flow=&path=%2Fpypcnmws&security=tls&sni=ads.x5.ru&allowInsecure=1#%F0%9F%94%B72%40oneclickvpnkeys
-vless://db162b74-0da8-4c69-8b17-2d89defabc24@root.api-music-fa.com:2053/?type=ws&encryption=none&flow=&path=%2FJ5aLQOY1R9ONWYCM&security=tls&allowInsecure=1#%F0%9F%A7%A253%40oneclickvpnkeys
-vless://e4b8df56-b680-4a34-ab47-5bf5738ed718@5.181.21.72:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&security=reality&pbk=v9CxKfIPtkKH1cTGKEer-1i-3JL31vZPpPl2Ujnbjh8&sid=85225c27630d023f#%F0%9F%94%B626%40oneclickvpnkeys
-vless://4793080b-0469-4dad-b8ff-d067ed52e088@45.14.244.53:443/?type=ws&encryption=none&flow=&path=%2Fljofyzws&security=tls&sni=github.com&allowInsecure=1#%F0%9F%94%B724%40oneclickvpnkeys
-vless://b9cade73-6c60-437f-8e99-631cc3560ca7@64.227.47.224:443/?type=ws&encryption=none&flow=&path=%2Fevvixzws&security=tls&sni=ozon.ru&allowInsecure=1#%F0%9F%A7%A23%40oneclickvpnkeys
-vless://b5605766-6abe-4f5f-85e1-0f6f447eae66@206.189.25.40:443/?type=ws&encryption=none&flow=&path=%2Fhdwvmtws&security=tls&sni=ozon.ru&allowInsecure=1#%F0%9F%94%B636%40oneclickvpnkeys
-vless://9e7a7c17-21c2-4119-bb45-e4154e893aaf@46.101.88.198:443/?type=ws&encryption=none&flow=&path=%2Fbpuuxxws&security=tls&sni=api.avito.ru&allowInsecure=1#%F0%9F%94%B666%40oneclickvpnkeys
-vless://1980c52e-f8b8-4ea6-92de-dd3ff65e658e@138.68.190.39:443/?type=ws&encryption=none&flow=&path=%2Fevdvmqws&security=tls&sni=wikiportal.ru&allowInsecure=1#%F0%9F%94%B680%40oneclickvpnkeys
-vless://9113f495-b6be-4002-ad3c-098996fc8875@165.232.98.129:443/?type=ws&encryption=none&flow=&path=%2Fgjqezzws&security=tls&sni=www.vk.com&allowInsecure=1#%F0%9F%94%B611%40oneclickvpnkeys
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.218.3.40:443/?type=ws&encryption=none&flow=&path=%2Fhormoz&security=tls&sni=fuck.rkn&allowInsecure=1#%F0%9F%94%B655%40oneclickvpnkeys
-vless://4f031e10-8eb8-4b03-bc14-27d7ddb401d6@104.248.161.181:443/?type=ws&encryption=none&flow=&path=%2Fdgnagmws&security=tls&sni=io.ozone.ru&allowInsecure=1#%F0%9F%94%B673%40oneclickvpnkeys
-vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&sid=9d36b8589fa524fd#%F0%9F%A7%A230%40oneclickvpnkeys
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#%F0%9F%A7%A229%40oneclickvpnkeys
-vless://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@95.154.237.116:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927#%F0%9F%8E%8172%40oneclickvpnkeys
-vless://5815b555-9907-45ae-94f2-e0c0af7860e3@134.209.31.137:443/?type=ws&encryption=none&flow=&path=%2Fnyslkrws&security=tls&sni=www.vk.com&allowInsecure=1#%F0%9F%94%B69%40oneclickvpnkeys
-vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443/?type=ws&encryption=none&flow=&path=%2Fpyzrgqws&security=tls&sni=api.avito.ru&allowInsecure=1#%F0%9F%A7%A211%40oneclickvpnkeys
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80/?type=ws&encryption=none&flow=&host=cdn.ir&path=%2Fnews#%F0%9F%94%B663%40oneclickvpnkeys
+vless://beb0de6b-9494-4715-a1d0-f2e4064116b1@85.209.153.125:443?path=%2Farfdccws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A4%A3
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.166:443?path=%2Fhormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A5%91
+vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#S7
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.131:443/?type=ws&encryption=none&flow=&path=%2Fhormoz&security=tls&sni=ozon.ru&allowInsecure=1#%F0%9F%94%B664%40oneclickvpnkeys
+vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=redlabell.info&path=%2Faafeuws&security=tls&sni=redlabell.info&allowInsecure=1&fp=chrome#%F0%9F%A7%A222%40oneclickvpnkeys
+vless://0062f09d-9579-4722-9bd3-d5438970d54a@us7.candyfans.win:443/?type=ws&encryption=none&flow=&host=us7.candyfans.win&path=%2Fjqliws&security=tls&sni=us7.candyfans.win&allowInsecure=1#%F0%9F%A7%A218%40oneclickvpnkeys
+vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443/?type=ws&encryption=none&flow=&path=%2Fesoznjws&security=tls&sni=m.vk.com&allowInsecure=1#%F0%9F%94%B650%40oneclickvpnkeys
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.98:443/?type=ws&encryption=none&flow=&path=%2Fhormoz&security=tls&sni=github.com&allowInsecure=1#%F0%9F%94%B729%40oneclickvpnkeys
-vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@194.46.59.171:2080/?type=grpc&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&sid=722ee6b369#%F0%9F%8E%8151%40oneclickvpnkeys
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880/?type=grpc&encryption=none&flow=#%F0%9F%8E%8145%40oneclickvpnkeys
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.95:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#S9
-vless://d631ce4e-1257-411a-ba9f-556d3af4ee65@92.118.231.208:443/?type=ws&encryption=none&flow=&path=%2Fkscqxqws&security=tls&sni=github.com&allowInsecure=1#%F0%9F%94%B735%40oneclickvpnkeys
-vless://d3bceb00-9a45-4fb1-a417-d110721101f4@104.248.171.106:443/?type=ws&encryption=none&flow=&path=%2Fnzcjowws&security=tls&sni=ozon.ru&allowInsecure=1#%F0%9F%94%B656%40oneclickvpnkeys
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.150:443/?type=ws&encryption=none&flow=&path=%2Fhormoz&security=tls&sni=github.com&allowInsecure=1#%F0%9F%94%B738%40oneclickvpnkeys
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.103:443/?type=ws&encryption=none&flow=&path=%2Fhormoz&security=tls&sni=github.com&allowInsecure=1#%F0%9F%94%B641%40oneclickvpnkeys
-vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&allowInsecure=1&fp=chrome&security=reality&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&sid=9d36b8589fa524fd#%F0%9F%A7%A262%40oneclickvpnkeys
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome#%F0%9F%A7%A242%40oneclickvpnkeys
-vless://48a8cab5-ce75-4c8a-90f5-dcd020c89b4b@31.44.0.63:58349/?type=tcp&encryption=none&flow=#%F0%9F%94%B63%40oneclickvpnkeys
-vless://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@95.154.237.116:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;fp=chrome&amp;security=reality&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;sid=8453e5fd9af927#%F0%9F%8E%8172%40oneclickvpnkeys
-vless://d1b2e6d7-02ad-431b-a5e4-745ea6ab4a4d@104.21.13.125:2095?security=none&amp;type=ws&amp;host=www.speedtest.net.Jaricopen.Shop.&amp;path=/
-hy2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443/?mport=50000-60000&amp;insecure=1&amp;sni=Ab.ac&amp;obfs=salamander&amp;obfs-password=FnFgQIckcMRtKq7i#%F0%9F%94%A52%40oneclickvpnkeys
+vless://2d21f4d5-f9e1-466e-a7f5-d45e5e3b381a@dashboard.app-browser.org:2053/?type=ws&encryption=none&flow=&path=%2FJ5aLQOY1R9ONWYCM&security=tls&allowInsecure=1#%F0%9F%A7%A233%40oneclickvpnkeys
+trojan://telegram-id-directvpn@15.224.6.12:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@18.193.162.239:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+hy2://84123645-b62d-4a3b-bd74-d58ea4023c65@hk2.jueduibupao.top:44507/?insecure=1&sni=hk2.jueduibupao.top#🇭🇰HK
+hy2://L60nS04NhsoMpN2DDGbnMqLP8DY@47.76.83.25:11243/?insecure=1&sni=bing.com#HK
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#🔷34@oneclickvpnkeys
+trojan://90y2l3mu48d10uy3ibad@195.154.202.111:58290/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨61@oneclickvpnkeys
+trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🔶20@oneclickvpnkeys
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅52@oneclickvpnkeys
+trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#r♡ya
+trojan://a1sQe6Zbpxf0LyhdkBjlr@64.176.189.166:17219/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅69@oneclickvpnkeys
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279/?type=tcp&security=tls&sni=io.ozone.ru&allowInsecure=1#🧢8@oneclickvpnkeys
+trojan://axXVQwfGAPzZBOeRMsC-9@195.88.89.112:14799/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨4@oneclickvpnkeys
+trojan://blhwsknjxmfuydz0vhfv@146.70.73.212:53809/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅75@oneclickvpnkeys
+trojan://fHngvzC1ut#YqsV4X@212.193.18.121:21936/?type=tcp&security=tls&sni=ya.ru&allowInsecure=1#🧢50@oneclickvpnkeys
+trojan://fapgdGnC=-b#6BEwUSNsI@70.34.221.95:29730/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅36@oneclickvpnkeys
+trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.135.134.198:10668/?type=tcp&security=tls&sni=api-maps.yandex.ru&allowInsecure=1#🧢27@oneclickvpnkeys
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.39.30:443?mode=gun&security=none&encryption=none&type=grpc#a
+vless://49aefaed-ad06-4ce9-ad25-b75b6b489b0c@Www.speedtest.net:8880?path=/?ed=2048&security=none&encryption=none&host=mx.amin8263.ir&type=ws#r♡ya
+vless://5fb84306-16c0-42ce-997f-55b79a356522@138.68.159.32:443?path=/cbgvtxws&security=tls&encryption=none&type=ws&sni=github.com#r♡ya
+vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?
+vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjIwMTM6OjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5iaW5nLmNvbSIsImlkIjoiZTE3ODZkNDktY2NiYS00NjZiLWEwZGQtZTFhYjU5YmQ4M2JiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5IiwicG9ydCI6IjYyMjExIiwicHMiOiLinIU1OUBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+trojan://tRxkV-KcTuypP%3D8Yj6Bgd@70.34.220.34:25599/?type=tcp&security=tls&sni=cryptographiccupcake.silentrocket.click&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASE
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3ANL
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.180:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80/?type=ws&encryption=none&flow=&host=cdn.ir&path=%2Fnews#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@84.8.145.58:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@211.253.100.65:20201/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1&fp=random#%3E%3E%40oneclickvpnkeys%3A%3AKR
+hysteria2://130ec091-df05-4af9-9695-dc982e98a8ec@168.138.194.92:28253?security=tls&insecure=1&sni=www.bing.com#r♡ya
 trojan://telegram-id-directvpn@35.180.153.64:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@35.156.137.154:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@13.37.21.54:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A5%B0
 trojan://telegram-id-directvpn@63.178.159.1:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@13.37.184.135:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@15.188.255.203:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 trojan://telegram-id-directvpn@3.77.75.190:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-vless://beef8ec5-bd5b-49b3-974a-1b2b694318bf@live.989bull.com:80?mode=auto&path=%2FCHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN…
-trojan://telegram-id-directvpn@13.39.228.102:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@63.178.205.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-trojan://telegram-id-directvpn@3.76.74.74:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@35.180.143.120:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@63.178.210.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@15.188.131.37:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@15.237.7.228:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@51.44.191.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@13.39.3.20:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@63.177.148.25:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
 trojan://telegram-id-directvpn@3.74.181.8:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@3.124.226.161:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@13.38.150.199:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@35.180.143.120:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-trojan://telegram-id-directvpn@51.44.100.175:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@3.65.213.56:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@35.181.213.121:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-trojan://telegram-id-directvpn@18.196.247.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@13.36.197.235:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@18.196.117.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@52.29.139.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@3.124.226.161:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
+trojan://telegram-id-directvpn@51.44.125.229:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@13.36.72.7:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@13.39.37.70:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@3.124.79.62:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@3.78.69.36:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+vless://3d8d5627-62c0-491a-ad68-0079983f95e1@185.168.194.59:41445?security=reality&encryption=none&pbk=eb0fWFAevT3a_BqrfJ2dLhY_Hv910o9LSmaumdZpIyQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=f8a537#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%98
 trojan://telegram-id-directvpn@63.178.205.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 trojan://telegram-id-directvpn@52.47.169.236:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@35.180.8.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.35.168:443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&encryption=none&host=edcck.ambercc.filegear-sg.me&fp=random&type=ws&sni=edcck.ambercc.filegear-sg.me#%40v2ray
+trojan://telegram-id-directvpn@35.181.193.126:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@3.73.241.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+trojan://telegram-id-directvpn@63.178.60.16:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 trojan://telegram-id-directvpn@35.180.72.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@35.181.202.67:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@51.44.45.149:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-trojan://telegram-id-directvpn@35.159.102.83:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
