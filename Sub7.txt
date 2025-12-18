@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.113.54:80?encryption=none&security=none&sni=vless.hubp.de&alpn=h2,http/1.1&fp=chrome&type=ws&host=vless.hubp.de&path=t.me/v2Line#t.me/v2Line | Free | 2958 | Cloudflare
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?encryption=none&security=tls&sni=vless.hubp.de&alpn=h3&fp=chrome&allowInsecure=1&type=ws&host=vless.hubp.de&path=/#t.me/v2Line | Free | 2944 | Cloudflare
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096?encryption=none&security=tls&sni=vless.hubp.de&alpn=h2,http/1.1&fp=chrome&allowInsecure=1&type=ws&host=vless.hubp.de#t.me/v2Line | Free | 2941 | Cloudflare
 vless://2652fbc5-e1b1-691f-c9c7-11ad83e828a6@uaeemar123.vtuix.ir:7033?mode=gun&security=reality&encryption=none&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=chrome&type=grpc&serviceName=7034vless&sni=telewebion.com&sid=16b6cda7ab793526#🇦🇪
 vless://2652fbc5-e1b1-691f-c9c7-11ad83e828a6@rusdokyav.vtuix.ir:7033?mode=gun&security=reality&encryption=none&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=chrome&type=grpc&serviceName=7034vless&sni=telewebion.com&sid=16b6cda7ab793526#🇷🇺 حذف تبلیغات
@@ -502,3 +500,5 @@ hy2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414/?insecure=1&sni=bing.com#DE
 hy2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#UK家宽
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp2.mangshe.xyz:2060/?insecure=1&sni=xjp2.mangshe.xyz#新加坡
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#新加坡1
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#SG
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056/?insecure=1&sni=xg1.mangshe.xyz#香港
