@@ -1,3 +1,5 @@
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@batam3.nezhasu.com:443?insecure=1&sni=batam3.nezhasu.com#MCI-IR--%40V2rayAlpha-13
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-4.nezhasu.com:443?insecure=1&sni=mumbai-4.nezhasu.com#MCI-IR--%40V2rayAlpha-4
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@91.149.238.71:30102?security=tls&insecure=1#MCI-IR--@V2rayAlpha-6
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy6.nezhasu.com:443?insecure=1&sni=gy6.nezhasu.com#MCI-IR--%40V2rayAlpha-12
+hysteria2://9ec830fd-79da-4706-a964-cb227d7198db@135.148.82.248:33333?insecure=1#MCI-IR--%40V2rayAlpha-7
+vless://395dc4ac-0719-42ad-85f0-1df6f7cc9e9d@all.mdvpnsec.cfd:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#mci+join+TELEGRAM%3A+%40VPNConectd+join+TELEGRAM%3A+%40VPNConectd+join+TELEGRAM%3A+%40VPNConectd+join
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#MCI-IR--@V2rayAlpha-10
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@mumbai-3.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=mumbai-3.nezhasu.com#MCI-IR--@V2rayAlpha-3
