@@ -1,4 +1,5 @@
 vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#%F0%9F%87%A9%F0%9F%87%AA%20King%20%F0%9F%91%91
-vless://02d87d00-c769-48d8-91cb-bd05e2f62790@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#%40SkiVpn%20%F0%9F%87%BA%F0%9F%87%B8
+vmess://eyJpZCI6ImIyMDc0MDBjLTE4MzYtNDI0My04NmNmLTRkNzA2Zjc3ZmU0MiIsIm5ldCI6InRjcCIsImZwIjoiY2hyb21lIiwicHMiOiJubC12MnJheS5mcmVldm1lc3MuY29tLW9raWFwMndrIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJhZGQiOiJubC12MnJheS5mcmVldm1lc3MuY29tIiwic2N5IjoiYXV0byIsImFscG4iOiJoMyxoMixodHRwXC8xLjEiLCJwb3J0IjoiMjA4MyJ9
 trojan://17d3bf89-d2f0-4827-bcd0-c199fe54cd2a@green2.cdntencentmusic.com:33301?allowInsecure=1&sni=green2.cdntencentmusic.com#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20Akile%20LTD%20-%208
-trojan://a5049baa-eadf-4523-bcac-33139e4a99ea@green2.cdntencentmusic.com:34411?allowInsecure=1&sni=green2.cdntencentmusic.com#%E6%97%A5%E6%9C%AC%20-%20%E4%B8%9C%E4%BA%AC%20-%20Akile%20LTD%20-%204
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#-44
+vless://1980c52e-f8b8-4ea6-92de-dd3ff65e658e@138.68.190.39:443?path=/evdvmqws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=wikiportal.ru#1
