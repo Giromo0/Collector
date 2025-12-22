@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.166:443?path=%2Fhormoz&security=tls&encryption=none&type=ws#%40V2ray1_Ng
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.155.240:443?mode=gun&security=none&encryption=none&type=grpc#WiFi_20--%40V2rayAlpha
 vless://ebe6918f-ff88-4da5-8181-fbb7a161927a@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#%40NoForcedHeaven%F0%9F%87%AC%F0%9F%87%A7
 vless://f690c2da-bdc3-4538-999e-d2bb8a541188@104.16.161.143:2096?path=%2Fsecurity%3Dtls&security=tls&encryption=none&host=baomei.pages.dev&type=ws&sni=baomei.pages.dev#%40V2rayNG3
@@ -502,3 +501,4 @@ vless://88872588-2a25-47f9-b498-79142565a239@45.67.228.224:443?path=%2Fufhqdyws&
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.82.11:443?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://51be809d-3e82-4090-b14f-a42a32100ff9@deu637.webunlocked.org:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deu637.webunlocked.org#%40V2RAY_VMESS_free
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@52.14.92.174:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#telegram%20%F0%9F%8C%88%20dailyv2ry
