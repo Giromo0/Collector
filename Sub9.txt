@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-vless://264cdb58-370f-4b2e-b0b3-8b6842054113@speedtest.net:443?path=/W0tvTq4oSbHyKeRM?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=tody.ir.&fp=chrome&type=ws&sni=speedtest.net#t.me/entryNET/config=1852347527563305
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#https://t.me/v2raynplus |🇹🇷
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=Zd3PeAwKqW.sPnEwDmLi.InFo&type=ws&alpn=h3h2&host=Zd3PeAwKqW.sPnEwDmLi.InFo&path=/#telegram 🎪 v2ray_configs_pools
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=354Gu96ZaC.sPnEwDmLi.InFo&type=ws&alpn=h3h2&host=354Gu96ZaC.sPnEwDmLi.InFo&path=/#telegram 🚀 v2ray_configs_pools
@@ -502,3 +501,4 @@ vless://6b437afc-62b3-40ba-9112-ee667a783c3d@104.21.112.1:2096?security=tls&type
 vless://6e95243c-544c-4770-b2cd-a5c5cc10211e@188.114.99.167:443?security=tls&type=ws&path=%2Fassets&host=dip.amperes.workers.dev&alpn=http%2F1.1&sni=DIP.Amperes.Workers.DEV&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_24%20%F0%9F%A7%AD%204.9MB%2Fs`
 vless://6e95243c-544c-4770-b2cd-a5c5cc10211e@172.66.44.81:443?security=tls&type=ws&path=%2Fassets&host=dip.amperes.workers.dev&alpn=h3&sni=DIP.Amperes.Workers.DEV&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_23%20%F0%9F%A7%AD%204.5MB%2Fs`
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@172.67.193.88:443?security=tls&type=ws&path=%2Fvless.hubp.de&host=hemmat.iranmap.workers.dev&alpn=http%2F1.1&sni=hemmat.iranmap.workers.dev&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_21%20%F0%9F%A7%AD%204.4MB%2Fs`
+vless://eb774544-18d2-4f43-ad4a-df77ee6726d4@v2ngnet.byte-server.ir:4488?security=none&type=grpc&mode=gun&serviceName=%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet-%40V2ngnet&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_9%20%F0%9F%A7%AD%205.0MB%2Fs`
