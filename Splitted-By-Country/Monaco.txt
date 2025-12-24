@@ -1,4 +1,3 @@
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#MCI-IR--@V2rayAlpha-10
-trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#MCI-IR--@V2rayAlpha-18
-trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#MCI-IR--@V2rayAlpha-20
-trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?path=/94.131.114.50=81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#MCI-IR--@V2rayAlpha-19
+vless://395dc4ac-0719-42ad-85f0-1df6f7cc9e9d@all.mdvpnsec.cfd:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=new-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#mci+join+TELEGRAM%3A+%40VPNConectd+join+TELEGRAM%3A+%40VPNConectd+join+TELEGRAM%3A+%40VPNConectd+join
+vmess://eyJhZGQiOiJ3ZWIubWlsYWR2aXAuc2hvcCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJkY2IyMTEzMC04ODBmLTRjNzYtODRjOC01YWExNzZkOGZkYjMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxNjUzNyIsInBzIjoi4pqh77iPIEBWaVBWcG5fdjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJ3ZWIubWlsYWR2aXAuc2hvcCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIxYjBmZGE4MC01MDZkLTRlMWYtZWI1Zi01ODM5OTRkNDdkNDYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLimqHvuI8gQFZpUFZwbl92MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
