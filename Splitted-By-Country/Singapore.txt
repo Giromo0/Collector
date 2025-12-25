@@ -1,9 +1,12 @@
-vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.138.24:2760?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://BxceQaOe@3.112.42.86:1691?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.132.158:2760?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wg5L+E572X5pavIOaWsOilv+S8r+WIqeS6mmp1c3Rob3N0IiwiYWRkIjoiMi41Ni4yNDIuMjEwIiwicG9ydCI6IjM0ODk1IiwidHlwZSI6Im5vbmUiLCJpZCI6IjZmZTZiNjJhLWRmYmUtNDc1My1kNzk1LWUwMmYyNTYxZWRlYSIsImFpZCI6IjAiLCJuZXQiOiJub25lIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
 trojan://BxceQaOe@57.180.28.48:804?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.116.227:2760?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.57.238:2760?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://tunnel-astrovpn_official928@206.206.126.109:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=206.206.126.109#@AstroVPN_Official 🇸🇬
+vless://e258977b-e413-4718-a3af-02d75492c349@34.143.159.175:443?&security=tls&fp=chrome&sni=qqq-3t8.pages.dev&type=ws&headerType=none&host=qqq-3t8.pages.dev&path=%2F#SG_speednode_0021%202
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
+vless://e258977b-e413-4718-a3af-02d75492c349@34.143.159.175:443?allowInsecure=0&sni=qqq-3t8.pages.dev&type=ws&host=qqq-3t8.pages.dev&path=/security=tls#SG_speednode_0021
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.138.24:2760?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://BxceQaOe@3.112.42.86:1691?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.132.158:2760?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OT05FIFx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyBTRy0xNTQuMjYuMTM0LjEwNjoxNDEyOSIsICJhZGQiOiAiMTU0LjI2LjEzNC4xMDYiLCAicG9ydCI6ICIxNDEyOSIsICJpZCI6ICJlNzc5OGUwOS0zMDkwLTQzNjYtYWU4MC1mMThhZmRhYWJmNGYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIm5vbmUiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiMjgifQ==
