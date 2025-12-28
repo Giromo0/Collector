@@ -1,2 +1,6 @@
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443#https://t.me/ShadowsocksM35
-vless://6e95243c-544c-4770-b2cd-a5c5cc10211e@104.21.48.1:443?encryption=none&security=tls&sni=DIP.Amperes.Workers.DEV&alpn=http/1.1&fp=chrome&type=ws&host=dip.amperes.workers.dev&path=/assets&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AUS
+vless://63c6fdf9-9ce4-7c78-e597-a5519649b0cd@bou.officialvpn.shop:31628?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3ADE
+vless://6e95243c-544c-4770-b2cd-a5c5cc10211e@104.21.96.1:443?encryption=none&security=tls&sni=DIP.Amperes.Workers.DEV&alpn=http/1.1&type=ws&host=dip.amperes.workers.dev&path=/assets&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AUS
+vmess://eyJhZGQiOiJzZW91bDAzLnpnam9rLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2VvdWwwMy56Z2pvay5jb20iLCJpZCI6IjcyYTBkYWM0LTk2ODktNGE1Ny1iMTY0LTVjNjViZmE5NDc3MiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiI+PkBTaGFkb3dzb2Nrc006OlhYOjpYWDo6WFgiLCJzY3kiOiJhdXRvIiwic25pIjoic2VvdWwwMy56Z2pvay5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ
+vless://3593236e-9a5b-4f3b-aa7e-a40b3238e15b@91.107.243.172:15700?encryption=none&amp;type=http&amp;host=speedtest.net&amp;method=GET&amp;packetEncoding=xudp#https://t.me/ShadowsocksM31
+vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?encryption=none&amp;packetEncoding=xudp#https://t.me/ShadowsocksM9
+vless://e99003e7-f724-4612-b7f5-ad4d2b3bcb9c@113.30.152.46:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=telegavpn.com&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=&packetEncoding=xudp#https://t.me/ShadowsocksM194
