@@ -1,17 +1,11 @@
-vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@46.224.56.108:2052?mode=gun&security=reality&encryption=none&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&fp=chrome&type=grpc&sni=web.eitaa.com&sid=c2#%F0%9F%8E%B6%F0%9F%8E%B66
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.19.203:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%F0%9F%8D%85%F0%9F%8F%9D1
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@www.gov.se:2053?&security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F#%E6%9C%AA%E7%9F%A5%2039
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.npmjs.com:2095?&security=false&fp=chrome&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.cf&path=%2F#%E6%9C%AA%E7%9F%A5%2043
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40v2rayan
-vless://af9fdedf-dca8-405d-9aa4-98ebcc99e84b@ipe3.alighan.ir:8443?path=%2F%3Fed%3D2048&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s.alighan.ir&amp;fp=chrome&amp;type=ws&amp;sni=ipe4.aligh…
-hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443/?mport=50000-60000&insecure=1&sni=Ab.ac&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i#H1
-vless://444e6db5-e9b5-4407-a65f-e89b93ed3d71@95.128.157.251:24129?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vt-1.ozone.ru&sid=a79ee9d365da7d81#r♡ya
-vless://5abfab2f-1181-4d37-86fd-21a7296b6358@sv10.mizbanland.ir:443?security=none&encryption=none&headerType=none&type=tcp#.
-vless://9323f2c6-fb40-4ee3-890f-9c63b948cb29@151.101.25.242:80?encryption=none&type=xhttp&mode=auto&host=maxus112.global.ssl.fastly.net&path=/?ed=2560&security=none#AKL
-vless://ae036c2a-9f29-409a-adf5-0ce4b09550b7@87.107.153.243:49986?path=/&security=none&encryption=none&type=ws#.
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#
-vless://bd1d36c9-f748-4130-ad93-302d5067aade@yoyo-fl.bing-net.com:9031?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#r♡ya
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&insecure=0&host=hetzner-9.cfuk.name.ng&type=ws&allowInsecure=0&sni=hetzner-9.cfuk.name.ng#r♡ya
+hysteria2://yhqy5AHofQq@channel3.saghetalaie.homes:46914?security=tls&obfs=salamander&obfs-password=&O#28YB5qK!5t#U&insecure=1&sni=www.google.com#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+vless://23d94ce7-81fe-4a37-935d-0fa980485c51@ru1.jugploer.icu:443?security=reality&encryption=none&pbk=6NsYMzJu1KzVtGHhxQQ_nF-bfWfjqRUim6bWihwD-gU&headerType=none&spx=/V2rayBaaz&type=tcp&flow=xtls-rprx-vision&sni=ru1.jugploer.icu#r♡ya
+vless://309fa273-6579-4cb2-9143-7cad50401eba@77.91.74.179:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#r♡ya
+vless://4685d838-99e1-4dc7-bc26-d8589d41f2a1@us3.tunnely.ru:443?mode=packet-up&path=/xhttp/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"16-32","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"noGRPCHeader":false,"xPaddingBytes":"100-1000","scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80"}&fp=chrome&type=xhttp&sni=us3.tunnely.ru#r♡ya
+vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.25.119:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🍅🏝9
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443?path=/yhowcws&security=tls&encryption=none&insecure=0&host=azizoarjmand.info&fp=chrome&type=ws&allowInsecure=0&sni=azizoarjmand.info#
-vless://89743cca-6855-478c-b9a8-79ae9ab9c3e4@s2.skullvpn.xyz:443?path=%2Fdownloader%2F30665&security=tls&encryption=none&host=words.skullvpn.xyz&type=ws&sni=words.skullvpn.xyz#a56بزنید لینک پولی nv✅
-vless://b2b0791a-14f8-4260-baab-b9dee270ffec@94.103.1.44:443?security=reality&encryption=none&pbk=wffi6nrJbxOiA0g7IuiXB4FZ7tkFtb9eRkPS9UvWPks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=disk.yandex.ru&sid=9ec7e0#r♡ya
+trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40V2ray_Custom😉 @V2ray_Custom
+vless://6e95243c-544c-4770-b2cd-a5c5cc10211e@104.21.96.1:443?&security=tls&fp=chrome&sni=dip.amperes.workers.dev&type=ws&headerType=none&host=dip.amperes.workers.dev&path=%2Fassets#%E6%9C%AA%E7%9F%A5%2033
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010072.sec21org.com#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A5%B0
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40v2rayan
+trojan://telegram-id-privatevpns@15.188.37.49:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
