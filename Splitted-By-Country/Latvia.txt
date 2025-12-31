@@ -1,4 +1,2 @@
 tuic://f19c7009-7630-4bb4-b26d-09eec0b1b769:f19c7009-7630-4bb4-b26d-09eec0b1b769@217.60.2.58:60000?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=www.python.org&udp_relay_mode=native#%23131%20LV1
 tuic://f19c7009-7630-4bb4-b26d-09eec0b1b769:f19c7009-7630-4bb4-b26d-09eec0b1b769@217.60.2.58:50000?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=www.python.org&udp_relay_mode=native#%23132%20LV2
-vless://88152def-434e-488d-a63a-1c2a7ee401d3@51.250.66.70:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&spx=/sinavm-sinavm#
-vmess://eyJhZGQiOiIxNjguMTE5LjE2Ny4yMDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoidC5tZS92X3BfbHYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
