@@ -1,2 +1,3 @@
 trojan://smart%40-PhVxMdT5OVnjtTecU-kZoej@z-sg1.2513142.xyz:10011?allowInsecure=1&sni=www.cloudflare.com#%23111%20PK1
 trojan://smart%40-PhVxMdT5OVnjtTecU-kZoej@z-sg2.2513142.xyz:10011?allowInsecure=1&sni=www.cloudflare.com#%23112%20PK2
+vless://23b70080-d496-4429-8025-7ebbecd13a72@87.121.162.241:443?security=reality&type=tcp&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=6449&pbk=Wa3WLGe7MjXs_BHM8LJJaqd-6gxHMB8Yd0pBpkUM3k0&encryption=none#[74307]
