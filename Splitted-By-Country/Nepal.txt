@@ -1,4 +1,1 @@
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?encryption=none&type=ws&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net#VpnPars
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.30.138:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#https://t.me/v2raynplus |
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.208.95:2053?path=/&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#https://t.me/v2raynplus |
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@89.116.250.203:2053?path=/&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#https://t.me/v2raynplus |
+vless://turboo-server@server.ultra-irancell.com:80?encryption=none&type=ws&host=turboo-server.io&path=/ed%3D2560&security=none#VpnPars
