@@ -1,5 +1,7 @@
-trojan://yUHNMwWvenoHBaN5CtqKPwt1CTzXgW@ru2.nnvpn.io:443?security=tls&sni=ru2.nnvpn.io&alpn=h2,http/1.1&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ARU
-vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AAZ
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AFI
-vless://6e95243c-544c-4770-b2cd-a5c5cc10211e@104.21.96.1:443?encryption=none&security=tls&sni=DIP.Amperes.Workers.DEV&alpn=http/1.1&type=ws&host=dip.amperes.workers.dev&path=/assets&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AUS
-hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?security=tls&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk&allowInsecure=true#%3E%3E%40ShadowsocksM%3A%3AUS
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs-password=Yet-Another-Public-Config-1&security=tls&sni=YAPC-1.afshin.ir#https://t.me/ShadowsocksM37
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs-password=Yet-Another-Public-Config-1&security=tls&sni=YAPC-1.afshin.ir&allowInsecure=true#https://t.me/ShadowsocksM60
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs-password=Yet-Another-Public-Config-1&security=tls&sni=YAPC-1.afshin.ir#https://t.me/ShadowsocksM75
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs-password=Yet-Another-Public-Config-1&security=tls&sni=YAPC-1.afshin.ir&allowInsecure=true#https://t.me/ShadowsocksM35
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.231.121:33500?obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&security=tls&sni=updates.kermanshahi.org#https://t.me/ShadowsocksM102
+hysteria2://e343471a-aad3-40da-9dea-72cc8c7dce5f@152.67.95.183:35000-39000?security=tls&sni=www.apple.com&allowInsecure=true#https://t.me/ShadowsocksM39
+vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudcircus.jp&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&sid&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AJP
