@@ -1,4 +1,8 @@
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs-password=Yet-Another-Public-Config-1&security=tls&sni=YAPC-1.afshin.ir#https://t.me/ShadowsocksM37
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs-password=Yet-Another-Public-Config-1&security=tls&sni=YAPC-1.afshin.ir#https://t.me/ShadowsocksM75
-vless://dfc61ae0-53cb-4629-82c0-a19bd1fcbc8c@31.57.29.155:8090?security=reality&encryption=none&pbk=IEqCSMyHiRccikTg9nb92kBqVHsrVQHrrX5kF0ALXQY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=neshan.org&sid=50#%E2%9C%85%E2%9A%9C%EF%B8%8F4
-vless://6e95243c-544c-4770-b2cd-a5c5cc10211e@172.66.46.247:443?encryption=none&security=tls&sni=DIP.Amperes.Workers.DEV&alpn=h3&fp=chrome&type=ws&host=dip.amperes.workers.dev&path=/assets&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AUS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&allowInsecure=true#https://t.me/ShadowsocksM45
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs-password=Yet-Another-Public-Config-1&security=tls&sni=YAPC-1.afshin.ir&allowInsecure=true#https://t.me/ShadowsocksM67
+vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?encryption=none&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AAZ
+vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudcircus.jp&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&sid&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AJP
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?encryption=none&type=ws&host=cdn.ir&path=/news&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3ADE
+vless://c5b129d7-f133-4b34-a9c6-68c9a8f70248@104.26.6.89:80?encryption=none&type=ws&host=EMotioNaL-peRMIsSiONf1bs65u5f4.EcOTOuRISs.Co.uK&path=/&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3ACA
+vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?encryption=none&type=ws&host=telewebion.com&path=/39427/Nextlife&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AXX
+hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?security=tls&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk&allowInsecure=true#%3E%3E%40ShadowsocksM%3A%3AUS
