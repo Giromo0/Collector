@@ -1,7 +1,8 @@
-trojan://3437698@104.19.39.165:2053?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B913
-trojan://3437698@172.67.70.2:443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B911
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20India%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
-hysteria2://12929592-a7bd-41eb-ab4d-d804f76c4ff9@74.117.196.232:49364/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
-hysteria2://3b475934-cb2a-4d96-b260-5e50cca5d430@74.117.196.232:49364/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
-hysteria2://b2da9920-b0a7-4354-9e26-3833ab8d00d0@74.117.196.232:49364/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
-hysteria2://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@74.117.196.232:49364/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
+trojan://3437698@104.18.45.158:443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B904
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20II%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
+trojan://3437698@108.162.198.132:2087?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B901
+hysteria2://4ec66d81-9565-4d8e-ae58-2bacfde95f48@74.117.196.232:57949/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
+hysteria2://6d600864-32da-49fd-baf4-7df051762454@74.117.196.232:57949/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
+hysteria2://c09f13ce-2cca-49b6-ad1e-597566cc89c6@74.117.196.232:57949/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
+hysteria2://c6e0562f-7ad1-40fb-a255-26194b2de84a@74.117.196.232:57949/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
+vless://77a40992-d9ba-4ed1-a542-bacf18d095c3@mkop.v2try.sbs:27094?security=none&encryption=none&headerType=none&type=tcp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%96%A4
