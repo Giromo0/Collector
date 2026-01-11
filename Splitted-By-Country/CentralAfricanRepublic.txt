@@ -1,12 +1,14 @@
-trojan://3437698@104.19.39.165:2053?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B913
 trojan://3437698@172.67.70.2:443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B911
+trojan://3437698@104.19.39.165:2053?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B913
+hysteria2://12929592-a7bd-41eb-ab4d-d804f76c4ff9@74.117.196.232:50708/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
+hysteria2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@74.117.196.232:50708/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
+hysteria2://35f332d0-0b05-4cc6-91cb-ec0d4465055f@74.117.196.232:50708/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
+hysteria2://6d600864-32da-49fd-baf4-7df051762454@74.117.196.232:50708/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
+hysteria2://b2da9920-b0a7-4354-9e26-3833ab8d00d0@74.117.196.232:50708/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
+hysteria2://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@74.117.196.232:50708/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
+trojan://3437698@8.35.211.15:8443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B908
 trojan://3437698@162.159.45.104:8443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B905
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSEvCsl81M3wxLjhNQi9zfDAlfFlUfE5GfFh8W+WOn+eUn3zkvY/lroVdIiwiYWRkIjoiNmZkZGE5OTktdDcwZjQwLXRsbTY0Yy14bTBxLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIzNDM3ZjM0ZS0xYjc3LTExZWItODY4NC1mMjNjOTEzYzhkMmIiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiI2ZmRkYTk5OS10NzBmNDAtdGxtNjRjLXhtMHEuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwidGxzIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSEvCsl80NXw2LjhNQi9zfDAlfFlUfE5GfFh8W+WOn+eUn3zkvY/lroVdIiwiYWRkIjoiYWZkOTM0ZmQtdDdpeHMwLTAtMXQwZnUuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImJkN2U5NjJjLWNjNGMtMTFmMC1iMGFmLWYyM2M5MWNmYmJjOSIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImFmZDkzNGZkLXQ3aXhzMC0wLTF0MGZ1LmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsInRscyI6IiJ9
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?security=tls&type=ws&sni=_acme-challenge.2go.cloudns.be&path=/&host=_acme-challenge.2go.cloudns.be#%E6%9C%AA%E7%9F%A528
-hysteria2://fa8f8911-2e9b-494e-9a8d-f80239ee2214@74.117.196.232:57257/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
-vless://ddf7b660-3ef1-58d2-a8cf-7f16455850e3@104.17.147.22:2083?security=tls&sni=hk1.vless.site&type=grpc&serviceName=vless-grpc#[79584]
-vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?security=tls&sni=cfpage-39t.pages.dev&type=ws&host=cfpage-39t.pages.dev&path=/&fp=chrome#[79589]
-vless://32ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?mode=auto&path=%2F&security=&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=xhttp#[79506]
-vless://77a40992-d9ba-4ed1-a542-bacf18d095c3@mkop.v2try.sbs:27094?security=none&encryption=none&headerType=none&type=tcp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%96%A4
-trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://3437698@108.162.198.132:2087?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B901
+trojan://3437698@173.245.58.230:8443?path=%2F%3Fed%3D2560&security=tls&host=rough-violet-b842.heydari-cis64.workers.dev&fp=random&type=ws&sni=rough-violet-b842.heydari-cis64.workers.dev#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B907
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20II%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
+trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.38.151:443?security=tls&headerType=none&type=tcp&sni=copy-wifi-twins.stark-industries.solutions#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
