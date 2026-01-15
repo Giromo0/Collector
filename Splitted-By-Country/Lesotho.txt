@@ -1,3 +1,2 @@
-vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?&security=reality&flow=xtls-rprx-vision&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&sid=140d8b3989bf5116&fp=chrome&sni=github.com&type=tcp&headerType=none&path=%2F#_%E6%B3%A2%E5%85%B0
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40v2rayan
-trojan://telegram-id-directvpn@54.191.230.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#ConfigV2RayNGtrojan://telegram-id-directvpn@18.191.41.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG
+vless://1c7d5c64-e1fa-44e3-b5f5-267ddde86b7e@148.135.195.220:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%F0%9F%8E%81```
+trojan://telegram-id-privatevpns@35.158.18.102:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
