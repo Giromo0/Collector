@@ -1,1 +1,4 @@
-trojan://telegram-id-privatevpns@63.182.140.159:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://telegram-id-privatevpns@13.37.149.230:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@51.44.34.191:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.8:443?encryption=none&type=xhttp&mode=stream-one&host=statue.lnmarketplace.net&path=/statue&security=tls&fp=firefox&sni=statue.lnmarketplace.net&alpn=h2#[
+trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro000.instconn.com:443?allowInsecure=0&sni=hkip5.686911.xyz#HK-103.219.192.33-1713
