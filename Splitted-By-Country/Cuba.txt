@@ -1,7 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.144:8880?encryption=none&security=none&type=grpc#[
-vless://ef2fdb6a-b5dd-4dc4-9ec6-dfda63c18c74@185.122.166.216:37405?security=reality&encryption=none&pbk=-EtXXXDdTZW8qPNJETB_cnn3kHjUBlRPv9sJhT1hXRY&headerType=none&fp=chrome&spx=%2FBia_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=9828b5cdd4#[
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40v2rayan
-vless://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=blueivy.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=blueivy.qzz.io#VPN_PROXY_CUSTOM
-vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.conf…
-trojan://telegram-id-privatevpns@63.181.195.69:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
-vless://5a0e48ad-02ba-4c48-91ee-61be3a398aff@dlc-srv94.persian-ping.com:3004?security=none&encryption=none&headerType=none&type=tcp#تلگرام
+trojan://telegram-id-privatevpns@3.70.150.185:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇭🇰 香港
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.206.76:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135010072.sec21org.com#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%92%93
