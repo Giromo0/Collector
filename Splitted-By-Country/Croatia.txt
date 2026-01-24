@@ -1,1 +1,4 @@
-vless://f055d270-0e76-4a41-a53f-871bbb51b003@190.93.247.172:443?path=%2F&security=tls&encryption=none&host=what.zhonghuoxing.top&fp=chrome&type=ws&sni=what.zhonghuoxing.top#%40v2ray
+vless://787ae54e-40ad-4caf-899b-ad3a19ff1103@45.144.48.192:8443?security=reality&encryption=none&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discordapp.com&sid=50c860b05993532d#[
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&alpn=h3&encryption=none=&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
+vless://0524840c-b9c9-4994-82db-129ac8caeac5@iran.zone-server-irani.ir:2053?encryption=none&type=ws&path=/?ed%3D2048&security=tls&fp=chrome&sni=wizwiz.vidboxco.ir#MehradLearn
+vless://9250073b-3ec0-4186-9f52-5ed35163eda4@chatgpt.com:2053?type=ws&encryption=none&path=%2Fdowns1.event-cp.com%3Fed%3D2560&host=downs1.event-cp.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=
