@@ -1,2 +1,2 @@
-vless://f531f3b9-48b7-42df-8795-c1aa33be7941@31.184.215.117:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#
+trojan://bpb-trojan@104.21.75.193:443?security=tls&sni=mashdt.pages.dev&type=ws&host=mashdt.pages.dev&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3#@VIProxysvless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?security=none&type=grpc#@VIProxysss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?security=none&type=grpc#@VIProxys
 vless://b64c1afa-a034-4b66-ab24-711a8664c346@zmaoz.faculty.ucdavis.edu:80?path=%2Folem%2Fws%3Fed%3D1024&security=&encryption=none&host=foffmelo.com&type=ws#%40Artemisvpn1
