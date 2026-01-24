@@ -1,7 +1,4 @@
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#[
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#⚡
-trojan://telegram-id-privatevpns@63.179.77.17:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
-trojan://telegram-id-privatevpns@13.36.115.104:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@13.36.116.248:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
-trojan://telegram-id-privatevpns@18.196.155.223:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
-trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#🇭🇰 香港
+vless://c68a1a4c-7dbd-4a19-bf2e-e00e131373bf@216.24.57.1:443?path=%2FWS%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ceo.nexun.ir&fp=chrome&type=ws&sni=ceo.nexun.ir#
+trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#香港
+vmess://eyJhZGQiOiI4MTAzLnNob21hcGFydmF6cm95YWRldG9ubmlzdC1ieXBhc3Npc2hlcmUubGF0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhZDgwZjhlYy00ODYxLTExZjAtYTk0OC02YTc1ZjY2N2I0NzIuU2hvbWFQYXJ2YXpSb1lhZGV0b25OaXN0LUJ5cGFzc0lzSGVyZS5sYXQiLCJpZCI6IjhmNzRlYzhhLTk3MWMtMTFlZC1hOGZjLTAyNDJhYzEyMDAwMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hZDgwZjhlYy00ODYxLTExZjAtYTk0OC02YTc1ZjY2N2I0NzI/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgxMDMiLCJwcyI6IlNlcnZlciBFRCIsInNjeSI6ImF1dG8iLCJzbmkiOiJhZDgwZjhlYy00ODYxLTExZjAtYTk0OC02YTc1ZjY2N2I0NzIuU2hvbWFQYXJ2YXpSb1lhZGV0b25OaXN0LUJ5cGFzc0lzSGVyZS5sYXQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+trojan://telegram-id-privatevpns@51.44.124.96:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
