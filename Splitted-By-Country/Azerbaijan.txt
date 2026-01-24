@@ -1,13 +1,25 @@
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#r%E2%99%A1ya%40V2rayBaaz%E2%97%87%E2%83%9F%F0%9F%92%9C
-vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?path=%2Fvless%2F&security=none&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%40vpnbaz%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
+vless://c2ca41d6-a825-454b-abf6-e4a83d6df9c7@chatgpt.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=god1.alireza031.net#%40vpnbaz%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Z
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@vpnbaz | نت ملی
 vless://057b649c-54b1-4f68-86b1-90381637a2cf@152.53.33.43:443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#VPNBaz
-vless://18228710-dfd0-4bca-8425-4abff39843a4@KingN.1mrsub.site:6002?path=/&security=none&encryption=none&host=fast.com&type=ws#VPNBaz
-vless://65592ebd-a1fe-4f70-bc6b-419b43caf221@ris.blackhoster.com:341?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&sni=excoino.com&sid=fd1dff03520d8f56#VPNBaz
-vless://69165926-e40d-4f0d-aed3-8a5bba5e9cf7@us.a.lifiline.info:7024?security=reality&encryption=none&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&headerType=none&fp=chrome&type=tcp&sni=refersion.com#VPNBaz
+vless://0fa9f7f1-f47f-4b59-b373-3ec97326e8e9@64.188.73.65:20150?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#VPNBaz
+vless://160e9c18-c548-42bf-9c00-905aed8ef96f@subscribe.getvlessvpn.com:49000?mode=gun&security=reality&encryption=none&pbk=2K2NO2jXF45pA0-eUobqo-gnur61TadbWD4B93Zl_Vc&fp=chrome&type=grpc&serviceName=dropbox.com&sni=google.com&sid=170f8a2036#VPNBaz
+vless://4ed0f31f-a400-4012-be63-b7104ce1bb1e@Gody.xrayshop.store:54230?security=none&encryption=none&host=tamin.ir&headerType=http&type=tcp#VPNBaz
+vless://65592ebd-a1fe-4f70-bc6b-419b43caf221@iar.blackhoster.com:443?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&sni=excoino.com&sid=fd1dff03520d8f56#VPNBaz
+vless://65592ebd-a1fe-4f70-bc6b-419b43caf221@uo.blackhoster.com:443?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&sni=excoino.com&sid=fd1dff03520d8f56#VPNBaz
+vless://6df3cc5d-a9e5-4117-8ddc-bedbe44a6f14@iran.zone-server-irani.ir:2053?path=/?ed=2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wizwiz.vidboxco.ir#VPNBaz
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.180:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#VPNBaz
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.180:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=statue.lnmarketplace.net#VPNBaz
+vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=/vip&security=none&encryption=none&fp=chrome&type=ws#VPNBaz
 vless://ac26aac6-9833-46e3-9629-ec2a87db2355@ali.solnetseven.top:8080?path=/vip&security=none&encryption=none&type=ws#VPNBaz
 vless://c19fb567-74a9-454f-9757-e612fc4be371@ss.02020.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#VPNBaz
 vless://c19fb567-74a9-454f-9757-e612fc4be371@ss.02020.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#VPNBaz ❤️‍🔥
+vless://c19fb567-74a9-454f-9757-e612fc4be371@ss.02020.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#VPNBaz❤️‍🔥
+vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.102:8443?mode=auto&path=/&security=reality&encryption=none&pbk=YroB2r6MeCXtjqqVx5gr45KTPCJF_kk2n0yqbHhEQSE&fp=chrome&type=xhttp&sni=vk.com&sid=743952dfbeb3#VPNBaz
 vless://dd4400d2-d3f4-499b-b46a-1b2172a2d5a8@iran.dibadns.ir:81?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#VPNBaz
-vless://e820d8f6-1bb6-4f23-aead-11544349fa6a@84.32.231.133:80?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#VPNBaz ❤️‍🔥
+vless://e3379093-7c89-4c8a-be1f-abb92a3305a1@62.60.229.32:443?security=reality&encryption=none&pbk=X6M54TjT_X10PF8zMBxr_m4Djoyy_m4nhP28o-lGKy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=cf563330b1a8ef60#VPNBaz
 vless://e8cba8f5-b824-4f56-8d91-9164fac200ce@spb.jojack.ru:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=spb.jojack.ru&sid=f78eee63f41b3ede#VPNBaz
-vless://eade8c20-208a-4d66-b4b1-02c0b65e5c21@45.59.117.126:53436?path=/&security=none&encryption=none&type=ws#VPNBaz
+vless://eaf287ce-1bd5-4dd5-af88-379f5d31b6db@free1.aattaash.com:2087?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=germany.aattaash.com#VPNBaz
+vmess://eyJhZGQiOiJpcjIudHBzaG9wLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiI0N2I5ZTE5Mi1jYTZjLTExZjAtOGU2NS05MjAwMDZjYjE4MDMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1MDEwIiwicHMiOiJWUE5CYXoiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+vless://6479e444-f0b1-4bfb-963d-ce1e04e8b159@v.abolfazlsafeti.top:46801?type=ws&security=none&path=%2F#%D9%88%DB%8C%DA%98%D9%87لینک برای ویپی ان nv پولیه بزنید جدیده✅
