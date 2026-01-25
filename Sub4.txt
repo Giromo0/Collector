@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;type=tcp&amp;headerType=none#%E6%9C%AA%E7%9F%A5
-trojan://telegram-id-directvpn@3.65.251.210:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 trojan://telegram-id-directvpn@51.21.138.5:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://3690911436885991424@careful-platypus.opossum872.cfd:443?allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 trojan://3648425794742788096@artistic-cat.sheepdog670.boats:443?security=tls&amp;type=tcp&amp;headerType=none#%F0%9F%87%AE%F0%9F%87%B3_IN_%E5%8D%B0%E5%BA%A6
@@ -502,3 +500,5 @@ vless://d39936a4-5cd6-430b-aef0-4494b4acde1f@x2net.imsoon.org:8443?security=none
 vless://705e3af9-bb69-418d-bf87-8aa2df4aeac0@185.113.10.103:26480?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
 vless://1afb2e5d-a966-4d64-8998-bd1b570190c3@162.159.152.4:443?path=%2F93.152.217.80%3D443&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=heavenlyblue.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=heavenlyblue.qzz.io#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig
 vless://4267751e-4e4c-43cb-9f1e-b74a8b1315a8@87.249.139.231:8443?security=reality&amp;encryption=none&amp;pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=e57932a42872a362#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://1f3b130d-7d29-45d1-b5aa-adc5cd94a885@sktr.berkeart.ir:19702?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;fp=chrome&amp;type=grpc&amp;serviceName=xyz&amp;sni=check-host.net&amp;sid=6ba85179e30d4fc2#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
+vless://7c00a46c-aec5-46fa-b36f-28b8cfe1ca2f@classic.amki.ir:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=dcssvdsvdvdfvdvdvduuiyhuryurr.turk.amki.ir&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
