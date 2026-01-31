@@ -1,6 +1,3 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Sat-31-Jan-2026 10:02
-vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#Netherlands%20Clodo%20Cloud
-vless://b2bd4c7f-1b17-433b-87a1-dfa6095c8f3f@190.93.247.56:8080?type=ws&amp;host=astech.ir.www.speedtest.net.www.zula.ir.cloudflare.com.hostirann.xYz.&amp;path=/telegram-
 vmess://eyJ2IjoiMiIsInBzIjoiUkVMQVktMTU0LjgzLjIuMTU2LTE4ODAiLCJhZGQiOiIxNTQuODMuMi4xNTYiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiI5MjM3M2VkMS03OGE4LTRjYmUtYWEwNi01NGFmMWVkZDA0NzEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJ2MjA1LjE5NzQwODIyLnh5eiIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiUkVMQVktMTU0LjgzLjIuMTU2LTE4NjUiLCJhZGQiOiIxNTQuODMuMi4xNTYiLCJwb3J0IjoiMjA4NiIsInR5cGUiOiJub25lIiwiaWQiOiI5MjM3M2VkMS03OGE4LTRjYmUtYWEwNi01NGFmMWVkZDA0NzEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJ2MjA1LjE5NzQwODIyLnh5eiIsInRscyI6IiJ9
 trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&ws=1&wspath=%25252F%25253Fed#RELAY-167.68.4.199-0899
@@ -8,3 +5,4 @@ trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&
 trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&ws=1&wspath=%25252F%25253Fed%25253D2560%252526proxyip%25253Dts.hpc.tw#RELAY-167.68.4.199-0910
 trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&ws=1&wspath=%25252F%25253Fed#RELAY-167.68.4.199-0899%202
 trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&ws=1&wspath=%25252F%25253Fed%25253D2560%252526proxyip%25253Dts.hpc.tw#RELAY-167.68.4.199-0910%202
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&fp=chrome&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%5BT.me%2FSHADOW_CONFBOT%5D%20Cloudflare
