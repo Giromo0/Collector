@@ -1,16 +1,15 @@
-trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&alpn=h2&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#«بفرست واسه دوستات وصل شن
-vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.dioxv004.workers.dev&fp=chrome&type=ws&sni=q.dioxv004.workers.dev#Q
-vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@195.154.190.119:443?&security=reality&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d&fp=chrome&sni=hls-svod.itunes.apple.com&type=tcp&headerType=none&path=%2F#FR_speednode_0008
-vless://15d5ef21-f4cd-4812-bb30-f998051c5dc1@russia7.yourbot.me:443?&security=reality&flow=xtls-rprx-vision&pbk=6EHTqOektSiQ8OMDU-5I1RWpFWw22N_N1aJCJdymXCA&sid=199939d7&fp=chrome&sni=ftp.debian.org&type=tcp&headerType=none&host=russia7.yourbot.me&path=%2F#RU_speednode_0019
-vless://6b1c3308-9bb4-45bc-8387-25c969a8c8f9@79.133.180.45:443?&security=reality&flow=xtls-rprx-vision&pbk=45ui5TpjfPf6HmRyT4M53XnR9tOXjpcLRLmaRyhlPiQ&sid=d7325e33&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&path=%2F#NL_speednode_0015%202
-vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@est.prod.n7.homes:8443?allowInsecure=0&sni=sun6-21.userapi.com&fp=chrome&security=tls#BG_speednode_0002
-trojan://685343f2-49e1-41f8-a7fc-5d0993afb6c6@faq1.lieerr222.cn:43533?allowInsecure=1#CN_speednode_0003
-vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?allowInsecure=0&sni=images.apple.com&flow=xtls-rprx-vision-udp443&fp=random&security=tls#FI_speednode_0006
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xOS40NS43MCIsICJwb3J0IjogIjIwOTUiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjdhNzM3ZjQxLWI3OTItNDI2MC05NGZmLTNkODY0ZGE2N2I4MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAib25lYS5mbGhhLnJ1IiwgInRscyI6ICIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0ifQ==
+vless://a3ea154c-2827-4ceb-aae7-0fe743ce9f73@142.93.101.216:7008?allowInsecure=0&sni=bebem.com&fp=chrome&security=tls#DE_speednode_0005
 vless://fbf28ef0-3981-4ac6-ab33-95e599afdd99@fr2.miyazono-kaori.com:443?allowInsecure=0&sni=www.edf.fr&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#FR_speednode_0007
-vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@195.154.190.119:443?allowInsecure=0&sni=hls-svod.itunes.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#FR_speednode_0008
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@decdn3.suio.me:443?allowInsecure=1&sni=decdn3.suio.me&security=tls#IQ_speednode_0010
-vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@lv.prod.n7.homes:8443?allowInsecure=0&sni=sun6-21.userapi.com&fp=chrome&security=tls#LV_speednode_0013
-vless://6b1c3308-9bb4-45bc-8387-25c969a8c8f9@79.133.180.45:443?allowInsecure=0&sni=www.microsoft.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#NL_speednode_0015
-vless://fbf28ef0-3981-4ac6-ab33-95e599afdd99@us3.miyazono-kaori.com:443?allowInsecure=0&sni=download-porter.hoyoverse.com&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#US_speednode_0022
+vless://2275661d-a9b7-522d-99e6-a4d42cb04fa0@185.214.74.184:443?allowInsecure=0&sni=apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#SC_speednode_0020
+vless://174711b1-013d-4ec6-9f69-485ff008d50f@136.175.178.165:443?allowInsecure=0&sni=navi.bankrate.com&fp=chrome&security=tls#US_speednode_0027
+vless://10155e8d-e052-4b50-b8b6-2ae2d418b311@136.175.178.165:443?allowInsecure=0&sni=navi.bankrate.com&fp=chrome&security=tls#US_speednode_0028
 vless://e12e60f8-f955-4b46-905d-fd99692e19d7@136.175.178.165:443?allowInsecure=0&sni=navi.bankrate.com&fp=chrome&security=tls#US_speednode_0029
-trojan://telegram-id-privatevpns@13.36.49.48:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+vless://faec23a3-1cab-4ef2-b9aa-4999ea14e451@151.101.66.219:80?security=none&amp;sni=speedtest.net&amp;type=ws&amp;host=alf17.ir&amp;path=/
+vless://a3ea154c-2827-4ceb-aae7-0fe743ce9f73@142.93.101.216:7008?&security=reality&pbk=OYuAdC90TNjvXbmJJyCsP0i9RXjdR1g8nBcjk421Aws&sid=de5765&fp=chrome&sni=bebem.com&type=tcp&headerType=none&path=%2F#DE_speednode_0005
+vless://fdf3bd07-b310-487e-ada8-538e19e835f5@136.175.178.165:443?&security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&fp=chrome&sni=navi.bankrate.com&type=tcp&headerType=none&path=%2F#US_speednode_0024
+vless://10155e8d-e052-4b50-b8b6-2ae2d418b311@136.175.178.165:443?&security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&fp=chrome&sni=navi.bankrate.com&type=tcp&headerType=none&path=%2F#US_speednode_0028
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@decdn3.suio.me:443?&security=tls&fp=chrome&sni=decdn3.suio.me&type=tcp&headerType=none&host=decdn3.suio.me&path=%2F#IQ_speednode_0010
+vless://15d5ef21-f4cd-4812-bb30-f998051c5dc1@russia7.yourbot.me:443?&security=reality&flow=xtls-rprx-vision&pbk=6EHTqOektSiQ8OMDU-5I1RWpFWw22N_N1aJCJdymXCA&sid=199939d7&fp=chrome&sni=ftp.debian.org&type=tcp&headerType=none&host=russia7.yourbot.me&path=%2F#RU_speednode_0019
+vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.dioxv006.workers.dev&fp=chrome&type=ws&sni=q.dioxv006.workers.dev#Q
+vless://5386150b-54ec-428e-db61-7dd87df4923b@v.abolfazlsafeti.top:49463?type=ws&security=none&path=%2F#%D9%88%DB%8C%DA%98%D9%87%202سرور پولیه برای ویپی ان nv بزنید✅
