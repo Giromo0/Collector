@@ -1,3 +1,6 @@
-vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.qdio005.workers.dev&fp=chrome&type=ws&sni=q.qdio005.workers.dev#Q
-vless://d881f1e0-9d84-4f18-8844-c538892db8c0@meli.dataxshop.ir:2095?path=/datax_proxy&security=none&encryption=none&host=amsterdam.11.v.www.speedtest.net.nestle.ir.ftp.debian.org.tmo.docb.datax.click.dataxshop.ir&type=ws#
-vless://ea1dc99b-4adc-4485-852e-f21483bf8beb@185.18.250.252:443?path=/35.78.229.176:443&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cg5LyK5pyXIFYyQ1JPU1MuQ09NIiwiYWRkIjoiOTUuODEuMTIzLjE1IiwicG9ydCI6IjQwOTU2IiwidHlwZSI6ImF1dG8iLCJpZCI6IjRmM2NmZGEzLWEyNTUtNDBlYi04ODAxLTcxZjlmZmZiMTlkNiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImltYWZha2UubG9ja2VyIiwidGxzIjoidGxzIn0=
+vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAyAn-007.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.lEiLa.dPdNs.oRg&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan.dpdns.org/translate
+trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#Telegram%3A%20%20%40CroSs_Guildd
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638825998487466587.prague-drc-dcraae.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#4
+vless://3d4ea5b8-501a-426c-8ba3-554e089bc1d9@cart.ankerios.ir:8443?security=none&amp;encryption=none&amp;host=tgju.org&amp;headerType=http&amp;type=tcp#
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=ca.adobe-connect.top&amp;fp=chrome&amp;type=ws&amp;sni=ca.adobe-connect.top#
