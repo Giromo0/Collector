@@ -1,3 +1,6 @@
-trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#⚡Telegram = @SOSkeyNET
-trojan://telegram-id-directvpn@15.236.223.129:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
-trojan://telegram-id-privatevpns@15.237.154.24:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#⚡Telegram = @SOSkeyNET
+vless://b1f93fc1-b69f-44cd-a952-ed80de1a05c2@api.openai.com:443?mode=packet-up&path=%2Fuuid%2Fget&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fzserver.art&fp=chrome&type=xhttp&sni=fzserver.art#%E2%9A%A1Telegram%20%3D%20%40SOSkeyNET
+trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&host=hl-freedom-0.undef.network&path=%2Ff2fc2a1f&security=tls&sni=hl-freedom-0.undef.network&type=ws#⚡Telegram = @SOSkeyNET
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#⚡Telegram = @SOSkeyNET
+trojan://telegram-id-directvpn@63.177.190.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
+trojan://869e9086806483ca4744a4cb0f3d6e16@153.121.39.240:5076?allowInsecure=1&sni=www.nintendogames.net#⚡Telegram = @SOSkeyNET
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#⚡Telegram = @SOSkeyNET
