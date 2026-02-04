@@ -1,1 +1,2 @@
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@v2rays_ha 6695
+vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.dioxv006.workers.dev&fp=chrome&type=ws&sni=q.dioxv006.workers.dev#Q
+vless://85462399-8624-4e5c-bbb0-f95d84ca8256@104.24.69.114:443?&security=tls&fp=chrome&sni=rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg&type=ws&headerType=none&host=rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg&path=%2Fws#_%E6%9C%AA%E7%9F%A5%2085

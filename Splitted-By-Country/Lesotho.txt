@@ -1,9 +1,2 @@
-vless://acbca706-8110-4107-949a-feb2fa84a04f@63.141.128.13:2083?encryption=none&security=tls&sni=vless.nimatiem.de&type=ws&host=vless.nimatiem.de&path=%2F#%20
-vless://84f66368-8a37-468e-ae95-5622255fd4db@159.195.26.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=live.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%20
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#@v2rays_ha 6750
-vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.dioxv002.workers.dev&fp=chrome&type=ws&sni=q.dioxv002.workers.dev#Q
-vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.dioxv004.workers.dev&fp=chrome&type=ws&sni=q.dioxv004.workers.dev#Q
-vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.dioxv007.workers.dev&fp=chrome&type=ws&sni=q.dioxv007.workers.dev#Q
-vless://ea33fc71-2ce3-48e1-93fb-e36142c1e1ee@45.130.125.160:443?path=/213.35.108.135:12596&security=tls&encryption=none&insecure=0&host=afrcloud4.c01.kr&type=ws&allowInsecure=0&sni=afrcloud4.c01.kr#همراه میو🌚
-vless://979b6822-d65a-400d-89f8-30391903ac20@transferwise.com:443?&security=tls&fp=chrome&sni=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&type=ws&headerType=none&host=rAyAn-cOnFiG-uk-1.pArSa.dPdNs.oRg&path=%2Fws#_%E6%9C%AA%E7%9F%A5%207
-vless://85462399-8624-4e5c-bbb0-f95d84ca8256@104.24.69.114:443?&security=tls&fp=chrome&sni=rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg&type=ws&headerType=none&host=rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg&path=%2Fws#_%E6%9C%AA%E7%9F%A5%2085
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A5
+trojan://a9570330-769d-11ef-90dc-1577c1651679@v1.dabache.top:443?security=tls&type=ws&sni=sg-trojan.andfree.my.id&path=/welcome&host=sg-trojan.andfree.my.id#%E6%9C%AA%E7%9F%A55
