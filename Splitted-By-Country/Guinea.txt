@@ -1,2 +1,2 @@
-trojan://humanity@104.18.32.47:443/?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#@v2rays_ha 6929
-trojan://humanity@104.21.40.34:443/?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#@v2rays_ha 7010
+trojan://humanity@104.18.32.47:443/?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@v2rays_ha 7001
+trojan://humanity@www.multiplydose.com:443/?path=/assignment&security=tls&type=ws#@v2rays_ha 6975
