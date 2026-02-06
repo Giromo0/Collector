@@ -1,3 +1,4 @@
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%F0%9F%8C%A75
-vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
-trojan://humanity@104.18.32.47:443/?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#@v2rays_ha 6929
+vless://a571b94c-a9f3-407a-a8ef-da608dab5472@46.226.167.138:46248?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#46.226.167.138%3A46248
+vless://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@185.103.255.111:8443?&security=tls&fp=chrome&sni=5465765525.ccfly.tech&type=ws&headerType=none&host=5465765525.ccfly.tech&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#_%E8%8D%B7%E5%85%B0%2012
+vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%91%80
+trojan://humanity@104.18.32.47:443/?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@v2rays_ha 7001
