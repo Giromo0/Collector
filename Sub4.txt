@@ -2,6 +2,14 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&insecure=1&allowInsecure=1&type=ws&host=dev.twistsparrow.xyz&path=/#کانفیگ رایگان = t.me/arisping
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&insecure=0&allowInsecure=0&type=ws&host=dev.twistsparrow.xyz&path=/#کانفیگ رایگان = t.me/arisping
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=dev.twistsparrow.xyz&path=/#کانفیگ رایگان = t.me/arisping
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.17.162.123:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&insecure=0&allowInsecure=0&type=ws&path=/#کانفیگ رایگان = t.me/arisping
+vless://fec17569-c5a0-4b76-924c-d20a4054f20b@nl.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=findmypackets.com&sid=64c1fe36c7846400#🇳🇱AZARBAYJAB1
+vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@fit.jojack.ru:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3&fp=chrome&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none#🇩🇪OPENET💎
+vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@65.108.108.151:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#shankamil
+vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@65.108.108.151:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fit.jojack.ru&fp=chrome&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&sid=f8865ecbb9bc11a3&type=tcp&headerType=none#t.me/llFreak
 vless://fe81ef98-7bde-46f3-bd56-83829d177ee5@panell.saforia.ru:2087?security=reality&encryption=none&pbk=GAhL9jd8NCpSyJ6cW9yAYYyLmfWpLpVJIxpffax9vVY&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=3b952b3004#VayNora
 vless://fa-8430542882-1770524127018066@62.3.12.148:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#lyriffy
 vless://f91d249e-90e2-1625-9211-180e4d18f948@srv-f0.netmaster.cam:8443?security=none&encryption=none&type=ws&sni=1#proxymelimon
@@ -307,15 +315,16 @@ trojan://telegram-id-privatevpns@63.180.39.147:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@63.180.39.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.58.59.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/v2ray_configs_pools
 trojan://telegram-id-privatevpns@52.58.59.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@52.58.206.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
 trojan://telegram-id-privatevpns@52.58.206.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.44.43.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/v2ray_configs_pools
 trojan://telegram-id-privatevpns@51.44.43.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.180.9.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/v2ray_configs_pools
 trojan://telegram-id-privatevpns@35.180.9.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@3.69.92.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
 trojan://telegram-id-privatevpns@3.69.92.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[97256] - Telegram : @V2All
 trojan://telegram-id-privatevpns@3.69.92.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.69.92.233:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#⚡Telegram = @SOSkeyNET
-trojan://telegram-id-privatevpns@3.66.249.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@3.66.249.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.88.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.63.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/v2ray_configs_pools
@@ -323,9 +332,10 @@ trojan://telegram-id-privatevpns@13.39.63.241:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.39.127.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.8.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/v2ray_configs_pools
 trojan://telegram-id-privatevpns@13.37.8.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-directvpn@52.58.59.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-directvpn@52.58.206.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
 trojan://telegram-id-directvpn@52.58.206.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[97245] - Telegram : @V2All
 trojan://telegram-id-directvpn@51.44.43.148:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1#☺️18@oneclickvpnkeys
+trojan://telegram-id-directvpn@3.69.92.233:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚡Telegram = @SOSkeyNET
 trojan://telegram-id-directvpn@3.69.92.233:22223?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#⚡Telegram = @SOSkeyNET
 trojan://telegram-id-directvpn@13.39.63.241:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1#☺️22@oneclickvpnkeys
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099/?type=tcp&security=tls&sni=celestialcorset.crystalhamster.click&allowInsecure=1#☮️89@oneclickvpnkeys
@@ -400,7 +410,6 @@ trojan://humanity@104.18.32.47:443?security=tls&sni=www.gossipglove.com&fp=chrom
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=/assignment#کانفیگ رایگان = t.me/arisping
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#کانفیگ رایگان = t.me/arisping
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#Telegram • @llFreak | 6
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🇩🇪All¹ | @meliproxyy
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#@V2rayng_Fast
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#سرورهای رایگان و پرسرعت : vconfig_v2rayy@
@@ -493,12 +502,3 @@ hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000/?insecur
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0c:4ac1:8::121]:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#☺️47@oneclickvpnkeys
 hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰 HK
 hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&sni=de.eyucdn.xyz#DE
-hy2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#☺️63@oneclickvpnkeys
-hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
-hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#新加坡1
-hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#美国2
-vmess://eyJhZGQiOiI1MS4zOC42NC4yMDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2RhNDU3ZGEtZWQwZi00MzdkLWM4MWQtNmMzNTg4NWJiZWEzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDAyMyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4es8J+HpyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNS4yMDQuMTEuMTkwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVkN2JmOWUzLTQxNWMtNDBmMy1jNjZkLWE1NGVhMGZkODYwZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTUzNjEiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY28J+HuvCfh7giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI0Ni4yNTAuMjQzLjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImE3NWYzZjk1LWFkNGUtNDQ5OC1mYzcyLWRkNzQwZGQwMmJmYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAzOTQiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImthcGVsbGVuZy5jb20iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYXBlbGxlbmcuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMzUuMTI1LjE4Mi43NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4MTg1Mjc3MS03NmZiLTRlOTQtZTRmMS00ZTM3YTY5OGE0OWEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MjEzIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NvCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
