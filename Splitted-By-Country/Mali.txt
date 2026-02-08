@@ -1,1 +1,2 @@
-trojan://telegram-id-privatevpns@15.188.21.75:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#@PRS_MLBB
+trojan://telegram-id-directvpn@15.188.21.75:22223?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#@PRS_MLBB
+trojan://humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A515
