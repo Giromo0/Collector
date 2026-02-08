@@ -1,15 +1,10 @@
-vless://d0a88160-6f61-4fb9-bf2f-9a763e1031c8@3.79.98.107:30449?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#S
-vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&amp;security=&amp;encryption=none&amp;host=melovy.ir&amp;type=ws#
-vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=%2FTel-%40%56%32%72%61%79%5f%41%6c%70%68%61&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.233.205:2053?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560security=tls#DE_speednode_0012
-vless://fcfc091d-81a4-40b7-cbdc-8eb7683617a4@2.hk.1.cdn-bilibili.cn:443?allowInsecure=0&sni=www.icloud.com&flow=xtls-rprx-vision-udp443&fp=safari&security=tls#HK_speednode_0033
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.42.96.223:443?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560security=tls#ME_speednode_0041
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.182.115.127:443?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560security=tls#RU_speednode_0070
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.20.213.235:8443?allowInsecure=1&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560security=tls#US_speednode_0077
-vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?allowInsecure=0&type=ws#VN_speednode_0083
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@85.192.60.51:8443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560fp%3Dchrome#14%7CNL_speednode_0051
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.60.37.196:2053?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560security=tls#AE_speednode_0002
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.39.249.10:8443?allowInsecure=0&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560security=tls#DE_speednode_0014
+vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?allowInsecure=0&sni=images.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#FI_speednode_0016
+trojan://BxceQaOe@112.120.31.36:443?allowInsecure=1&sni=t.me/ripaojiedian#HK_speednode_0030
+vless://e8da176f-e24e-4af1-a386-53a6a5396248@api-c1.wiki-mobile-two.com:10443?allowInsecure=0&sni=pimg.mycdn.me&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0067
+trojan://BxceQaOe@112.120.31.36:443?allowInsecure=1&sni=t.me%2Fripaojiedian#14%7CHK_speednode_0034
 trojan://BxceQaOe@112.120.31.36:443?allowInsecure=1#14%7CHK_speednode_0031%202
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.153.230.220:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#DE_speednode_0009
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.245.239.195:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#DE_speednode_0011
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.182.115.127:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#RU_speednode_0070
-vless://cca053d5-7123-4a87-83d6-babe4e9c8115@103.245.237.124:58202?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#VN_speednode_0083%202
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.222.55.24:8443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#NL_speednode_0042
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.253.188.151:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#RO_speednode_0059
+trojan://humanity@104.18.32.37:443/?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#@v2rays_ha 7465
