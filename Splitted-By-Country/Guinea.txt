@@ -1,1 +1,2 @@
-trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A535
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%A4%8D%F0%9F%96%A44
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjQgNy44TUIvcyIsImFkZCI6ImNoYXRncHQuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiZGZlOTJkNGUtZGJjNy00ZWU1LWI3YWMtMzA5OTMwNjFhN2NmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoieXUxOTJ0djdrZzZxcGYwc21jaGpyZGVuNS5hbmtpdGZhLmlyIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ5dTE5MnR2N2tnNnFwZjBzbWNoanJkZW41LmFua2l0ZmEuaXIiLCJ0ZXN0X25hbWUiOiIyNCJ9
