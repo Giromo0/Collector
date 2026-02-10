@@ -1,1 +1,2 @@
-trojan://T9BpZIVMNv@162.159.152.4:8443?security=tls&sni=sweden.vmaxpanel.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&path=%2Famd#%F0%9F%87%A8%F0%9F%87%A6%20WS-Reality%20%F0%9F%93%81%20%40DeamNet_proxy```
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh30v6.carwashipdir.shop&alpn=h2&allowInsecure=1&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20GRPC-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+vless://c22a48ae-9954-45f9-9bf4-5093c655f25e@91.98.91.239:54382?security=reality&encryption=none&pbk=ND4rW86TrsFd08jBWMVswXusm47oqWn8bmnEgUsZTWM&headerType=none&fp=chrome&type=tcp&sni=www.filimo.com&
