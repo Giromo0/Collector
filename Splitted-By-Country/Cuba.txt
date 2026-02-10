@@ -1,9 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87
-trojan://humanity@104.18.32.37:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment#%E6%9C%AA%E7%9F%A512
-trojan://humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A520
-trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#🇭🇰 HK
-trojan://humanity@188.114.96.3:443/?allowInsecure=0&fp=chrome&host=www.gossipglove.com&insecure=0&path=/assignment&security=tls&sni=www.gossipglove.com&type=ws#@v2rays_ha 7687
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
-vmess://eyJ2IjogIjIiLCAicHMiOiAi6Ziy6IyD5aKD5aSW5Yq/5Yqb5riX6YCPIiwgImFkZCI6ICIxMjcuMC4wLjUzIiwgInBvcnQiOiAiODAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiODg4ODg4ODgtODg4OC04ODg4LTg4ODgtODg4ODg4ODg4ODg4In0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAi6Ziy6IyD5aKD5aSW5Yq/5Yqb5riX6YCPICMyIiwgImFkZCI6ICIxMjcuMC4wLjUzIiwgInBvcnQiOiAiODIiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiODg4ODg4ODgtODg4OC04ODg4LTg4ODgtODg4ODg4ODg4ODg4In0=
-vless://990f5f4d-5568-4e0a-96bf-2d86270d8fbf@65.109.241.111:443?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-%DA%86%D9%86%D9%84%20%D9%85%D8%A7https%3A%2F%2Ft.me%2Fcustom_14
+trojan://telegram-id-privatevpns@18.199.2.96:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@vip3.kaixincloud.top:2053?&security=tls&fp=chrome&sni=ir1.airpanel.top&type=ws&headerType=none&host=ir1.airpanel.top&path=%2F#_%E6%9C%AA%E7%9F%A5%2010
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?&security=tls&fp=chrome&sni=ovhwuxian.pai50288.uk&type=ws&headerType=none&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#_%E8%8D%B7%E5%85%B0%2014
