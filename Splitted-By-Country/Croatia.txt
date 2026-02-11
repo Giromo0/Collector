@@ -1,7 +1,4 @@
-vless://a3e76574-9458-4783-905b-970cf0ccdcd1@melo-mtn.outline-vpn.cloud:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=
-trojan://2ba742a0-5c32-489b-8f05-72fd9b8e2729@b2n.ir:443/?sni=usc.buzzon.shop&type=ws&path=/cXPFaHjK8A2L9XMg&alpn=http/1.1&fp=chrome#@v2rays_ha 8066
-trojan://BxceQaOe@13.115.255.135:2762/?sni=t.me/ripaojiedian&allowInsecure=1&fp=chrome#@v2rays_ha 8061
-trojan://acadd87c-c8b4-4b6b-989b-64263e4d0329@chatgpt.com:443/?sni=de2c.buzzon.shop&type=ws&path=/C7Uxy5S9pAi1VhW5NThds106&alpn=http/1.1&fp=chrome#@v2rays_ha 8067
-trojan://humanity@104.18.32.37:443/?sni=www.gossipglove.com&type=ws&path=/assignment&fp=chrome#@v2rays_ha 8237
-vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.dioxv007.workers.dev&fp=chrome&type=ws&sni=q.dioxv007.workers.dev#Q
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.110.110.110:2053?&security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#_%E8%8D%B7%E5%85%B0%205
+vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#@mehrosaboran
+vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.245.171.238:1050?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#188.245.171.238%3A1050
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.110.123.58:443?&security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#_%E8%8D%B7%E5%85%B0%206
