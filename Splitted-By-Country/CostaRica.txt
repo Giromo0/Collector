@@ -1,3 +1,2 @@
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40v2rayan
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#6
-vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.dioxv001.workers.dev&fp=chrome&type=ws&sni=q.dioxv001.workers.dev#Q
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?encryption=none&security=none&type=grpc#%20
+vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.dioxv006.workers.dev&fp=chrome&type=ws&sni=q.dioxv006.workers.dev#Q
