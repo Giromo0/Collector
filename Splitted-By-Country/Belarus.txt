@@ -1,1 +1,4 @@
-vless://924a17e7-4e9d-4055-bf2e-6f8edfdee786@95.128.71.135:104?security=none&amp;type=tcp#%F0%9F%87%A7%F0%9F%87%BE_BY_%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&authority=%2F%3FJOIN---PLANB_PROXY&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20by%20PlanB%20Proxy
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
+vless://435fee59-8f88-4b02-8ec3-a186287662b7@cloud.sapienza-ren.ir:2087?mode=auto&path=/Gf58k&security=tls&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&type=xhttp&allowInsecure=0&sni=tr42.phantompanel.shop#Em0
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@146.75.85.8:443?mode=packet-up&security=tls&alpn=h3,h2&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=takht-jamshid.com.#E003
