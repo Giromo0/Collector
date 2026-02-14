@@ -1,4 +1,6 @@
+vless://ab321a49-bc9c-4bb6-915b-a1fcbc7de49c@27.50.48.155:443?encryption=none&security=tls&sni=vbox1.ping-box.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#%F0%9F%8C%90%20GRPC-TLS%20%F0%9F%93%81%20%40EmKavpn
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#EmKavpn5
+trojan://examplepass@104.21.32.1:443?path=/ws&security=tls&insecure=0&host=example.com&fp=chrome&type=ws&allowInsecure=0&sni=example.com#@kamkarstore
 vless://299945d1-a2ff-4e0c-8c8a-242e22acf5fe@tpg.toppcgame.ir:8080?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#EmKavpn
 vless://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:443?path=/containers/fi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mitivpndozd.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=mitivpndozd.global.ssl.fastly.net#v2ray_EmK
 vless://5bfe8543-3e87-4238-94f3-af07f7210812@37.139.33.57:51101?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=4ffc99daad0f261f#EmKavpn
