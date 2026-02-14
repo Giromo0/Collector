@@ -1,11 +1,4 @@
-vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?encryption=none&security=none&type=grpc&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
-trojan://d5qxllfs-ohac-cy46-gqgp-5u64d7rtfhca@127.0.0.1:4080?security=tls&type=tcp#🌐 TCP-TLS | @Express_alaki | src @Trick_mobil
-trojan://gi1kqnl9-bzwy-m85u-n3gf-slbxxl78sl4m@127.0.0.1:2080?security=tls&type=tcp#🌐 TCP-TLS | @Express_alaki | src @Trick_mobil
-trojan://humanity@104.18.7.147:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#🌐 WS-TLS | @Express_alaki | src @V2rayng_Fast
+vmess://eyJhZGQiOiIxMDQuMjEuNjkuNDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwiaWQiOiJuYXNuZXQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmFzbmV0L2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiJzMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#[@KIA_NET
 trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#[[@KIA_NET] -
-trojan://telegram-id-privatevpns@52.47.88.193:22222?security=tls&alpn=http/1.1&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=trojan.burgerip.co.uk#🌐 TCP-TLS | @Express_alaki | src @prrofile_purple
-trojan://wr6ubgsw-jfpv-ioen-ge1d-bbwphhfxvu20@127.0.0.1:1080?security=tls&type=tcp#🌐 TCP-TLS | @Express_alaki | src @Trick_mobil
 vless://b466f081-4f9d-43fe-9e7d-875cdeddce98@104.18.32.47:443?mode=auto&path=/t.me/Vip_fragment_v2ray&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ic.imsoon.io.&fp=chrome&type=xhttp&allowInsecure=0&sni=ic.imsoon.io#ki0wik1y
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?encryption=none&security=tls&sni=digikala.sorza.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gamepc.sorza.ir&path=%3Fed%3D2560#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://596d22e4-da5d-46ed-a211-f1d28d43a89c@152.53.141.146:29013?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?encryption=none&security=tls&sni=web.abcallcenter.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=web.abcallcenter.com&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Fed%3D2560#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
