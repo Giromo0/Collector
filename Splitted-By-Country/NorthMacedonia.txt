@@ -1,6 +1,6 @@
 hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram-->@Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#EmKavpn5
-trojan://anotherpass@203.0.113.55:443?path=/ws&security=tls&insecure=1&host=another.example.com&type=ws&sni=another.example.com#@kamkarstore
 trojan://examplepass@104.21.32.1:443?path=/ws&security=tls&insecure=0&host=example.com&fp=chrome&type=ws&allowInsecure=0&sni=example.com#@kamkarstore
+trojan://finalpass@104.18.12.34:443?path=/ws&security=tls&type=ws&sni=final.example.org#@kamkarstore
 vless://299945d1-a2ff-4e0c-8c8a-242e22acf5fe@tpg.toppcgame.ir:8080?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#EmKavpn
 vless://4ee73e0b-0d09-4a06-9619-8a5d0d3d8257@mitivpndozd.global.ssl.fastly.net:443?path=/containers/fi&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=mitivpndozd.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=mitivpndozd.global.ssl.fastly.net#v2ray_EmK
 vless://5bfe8543-3e87-4238-94f3-af07f7210812@37.139.33.57:51101?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=4ffc99daad0f261f#EmKavpn
@@ -20,4 +20,3 @@ vless://b96374e5-356d-4628-b862-25c22a43e601@my.kiomars.shop:6620?security=reali
 vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.112:8443?mode=auto&path=/&security=reality&encryption=none&pbk=HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ&fp=chrome&type=xhttp&sni=vk.com&sid=938f14cf6757a249#EmKavpn
 vless://e03af45b-1f94-46e5-f0fc-35acd3d3909e@bluebot.top:8080?security=none&encryption=none&headerType=http&type=tcp#EmKavpn❌
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=/&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&fp=chrome&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#EmKavpn
-vmess://eyJhZGQiOiIxNzIuNjQuMTQ5LjE4MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmFzbmV0LTU3MTI5NjQxMDIuc2hhcmdoZGFpbHkuY28iLCJpZCI6Im5hc25ldCIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuP2VkXHUwMDNkMjU2MCIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4yKIFRlbCA6IEBQcm94eVZQTjExIOKftSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
