@@ -1,2 +1,5 @@
-trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&path=/assignment#%E6%9C%AA%E7%9F%A531
-vless://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#https://t.me/VIPV2rayNGNP
+trojan://humanity@172.64.152.23:443/?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#@v2rays_ha 8964
+vless://83eec637-d4fb-4715-85d7-a43a4c1a145b@188.114.99.243:2053?mode=auto&path=/t.me/Vip_fragment_v2ray&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ic.imsoon.io.&fp=chrome&type=xhttp&allowInsecure=0&sni=ic.imsoon.io#https://t.me/VIPV2rayNGNP
+vless://a730405a-6710-411e-9131-2e330169fa47@140.248.128.0:80?mode=auto&path=/xhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#https://t.me/VIPV2rayNGNP
+vless://ced37f30-d54c-42f2-aa5e-9eea28f3fa33@Panel.AhmadMomeni.ir:44088?security=none&encryption=none&headerType=none&type=tcp#https://t.me/VIPV2rayNGNP
+trojan://telegram-id-directvpn@18.118.16.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔰
