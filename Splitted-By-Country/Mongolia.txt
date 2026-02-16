@@ -1,2 +1,2 @@
-vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?encryption=none&security=none&type=grpc&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
-vmess://eyJhZGQiOiIyMTMuMTc2LjEuNDgiLCJzY3kiOiJhdXRvIiwicGF0aCI6IlwvIiwicHMiOiIlNDBGUkVFX1ZQTjAyJTIwJUYwJTlGJThFJUI0IiwiaWQiOiI1MmNjNGNiMC1mOTIzLTQ5NjUtOTYxNS02MzgwYjA0YzNmNGYiLCJob3N0IjoibXlrZXQuaXIiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBvcnQiOiIxMDA0In0=
+trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy```
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
