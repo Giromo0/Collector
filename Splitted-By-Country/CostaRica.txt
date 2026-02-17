@@ -1,11 +1,9 @@
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1MzE3XHU3ZjhlXHU1NzMwXHU1MzNhIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICIxOTguNjIuNjIuMTk5IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImYwODM2OWQxLTVlZTctNGIxNi1kNzg2LTMwYmNlMTJmYzMzYyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAib3VzMy5kZWFuNTIudG9wIiwgInBhdGgiOiAiL2YwODM2OWQxLTVlZTctNGIxNi1kNzg2LTMwYmNlMTJmYzMzYyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJvdXMzLmRlYW41Mi50b3AiLCAidGVzdF9uYW1lIjogIlVTIn0=
-vless://e8add82d-0a0a-4f3b-a22e-c74f83da73b9@afrcloud22.mmv.kr:443?path=%2F138.2.64.229%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%40v2_mod_shop%F0%9F%9A%80
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nyc.cdn.stun.su:443?security=reality&encryption=none&pbk=u4S6MmhgEOkPjlLVZ6twDLy-V9JIpLtyj8vDobOVM0w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nyc.cdn.stun.su&sid=1c8eebcb20f6d0ce#%40v2_mod_shop%F0%9F%9A%80
+vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83&type=raw&headertype=none#[
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#CR🇨🇷
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.24:8080?path=/IVApi/UK/3&security=none&encryption=none&type=ws#Em010
-vless://bd680b6a-45d3-4558-81a5-57d3f19bd17f@94.183.150.62:7772?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Em1
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.fia.fx2hub.ir:28643?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#E211
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.in.velaro.ir:23702?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#E201
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.ua.flicknet.ir:62306?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#E204
-vless://c963ea66-7107-4351-8ded-f54a2658bb84@185.232.152.150:8081?security=none&encryption=none&headerType=http&type=tcp#E0012
-vless://d881f1e0-9d84-4f18-8844-c538892db8c0@meli.dataxshop.ir:2095?path=/datax_proxy&security=none&encryption=none&host=amsterdam.11.v.www.speedtest.net.nestle.ir.ftp.debian.org.tmo.docb.datax.click.dataxshop.ir&type=ws#
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=redfree8mahsang6.redfree8.ir&amp;type=ws#
+trojan://humanity@172.64.152.23:443/?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@v2rays_ha 9269
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#Em71
+vless://3d2b28ec-e2f5-4edd-a95c-18d8ea828022@s.ssl.fastly.net:80?security=none&encryption=none&host=usakhidam.global.ssl.fastly.net&type=ws#E005
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.in.velaro.ir:23702?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#E212
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@Fox7.Mehraban-store.ir:8443?mode=auto&security=tls&alpn=h3,h2&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=nama.karajcitykaui.ir#E002
