@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
 vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#سرورها به ترتیب خلوت بودن از بالا به پایین مرتب شده اند:
 hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vmess://eyJhZGQiOiJhZGVsbWVsaS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODllMjU1NjItZDBmMS00ZjU0LThhZmItNmVlMzc0ZTMwZmJiIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiI+PkBvbmVjbGlja3ZwbmtleXM6OlhYOjpYWCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
@@ -502,3 +501,4 @@ vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.workers.dev:2096?
 vless://438471e8-19db-41c5-8e4f-271c21e9b239@visa.com:8443?path=/%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=join-sho-falcunargo-cz.falcunar.uk.eu.org&amp%3Bfp=random&amp%3Btype=ws&amp%3Bsni=join-sho-falcunargo-cz.falcunar.uk.eu.org#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40serverv2ray00%20%231
 vless://SVNTEAM@185.146.173.59:80?path=/SvnTeam-TeleGram-ChaNnel-VIP%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=SvnTeamV2rayGm7.7.7.7.ir.Com.Site.xn--fhq0laa256bac7403eea044azr5g.CoM.&amp%3Btype=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20%40serverv2ray00%20%231
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?path=/%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40Selinc&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=sni.111000.indevs.in&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=sni.111000.indevs.in#%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20VLESS%20%7C%20%40selinc%20%231
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&amp%3Bencryption=none&amp%3Bpbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=www.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40selinc%20%231
