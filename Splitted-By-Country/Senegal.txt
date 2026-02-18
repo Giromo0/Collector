@@ -1,14 +1,5 @@
-trojan://telegram-id-privatevpns@51.44.195.22:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@13.37.141.151:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://3672449442956713984@present-blowfish.sunbeam921.monster:443?allowInsecure=0&amp;sni=present-blowfish.sunbeam921.monster#%E6%9C%AA%E7%9F%A5
-vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%91%80
-trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@hhhnmjki.932.pp.ua:443/?path=/2cO5FH0xUmT9oqnbBhmKb8nOkg&security=tls&insecure=0&host=hhhnmjki.932.pp.ua&type=ws&allowInsecure=0&sni=hhhnmjki.932.pp.ua#@v2rays_ha 9653
-trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@vvbght.932.pp.ua:443/?security=tls&sni=vvbght.932.pp.ua&alpn=http/1.1&type=ws&host=vvbght.932.pp.ua&path=/r862SIwqItkD5XgXAL#@v2rays_ha 9571
-trojan://BxceQaOe@43.198.233.56:381?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#🇭🇰+香港+04#Em
-trojan://trojan@109.234.211.66:8443/?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#@v2rays_ha 9716
-trojan://trojan@45.192.222.112:8443/?security=tls&sni=store.timimi.dpdns.org&insecure=0&allowInsecure=0&type=ws&host=store.timimi.dpdns.org&path=/?ed=2560#@v2rays_ha 9715
-vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#E122
-trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=sweden.vmaxpanel.com&path=/amd&host=sweden.vmaxpanel.com#%E6%9C%AA%E7%9F%A510
-trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@220.130.58.136:31102?security=tls&headerType=none&type=tcp&sni=green2.cdntencentmusic.com#%E6%9C%AA%E7%9F%A526
-trojan://humanity@188.114.96.3:443/?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=/assignment#@v2rays_ha 9383
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.117.182:193?allowInsecure=0&sni=www.nintendogames.net#_%E6%97%A5%E6%9C%AC
+vless://b5ee8f67-0f25-467b-aca4-01001f00d802@65.109.192.110:55953?security=reality&amp;encryption=none&amp;pbk=RELg-Z1AXhG9945I_8hN884Z5Txd9ZxI92sl4jHzXWU&amp;host=divarcdn.com&amp;headerType=http&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=stackoverflow.com&amp;sid=ec01ceda#1
+trojan://fNDv88j5jz@23.227.38.43:443?type=ws&path=/images&host=stream.motortaktaz.ir&security=tls&fp=&alpn=&sni=stream.motortaktaz.ir#@en_vpn🚀/-کانفیگ های بیشتر
+vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=sens-2.certhost.ir&type=ws&allowInsecure=0&sni=sens-2.certhost.ir#Em55
+vless://66b439e6-00fa-4e36-995a-a06a9b4ae3f1@f1.springpaatogh8.store:8443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#E0040
+vless://e9000d6b-2cb8-46b0-96c8-751a7abd54f2@md-alex-01.com:8443?security=reality&encryption=none&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=58a6be9762c769f2#Em66
