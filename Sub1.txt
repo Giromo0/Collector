@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
 vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#سرورها به ترتیب خلوت بودن از بالا به پایین مرتب شده اند:
 hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3AXX
 hy2://41aec03d-4345-4bff-9bab-69d36d80033c@ru.eyucdn.xyz:2056/?insecure=1&sni=ru.eyucdn.xyz#%3E%3E%40oneclickvpnkeys%3A%3ARU
@@ -502,3 +501,4 @@ vless://b087edf1-4da7-4379-9485-352f483be71f@172.66.40.99:443?path=/Telegram-XV2
 vless://0c0870b0-a253-4861-84b6-e6ce6777e97c@fa.faraz360.ir:9829?amp%3Bencryption=none&amp%3Bhost=pro30afzar.com&amp%3BheaderType=http&amp%3Btype=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2rayngconfig%20%231
 trojan://humanity@172.64.152.23:443?path=/assignment&amp%3Bsecurity=tls&amp%3Binsecure=0&amp%3Bhost=www.creationlong.org&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=www.creationlong.org#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40v2rayngconfig%20%231
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/%3Fed%3D2560&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=a.xn--i-sx6a60i.us.kg.&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2rayngalpha%20%232
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=/BDwnEtVwG7BS0S9f%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=iSAA1.paGEs.DEV&amp%3Bfp=randomized&amp%3Btype=ws&amp%3Bsni=iSaa1.PAGeS.DeV#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2rayngalpha%20%231
