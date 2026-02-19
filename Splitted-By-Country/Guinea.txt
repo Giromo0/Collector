@@ -1,1 +1,5 @@
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%40v2_mod_shop%F0%9F%9A%80%F0%9F%87%B3%F0%9F%87%B1
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjciLCJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InRyMS1zbWFydC5hZGVscGluZy5jb20iLCJ0bHMiOiIifQ==
+trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A5
+trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A53
+trojan://humanity@www.gossipglove.com:443/?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@v2rays_ha 9964
+vmess://eyJhZGQiOiJlMDM0OWE1Mi1zdjhjZzAtdDd1aW5mLWk4aWUuaGszLnA1cHYuY29tIiwiYWlkIjoiMiIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsImlkIjoiOTkwZThmMzQtYmQ0Zi0xMWVmLWJkYjktZjIzYzkxY2ZiYmM5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoi8J+HrfCfh7AgSEsiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
