@@ -1,1 +1,2 @@
-trojan://humanity@172.64.152.23:443/?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rays_ha 10200
+trojan://humanity@v3.dabache.top:443?security=tls&sni=www.calmlunch.com&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=//assignment#@en_vpn/کانفیگ های بیشتر
+vmess://eyJhZGQiOiJzMy5mb3J3YXJkc2Nkbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjFiYmQyZDItNTA0ZC00NWY1LTAzYWYtNGU4NDRiZjUyNmM4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4OSIsInBzIjoiQPCdkI/wnZCU8J2Qi/CdkIDwnZCV8J2Qj/CdkI3Cs8KzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
