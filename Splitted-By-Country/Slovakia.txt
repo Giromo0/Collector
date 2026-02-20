@@ -1,10 +1,13 @@
-vmess://eyJhZGQiOiAiMTA0LjIxLjY5LjQ0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwgImlkIjogIm5hc25ldCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbmFzbmV0L2NkbiIsICJwb3J0IjogIjgwODAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJwcyI6ICLimqHvuI9UZWxlZ3JhbSA9IEBTT1NrZXlORVQifQ==
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233?path=/&security=tls&encryption=none&insecure=1&host=sub.mot.ip-ddns.com&type=ws&allowInsecure=1&sni=sub.mot.ip-ddns.com#vmesskhodam
-vless://0ecc93f5-f30d-47a2-a763-3efeb2a00cc8@94.130.132.223:443?security=reality&encryption=none&pbk=XwmblvweauAJK87G-he0C5OQ-S4Czs1X5BXnbJ7UkiU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rapidpars.com&sid=661ee8b0696b45#vmesskhodam
-vless://871fdc77-e6df-460d-ace3-b38ab82fb487@158.160.105.121:51102?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=887c0d72e771a934#vmesskhodam
-vless://875fe8d7-70b7-424c-a752-980745f69951@vip-78.f-sub.cfd:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#vmesskhodam
-vless://907ccc0f-bd56-4726-a877-d72a02125b6c@3.71.91.160:443?security=&encryption=none&headerType=none&type=tcp#vmesskhodam
-vmess://eyJ2IjogIjIiLCAicHMiOiAi4pqh77iPVGVsZWdyYW0gPSBAU09Ta2V5TkVUIiwgImFkZCI6ICJ0Z2p1Lm9yZyIsICJwb3J0IjogIjgwODAiLCAiaWQiOiAibmFzbmV0IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIi0tLSIsICJob3N0IjogIm5hc25ldC01NzEyOTY0MTAyLnNoYXJnaGRhaWx5LmNvIiwgInBhdGgiOiAiL25hc25ldC9jZG4/ZWQ9MjU2MCIsICJ0bHMiOiAiYXV0byIsICJzbmkiOiAibmFzbmV0LTU3MTI5NjQxMDIuc2hhcmdoZGFpbHkuY28iLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
-trojan://humanity@www.calmlunch.com:443?type=ws&security=tls&path=%252Fassignment&host=www.calmlunch.com&allowInsecure=1#⚡Telegram=@SOSkeyNET
-trojan://telegram-id-privatevpns@13.39.26.127:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#⚡Telegram=@SOSkeyNET
-trojan://jNiOgXGnqa@47.245.156.110:36659?security=reality&headerType=none&fp=chrome&type=tcp&sni=play.google.com#⚡Telegram=@SOSkeyNET
+trojan://telegram-id-directvpn@13.39.26.127:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#⚡Telegram=@SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5QDYyLjYwLjIzMy4yMjA6MTg2ODU=#@vmesskhodam
+trojan://telegram-id-privatevpns@13.39.26.127:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#⚡Telegram = @SOSkeyNET
+vless://1e823993-86ac-3ead-89b5-227e73825fdb@v3.dabache.top:443?path=/db1024faebdb62e0&security=tls&encryption=none&insecure=1&host=dabaif0.webn.cc&type=ws&allowInsecure=1&sni=dabaif0.webn.cc#vmesskhodam
+vless://53cddd30-34a1-32dd-b598-c1c4c8a0f813@104.16.249.46:443?path=/db1024a105975707&security=tls&encryption=none&insecure=1&host=dabaihk.webn.cc&type=ws&allowInsecure=1&sni=dabaihk.webn.cc#vmesskhodam
+vless://5ba01e3f-15a4-4740-9b84-de3892615268@66.163.116.27:20443?mode=auto&security=reality&encryption=none&pbk=uW3v6fSj2U03RO6RJE1LayMEjB3syWP2eomzkMjdMFM&fp=chrome&spx=/&type=xhttp&sni=apple.com&sid=65a25fcaf84bc344#vmesskhodam
+vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.75.212.174:443?security=&encryption=none&headerType=none&type=tcp#vmesskhodam
+vless://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@77.111.101.80:443?security=reality&encryption=none&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=99#vmesskhodam
+vless://9a887970-9742-48fd-ee77-57735bdc1d49@3.71.43.228:443?security=&encryption=none&headerType=none&type=tcp#vmesskhodam
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.dea.fx2hub.ir:31665?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#E200
+vless://c3e06f32-3009-4a11-94af-10028b3dc05e@89.232.177.58:443?security=reality&encryption=none&pbk=_PtIcz5TCqpHBG6Xxi85mBaDT5cogsEPIYXlyKc9g2A&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finder.strelkavpn.ru&sid=bc8074b9a0f0e964#vmesskhodam
+vless://cbf73250-e228-4fc8-95a1-3804176354be@fast1.mrsf.ir:443?mode=auto&path=/dl?ed=2560&security=tls&encryption=none&insecure=0&host=Osipanel.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#vmesskhodam
+vless://fa-7055554789-1771496132679112@45.84.225.71:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=d1d42381ba35#vmesskhodam
