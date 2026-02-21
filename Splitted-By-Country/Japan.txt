@@ -1,8 +1,11 @@
-trojan://64a59181551b5773e390bd717a7b7c06@153.121.51.29:400?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.51.29-0207
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.57.238:193?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.57.238-1788
+hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
+trojan://64a59181551b5773e390bd717a7b7c06@153.121.39.240:193?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC%207.4MB%2Fs
 trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@05.tokyometropolis.kiev.ua:2053?sni=45.32.28.232#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://64a59181551b5773e390bd717a7b7c06@160.16.144.208:3423?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4%208.3MB%2Fs
-hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
+trojan://64a59181551b5773e390bd717a7b7c06@153.121.51.29:400?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.51.29-0207
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.33:3423?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.33-0206
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.236.32:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.236.32-0210
+hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
 trojan://64a59181551b5773e390bd717a7b7c06@153.121.39.240:193?allowInsecure=0&sni=www.nintendogames.net#JP-153.121.39.240-0048
 trojan://64a59181551b5773e390bd717a7b7c06@160.16.105.192:193?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.105.192-0035
 trojan://64a59181551b5773e390bd717a7b7c06@160.16.57.238:193?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.57.238-0047
@@ -35,6 +38,6 @@ trojan://64a59181551b5773e390bd717a7b7c06@153.121.39.240:193?allowInsecure=0&sni
 trojan://64a59181551b5773e390bd717a7b7c06@160.16.57.238:193?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.57.238-1788%202
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@206.237.120.143:443?&security=tls&fp=chrome&sni=sni.jpmj.dev&type=ws&headerType=none&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#JP_2
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@206.237.120.143:443?&security=tls&fp=chrome&sni=sni.jpmj.dev&type=ws&headerType=none&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#JP_2%202
-hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
-vmess://eyJhZGQiOiJmaS5zcnZ0b2dvLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3MDRkZmM2Ny0yNmZmLTRhNWMtOWUzOS1jMWY2MTRjN2IzYTEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijk5NzAiLCJwcyI6IkU0MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://a6130991-2c81-4c38-ad62-3e6bd01be7e0@itly1.azangooo.ir:443?mode=packet-up&path=%2Ffsxh&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=0&host=mawxich.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#%E2%9C%85%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%3Aprrofile_purple%40%E2%9C%85🖤vmess://eyJhZGQiOiJkYjAzLmVhZ2xlZG5zLm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaWdhcC5uZXQiLCJpZCI6IjNkNWMwZDExLWI2NjUtNGE2Ny05MTgwLWQ4MTQzOWI2N2JmNyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwODciLCJwcyI6IuKchdqp2KfZhtmB24zar9mH2KfbjCDYqNuM2LTYqtix2K/YsTpwcnJvZmlsZV9wdXJwbGVA4pyFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==🖤
+vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=swdist.apple.com&amp;sid=232c6f7b520b89&amp;fp=ios&amp;pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&amp;spx=/WrlEujUojrpP7Bk&amp;headerType=none#Japan+AWS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTk5LjE1LjcwOjQ0Mw==#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC_6
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Japan%20NTT%20Pc
