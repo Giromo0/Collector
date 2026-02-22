@@ -1,2 +1,9 @@
-vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#Em65
-vless://643a3034-d3f9-4e03-acde-0e6ab3a238fb@chatgpt.com:443?path=/54.203.85.46&security=tls&encryption=none&host=afrcloud22.mmv.kr&fp=chrome&type=ws&sni=afrcloud22.mmv.kr#Leviko 4
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&alpn=h3&encryption=none=&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
+vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒 [By EbraSha]#@Hddify
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=🔒 [By EbraSha]#@mehrosaboran
+trojan://humanity@104.18.32.47:443/?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rays_ha 10496
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#Em68
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#Em61
+vless://8e62fdd4-006d-4920-aef8-f3c87ed60157@CF7.FASTSPEEDS.IR:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":1000000,"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=tg3.followerarzon1.com#E107
+vless://8e62fdd4-006d-4920-aef8-f3c87ed60157@CF9.FASTSPEEDS.IR:8443?mode=multi&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=vless&allowInsecure=0&sni=usa1.roshdadcollection.ir#E105

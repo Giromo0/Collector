@@ -1,3 +1,4 @@
-trojan://7M72gQuaaH@148.251.173.125:16512?type=tcp&security=tls#@V2rayNpvFilTer
-trojan://humanity@www.multiplydose.com:443/?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0#@v2rays_ha 10630
-trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A528
+trojan://humanity@172.64.152.23:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#@V2rayNpvFilTer
+vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#E12
+vless://0bb6dff2-0029-4b81-8c81-4fc70fae1ed9@eng14.netliberated.org:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=www.halfords.com#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40filterk0sh%20%231
+vless://nasnet@162.19.10.94:443?flow=xtls-rprx-vision&security=tls&encryption=none&type=tcp&sni=nasnet-162191094-direct.sharghdaily.co&fp=chrome&headerType=none#%3E%3E%40ultrasurf_12%3A%3AXX
