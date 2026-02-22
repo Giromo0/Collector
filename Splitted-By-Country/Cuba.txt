@@ -1,24 +1,11 @@
-trojan://64a59181551b5773e390bd717a7b7c06@58.152.53.227:443?allowInsecure=0&sni=www.nintendogames.net#HK-58.152.53.227-0206
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%E2%9A%A1%E2%9A%A15
-vless://453c3861-eaf4-4c60-94e0-e57a2c9d2fcf@bouquetberlin.org:8443?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=bouquetberlin.org&fp=chrome&type=ws&allowInsecure=0#%40v2_mod_shop%F0%9F%9A%80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@hd.pelatiposi.info:2087?alpn=h3h2&amp;encryption=none&amp;security=tls&amp;sni=splash.VaRtAlReX.iNfO&amp;type=grpc#2087
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40v2rayan
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.30:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=poland.scroogethebest.com&sid=4fa44664f6a566d3#%40v2_mod_shop%F0%9F%9A%80%F0%9F%87%B5%F0%9F%87%B1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#3
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#HP71 (11)
-trojan://humanity@172.67.180.92:443/?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@v2rays_ha 10629
-vless://013d79ce-d692-42f0-87cf-23fd722fc839@goavmdu.tinshopmarket.ir:25553?encryption=none&headerType=http&host=bmw.com&security=none&type=tcp#6
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=nlbv2.pabloping.pro&path=/pabloping&security=none#☁️ | P8
-vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@strong.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=sens-2.certhost.ir&type=ws&allowInsecure=0&sni=sens-2.certhost.ir#Em22
-vless://a09d2931-c961-4f4e-9288-eab639c5fc03@185.235.197.28:3031?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#E18
-vless://a09d2931-c961-4f4e-9288-eab639c5fc03@217.60.238.167:6663?security=none&encryption=none&headerType=http&type=tcp#E10
-vless://a09d2931-c961-4f4e-9288-eab639c5fc03@45.84.157.14:9092?security=none&encryption=none&headerType=http&type=tcp#E16
-vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#Em00001
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.cn.arvixa.ir:21771?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#E3
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.in.velaro.ir:23702?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#E201
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.lv.arvixa.ir:54233?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#E8
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.ua.flicknet.ir:62306?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#E210
-vless://c79ac208-8f34-4aec-a7b5-1ca68d514a42@ploox.mika4456gg.site:57070?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#8488088495_f7670841-1000.00MB📊-0M⏳
-vless://cb3476c7-9584-490b-a149-4efc0be1104d@85.133.197.127:7731?security=none&encryption=none&headerType=http&type=tcp#E70
+vless://cc29b4c8-f8c5-4d1b-b553-798fbe60e937@151.101.2.219:80?security=none&amp;sni=speedtest.net&amp;type=ws&amp;host=alf17.ir&amp;path=/
+trojan://telegram-id-privatevpns@3.120.230.145:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir@freenettir
+vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?type=ws&path=/&host=&security=none#s565-229065
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?encryption=none&type=xhttp&mode=auto&host=upnl.pabloping.pro&path=/pabloping&security=none#☁️ | P5
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=updn.pabloping.pro&type=xhttp#E7
+vless://a09d2931-c961-4f4e-9288-eab639c5fc03@91.234.147.68:6665?security=none&encryption=none&headerType=http&type=tcp#E12
+vless://bb64bdd0-e4ed-4d3b-b2fa-93c7d86523a5@delilah.ns.cloudflare.com:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=639070217932652203.corolla-perma.info&path=/djazntws&security=tls&sni=639070217932652203.corolla-perma.info&type=ws#5
 vless://fe971ca6-7e7e-40fc-8cc6-341043c09770@clyde.ns.cloudflare.com:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=639070217957410233.mustang-perma.info&path=/cvpocvws&security=tls&sni=639070217957410233.mustang-perma.info&type=ws#horizon
-trojan://telegram-id-directvpn@18.118.16.117:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🔰
