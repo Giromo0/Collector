@@ -1,2 +1,1 @@
-vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#Em61
-vless://c963ea66-7107-4351-8ded-f54a2658bb84@Fox1.Mehraban-store.ir:8443?mode=auto&security=tls&alpn=h3,h2&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=nama2.startshopiran.ir#E001
+vless://8e62fdd4-006d-4920-aef8-f3c87ed60157@CF8.FASTSPEEDS.IR:8443?mode=multi&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=vless&allowInsecure=0&sni=de3.roshdadcollection.ir#E103
