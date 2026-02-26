@@ -1,9 +1,5 @@
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vmess://eyJhZGQiOiI2Mi42MC4xNzUuMTEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0ZWxld2ViaW9uLmNvbSIsImlkIjoiNWVmM2ZhOGUtNzE3ZC00NDI2LWFhMDYtYTE5MGM4NGEwZmQ3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODQ0MCIsInBzIjoiQHYycmF5YW4g8J+YmPCfmIoiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ3ZWIubWlsYWR2aXAuc2hvcCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIxYjBmZGE4MC01MDZkLTRlMWYtZWI1Zi01ODM5OTRkNDdkNDYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLimqHvuI8gQFZpUFZwbl92MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-vless://0d482f53-d06f-4583-80b2-b12c9072afc6@50.116.41.209:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L517
-vless://4ae6ca2b-67e4-497f-b107-a69588f78fa1@96.126.126.174:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L52
-vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.238.160.113:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L437
-vless://8ed851cb-a9ac-4be7-97d3-cf74f0d72d75@45.56.69.74:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L603
-vless://e032123c-e7ef-4bd5-aeb2-7db40cac27c3@66.228.39.72:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L573
-vless://f442281d-23c4-43d8-9af3-9b249946977d@172.235.38.113:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L103
+trojan://telegram-id-privatevpns@52.57.120.114:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
+trojan://telegram-id-privatevpns@15.224.39.183:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.237.133.129:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L801
+vless://fae38aae-0342-4752-834d-3f7d2ec58ea8@172.237.145.56:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L966
+vless://1621caa6-2a23-4364-919b-1276ab6ca81a@no.tan3.ir:2053?mode=auto&amp%3Bsecurity=tls&amp%3Balpn=h2&amp%3Bencryption=none&amp%3Bextra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&amp%3Bhost=ax.tan3.ir&amp%3Bfp=chrome&amp%3Btype=xhttp&amp%3Bsni=ax.tan3.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40orange_vpns%20%231
