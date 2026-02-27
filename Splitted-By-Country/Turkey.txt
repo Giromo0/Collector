@@ -1,38 +1,27 @@
-vless://98fb333c-3d84-4fa4-b1f7-1683b509f65a@91.99.218.107:36454?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40v2ray_Extractor
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v4.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20Ultra%20US%20II
+vmess://eyJhZGQiOiAiMTkyLjIyNy4yNDkuMjI3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzYjEzNDI1Mi1lN2MyLTQzZGYtOThiNy1kYTIwNDEwNGFhNzkiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjI3NjQxIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEB2MnJheV9FeHRyYWN0b3IiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%20Ultra%20NL%20II
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVFIx772c5ZWG5a69772c6Z2e5bi45a6J5YWoIiwgImFkZCI6ICJUTV9BWkFSQkFZSkFCMS5TRVJWLjkucGFnRVMuREVWIiwgInBvcnQiOiAiODAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0M2RjZGNlMS0zY2VhLTQxOTMtYmM4ZC05MGI5MjA3MWQ3NzkiLCAiaG9zdCI6ICJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwgInBhdGgiOiAiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEvP2RlPTI1NjAifQ==
-hysteria2://0b8a288c@107.174.181.241:65160?insecure=1&sni=en.snu.ac.kr#%40Trick_mobil
-hysteria2://5046SHWqk6@91.132.51.160:844?#%40Trick_mobil%20%234
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=0&sni=www.semanticstaplegun.click#%5B%F0%9F%87%B3%F0%9F%87%B4%5D%20%5Btr-tl-ra%5D%20%5B260227-013131.006%5D
-hy2://0b8a288c@107.174.181.241:65160/?insecure=1&sni=en.snu.ac.kr#@Trick_mobil
-hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#@Trick_mobil
-hy2://4E8F0CEC-DF1E-4876-8897-56B7CED64D05@160.16.208.122:443/?insecure=1&sni=ops-tyo.dexlos.com&obfs=salamander&obfs-password=2g7feub2#@Trick_mobil
-hy2://5046SHWqk6@91.132.51.160:844/#@Trick_mobil
+vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh7nwn4e3XSBbdm0tbm8td3NdIFsyNjAyMjctMDE1NjUwLjExOF0iLCJhZGQiOiIxMDQuMjYuMTQuMTM3IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InRyMS1zbWFydC5hZGVscGluZy5jb20uIiwidGxzIjoiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVFIx772c5ZWG5a69772c6Z2e5bi45a6J5YWoIiwgImFkZCI6ICJUTV9BWkFSQkFZSkFCMS5TRVJWLjkucGFnRVMuREVWIiwgInBvcnQiOiAiODAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0M2RjZGNlMS0zY2VhLTQxOTMtYmM4ZC05MGI5MjA3MWQ3NzkiLCAiaG9zdCI6ICJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwgInBhdGgiOiAiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEvP2RlPTI1NjAifQ==
+hysteria2://4E8F0CEC-DF1E-4876-8897-56B7CED64D05@160.16.143.152:443?insecure=1&sni=ops-tyo.dexlos.com&obfs=salamander&obfs-password=2g7feub2#%40Trick_mobil%20%232
+hysteria2://5046SHWqk6@91.132.51.160:844?#%40Trick_mobil%20%234
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlBQHNlcmllcy1hMS5zYW1hbmVoaGEuY286NDQz#@vmess_iran🇹🇷16
-trojan://0f1boefr-bg7h-i691-elt8-nsdipjykylfj@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
-trojan://196buj1h-5yy7-zox9-21hn-elh5zei13a2w@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
-trojan://3kw8i117-65t9-gyen-k7k9-948ry1555h5x@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
-trojan://BxceQaOe@43.198.227.190:50446?sni=t.me/ripaojiedian&peer=t.me/ripaojiedian&security=tls#@Trick_mobil
+trojan://3etuc5qv-o1xo-s48k-tand-ie88da1frqlx@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
+trojan://4y46td9m-rjs2-ajr3-g71p-5dh8qd4cwzfi@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
+trojan://cf521db9-blfj-uo08-n9v8-w2uonfuchjdy@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
 trojan://gw89q0wf-vnmx-ejez-gf8e-scfu3vyj8pem@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
-trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@v2_mod_shop🧨
 trojan://jt00vy1m-yrf6-qvbr-tj8y-q51ux5df166j@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
-trojan://n20ttkl2-s43f-1a5v-fn2z-drzif4qu32x9@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
-trojan://sd6310de-szjj-eu0d-cewj-fnx185djc9pe@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 trojan://telegram-id-privatevpns@15.188.225.46:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#@Trick_mobil
-trojan://xe76hfnj-pa3h-zpzv-uhuh-ca18f6ssplhr@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
-trojan://zjgcmoep-q4ja-yodh-fv6t-b0wm0srqcnsl@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
+trojan://u2gxq118-12z2-5bzt-ctug-9u708k7mc3dc@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 trojan://zmbwn6y3-u1h7-piyu-ck8j-r9fz2p1mkgoi@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
 vless://167a74ef-6c90-4a07-ac3b-c870485796c2@tp.blackhoster.com:941?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#🇹🇷 Turkey 🎮
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.127.251:80?security=none&type=ws&host=us3.rtacg.com&path=/#t.me/entryNET/config=1858229353133625
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.165.174:80?security=none&type=ws&host=us3.rtacg.com&path=/#t.me/entryNET/config=1858233128587328
 vless://8b70357d-b654-4a29-85de-e5fef1afefbd@tr.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tr.connectv.net#🇹🇷 azadiiivpn
 vless://bc3d43b6-814c-4812-bbcf-1d7c5fd054a2@104.25.211.224:2052/?type=ws&encryption=none&host=metaplayer.gameredzone.top&path=/t.me.V2RayyNGvpn?ed=1024#🇹🇷TR_1|1.1MB/s
-vmess://eyJhZGQiOiIxODUuMTA0LjE4OS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMTg1LjEwNC4xODkuMzgiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxLz9kZVx1MDAzZDI1NjAiLCJwb3J0IjoiODAiLCJwcyI6IvCfh7nwn4e3VE0gKEBBemFyYmF5amFiMSkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-trojan://humanity@104.21.40.34:443?path=/assignment&amp%3Bsecurity=tls&amp%3Bhost=www.gossipglove.com&amp%3Btype=ws&amp%3Bsni=www.gossipglove.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40red2ray%20%232
-trojan://51410d3cb2931a01b366bb5c868264bf@persiancdn.top:443?path=/api/live/stream/region-de/feed&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Binsecure=0&amp%3Bfp=random&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=persiancdn.top#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40vpnv2raytop%20%231
-trojan://origin@content-provider26.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BDtrojan://Sp3eDVp@content-provider5.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BDtrojan://Sp3eDVp@content-provider24.cdn-delivery.akamaicd.com:443#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0trojan://origin@51.77.71.134:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@43.134.189.122:34237?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=/?ed=2048#t.me/entryNET/config=1858210479870915
+vmess://eyJhZGQiOiIxODguMTE0Ljk2LjQyIiwiYWlkIjoiMCIsImhvc3QiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiaWQiOiI0M2RjZGNlMS0zY2VhLTQxOTMtYmM4ZC05MGI5MjA3MWQ3NzkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP0JJQV9URUxFR1JBTUBBWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMSIsInBvcnQiOiI4MCIsInBzIjoi8J+HufCfh7dUTSAoQEFaQVJCQVlKQUIxKSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJUTV9BWkFSQkFZSkFCMS5TRVJWLjkucGFnRVMuREVWIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiaWQiOiI0M2RjZGNlMS0zY2VhLTQxOTMtYmM4ZC05MGI5MjA3MWQ3NzkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP0JJQV9URUxFR1JBTUBBWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMS8/ZGVcdTAwM2QyNTYwIiwicG9ydCI6IjgwIiwicHMiOiLwn4e58J+Ht1RNIChAQXphcmJheWphYjEpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bpath=%252Fhowdy&amp%3Bsni=de1.test3.net&amp%3Bhost=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%231
 vless://57bbb5bc-f28f-4ef4-cc44-931bf4ba27fb@62.204.58.175:53185?path=%2Fvpn_proxy_custom&security=none&encryption=none&type=ws#%40vpn_proxy_custom100Gig irancellLocation: Turkey 🇹🇷نیمه شب بکام
 vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJyYXlfY29uZmlnc19wb29sOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFIiLCJhZGQiOiI0NS44OS41Mi4yMDciLCJwb3J0IjoiMzk2NTEiLCJpZCI6ImFjNGMxMmM1LTQ1ZjItNDM5OC1hNzE4LTk5ODM5NDFlZGUyYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIifQ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1QXU3TmhGbWNCcU1uaWthNEtWazdoNFpkVjN3RDRoRnRKOFBKM0FsSHpMZVUxY2hFQmF6MTlhNjQzcTdoQlBWQGFtczEuZnJvbWJsYW5jd2l0aGxvdmUuY29tOjE5MTc1#%F0%9F%87%A8%F0%9F%87%BF_CZ_%E6%8D%B7%E5%85%8B-%3E%F0%9F%87%B9%F0%9F%87%B7_TR_%E5%9C%9F%E8%80%B3%E5%85%B6
-trojan://telegram-id-privatevpns@35.158.180.45:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
-trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?allowInsecure=0&amp;sni=cloudflare.node-ssl.cdn-alibaba.com#%E6%9C%AA%E7%9F%A5
