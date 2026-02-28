@@ -1,13 +1,4 @@
-vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=%2FTel-%40%56%32%72%61%79%5f%41%6c%70%68%61&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#
-vless://0d482f53-d06f-4583-80b2-b12c9072afc6@50.116.41.209:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L517
-vless://15fd0898-cc6f-4c8d-be37-742a6eb4c597@45.33.16.39:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L565
-vless://2202e66b-c025-4a93-b47b-b0038ed0178a@45.79.71.250:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L103
-vless://319f08ce-e369-4615-8eed-8c3c47945793@50.116.18.83:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany L877
-vless://6589c6e0-3c55-464c-a99a-193bdb546a69@172.233.179.40:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L792
-vless://6b32299a-472f-44e2-94e5-380d6dbbcbc7@173.255.197.10:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L414
-vless://9ecf7d69-b654-410f-8067-bfc16ad38572@172.233.157.213:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L683
-vless://a409d129-70fe-4bc4-906b-73985847e6ab@172.236.103.5:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L416
+trojan://telegram-id-privatevpns@52.57.206.229:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
+trojan://telegram-id-privatevpns@15.188.71.13:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+vless://4ae6ca2b-67e4-497f-b107-a69588f78fa1@45.79.10.106:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L292
 vless://c0d4ebce-a832-4fe6-94b3-de3ba1203de0@77.91.74.84:44148?security=reality&encryption=none&pbk=03p9kJxTSoiEEQXtQPtCfPijrPFjRH2pMaMLQbrusiI&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=fb1e6bf864b50297#🇬🇪[openproxylist.com] vless-GE
-vless://e032123c-e7ef-4bd5-aeb2-7db40cac27c3@66.228.39.72:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L573
-vless://fae38aae-0342-4752-834d-3f7d2ec58ea8@172.237.128.199:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L742
-vless://fd7eb872-66bd-4bf7-be5b-8f349e7c5f16@172.234.253.159:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L517
