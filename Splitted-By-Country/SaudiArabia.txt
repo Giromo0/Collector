@@ -1,8 +1,3 @@
-trojan://telegram-id-directvpn@51.45.44.114:22223?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp# vpnsal
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.44.114:22224?path=/telegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws# vpnsal
-vless://21aead02-698e-4164-906d-7ef82b46d205@dns5.golden-ping.ir:56149?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#vpnsal
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?path=/&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#vpnsal
-vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality&encryption=none&pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=96#vpnsal
-vless://be69896f-e641-41d9-bfc8-1e30885263d2@141.98.234.40:62520?security=reality&encryption=none&pbk=OTbIHKT0UyR2T2ooCpI0Ozivr1JHUwOs29LQHtYltkk&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=46319295d140d75d#vpnsal
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.14:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#vpnsal
-vless://a36e3773-cad9-4da8-a2d6-4708f3d7754f@45.130.125.160:443?mode=auto&amp%3Bpath=/data/api&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bfp=chrome&amp%3Btype=xhttp&amp%3BallowInsecure=0&amp%3Bsni=datas.meowchannel.ir#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40ehsawn8%20%231
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B2%20ProxyCloud%20USA%20%F0%9F%91%91
+vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
+vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@141.101.114.214:2086?path=/&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade#vpnsal
