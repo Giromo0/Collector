@@ -1,7 +1,7 @@
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%40v2_mod_shop%F0%9F%9A%80%F0%9F%87%B3%F0%9F%87%B1
-vless://8be1f2ce-ac71-49cc-b08a-b396b6053b00@dns5.golden-ping.ir:16662?security=none&amp;encryption=none&amp;host=cafebazaar.ir&amp;headerType=http&amp;type=tcp#%40hupevpn%E2%99%A1
+trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%E6%9C%AA%E7%9F%A59
+trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A522
 trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZDg2ODAxODBhYmRiNTY0QDE1NC41My4zNC4yNzo0NTIzNA==#[🏁]t.me/ConfigsHub
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%3E%3E%40configshub2%3A%3AXX
+hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰 HK
+vless://26524cce-d514-4014-a426-365fb266a14d@152.228.135.96:8443?encryption=none&security=tls&sni=cyuxj212pnq.chinat.indevs.in&fp=random&insecure=0&allowInsecure=0&type=ws&host=cyuxj212pnq.chinat.indevs.in&path=%2Fdanfeng#%3E%3E%40configshub2%3A%3ADE
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@141.101.121.241:2096?type=ws&security=tls&sni=ca.adobe-connect.top&host=ca.adobe-connect.top&path=%2F&fp=chrome#%3E%3E%40configshub2%3A%3ACH
-vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiI+PkBjb25maWdzaHViMjo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
+vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@104.17.35.93:443?&security=tls&fp=chrome&sni=20251127.ldvsmms.dpdns.org&type=ws&headerType=none&host=20251127.ldvsmms.dpdns.org&path=%2F#%3E%3E%40configshub2%3A%3AUS
