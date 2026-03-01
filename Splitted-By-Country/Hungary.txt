@@ -1,7 +1,6 @@
-trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%E6%9C%AA%E7%9F%A59
-trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A522
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
+vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2HUBIR
+trojan://humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A57
 hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰 HK
-vless://26524cce-d514-4014-a426-365fb266a14d@152.228.135.96:8443?encryption=none&security=tls&sni=cyuxj212pnq.chinat.indevs.in&fp=random&insecure=0&allowInsecure=0&type=ws&host=cyuxj212pnq.chinat.indevs.in&path=%2Fdanfeng#%3E%3E%40configshub2%3A%3ADE
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@141.101.121.241:2096?type=ws&security=tls&sni=ca.adobe-connect.top&host=ca.adobe-connect.top&path=%2F&fp=chrome#%3E%3E%40configshub2%3A%3ACH
-vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@104.17.35.93:443?&security=tls&fp=chrome&sni=20251127.ldvsmms.dpdns.org&type=ws&headerType=none&host=20251127.ldvsmms.dpdns.org&path=%2F#%3E%3E%40configshub2%3A%3AUS
+vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiI+PkBjb25maWdzaHViMjo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
+vmess://eyJhZGQiOiJ0dW4xLmdzbXZ4LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlZDllNDIxNi1lYTk5LWZhMDgtYjI1YS05OWIyYWFmMWJkOWQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUwMDQiLCJwcyI6Ilvwn4eu8J+Ht110Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9

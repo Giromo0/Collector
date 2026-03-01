@@ -1,7 +1,3 @@
-trojan://telegram-id-directvpn@52.19.6.148:22222?allowInsecure=0&amp;sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%AA_IE_%E7%88%B1%E5%B0%94%E5%85%B0
-trojan://telegram-id-privatevpns@52.214.235.82:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#%F0%9F%87%AE%F0%9F%87%AA_IE_%E7%88%B1%E5%B0%94%E5%85%B0-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
-vless://1lpxy6haqm@45.15.167.13:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#%F0%9F%87%B1%F0%9F%87%AE%20Liechtenstein%20%F0%9F%94%A5
-trojan://BxceQaOe@52.199.90.129:32536?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://262f1d150049457ac1d6e66b020fa980@175.41.195.26:4920?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAi5Yqg5ou/5aSnfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogImJvYXJkLTAyLmRkbnNrdW5sdW4uY29tIiwgInBvcnQiOiAiMTE5ODUiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYThiY2NlNDMtYWJkYS0zMTViLThlODEtZTNlNjViY2IzZDA3IiwgInNuaSI6ICIifQ==
 trojan://262f1d150049457ac1d6e66b020fa980@52.69.221.238:3901?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+vless://f98e06c6-6b36-47f1-a0e3-77d7937c3ec7@104.21.62.144:443?type=xhttp&amp%3Bpath=/Sauron/&amp%3Bmode=auto&amp%3Bsecurity=tls&amp%3Bfp=randomized&amp%3Balpn=h3%2Ch2%2Chttp/1.1&amp%3BallowInsecure=1&amp%3Bsni=sauron.melkore.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40proxie%20%231
+ssr://103.181.165.225:8105:origin:chacha20-ietf:http_simplecGFzc3dkremarks=U0VzeU1lKzluT1dWaHVXdXZlKzluT21kbnVXNHVPLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
