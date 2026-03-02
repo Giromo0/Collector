@@ -1,3 +1,5 @@
-vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20gRPC%F0%9F%9A%80%40%20AB2ray%20%DA%86%D9%86%D9%84```
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20X
+trojan://telegram-id-directvpn@51.45.44.114:22223?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp# vpnsal
+trojan://telegram-id-privatevpns@51.45.44.114:22222?alpn=http/1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#vpnsal
 vless://93b82d85-6b29-4808-a7df-5ea150427a8a@ir3.yooznet.top:9001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#vpnsal
+vless://f167535d-4b27-428a-9f6d-c8dd21a28b5f@stjadgal.golden-ping.ir:52640/?type=tcp&encryption=none&path=/&host=speedtest.net&headerType=http&security=none#vpnsal
