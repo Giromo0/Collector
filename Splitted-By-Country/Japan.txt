@@ -1,7 +1,9 @@
-ssr://103.181.165.225:8232:origin:chacha20-ietf:http_simplecGFzc3dkremarks=VUVneDc3MmM1YTYyNWE2OTc3MmM2WjJlNWJpNDVhLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
+ssr://103.181.165.227:8305:origin:chacha20-ietf:http_simplecGFzc3dkremarks=VkZjeDc3MmM1cHk2NW9pLzc3MmM1TDJPNmFPTzZaLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
+ssr://103.181.165.225:8801:origin:chacha20-ietf:http_simplecGFzc3dkremarks=VkZjeTc3MmM1cHk2NW9pLzc3MmM1TDJPNmFPTzZaLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
 ssr://103.181.165.227:8303:origin:chacha20-ietf:http_simplecGFzc3dkremarks=VkZjMTc3MmM1WldHNWE2OTc3MmM2WjJlNWJpNDVhLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
 hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778?insecure=1#JP
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.72.205:2001?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.205-0803
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDg1LjIwOC4xMDguNjA6ODg4Mg==#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#Japan%20Klayer%20LLC
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.106.99:4920?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.106.99-0201
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.130.21:4920?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.130.21-0203
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.124.17:4920?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.124.17-0229
@@ -10,6 +12,7 @@ trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@18.183.167.108:331?allowInsecure=0&sni
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.106.99:4920?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.106.99-1728%20%7C%209.579MB
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.124.17:4920?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.124.17-0219%20%7C%200.953MB
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@18.183.167.108:331?allowInsecure=0&sni=www.nintendogames.net#JP-18.183.167.108-1754%202
+vmess://eyJ2IjoiMiIsInBzIjoiSEstMjE5Ljc5LjQ4LjgwLTQ3NzMgMiIsImFkZCI6IjI1ZTYyZDBlLXQ5eHo0MC10YzJzb2QtMXRpem8uaGt0LmdvdG9jaGluYXRvd24ubmV0IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImJmMzYyMjdjLTAxOTEtMTFmMC1hZWUxLWYyM2M5MWNmYmJjOSIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IjI1ZTYyZDBlLXQ5eHo0MC10YzJzb2QtMXRpem8uaGt0LmdvdG9jaGluYXRvd24ubmV0IiwidGxzIjoiIn0=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.238.129.215:42734?&security=tls&fp=chrome&sni=sni.jpmj.dev&type=ws&headerType=none&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#JP_1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.238.129.215:42734?&security=tls&fp=chrome&sni=sni.jpmj.dev&type=ws&headerType=none&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#JP_1%202
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
