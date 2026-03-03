@@ -1,9 +1,5 @@
-trojan://telegram-id-privatevpns@51.45.44.114:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-ssr://103.181.165.227:8606:origin:chacha20-ietf:http_simplecGFzc3dkremarks=U1U0eDc3MmM1cHk2NW9pLzc3MmM1TDJPNmFPTzZaLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
+trojan://telegram-id-privatevpns@15.236.135.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-directvpn@15.188.31.240:22223?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#VayNora
-trojan://telegram-id-privatevpns@35.181.225.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@51.45.44.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-vless://3963f5d3-ed71-4a11-98d5-3154d65a9502@77.83.245.188:55169?security=reality&encryption=none&pbk=BXstOSOV6FnB-uBB_ITszxxjFu4nSzXrrVVdoHOLDGo&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=5bb854d009781a17#VayNora
 vless://4c55e931-e33b-487c-806e-cb29b64a089c@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#VayNora
 vless://a28cfe60-b6f6-4737-9082-b2df62f59229@rus62.ruslucker.org:444?mode=auto&path=/api/v1/&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&fp=chrome&type=xhttp&sni=rus62.ruslucker.org#VayNora
 vless://c9fc0f4a-183b-4cea-dc30-dd46f998a019@arshia.parvane.top:33553?type=tcp&encryption=none&path=/&headerType=http&security=none#VayNora
