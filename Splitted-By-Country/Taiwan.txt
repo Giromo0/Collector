@@ -1,12 +1,6 @@
-trojan://0a169d7d-a30f-4d90-af1b-55f6ef6afcb7@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20TW%E5%8F%B0%E6%B9%BE%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@green2.cdntencentmusic.com:31103?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20TW%E5%8F%B0%E6%B9%BE%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://6f038cee-6ba1-4941-bce5-de1969f37405@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20TW%E5%8F%B0%E6%B9%BE%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-vless://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@br.pineappled.org:443?security=reality&encryption=none&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=99#%40v2_mod_shop%F0%9F%9A%80`**
-trojan://c5355528-55a2-45df-b8fd-a48ce3c41413@220.130.58.136:35502?sni=#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE2
-ssr://103.181.165.227:8305:origin:chacha20-ietf:http_simplecGFzc3dkremarks=VkZjeDc3MmM1cHk2NW9pLzc3MmM1TDJPNmFPTzZaLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
-ssr://103.181.165.227:8628:origin:chacha20-ietf:http_simplecGFzc3dkremarks=UlZNeDc3MmM1YTYyNWE2OTc3MmM2WjJlNWJpNDVhLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
-ssr://103.181.165.227:8622:origin:chacha20-ietf:http_simplecGFzc3dkremarks=Vms0eDc3MmM1YTYyNWE2OTc3MmM2WjJlNWJpNDVhLi4u&obfsparam=TXpjM09UVXRTMEZDTWxoak4yRXVaRzkzYm14dllXUXViV2xqY205emIyWjBMbU52YlE9PQ==
-hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
+vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh7nwn4e8XSBbdm0tbm8tcmFdIFsyNjAzMDMtMDIwMDUwLjU1NV0iLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOiIzNTAzNCIsInR5cGUiOiJub25lIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh7nwn4e8XSBbdm0tbm8tcmFdIFsyNjAzMDMtMDIwMTEzLjI5Nl0iLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOiIzNTAzNCIsInR5cGUiOiJub25lIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE3
+trojan://11cfbea5-eae4-4654-8aa9-a9481f38dc42@220.130.58.136:31101?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE4
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing.com#TW
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09GQGFkbWluLmMxLmhhdmlqLmNvOjQ0Mw==#Join 🔥 @N3TWRK
+hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
