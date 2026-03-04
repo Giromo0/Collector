@@ -1,4 +1,3 @@
-vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.conf…
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F#_%E8%8D%B7%E5%85%B0%2010
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.185.26:2096?&security=tls&fp=chrome&sni=ca.adobe-connect.top&type=ws&headerType=none&host=ca.adobe-connect.top&path=%2F#_%E6%9C%AA%E7%9F%A5%2079
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?&security=tls&fp=chrome&sni=ovhwuxian.pai50288.uk&type=ws&headerType=none&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#_%E6%9C%AA%E7%9F%A5%20105
+vmess://eyJ2IjoiMiIsInBzIjoiSEstMjE5Ljc5LjQ4LjgwLTQ3ODQiLCJhZGQiOiI3NGViY2FhYS10NzBmNDAtdDhiZTJ5LTFyeXVwLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIzZWUwOTFjYS1hYjljLTExZWYtYTc5MS1mMjNjOTE2NGNhNWQiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiI3NGViY2FhYS10NzBmNDAtdDhiZTJ5LTFyeXVwLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsInRscyI6IiJ9
+vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@104.17.145.59:80?&security=false&fp=chrome&type=ws&headerType=none&host=sss.yaml7.ggff.net&path=%2F%3Fed%3D2048#_%E6%9C%AA%E7%9F%A5%205
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.18.32.47:2053?&security=tls&fp=chrome&sni=ir1.airpanel.top&type=ws&headerType=none&host=ir1.airpanel.top&path=%2F#_%E6%9C%AA%E7%9F%A5%2084
