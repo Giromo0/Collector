@@ -1,21 +1,22 @@
 vless://98fb333c-3d84-4fa4-b1f7-1683b509f65a@91.99.218.107:36454?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40v2ray_Extractor
-hysteria2://0b8a288c@107.174.181.241:65160?insecure=1&sni=en.snu.ac.kr#%40Trick_mobil
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?insecure=1&sni=🔒#%40Trick_mobil%20%231
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1QXU3TmhGbWNCcU1uaWthNEtWazdoNFpkVjN3RDRoRnRKOFBKM0FsSHpMZVUxY2hFQmF6MTlhNjQzcTdoQlBWQGFtczEuZnJvbWJsYW5jd2l0aGxvdmUuY29tOjE5MTc1#%F0%9F%87%A8%F0%9F%87%BF_CZ_%E6%8D%B7%E5%85%8B-%3E%F0%9F%87%B9%F0%9F%87%B7_TR_%E5%9C%9F%E8%80%B3%E5%85%B6
-trojan://telegram-id-privatevpns@63.181.212.225:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
+hy2://0b8a288c@107.174.181.241:65160/?insecure=1&sni=en.snu.ac.kr#@Trick_mobil
+hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#@Trick_mobil
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#@Trick_mobil
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#@Trick_mobil
+trojan://adqldwyi-afza-fumu-pb6m-q5xeglg5j9sc@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
+trojan://b6d2auzt-3a62-gedm-fmrb-dtju58xn1xak@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 trojan://l3qntplz-f1v2-sbfr-f5mb-frcxuhganqhh@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
-trojan://mbrqm5ym-z7mh-ig6o-b12d-ohfx1vk9k1hc@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
-trojan://mt4y5qwn-7o4b-thrt-jmh8-1teavgmk8l4b@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
-trojan://qxcq5sxy-sqjb-ecuy-gq71-rx7aam15gapz@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
-trojan://xtcpy6g7-lhmg-1822-hnpw-a5gohr4z1lug@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
+trojan://zxgrceqd-ex45-kay3-k0dk-hzhvf8lyazck@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
 vless://8b70357d-b654-4a29-85de-e5fef1afefbd@tr.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tr.connectv.net#🇹🇷 azadiiivpn
 vless://bc3d43b6-814c-4812-bbcf-1d7c5fd054a2@104.25.211.224:2052/?type=ws&encryption=none&host=metaplayer.gameredzone.top&path=/t.me.V2RayyNGvpn?ed=1024#🇹🇷TR_1|1.1MB/s
 vless://eb094a84-ada5-4773-8230-9c66a7a31c5f@i3.paatogh.top:53900?encryption=none&type=tcp&headerType=http&path=/&host=divarcdn.com#🇹🇷 1 - نیم بها | karen_3291425
 vless://eb094a84-ada5-4773-8230-9c66a7a31c5f@i3.sepotishop.ir:53900?encryption=none&type=tcp&headerType=http&path=/&host=divarcdn.com#🇹🇷 2 - نیم بها | karen_3291425
 vless://eb094a84-ada5-4773-8230-9c66a7a31c5f@i8.sepotishop.ir:53900?encryption=none&type=tcp&headerType=http&path=/&host=divarcdn.com#🇹🇷 2 - edge2 | karen_3291425
-vmess://eyJhZGQiOiIxODUuMTA0LjE4OS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMTg1LjEwNC4xODkuMzgiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxLz9kZVx1MDAzZDI1NjAiLCJwb3J0IjoiODAiLCJwcyI6IvCfh7nwn4e3VE0gKEBBemFyYmF5amFiMSkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-trojan://humanity@188.114.98.0:443?path=/assignment&amp%3Bsecurity=tls&amp%3Binsecure=0&amp%3Bhost=www.creationlong.org&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=www.creationlong.org#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40father_vpn%20%231
+vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6IlRNX0FaQVJCQVlKQUIxLm5ldy45OS53b3JrZXJzLmRldiIsImlkIjoiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEvP2RlXHUwMDNkMjU2MCIsInBvcnQiOiI4MCIsInBzIjoi8J+HufCfh7dUTSAoQEFaQVJCQVlKQUIxKSB2bWVzcy13cyIsInNjeSI6ImF1dG8iLCJzbmkiOiJUTV9BWkFSQkFZSkFCMS5uZXcuOTkud29ya2Vycy5kZXYiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+trojan://842b5f9dd11e458d8613c907c4cc5723@srv1.khatibirepair.ir:443?encryption=none&amp%3Bsecurity=tls&amp%3Bsni=www.gpt123.one&amp%3Binsecure=1&amp%3Btype=raw&amp%3Bheadertype=none#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20TROJAN%20%7C%20%40mpproxy%20%231
+trojan://telegram-id-privatevpns@63.183.63.206:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
+trojan://telegram-id-directvpn@54.191.230.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#ConfigV2RayNGtrojan://telegram-id-directvpn@18.191.41.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG
 vless://57bbb5bc-f28f-4ef4-cc44-931bf4ba27fb@62.204.58.175:53185?path=%2Fvpn_proxy_custom&security=none&encryption=none&type=ws#%40vpn_proxy_custom100Gig irancellLocation: Turkey 🇹🇷نیمه شب بکام
 vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJyYXlfY29uZmlnc19wb29sOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpYWCIsImFkZCI6IjQ1Ljg5LjUyLjIwNyIsInBvcnQiOiIzOTY1MSIsImlkIjoiYWM0YzEyYzUtNDVmMi00Mzk4LWE3MTgtOTk4Mzk0MWVkZTJiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh7nwn4e3XSBbdm0tbm8tcmFdIFsyNjAzMDUtMTQxMTQwLjU4OV0iLCJhZGQiOiI0NS44OS41Mi4yMDciLCJwb3J0IjoiMzk2NTEiLCJ0eXBlIjoibm9uZSIsImlkIjoiYWM0YzEyYzUtNDVmMi00Mzk4LWE3MTgtOTk4Mzk0MWVkZTJiIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
+trojan://BxceQaOe@16.162.45.33:17255?allowInsecure=1&sni=t.me%2Fripaojiedian#HK-16.162.45.33-42
