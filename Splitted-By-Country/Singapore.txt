@@ -1,12 +1,10 @@
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
-vless://cbdf8ca4-62a9-3822-60b7-d83b5534ed7b@34.143.159.175:443?&security=tls&fp=chrome&sni=salm.g00.eduin.indevs.in&type=ws&headerType=none&host=salm.g00.eduin.indevs.in&path=%2F#T1-SG
+vless://cbdf8ca4-62a9-3822-60b7-d83b5534ed7b@34.143.159.175:443?allowInsecure=0&sni=salm.g00.eduin.indevs.in&type=ws&host=salm.g00.eduin.indevs.in&path=/security=tls#SG_speednode_0033
+vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
 trojan://BxceQaOe@95.40.10.51:1717?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@13.114.100.13:4674?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@54.250.6.236:4674?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
-trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@54.250.6.236:4674?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://BxceQaOe@95.40.10.51:1717?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@13.114.100.13:4674?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#新加坡1
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
 trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?encryption=none&security=tls&sni=www.gpt123.one&insecure=1&type=raw&headertype=none#🇸🇬Singapore+->+🇸🇬Singapore+⚡@DeamNet_Proxy
@@ -17,3 +15,7 @@ trojan://BxceQaOe@16.163.102.116:52951?security=tls&insecure=1&headerType=none&t
 trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
 trojan://BxceQaOe@43.198.13.210:41973?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#🇸🇬@FreakConfig
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇸🇬 新加坡
+vless://684e779f-03cf-4a12-ad4d-e923cce20131@ai.darkvpn.site:443/?type=ws&encryption=none&flow=&host=ai.darkvpn.site&path=%2Fvless&security=tls&sni=ai.darkvpn.site&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASG
+vless://b8ae3c37-37d6-4d4d-93fc-1ce0bc329ba0@webmail.eclass.lk:2096?allowInsecure=1&encryption=none&host=free-server.techsonic.ggff.net&path=%2F%40Tech_Sonic&security=tls&sni=free-server.techsonic.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASG
+vless://2ab6258a-6670-4875-ab65-60999b764f87@209.17.118.131:26403?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#SG%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%9118%202
+vless://cbdf8ca4-62a9-3822-60b7-d83b5534ed7b@34.143.159.175:443?&security=tls&fp=chrome&sni=salm.g00.eduin.indevs.in&type=ws&headerType=none&host=salm.g00.eduin.indevs.in&path=%2F#T1-SG

@@ -1,4 +1,4 @@
-vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?mode=multi&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
+vless://86b28c66-c68a-4dff-be13-9d50a4908b4c@chatgpt.com:443?encryption=none&security=tls&sni=uk-01p.allhubb.info&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2Fdferg#%E2%AD%90%F0%9F%87%AC%F0%9F%87%A701%F0%9F%96%A4Aryan%20Moridi-CFCDN-2
 vless://3f5c08c2-c8b0-4af8-85cf-c28bb5b8cc6b@89.42.139.69:3530?security=none&encryption=none&headerType=http&type=tcp#IP_CF
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@188.114.98.0:443?path=/db10240eb751d6ab&security=tls&encryption=none&insecure=0&host=dabaius2.sylu.net&type=ws&allowInsecure=0&sni=dabaius2.sylu.net#IP_CF
 vless://4408dcae-2bdf-4185-84d0-38556d79f27e@srv2-germany.hajimamadcloud.com.tr:1992?security=none&encryption=none&host=skyroom.online,igap.net,gharar.ir&headerType=http&type=tcp#IP_CF
@@ -7,4 +7,6 @@ vless://87e99a87-fd93-4fee-905b-58caf3073fbe@fi.emshabshabe.ir:8086?security=&en
 vless://96953ea1-4d07-4b8a-aeb4-795bbfaf38ad@link.mizbanertebatfarda.site:3010?path=/ws?ed=2048&security=none&encryption=none&host=myket.ir&type=ws&sni=myket.ir#IP_CF
 vless://e51a6f44-8fc3-402b-889a-405c7228ad5c@q.panel.digikalapro.ir:2095?path=/Hellshop&security=none&encryption=none&host=ikcosales.ir&type=ws#IP_CF
 vless://eb4f770d-f8d7-4e15-acbe-d42f16bf1cda@gamix.ncop.ir:2086?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#IP_CF
+vmess://eyJhZGQiOiJlMDM0OWE1Mi1zdjhjZzAtdDd1aW5mLWk4aWUuaGszLnA1cHYuY29tIiwiYWlkIjoiMiIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsImlkIjoiOTkwZThmMzQtYmQ0Zi0xMWVmLWJkYjktZjIzYzkxY2ZiYmM5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoi8J+HrfCfh7AgSEsiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@188.114.98.0:443?path=%2Fdb10240eb751d6ab&security=tls&encryption=none&insecure=0&host=dabaius2.sylu.net&type=ws&allowInsecure=0&sni=dabaius2.sylu.net#%3E%3E%40ip_cf%3A%3AHK
+vless://d0dc3e13-4f8a-41d7-8185-511aee4b3864@104.18.32.47:443?mode=auto&path=%2Felipii-bot&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=cf.elipii-bot.shop&fp=chrome&type=xhttp&sni=cf.elipii-bot.shop#%3E%3E%40ip_cf%3A%3ADE
