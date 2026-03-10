@@ -1,3 +1,6 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#v2raynplus |
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#v2rayNplus 7
-vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.76.205.110:19592?security=none&encryption=none&headerType=none&type=tcp#v2rayNplus 15
+trojan://humanity@104.21.40.34:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#v2rayNplus 6
+trojan://humanity@172.64.155.209:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#v2rayNplus 10
+vless://58483a1e-6bab-4948-9602-dee06a47bc64@cdn1.glitchfm.ir:2053?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=nl4.torbixplus.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=nl4.torbixplus.ir#v2rayNplus 12
+vless://b2d09914-82b4-236e-47b8-238252d341b3@animallzoo-love-zoo-nect.giggoopanel.ir:9091?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#v2rayNplus 2
+vless://e4677c63-8bd8-4ac5-91fe-af6ed7876728@5.10.214.154:2087?path=/path&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=youloveme.primenet4.shop&fp=chrome&type=ws&allowInsecure=0&sni=youloveme.primenet4.shop#v2rayNplus 8
+vless://jina@4.185.113.10:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-418511310-direct.yektanet.co#v2rayNplus 1
