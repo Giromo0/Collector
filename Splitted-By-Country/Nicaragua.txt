@@ -1,20 +1,14 @@
+vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#[
 vless://0dd1347e-e342-456c-b802-779b859cca42@104.31.16.32:443?path=%2Fmhdshws&amp;security=tls&amp;encryption=none&amp;host=loolu.tech&amp;type=ws&amp;sni=loolu.tech#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://1c3b5f09-d3f4-44cc-adfc-5d74a71d33f2@91.107.240.177:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=%2Ffflsws&amp;security=tls&amp;encryption=none&amp;host=lmn39.sbs&amp;type=ws&amp;sni=lmn39.sbs#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
-vless://da0c4b49-5565-4ff0-9848-1bb602fad0dd@168.119.184.138:57149?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
-vless://cc29b4c8-f8c5-4d1b-b553-798fbe60e937@151.101.2.219:80?security=none&amp;sni=speedtest.net&amp;type=ws&amp;host=alf17.ir&amp;path=/
-trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&amp;security=tls&amp;fp=chrome&amp;type=grpc&amp;serviceName=db&amp;sni=n2.gladns.com#United%20State%20Nato
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?insecure=0&sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#HK%203
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@94.183.233.213:2053?&security=tls&fp=chrome&sni=zgtwylnhh.cc.cd&type=ws&headerType=none&host=zgtwylnhh.cc.cd&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#_%E4%BC%8A%E6%9C%97%206
-vless://bf4c614f-c46d-4db9-b031-62f7e4b85c2c@104.24.39.51:443?&security=tls&fp=chrome&sni=hex.1tb.workers.dev&type=ws&headerType=none&host=hex.1tb.workers.dev&path=ws#_%E6%9C%AA%E7%9F%A5%2015
-vless://21f78714-2df6-4757-9fa5-f583eb0290cf@194.110.246.61:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=okKUcvjT68odjfLWEZ47XopjP3AqHfbC4jsxfN2-i30&sni=google.com#VPNKEY-United
-vless://e8add82d-0a0a-4f3b-a22e-c74f83da73b9@afrcloud22.mmv.kr:443?path=%2F138.2.64.229%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%40v2_mod_shop%F0%9F%9A%80
-vless://nasnet@162.19.10.94:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#%40irani13
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#%E2%9A%A1%E2%9A%A19
-trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%E6%9C%AA%E7%9F%A524
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#HP71 (4)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJRQDgyLjM4LjMxLjE5NDo4MDgw#@harfbzaniiim
-trojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%2Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#@Proxyiranip
-vless://5635fd67-8c75-de5d-38db-7d55648bd9ba@94.184.5.43:58173?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#harfbzaniiim
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.65.60.61:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/#t.me/v2Line | Free | 3453 | United Kingdom
-trojan://telegram-id-directvpn@3.127.171.45:22223?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#@Proxyiranip
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=current.ircp.online&amp;type=ws&amp;sni=current.ircp.online#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.20.156.248:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=current.ircp.online&amp;type=ws&amp;sni=current.ircp.online#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NExiS0huQjNJTzc1OXVlRW5oZ01HQDUyLjE0Mi4xNjEuOTozNDQyNA==#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
+trojan://telegram-id-privatevpns@63.183.124.201:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.21.7.193:443?&security=tls&fp=chrome&sni=sant.atira-40.workers.dev&type=ws&headerType=none&host=sant.atira-40.workers.dev&path=%2Fsni.111000.dynv6.net%2F#_%E6%9C%AA%E7%9F%A5%2057
+vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@afrcloud22.mmv.kr:443?path=%2F107.174.121.122%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%40v2_mod_shop%F0%9F%9A%80
+vless://0cc731b9-0375-4590-aeaa-7e2611a149fe@104.21.36.57:443?path=%2Fwsv%2F0cc731b9-0375-4590-aeaa-7e2611a149fe&security=tls&encryption=none&host=black.fullmargintraders.com&type=ws&sni=black.fullmargintraders.com#%F0%9F%87%A9%F0%9F%87%AA%20%D9%86%D9%88%D9%87%20%D9%87%DB%8C%D8%AA%D9%84%D8%B1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.83.129.17:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/#t.me/v2Line | Free | 3443 | Slovenia
+vless://mahanvpn-free-iran7@162.159.10.81:443?path=/assets&security=tls&alpn=h2,http/1.1&encryption=none&host=MAHANteAm.noD32Cpu.iR&fp=chrome&type=ws&sni=MAHANteAm.noD32Cpu.iR#
+vmess://eyJhZGQiOiIxNzIuMjMzLjIyOS45MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyN2JhODdmYy01ODNmLTQ3NjMtOTA2MC04M2NmMGI5MjY0ZGIiLCJuZXQiOiJyYXciLCJwYXRoIjoiIiwicG9ydCI6IjE0MTAyIiwicHMiOiLwn4e68J+HuFVuaXRlZCBTdGF0ZXMgLVx1MDAzZSDwn4e68J+HuFVuaXRlZCBTdGF0ZXMg4pqhQERlYW1OZXRfUHJveHkgKDEpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=%2FTel-%40%56%32%72%61%79%5f%41%6c%70%68%61&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#
