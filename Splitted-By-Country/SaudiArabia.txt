@@ -1,6 +1,5 @@
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&alpn=h3&encryption=none=&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
-vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
-vless://%50a%72sa%73%68%6fna%6d-Bot-37@104.17.147.22:8080?type=grpc&serviceName=
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws#V2rayng_Saz
+trojan://telegram-id-privatevpns@18.184.163.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VPN_PASARGAD
+vless://0fff5f1b-370d-4e98-829d-7dca653fbca8@185.226.117.160:443?security=none&encryption=none&headerType=none&type=tcp#V2rayng_Saz
+vless://d0c36ebf-a083-44a9-acc4-271658236986@KRT.starz-net.com:2089?security=none&encryption=none&headerType=none&type=tcp#vpnsal
 vmess://eyJhZGQiOiJ0dW4ucDJwMS5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWJhNWVjMTktYmRlMy00ZDVlLTkwNDUtMzMzNWI3MTIxM2Q5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDE2IiwicHMiOiJAZWhzYXduOCB8INis2YjbjNmGINi02Ygg2KrZhNqv2LHYp9mFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJmcmFnbWVudCI6IiIsImFpZCI6IjAiLCJkZXZpY2VJRCI6IiIsImFscG4iOiIiLCJ0bHMiOiJub25lIiwidiI6IjIiLCJleHRyYSI6IiIsInNlZWQiOiIiLCJwcyI6IkBzYW1pbmlzdGFtbSIsImlkIjoiY2ViOWI2ODctNzcyYi00NTY5LWI1ZmEtMWJlODQzNDVkNmM3IiwidHlwZSI6Im5vbmUiLCJuZXQiOiJ0Y3AiLCJzbmkiOiIiLCJtb2RlIjoiIiwicG9ydCI6IjEwMiIsInBhdGgiOiJcLyIsImFkZCI6ImlwMy50YXJhdmF0Lm5ldCIsInNlcnZpY2VOYW1lIjoibm9uZSIsImhlYWRlclR5cGUiOiJodHRwIiwiaG9zdCI6Im15a2V0LmlyIiwiZnAiOiIifQ==
