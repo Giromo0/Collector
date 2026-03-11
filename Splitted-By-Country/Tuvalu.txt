@@ -1,5 +1,13 @@
-trojan://telegram-id-directvpn@15.224.33.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@3.127.171.45:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@51.44.200.241:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@63.176.126.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@51.44.98.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@3.79.165.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@13.36.46.152:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@15.224.0.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel:@DirectVPN
+trojan://telegram-id-directvpn@13.38.214.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@15.188.101.85:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@3.79.165.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@35.180.7.142:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@63.176.126.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vmess://eyJhZGQiOiJpcDMudGFyYXZhdC5uZXQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiJjZWI5YjY4Ny03NzJiLTQ1NjktYjVmYS0xYmU4NDM0NWQ2YzciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDIiLCJwcyI6IkBuZnR2aWNpINmG2YbZhCDZiNmK2qkg2KrZiNixINis2YjbjNmGINi02Yg6IPCflKUg8J+ZjyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJmcmFnbWVudCI6ICIiLCAiYWlkIjogIjAiLCAiZGV2aWNlSUQiOiAiIiwgImFscG4iOiAiIiwgInRscyI6ICJub25lIiwgInYiOiAiMiIsICJleHRyYSI6ICIiLCAic2VlZCI6ICIiLCAicHMiOiAiQG5mdHZpY2kg2obZhtmEINmI24zaqdiq2YjYsSDYrNmI24zZhiDYtNmIOiDwn5Sl8J+Zj/Cfj7siLCAiaWQiOiAiY2ViOWI2ODctNzcyYi00NTY5LWI1ZmEtMWJlODQzNDVkNmM3IiwgInR5cGUiOiAibm9uZSIsICJuZXQiOiAidGNwIiwgInNuaSI6ICIiLCAibW9kZSI6ICIiLCAicG9ydCI6ICIxMDIiLCAicGF0aCI6ICIvIiwgImFkZCI6ICJpcDMudGFyYXZhdC5uZXQiLCAic2VydmljZU5hbWUiOiAibm9uZSIsICJoZWFkZXJUeXBlIjogImh0dHAiLCAiaG9zdCI6ICJteWtldC5pciIsICJmcCI6ICIifQ==
+vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.18.4.130:8443?security=tls&amp%3Balpn=http/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=r4fnviw9jl4i4rx.zjde5.de5.net&amp%3Bfp=random&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=r4fnviw9jl4i4rx.zjde5.de5.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40itv2ray%20%231
