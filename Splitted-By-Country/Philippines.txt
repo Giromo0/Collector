@@ -1,8 +1,7 @@
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:443?path=%2F&security=&encryption=none&type=ws#Maznet-Psiphon-4
-vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImVjaENvbmZpZ0xpc3QiOiIiLCJlY2hGb3JjZVF1ZXJ5IjoiIiwiZWNoU2VydmVyS2V5cyI6IiIsImZha2Vob3N0X2RvbWFpbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjkzZjEzNGYtN2FkYi00OGMzLWJjZDEtMjUzMmVkYjBiNDc4IiwiaW50ZXJ2YWwiOiIiLCJsZW5ndGgiOiIiLCJtdXgiOiIiLCJtdXhDb25jdXJyZW5jeSI6IiIsIm5ldCI6InRjcCIsInBhY2tldHMiOiIiLCJwYXRoIjoiIiwicG9ydCI6IjEwNDEwIiwicHMiOiJOZXRBY2NvdW50LVBzaXBob24iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjkzZjEzNGYtN2FkYi00OGMzLWJjZDEtMjUzMmVkYjBiNDc4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDQxMCIsInBzIjoiQE1lcmxpbl9WaVAtUHNpcGhvbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjkzZjEzNGYtN2FkYi00OGMzLWJjZDEtMjUzMmVkYjBiNDc4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDQxMCIsInBzIjoiQEhkZGlmeSAtIFBzaXBob24iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan-config.workers.dev/translate
 vless://22f196a2-cf9c-470d-b310-0ee76a2d433f@217.198.190.3:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Psiphon
 vless://657ff25f-5f69-4201-99fb-0e7908940b66@162.55.190.0:443/?type=tcp&encryption=none&security=none#Psiphon
-vless://9f8a8c74-49fc-4f06-8885-3f438dd71a49@162.55.190.0:443/?type=tcp&encryption=none&security=none#Psiphon
-vless://b25fbd87-36ba-4721-8cac-578e778b42c7@ml.lerntolern.com:54108?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#Psiphon
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@107.175.134.127:443?path=/&security=none&encryption=none&type=ws#Psiphon
-vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjkzZjEzNGYtN2FkYi00OGMzLWJjZDEtMjUzMmVkYjBiNDc4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDQxMCIsInBzIjoiUHNpcGhvbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://dd4f4dec-2cb9-4dcf-b8fc-d88ddaf705a5@bl.khakimilad.online:58992?security=&encryption=none&headerType=&type=tcp#Psiphon
+vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:443?path=/&security=none&encryption=none&type=ws#Psiphon
