@@ -1,4 +1,2 @@
-vless://e8add82d-0a0a-4f3b-a22e-c74f83da73b9@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F138.2.64.229%3D443#%40v2_mod_shop%F0%9F%9A%80
-vless://b28a313b-255a-422b-aa95-db765933978e@85.133.240.82:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#mmd
-vless://c227aacf-30e7-48d1-9e98-99d78b8347e8@193.151.151.211:42595?encryption=none&type=tcp&headerType=none&security=none#saministamm
-vless://e4db217d-8b61-4f6a-aa9a-3cc658b67e28@x0.melowashere.com:38075?encryption=none&security=none&type=tcp&headerType=none#mmd
+vless://66926652-ad9b-4fbb-9b6c-f4985c82e425@connected5.starpo5.ir:8080?security=none&encryption=none&headerType=http&type=tcp#mmd
+vless://ccae2ed1-0704-4cd2-8681-c882c8dc4673@92.42.207.68:443?mode=gun&security=none&encryption=none&type=grpc#mmd
