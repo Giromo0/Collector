@@ -1,4 +1,2 @@
-trojan://telegram-id-privatevpns@52.57.221.181:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
-trojan://telegram-id-privatevpns@54.93.56.163:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
-trojan://telegram-id-privatevpns@3.123.240.134:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
-trojan://telegram-id-privatevpns@13.37.160.17:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@13.38.144.105:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+vless://6fb65356-788e-4118-8280-148ec6eca18a@172.64.152.27:443?&security=tls&fp=chrome&sni=xn--cz8h.pages.dev&type=ws&headerType=none&host=xn--cz8h.pages.dev&path=pyip%3Dproxyip.cmliussss.net#%E6%B4%9B%E6%9D%89%E7%9F%B6-29.79MB%2Fs
