@@ -1,13 +1,7 @@
 vless://e8fb0f43-3497-4ef3-8a89-35bae56549b7@93.94.51.8:13380?security=reality&encryption=none&pbk=JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=99de062f46387d3e#Germany%20%F0%9F%87%A9%F0%9F%87%AA%20MTN-TCI`#%40v2ray_configs_pools`
-vless://15fd0898-cc6f-4c8d-be37-742a6eb4c597@45.33.16.39:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L565
-vless://1a921231-3cae-4948-9088-cfb18d0bf87c@50.116.37.78:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L190
-vless://4ae6ca2b-67e4-497f-b107-a69588f78fa1@96.126.126.174:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L52
-vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.237.133.129:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L801
-vless://6589c6e0-3c55-464c-a99a-193bdb546a69@172.233.175.171:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L386
-vless://6589c6e0-3c55-464c-a99a-193bdb546a69@172.235.136.46:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L883
-vless://7b953823-958e-42a1-9528-e2a0fd8260cf@45.33.114.187:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L988
-vless://8d99fda8-4df2-41ff-8b41-1316773e096f@172.233.222.233:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany L998
-vless://a8dff238-bf64-4b59-816d-f7aa8c527636@198.58.113.193:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#Germany L846
-vless://f442281d-23c4-43d8-9af3-9b249946977d@172.235.38.113:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L103
-vless://f442281d-23c4-43d8-9af3-9b249946977d@172.235.62.174:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L29
-vless://fd7eb872-66bd-4bf7-be5b-8f349e7c5f16@172.234.253.159:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L517
+trojan://telegram-id-privatevpns@13.38.144.105:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@18.194.236.215:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+vless://239cfabf-d064-4cfd-8c2a-c74babc1c77b@172.233.183.136:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L989
+vless://2aeaa2b8-ddaf-4898-a6f9-08e08386e5d2@172.233.178.134:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L597
+vless://fae38aae-0342-4752-834d-3f7d2ec58ea8@172.237.128.199:443?type=xhttp&path=/&host=&mode=stream-one&security=none#Germany L742
+vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=/Telegram-%40Azarakhsh_Proxy/%3Fed%3D2560&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=5c53ca21.vpn-aryoo.pages.dev&amp%3Btype=ws&amp%3Bsni=5c53ca21.vpn-aryoo.pages.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40gervpn%20%231
