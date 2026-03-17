@@ -1,11 +1,10 @@
 trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-52.77.228.115-0264
 trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-54.255.191.185-0247
-vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
 vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-vless://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@br.pineappled.org:443?security=reality&encryption=none&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=99#%40v2_mod_shop%F0%9F%9A%80`**
 trojan://f389ed926e512e15f382dc3804029474@54.238.113.186:3419?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.72.33:4674?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://BxceQaOe@95.40.9.23:29666?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
 trojan://ZY07256934@delicate-buck.rooster465.autos:443?allowInsecure=0#SG-54.255.191.185-0907%20%7C%2013.077MB
 trojan://ZY07256934@free-duckling.rooster465.autos:443?allowInsecure=0#SG-52.77.228.115-0918%20%7C%2010.475MB
 trojan://ZY07256934@delicate-buck.rooster465.autos:443?allowInsecure=0#SG-54.255.191.185-0245
@@ -19,4 +18,3 @@ trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&no
 trojan://BxceQaOe@16.163.102.116:52951?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#@v2ray_configs_pools 🚀 🇸🇬
 trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
 trojan://BxceQaOe@43.198.13.210:41973?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#🇸🇬@FreakConfig
-trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
