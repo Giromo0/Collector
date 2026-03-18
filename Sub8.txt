@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-trojan://telegram-id-privatevpns@15.224.3.38:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@3.120.82.109:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
-trojan://telegram-id-privatevpns@51.45.11.182:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
-trojan://telegram-id-privatevpns@35.181.221.95:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@18.158.21.192:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@15.188.103.210:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@63.176.237.255:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@13.37.160.17:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
@@ -502,3 +497,8 @@ vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443?path=%2F167.179.11
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.130.132.180:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40app_bedal&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.indevs.in&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%20113%20%40Outline_Vpn
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%20112%20%40Outline_Vpn
 vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=%2F107.174.121.122%3D443&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;allowInsecure=1&amp;sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%20111%20%40Outline_Vpn
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=%2F164.52.2.98%3D443&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;allowInsecure=0&amp;sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%20110%20%40Outline_Vpn
+vless://e6eec2e9-f98d-4fd4-afac-c504123231cf@104.16.89.18:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=rukawa.pages.dev&amp;type=ws&amp;allowInsecure=1&amp;sni=rukawa.pages.dev#%F0%9F%9B%A1%20V%20109%20%40Outline_Vpn
+vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443?path=%2F167.179.110.68%3D8443&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;allowInsecure=1&amp;sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%20108%20%40Outline_Vpn
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?path=%2F209.97.173.243%3D443&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;allowInsecure=0&amp;sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%20107%20%40Outline_Vpn
+vless://a6430e91-38ad-4254-b7db-d1fba6efd9e3@nodejs.org:443?path=%2F129.146.254.25%3A443&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;allowInsecure=1&amp;sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%20106%20%40Outline_Vpn
