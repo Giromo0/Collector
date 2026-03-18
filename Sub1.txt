@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
+hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&insecure=1&sni=www.bing.com#@V2rayNG3
 vmess://eyJ2IjoiMiIsInBzIjoiVFctMTExLjI0My4xMDcuMTgxLTQ3MTEgMiIsImFkZCI6ImFibTk2ZjAwZmJ5My5qa2hrZ2oueHl6IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjBmODY4MDAyLTUyMzAtNDVmYi1iZTIzLTBmZDBlZDliYmRjNCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbWFya2V0L2NhbiIsImhvc3QiOiJhYm05NmYwMGZieTMuamtoa2dqLnh5eiIsInRscyI6IiJ9
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:3057?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.106.99-1718%202
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:3419?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.106.99-1715%202
@@ -501,4 +502,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi6Iux5ZyL56+A6bueXzIiLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3Iiwi
 vmess://eyJ2IjoiMiIsInBzIjoi576O5ZyLXzYiLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwicG9ydCI6IjE4MCIsInR5cGUiOiJub25lIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@211.48.77.114:22410?&security=tls&fp=chrome&sni=ylnhh.cc.cd&type=ws&headerType=none&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%E7%BE%8E%E5%9C%8B%E7%AF%80%E9%BB%9E_3
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@211.48.77.114:22410?&security=tls&fp=chrome&sni=ylnhh.cc.cd&type=ws&headerType=none&host=ylnhh.cc.cd&path=%2F#%E8%8B%B1%E5%9C%8B
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@34.143.159.175:443?&security=tls&fp=chrome&sni=ylnhh.cc.cd&type=ws&headerType=none&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%E7%BE%8E%E5%9C%8B%E7%AF%80%E9%BB%9E
