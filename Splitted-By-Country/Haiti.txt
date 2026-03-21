@@ -1,9 +1,4 @@
-vmess://eyJ2IjogIjIiLCAicHMiOiAiSEtcdTMwMTBcdTY3M2FcdTU3M2FcdTYzYThcdTgzNTBcdWZmMWFodHRwczovL2E5YS54eXpcdTMwMTE4IiwgImFkZCI6ICIxMDMuMTgxLjE2NC4xNDUiLCAicG9ydCI6ICI1MTU1NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
-vless://1ad2695a-4bd9-4c88-8b19-ed60ff3c2192@94.182.145.78:60001?security=none&encryption=none&headerType=none&type=tcp#https://
-vless://38d77ed6-9b7c-423d-a31e-27d1f625ad00@5.129.206.231:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jrKoM3Aiyeo-EnOxDsabEeIddFvfVpP3HOj0_bZ8dio&security=reality&sid=28a69741f82508c7&sni=ru.moktana.digital&type=tcp#https://t.me/ConfigX2ray
-vless://5fdc186d-f881-4fc4-9346-1f3d8fae9339@f3.hamrahconf.ir:8443?path=/&security=tls&encryption=none&insecure=1&host=p2-core-09.secoxi.site&fp=chrome&type=ws&allowInsecure=1&sni=uktkq.secoxi.site#https://
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@plcdn17.suio.me:443?type=tcp&security=tls&fp=chrome&sni=plcdn17.suio.me#⚡Telegram = https://t.me/falcunargo
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@secdn14.suio.me:443?type=tcp&security=tls&sni=secdn14.suio.me#⚡Telegram = https://t.me/falcunargo
-vless://FreakConfig@77.232.142.141:443?mode=auto&path=/&security=none&encryption=none&type=xhttp#V2WRAY𓄂𓆃
-vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=/&security=tls&encryption=none&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&type=ws&sni=broad-sky-9360.k7uztejf9ief.workers.dev#https://t.me/ConfigX2ray
-vless://c558328b-eb46-424c-b9e0-574770f0b072@rtg.ae1autumn.cc.cd:80?encryption=none&security=none&sni=rtg.ae1autumn.cc.cd&fp=chrome&type=ws&host=rtg.ae1autumn.cc.cd&path=/v8clafFSnPXNC0BXGtJ#https://t.me/ConfigX2ray
+vless://58c9cbd0-7f3c-4b75-ad46-6b5f1c5d9d18@in.direct.aabbccdde.org:81?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#V2WRAY𓄂𓆃
+vless://1ad2695a-4bd9-4c88-8b19-ed60ff3c2192@94.182.145.78:60001?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#https://t.me/vip_vpn_2022
+trojan://telegram-id-privatevpns@3.72.160.56:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
+trojan://telegram-id-privatevpns@15.224.60.191:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
