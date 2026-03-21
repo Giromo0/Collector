@@ -1,1 +1,2 @@
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@AliXTso-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#@FooTNooD
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@AliXTso-Javid-SHAH-KingRezaPahlavi#%40FooTNooD
+vless://a3e76574-9458-4783-905b-970cf0ccdcd1@melo-mtn.outline-vpn.cloud:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=
