@@ -1,8 +1,14 @@
-trojan://trojan@118.34.36.61:10003?sni=jflsjlaf.pages.dev#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
-trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.140.83-0296
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.131.34-0294
+vless://e8add82d-0a0a-4f3b-a22e-c74f83da73b9@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F138.2.64.229%3D443#%40v2_mod_shop%F0%9F%9A%80
+vless://26524cce-d514-4014-a426-365fb266a14d@220.71.1.32:20201?allowInsecure=1&sni=itz4m3m5v7.chinav.indevs.in&type=ws&host=itz4m3m5v7.chinav.indevs.in&path=/danfeng?ed=2560fp=random&security=tls#KR_speednode_0018
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@121.174.43.148:12345?allowInsecure=0&sni=snippet.chinat.eu.cc&alpn=http/1.1&type=ws&host=snippet.chinat.eu.cc&path=/danfengfp=random&security=tls#KR_speednode_0020
+trojan://trojan@211.110.32.47:20000?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#KR_speednode_0021
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@222.113.18.207:16993?allowInsecure=0&sni=snippet.fgfw.de5.net&type=ws&host=snippet.fgfw.de5.net&path=/danfengfp=chrome&security=tls#KR_speednode_0022
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@106.251.70.75:10162?allowInsecure=0&sni=snippet.chinav.eu.cc&alpn=http/1.1&type=ws&host=snippet.chinav.eu.cc&path=/danfengfp=random&security=tls#KR_speednode_0023
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?allowInsecure=0&sni=glowing-deer.rooster465.autos#KR-54.180.131.34-0203
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?allowInsecure=0&sni=glowing-deer.rooster465.autos#KR-54.180.131.34-0233%20%7C%2034.316MB
 trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=0&sni=select-marmoset.rooster465.autos#KR-3.34.140.83-0232%20%7C%2033.687MB
+vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh7Dwn4e3XSBbdm0tdGwtd3NdIFsyNjAzMjItMDEyMzE1LjM0NV0iLCJhZGQiOiJjNy42MjA3MjAueHl6IiwicG9ydCI6Ijg0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiYzcuNjIwNzIwLnh5eiIsInRscyI6InRscyJ9
 trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=0&sni=select-marmoset.rooster465.autos#KR-3.34.140.83-0204%202
+trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.140.83-0296
+trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.131.34-0294
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=glowing-deer.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
