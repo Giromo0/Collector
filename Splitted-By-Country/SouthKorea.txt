@@ -1,6 +1,7 @@
-trojan://trojan@118.34.36.61:10003?sni=jflsjlaf.pages.dev#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
 trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.140.83-0220
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.131.34-0223
+vless://455fc271-3ee2-493b-8c75-9324b4851e2f@krp01.jumperservice.com:19001?allowInsecure=0&sni=addons.mozilla.org&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#KR_speednode_0016
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@211.193.169.223:37810?allowInsecure=0&sni=snippet.fgfw.de5.net&alpn=http/1.1&type=ws&host=snippet.fgfw.de5.net&path=/danfengfp=random&security=tls#KR_speednode_0019
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?allowInsecure=0&sni=glowing-deer.rooster465.autos#KR-54.180.131.34-0294%20%7C%2017.986MB
 trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=0&sni=select-marmoset.rooster465.autos#KR-3.34.140.83-0296%20%7C%2019.613MB
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?allowInsecure=0&sni=glowing-deer.rooster465.autos#KR-54.180.131.34-0294
@@ -8,5 +9,6 @@ trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=0&sni=sel
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?allowInsecure=0&sni=glowing-deer.rooster465.autos#KR-54.180.131.34-0294%202
 trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=0&sni=select-marmoset.rooster465.autos#KR-3.34.140.83-0296%202
 vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh7Dwn4e3XSBbdm0tdGwtd3NdIFsyNjAzMjItMTMzMTI5LjQ1MV0iLCJhZGQiOiJjNy42MjA3MjAueHl6IiwicG9ydCI6Ijg0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiYzcuNjIwNzIwLnh5eiIsInRscyI6InRscyJ9
+trojan://WOeXShhJpL@104.18.71.140:443?security=tls&amp;sni=09jzus.zdzdzd.xyz&amp;type=ws&amp;host=09jzus.zdzdzd.xyz&amp;path=%2Fjuzigongyi#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=glowing-deer.rooster465.autos#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
-vless://213497c7-2cb4-494c-b1dc-6ee401acaba9@Blue17.webjob7.eu:48497?security=reality&encryption=none&pbk=tGA2BbLx2WqXs97-xtDmFCummP2HAh2lVnKrSqc1lnA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com&sid=5976a1f7#V2WRAY𓄂𓆃
+vmess://eyJhZGQiOiI4MC45Mi4yMDQuMjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI1NDM3NzU0OS1hZGIzLTQ3OTUtYmRkZi0yOWQ0NDg2MmM3OTYiLCJuZXQiOiJrY3AiLCJwYXRoIjoiVzBUQ1NidndLNyIsInBvcnQiOiIxNDk4NCIsInBzIjoidC5tZS9zaGFkb3dsaW5rc2VydmVyciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
