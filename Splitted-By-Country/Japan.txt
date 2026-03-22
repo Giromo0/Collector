@@ -1,4 +1,19 @@
 trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.65.183.120-0303
+trojan://86e150eb21c6faee48e81d496d7f61c2@153.121.45.139:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.45.139-0229
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.70.180:4937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.70.180-0230
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0278
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.85.33:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.85.33-1660
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.85.33:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.85.33-1663
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#JP🇯🇵
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#JP🇯🇵
+trojan://86e150eb21c6faee48e81d496d7f61c2@18.183.166.176:2001?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.68.250:1281?security=tls&sni=www.nintendogames.net&path=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:258.15ms
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.70.180:2001?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
+trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
+vless://b60dd651-2d4e-4c15-b2d0-60a76c5cc1a6@52.195.208.63:14564?mode=multi&security=reality&encryption=none&pbk=PVjuTK9q16H1XvZ1z11UT1ssMqYfm_w6pXhWeLOScT4&fp=chrome&spx=/&type=grpc&serviceName=mci.ir&sni=www.apple.com&sid=9e569fc87f8d54#[🇯🇵]t.me/ConfigsHub
+vless://f7bae22e-20ab-11f1-835c-0242ac110002@jp1.cyphervpn.pro:443?encryption=none&fp=chrome&pbk=rjE8nekciQ8vkzooBJVwOIqV5tMS0soqdq1AysukY2Q&security=reality&sid=5bfa0c&sni=jp1.cyphervpn.pro&type=tcp#🇯🇵[openproxylist.com] vless-JP
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Japan%20NTT%20Pc
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5py65Zy65o6o6I2QOmRhZmVpLmRlIOaXpeacrCAwMyIsImFkZCI6IjEwMy4xODEuMTY0LjE0NSIsInBvcnQiOiI1MTU1NiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiZnAiOiJjaHJvbWUifQ==
 trojan://86e150eb21c6faee48e81d496d7f61c2@153.121.38.213:4937?allowInsecure=0&sni=www.nintendogames.net#JP%E6%97%A5%E6%9C%AC3%205.0MB%2Fs
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.70.180:4937?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.70.180-0851
@@ -30,15 +45,3 @@ trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:3057?allowInsecure=0&sni=
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:4674?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.72.33-0294%202
 trojan://f389ed926e512e15f382dc3804029474@153.121.65.107:4019?allowInsecure=0&sni=www.nintendogames.net#JP-153.121.65.107-0277%202
 trojan://86e150eb21c6faee48e81d496d7f61c2@153.121.38.213:4937?allowInsecure=0&sni=www.nintendogames.net#JP-153.121.38.213-0832%202
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.68.250:1281?security=tls&sni=www.nintendogames.net&path=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:258.15ms
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.70.180:2001?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
-trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos#🇯🇵 Join+Telegram:@Farah_VPN 🇯🇵
-vless://b60dd651-2d4e-4c15-b2d0-60a76c5cc1a6@52.195.208.63:14564?mode=multi&security=reality&encryption=none&pbk=PVjuTK9q16H1XvZ1z11UT1ssMqYfm_w6pXhWeLOScT4&fp=chrome&spx=/&type=grpc&serviceName=mci.ir&sni=www.apple.com&sid=9e569fc87f8d54#[🇯🇵]t.me/ConfigsHub
-vless://f7bae22e-20ab-11f1-835c-0242ac110002@jp1.cyphervpn.pro:443?encryption=none&fp=chrome&pbk=rjE8nekciQ8vkzooBJVwOIqV5tMS0soqdq1AysukY2Q&security=reality&sid=5bfa0c&sni=jp1.cyphervpn.pro&type=tcp#🇯🇵[openproxylist.com] vless-JP
-trojan://BxceQaOe@13.231.224.38:4945?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://86e150eb21c6faee48e81d496d7f61c2@153.121.38.213:4937?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3%205.0MB%2Fs
-vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&security=reality&sid=6ba85179e30d4fc2&sni=mensura.cdn-apple.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AJP
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.205:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.205-0258
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#JP🇯🇵
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#JP🇯🇵
