@@ -1,11 +1,15 @@
-vmess://eyJhZGQiOiIxNTguNTEuMTIxLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJpYnVzLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6jwn4emQEZyZWFrQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6InNlcmlidXMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4eo8J+Hpl9DQV/liqDmi7/lpKciLCJhZGQiOiJpY29vay50dyIsInBvcnQiOiIyMDgyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiaXAxNi42OTI5MTk4Lnh5eiIsInRscyI6IiJ9
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMjMuMTU0LjEzNi4xNzY6OTEwMg==#%F0%9F%87%A8%F0%9F%87%A6_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7
 vmess://eyJhZGQiOiJ0Z2p1Lm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmFzbmV0LTU3MTI5NjQ5Ny5pcmFucHJlc3MuY28iLCJpZCI6Im5hc25ldCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6IkB2Ml9tb2Rfc2hvcPCfmoAg8J+HqPCfh6YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNzIuNjcuNzMuMTYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuYXNuZXQtNTcxMjk2NDk3LmlyYW5wcmVzcy5jbyIsImlkIjoibmFzbmV0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL25hc25ldC9jZG4/ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjgwODAiLCJwcyI6IkB2Ml9tb2Rfc2hvcPCfmoAg8J+HqPCfh6YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ5aWNodWVuZy5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfjJAgUmFuZG9tIExvY2F0aW9uIiwic2N5IjoiYXV0byIsInNuaSI6InlpY2h1ZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87
-vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?mode=multi&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20II%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20India%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
+vless://937ca7c8-fc8c-4c7d-89e6-5b1cf7014ddf@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#canfingV2rayNG-263
+vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@hk.tfree.top:10006?security=reality&encryption=none&pbk=XUVBEFyxevBwoGwVlo31vXMR_wQ0h0UnhzC4jCeakkc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=590bdc3b6dad#🇨🇦[openproxylist.com]vless-CA
+trojan://3ac6a6ca99f74941b1eaf892818e2ddb@185.151.146.64:443?allowInsecure=1#_%E6%96%B0%E5%8A%A0%E5%9D%A1%205
+trojan://3ac6a6ca99f74941b1eaf892818e2ddb@185.151.146.40:443?allowInsecure=1#_%E6%96%B0%E5%8A%A0%E5%9D%A1%204
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#3
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#6
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4eo8J+Hpl9DQV/liqDmi7/lpKciLCJhZGQiOiJpY29vay50dyIsInBvcnQiOiIyMDgyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJob3N0IjoiaXAxNi42OTI5MTk4Lnh5eiIsInRscyI6IiJ9
 trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=/66.135.4.222:8443&security=tls&host=bisque.qzz.io&type=ws&sni=bisque.qzz.io#🇨🇦All¹ | @AZARBAYJAB1
 trojan://humanity@188.114.98.0:443?type=ws&security=tls&sni=www.creationlong.org&host=www.creationlong.org&path=/assignment#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.89ms
 trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#[🇨🇦]t.me/ConfigsHub
@@ -14,7 +18,6 @@ vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&ho
 vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.13.229:2052?encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=/&security=none&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=pabloping&security=&encryption=none&host=upnl.pabloping.pro&type=xhttp#[🇨🇦]t.me/ConfigsHub
 vless://23d1eb83-45e6-42df-bd38-4505c8e6cb3b@s1.eldoradu.ir:2053?security=tls&type=ws&headerType=&path=/&host=xlsf.sellink.ir&sni=xlsf.sellink.ir&fp=chrome&allowInsecure=1#🇨🇦 |
-vless://307a283d-8f3c-4ef6-ab6a-6a57f064e7ba@s31629.asancall.cloud:8443?path=/ws/apps/softgozar&security=none&encryption=none&type=ws#V2WRAY𓄂𓆃
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.165:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.236:80?encryption=none&host=tt.andishehparenting.com&path=/&security=none&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@hk.tfree.top:10006?security=reality&encryption=none&pbk=XUVBEFyxevBwoGwVlo31vXMR_wQ0h0UnhzC4jCeakkc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=590bdc3b6dad#🇨🇦[openproxylist.com] vless-CA
@@ -28,11 +31,6 @@ vless://cbb2d3b3-9164-46cc-84f9-82722fbf1353@172.67.220.204:443?allowInsecure=1&
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.36.5:2083?allowInsecure=1&encryption=none&host=newwk1.f1w.de5.net&path=/&security=tls&sni=newwk1.f1w.de5.net&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.18.32.47:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&path=/XIXVPN?ed=2560&security=tls&sni=ir1.airpanel.top&type=ws#🇨🇦 Canada 🍓 https://
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.18.32.47:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&path=/XIXVPN?ed=2560&security=tls&sni=ir1.airpanel.top&type=ws#🇨🇦 Canada 🍓 https://t.me/ConfigX2ray
+vless://ebe2de6a-6caf-4d57-8275-dbdb3e62d94f@172.67.73.48:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=q1.19KalA.co&fp=chrome&type=ws&sni=q1.19KalA.co#.
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.19.222.169:2082?encryption=none&host=index.arcane509.workers.dev&path=/gfdn0yadxgfr&security=none&type=ws#[🇨🇦]t.me/ConfigsHub
-vmess://eyJhZGQiOiIxMDQuMjQuMTY5LjE4MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmFzbmV0LTU3MTI5OTY2Ny5yYWhhdmFyZDM2NS5jbyIsImlkIjoibmFzbmV0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL05BU05FVC9jZG4jLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjE/ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjgwODAiLCJwcyI6IvCfh6jwn4emVE0gKEBBWkFSQkFZSkFCMSkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://2c7d8e9d-d40a-49f8-b150-2d9cf4d69f4d@212.80.8.212:38941?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#canfingV2rayNG-120
-vless://4e0f7ef4-4ce6-4de6-bfb9-5b831436bedf@193.58.119.134:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#canfingV2rayNG-168
-vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@hk.tfree.top:10006?security=reality&encryption=none&pbk=XUVBEFyxevBwoGwVlo31vXMR_wQ0h0UnhzC4jCeakkc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=590bdc3b6dad#🇨🇦[openproxylist.com]vless-CA
-trojan://3ac6a6ca99f74941b1eaf892818e2ddb@194.33.45.157:443?allowInsecure=1#194.33.45.157%3A443
-trojan://3ac6a6ca99f74941b1eaf892818e2ddb@185.151.146.64:443?allowInsecure=1#_%E6%96%B0%E5%8A%A0%E5%9D%A1%205
-trojan://3ac6a6ca99f74941b1eaf892818e2ddb@154.93.37.237:443?allowInsecure=1#_%E4%BC%8A%E6%8B%89%E5%85%8B
+vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?type=ws&amp%3Bpath=/&amp%3Bhost=capitalnet.sameasyou.sbs&amp%3Bsecurity=tls&amp%3Bfp=firefox&amp%3Balpn=h2%2Chttp/1.1&amp%3Bsni=joinchannel.sameasyou.sbs#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20VLESS%20%7C%20%40jokerv2ray%20%232
