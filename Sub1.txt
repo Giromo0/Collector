@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
+hysteria2://auth@49.12.142.89:443?insecure=1&sni=www.microsoft.com&alpn=h3&fastopen=1&up=50&down=100#v2ray_freex👈چنلمون
 vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#سرورها به ترتیب خلوت بودن از بالا به پایین مرتب شده اند:
 hy2://zhangyang@130.61.50.75:6443/#%3E%3E%40oneclickvpnkeys%3A%3ADE
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3ANL
@@ -501,4 +502,3 @@ vless://00000000-0000-4000-8000-000000000000@84.247.129.205:4433?allowInsecure=1
 vless://00000000-0000-4000-8000-000000000000@89.163.213.199:8003?allowInsecure=1&encryption=none&host=qle9crwh4e2t4rtrw43k0bnyx1.luyuju.dpdns.org&path=%2F%40Marisa_kristi&security=tls&sni=qle9crwh4e2t4rtrw43k0bnyx1.luyuju.dpdns.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://00000000-0000-4000-8000-000000000000@77.221.148.8:8082?allowInsecure=1&encryption=none&host=qle9crwh4e2t4rtrw43k0bnyx1.luyuju.dpdns.org&path=%2F%40Marisa_kristi&security=tls&sni=qle9crwh4e2t4rtrw43k0bnyx1.luyuju.dpdns.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://00000000-0000-4000-8000-000000000000@212.52.1.202:81?allowInsecure=1&encryption=none&host=jmc9f8ao6n5xq.saghv.filegear-sg.me&path=%2F%40Marisa_kristi&security=tls&sni=jmc9f8ao6n5xq.saghv.filegear-sg.me&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
