@@ -1,8 +1,6 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cg5py65Zy65o6o6I2QOmRhZmVpLmRlIOmfqeWbvSAwMiIsImFkZCI6ImNodW5jaGVvbjAzLnpnam9rLmNvbSIsInBvcnQiOiI0NDMiLCJpZCI6IjgxZDVjYWM0LWQwMzktNDg3NC05YTIwLWMzOTFmNTgwMDEyZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJzbmkiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJwYXRoIjoiLyJ9
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@121.174.43.148:12345?allowInsecure=0&sni=snippet.chinat.eu.cc&alpn=http/1.1&type=ws&host=snippet.chinat.eu.cc&path=/danfengfp=random&security=tls#KR_speednode_0020
+vless://455fc271-3ee2-493b-8c75-9324b4851e2f@krp01.jumperservice.com:19001?allowInsecure=0&sni=addons.mozilla.org&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#KR_speednode_0016
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@222.113.18.207:16993?allowInsecure=0&sni=snippet.fgfw.de5.net&type=ws&host=snippet.fgfw.de5.net&path=/danfengfp=chrome&security=tls#KR_speednode_0022
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@175.199.169.221:50006?allowInsecure=0&sni=snippet.fgfw.de5.net&alpn=http/1.1&type=ws&host=snippet.fgfw.de5.net&path=/danfengfp=random&security=tls#KR_speednode_0024
-trojan://trojan@118.35.208.37:11434?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#KR_speednode_0026
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@121.152.61.147:11371?allowInsecure=0&sni=snippet.fgfw.de5.net&type=ws&host=snippet.fgfw.de5.net&path=/danfengfp=chrome&security=tls#KR_speednode_0025
 trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.140.83-0202
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.131.34-0257
 trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=0&sni=select-marmoset.rooster465.autos#KR-3.34.140.83-0202
