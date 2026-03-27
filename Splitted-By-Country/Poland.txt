@@ -1,10 +1,11 @@
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&authority=%2F%3FJOIN---PLANB_PROXY&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20by%20PlanB%20Proxy
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?security=&encryption=none&type=grpc#v2raynplus |
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.103-0220
 trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.55-1689
 trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.55-0218
 trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshawk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.76-0335
 trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls&sni=funky-platypus.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.54-0330
-trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?allowInsecure=1#14%7CPL_speednode_0030
-trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?allowInsecure=0#14%7CPL_speednode_0032
+vless://a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0@45.130.125.160:2096?mode=auto&amp%3Bpath=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bextra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&amp%3Binsecure=0&amp%3Bhost=sub-13wl9jvfag-mihansa2.data-recive.ir&amp%3Btype=xhttp&amp%3BallowInsecure=0&amp%3Bsni=sub-13wl9jvfag-mihansa2.data-recive.ir#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20%40vpnplusee_free%20%231
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?allowInsecure=0&sni=outgoing-ladybird.rooster465.autos#PL-62.112.222.103-0220
 trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?allowInsecure=0&sni=fluent-stingray.crayfish192.xyz#PL-62.112.222.55-0218
 trojan://WF42809561@top-goshawk.rooster465.autos:443?allowInsecure=0&sni=top-goshawk.rooster465.autos#PL-62.112.222.76-0335
@@ -19,6 +20,3 @@ trojan://WF42809561@top-goshawk.rooster465.autos:443?allowInsecure=0&sni=top-gos
 trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?allowInsecure=0&sni=fluent-stingray.crayfish192.xyz#PL-62.112.222.55-1689%202
 trojan://WF42809561@62.112.222.76:443?allowInsecure=0&sni=top-goshawk.rooster465.autos#PL-62.112.222.76-1619
 vmess://eyJ2IjoiMiIsInBzIjoi5rOi5YWwIC0g5Y2O5rKZIC0gMiIsImFkZCI6IjE0Ni41OS4xMTguMTgyIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiIwYjcyZjRmNy01NWYzLTRkODMtOTJhZS1lMzkxZjY1MjNmNDQiLCJhaWQiOiIwIiwibmV0IjoiaHR0cCIsInBhdGgiOiIvIiwiaG9zdCI6IjE0Ni41OS4xMTguMTgyIiwidGxzIjoiIn0=
-vless://b272917b-d154-423d-cdbe-9627f6099472@213.176.65.115:8501?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%92%A5Free_Netplus%20%F0%9F%92%A5
-vmess://eyJhZGQiOiJpcmFuLmFpdGVhbXBsdXMuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZhcnplc2gzLmNvbSIsImlkIjoiOGQwMDA4NzUtZGIyZS00NWE1LThlY2MtYzM3NmZkODQ3MmI3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MSIsInBzIjoi4pyF2LPYsdmI2LHZh9in24zYqNuM2LTYqtix2K/Ysdqp2KfZhtin2YQ6cHJyb2ZpbGVfcHVycGxlQOKchSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-vless://Telegram-BLuev2rayng--joine1@www.speedtest.net:8080?path=/Telgram%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=5.WwW.SpeedTEST.NEt.zULa.IR.shopShirvAn.IR.&amp%3Btype=ws#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40kopltall_vpn%20%232
