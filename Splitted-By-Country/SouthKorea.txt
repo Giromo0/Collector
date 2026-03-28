@@ -1,6 +1,9 @@
-trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.140.83-0202
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.131.34-0257
-vless://e8add82d-0a0a-4f3b-a22e-c74f83da73b9@afrcloud22.mmv.kr:443?path=%2F138.2.64.229%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%40v2_mod_shop%F0%9F%9A%80
+vless://6eeb820e-89ef-4b60-9060-ddcaea0580f0@krp01.jumperservice.com:19001?allowInsecure=0&sni=addons.mozilla.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#KR_speednode_0017
+trojan://trojan@211.110.32.47:20000?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#KR_speednode_0021
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@121.152.61.147:11371?allowInsecure=0&sni=snippet.fgfw.de5.net&type=ws&host=snippet.fgfw.de5.net&path=/danfengfp=chrome&security=tls#KR_speednode_0025
+vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@140.238.11.149:2443?allowInsecure=0&sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#KR_speednode_0027
+trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.34.140.83-0209
+trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&sni=glowing-deer.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-54.180.131.34-0266
 vmess://eyJ2IjoiMiIsInBzIjoiX+mfqeWbvSIsImFkZCI6ImNodW5jaGVvbjAzLnpnam9rLmNvbSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiODFkNWNhYzQtZDAzOS00ODc0LTlhMjAtYzM5MWY1ODAwMTJkIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiY2h1bmNoZW9uMDMuemdqb2suY29tIiwidGxzIjoidGxzIn0=
 trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=0&sni=select-marmoset.rooster465.autos#KR-3.34.140.83-0204
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?allowInsecure=0&sni=glowing-deer.rooster465.autos#KR-54.180.131.34-0253
@@ -9,3 +12,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi6Z+p5Zu9IC0g5pil5bed5biCIC0gMSIsImFkZCI6ImNodW5jaGVv
 vmess://eyJ2IjoiMiIsInBzIjoi6Z+p5Zu9IC0g5pil5bed5biCIC0gMiIsImFkZCI6ImNodW5jaGVvbjAyLnpnam9rLmNvbSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDFhMWNiOTEtMGYxZi00MWViLWEzMDctNjMxYmJhMDBmMWJiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiY2h1bmNoZW9uMDIuemdqb2suY29tIiwidGxzIjoidGxzIn0=
 trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=0&sni=select-marmoset.rooster465.autos#KR-3.34.140.83-0204%202
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?allowInsecure=0&sni=glowing-deer.rooster465.autos#KR-54.180.131.34-0253%202
+vmess://eyJhZGQiOiI4MC45Mi4yMDQuMjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI1NDM3NzU0OS1hZGIzLTQ3OTUtYmRkZi0yOWQ0NDg2MmM3OTYiLCJuZXQiOiJrY3AiLCJwYXRoIjoiVzBUQ1NidndLNyIsInBvcnQiOiIxNDk4NCIsInBzIjoidC5tZS9zaGFkb3dsaW5rc2VydmVyciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
