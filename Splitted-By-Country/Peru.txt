@@ -1,7 +1,2 @@
-vless://%50a%72sa%73%68%6fna%6d-Bot-37@104.17.147.22:8080?type=grpc&serviceName=
-vless://453c3861-eaf4-4c60-94e0-e57a2c9d2fcf@bouquetberlin.org:8443?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=bouquetberlin.org&fp=chrome&type=ws&allowInsecure=0#%40v2_mod_shop%F0%9F%9A%80
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.102.207.120:443?allowInsecure=1&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=/security=tls#US_speednode_0022
-vless://18e35ca4-4b6e-43dd-9c28-b3ef89966821@mlh.mynethub99.top:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mlh.mynethub99.top#%F0%9F%94%B0%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vless://a93a8999-82bf-46ff-86a9-fba981f35cdc@85.9.104.8:62727?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%B0%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vless://f2032be3-a30f-4ba0-9f18-7abc10f4a25e@www.p4free.site:28254?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%B0%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&amp;security=&amp;encryption=none&amp;host=melovy.ir&amp;type=ws#
+vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?allowInsecure=1&sni=sub.mot.ip-ddns.com&type=ws&host=sub.mot.ip-ddns.com&path=/security=tls#DE_speednode_0006
+vless://00000000-0000-4000-8000-000000000000@106.255.89.151:30035?allowInsecure=0&sni=sub.mot.ip-ddns.com&type=ws&host=sub.mot.ip-ddns.com&path=/fp=chrome&security=tls#KR_speednode_0011
