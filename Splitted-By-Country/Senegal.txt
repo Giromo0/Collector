@@ -1,1 +1,2 @@
-hysteria2://auth@65.109.178.92:443?insecure=1&alpn=h3&sni=cdn.cloudflare.com#%40Hddify
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.190.236.144:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#_%E8%8D%B7%E5%85%B0%206
+hysteria2://auth@65.109.178.92:443?insecure=1&sni=cdn.cloudflare.com&alpn=h3&fastopen=1&up=150&down=300#@Hddify
