@@ -1,15 +1,2 @@
-vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?allowInsecure=1&sni=sub.mot.ip-ddns.com&type=ws&host=sub.mot.ip-ddns.com&path=/security=tls#DE_speednode_0006
-trojan://strong-secret-pass-777@103.231.73.181:4443?allowInsecure=1#MD_speednode_0012
-trojan://trojan@136.244.105.89:82?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#NL_speednode_0013
-trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#NL_speednode_0015
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.102.207.120:443?allowInsecure=1&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=/security=tls#US_speednode_0022
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.155:443?allowInsecure=0&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=/security=tls#US_speednode_0027
-vless://a93a8999-82bf-46ff-86a9-fba981f35cdc@85.9.104.8:62727?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%B0%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vless://cc29b4c8-f8c5-4d1b-b553-798fbe60e937@151.101.2.219:80?security=none&amp;sni=speedtest.net&amp;type=ws&amp;host=alf17.ir&amp;path=/
-trojan://telegram-id-privatevpns@52.47.75.88:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-vless://00000000-0000-4000-8000-000000000000@106.255.89.151:30035?&security=tls&fp=chrome&sni=sub.mot.ip-ddns.com&type=ws&headerType=none&host=sub.mot.ip-ddns.com&path=%2Ffp%3Dchrome#KR_speednode_0011
-trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#NL_speednode_0015%202
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.102.207.120:443?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=%2F#US_speednode_0022%202
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.155:443?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=%2F#US_speednode_0027%202
-trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#NL_speednode_0015%203
 trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#14%7CNL_speednode_0015%202
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=%2F#NL_speednode_0014
