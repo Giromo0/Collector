@@ -1,13 +1,5 @@
-vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=%2FTel-%40%56%32%72%61%79%5f%41%6c%70%68%61&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#[
 trojan://trojan@152.53.200.98:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#AT_speednode_0002
-trojan://71165393-5252-4fea-ac96-c36b508720c8@hk07.jsytongxin.com:44302?allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#CN_speednode_0004
-trojan://71165393-5252-4fea-ac96-c36b508720c8@jp14.jsyjiedian8.com:39204?allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#CN_speednode_0005
-vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?allowInsecure=1&sni=sub.mot.ip-ddns.com&type=ws&host=sub.mot.ip-ddns.com&path=/security=tls#DE_speednode_0006
-vless://1a8c4353-8aa9-4038-99a8-b613ad47000e@hke01.jumperservice.com:19001?allowInsecure=0&sni=www.speedtest.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#NN_speednode_0016
-vless://9768f14f-a790-4c78-b1d9-60cc0e9d99a0@217.114.11.246:443?allowInsecure=0&sni=max.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0017
-vless://18e35ca4-4b6e-43dd-9c28-b3ef89966821@mlh.mynethub99.top:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mlh.mynethub99.top#%F0%9F%94%B0%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vless://a93a8999-82bf-46ff-86a9-fba981f35cdc@85.9.104.8:62727?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%B0%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vless://f2032be3-a30f-4ba0-9f18-7abc10f4a25e@www.p4free.site:28254?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%B0%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#14%7CNL_speednode_0015
-vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?type=ws&amp;path=%2F&amp;host=&amp;security=none#s565-229065
-vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=%2Fwebsocket&amp;security=tls&amp;encryption=none&amp;host=de02.abvpn.ru&amp;type=ws&amp;sni=de02.abvpn.ru#7
+hysteria2://auth@65.109.178.92:443?insecure=1&sni=cdn.cloudflare.com&alpn=h3&fastopen=1&up=150&down=300#@Hddify
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C_%D9%85%D9%84%DB%8C
+vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@152.53.200.241:8443?&security=tls&fp=chrome&sni=edt2.btxst.eu.cc&type=ws&headerType=none&host=edt2.btxst.eu.cc&path=%2Fchannels#_%E5%A5%A5%E5%9C%B0%E5%88%A9
