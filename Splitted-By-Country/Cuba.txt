@@ -1,9 +1,4 @@
-vless://f74d98a4-9198-4f78-b921-47d4f4950953@185.236.26.58:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=de3.teleport.lat#%40v2_mod_shop%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA
-vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%91%80
-trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#_%E8%8D%B7%E5%85%B0%202
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40v2rayan
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=%2FTelegram8%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=ipsycho.suex12.ir&amp;fp=randomized&amp;type=ws&amp;sni=ipsychO.SUEx12.Ir#8
-trojan://telegram-id-privatevpns@13.36.214.151:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@13.37.25.182:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@13.37.130.107:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@13.36.242.117:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A59
+vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@188.166.17.13:2053?&security=tls&fp=chrome&sni=edt2.btxst.eu.cc&type=ws&headerType=none&host=edt2.btxst.eu.cc&path=%2Fprograms%2Fchannels%2Fdocument#_%E8%8D%B7%E5%85%B0%206
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.238:2096?&security=tls&fp=chrome&sni=sni.jpmj.dev&type=ws&headerType=none&host=sni.jpmj.dev&path=%2F#_%E7%91%9E%E5%A3%AB
+trojan://WF42809561@nearby-muskrat.rooster465.autos:443?allowInsecure=0&sni=nearby-muskrat.rooster465.autos#HK-185.14.47.88-0226%202
