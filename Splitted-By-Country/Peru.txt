@@ -1,5 +1,11 @@
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@175.199.169.221:50006?allowInsecure=0&sni=snippet.fgfw.de5.net&alpn=http/1.1&type=ws&host=snippet.fgfw.de5.net&path=/danfengfp=random&security=tls#KR_speednode_0021
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.56:443?allowInsecure=0&sni=snippet.danfeng.kozow.com&type=ws&host=snippet.danfeng.kozow.com&path=/danfeng?ed=2560security=tls#US_speednode_0035
+vless://43e322c8-e044-4625-a560-9bfec45e0eae@37.221.125.16:8443?allowInsecure=0&sni=yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#GB_speednode_0009
+vless://43e322c8-e044-4625-a560-9bfec45e0eae@91.132.142.69:8443?allowInsecure=0&sni=yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#GR_speednode_0011
+vless://455fc271-3ee2-493b-8c75-9324b4851e2f@krp01.jumperservice.com:19001?allowInsecure=0&sni=addons.mozilla.org&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#KR_speednode_0018
+vless://9768f14f-a790-4c78-b1d9-60cc0e9d99a0@217.114.11.246:443?allowInsecure=0&sni=max.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0031
+vless://ee740b72-87f6-45e4-a680-85d8d1cc3df1@194.36.39.144:8443?allowInsecure=0&sni=rbc.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0058
+vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83&type=raw&headertype=none#[
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.131:443?&security=tls&fp=chrome&sni=snippet.danfeng.kozow.com&type=ws&headerType=none&host=snippet.danfeng.kozow.com&path=%2Fdanfeng#US_speednode_0023
-vless://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:43229?&security=reality&flow=xtls-rprx-vision&pbk=JzUmS6a7nFt54YhvIe-KE31-W8WWJxcgQJt_q_-HbSQ&sid=e0a48d60&fp=chrome&sni=apple.com&type=tcp&headerType=none&path=%2F#US_speednode_0029
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@118.40.112.188:22222?&security=tls&fp=chrome&sni=snippet.danfeng.casacam.net&type=ws&headerType=none&host=snippet.danfeng.casacam.net&path=%2Fdanfeng#KR_speednode_0017
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.56:443?&security=tls&fp=chrome&sni=snippet.danfeng.kozow.com&type=ws&headerType=none&host=snippet.danfeng.kozow.com&path=%2Fdanfeng#US_speednode_0024
+trojan://telegram-id-privatevpns@13.36.242.117:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@51.44.121.226:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@15.237.136.31:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
