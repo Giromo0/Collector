@@ -1,9 +1,4 @@
-trojan://trojan@152.53.45.251:8888?allowInsecure=0&sni=jflsjlaf.pages.dev&ws=1&wspath=%25252F#AT-152.53.45.251-0822
-trojan://trojan@152.53.200.167:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&ws=1&wspath=%25252F#AT-152.53.200.167-0818
-trojan://trojan@152.53.200.167:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&ws=1&wspath=%25252F#AT-152.53.200.167-0818%202
-trojan://trojan@152.53.45.251:8888?allowInsecure=0&sni=jflsjlaf.pages.dev&ws=1&wspath=%25252F#AT-152.53.45.251-0822%202
-trojan://auto@172.66.45.2:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&host=dcf741e8.epeius-2gy.pages.dev#@VIProxysvless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.175:80?security=none&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#@VIProxysss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.175:80?security=none&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed#@VIProxys
-trojan://telegram-id-privatevpns@15.188.43.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@52.47.95.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#%E2%9A%A1%E2%9A%A19
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.29:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&path=/XIXVPN?ed=2560#[🇦🇹]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@63.179.68.209:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
+trojan://telegram-id-privatevpns@15.237.136.31:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
+trojan://telegram-id-privatevpns@15.236.83.234:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%232
