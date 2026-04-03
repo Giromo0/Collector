@@ -1,5 +1,1 @@
-trojan://telegram-id-privatevpns@15.236.83.234:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
-trojan://telegram-id-privatevpns@35.181.201.33:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@3.72.196.114:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&sni=147135001195.sec22org.com&type=tcp&fp=chrome#[
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#[
+vmess://eyJ2IjoiMiIsInBzIjoiSEstMjE5Ljc5LjM3LjIxOS0wMjQyIiwiYWRkIjoiY2VmOTFkN2EtdDcwZjQwLXRvOHhuMy1sNG52LmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIxNDY5ZTA5ZS0wMjdjLTExZWMtYTBmYy1mMjNjOTEzYzhkMmIiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJjZWY5MWQ3YS10NzBmNDAtdG84eG4zLWw0bnYuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwidGxzIjoiIn0=
