@@ -1,5 +1,11 @@
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.165.136:59124?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#JP🇯🇵
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#JP🇯🇵
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.72.205:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.205-0275
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.85.33:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.85.33-0270
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.72.205:4937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.205-0267
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.132.38:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.132.38-0268
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:4937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0279
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0280
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.85.33:4380?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.85.33-0784
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.132.38:3057?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.132.38-0375
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.72.205:4937?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.72.205-0630
@@ -24,9 +30,10 @@ trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.85.33:4674?allowInsecure=0&sni=
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.132.38:3057?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.132.38-0268%202
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:3057?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.106.99-0272%202
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:4674?allowInsecure=0&sni=www.nintendogames.net#JP-160.16.106.99-0287%202
-trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.72.205:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.205-0275
-trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.124.17:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.17-0269
-trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:4937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0279
-trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0280
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTk5LjE1LjcwOjQ0Mw==#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC_6
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=kuame.missionsec.us#Japan%20Klayer%20LLC
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Japan%20NTT%20Pc
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTEiLCJhZGQiOiIxNjEuMjQ4LjMwLjMiLCJwb3J0IjoiMjAwODYiLCJpZCI6IjEwMDZhOTI4LTIwMjEtNGEzYi1iZWI1LWQ1ODUzYzYyODFjNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTEifQ==
+trojan://BxceQaOe@18.182.5.125:1783?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
+trojan://187dda4498be9ac4f28db939d5940185@13.192.235.255:4937?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTM0NzA1Ny03YWY1LTQ1NjItYjkxMi1mMWMyMTdjNGMxNjBAaG50LmNuZG5zLnNob3A6Mjc3NjY=#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6vmess://eyJhZGQiOiIxODUuMTYyLjIyOC4yMjkiLCJ2IjoyLCJwcyI6IvCfh6bwn4eyX0FNX+S6mue+juWwvOS6mi0+8J+HuvCfh7hfVVNf576O5Zu9IiwicG9ydCI6NDQzLCJpZCI6IjU2YTIxODhiLTJhYjctNDAyYy1iOWI4LTM0ODQ3ZmRmMDk1OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInBhdGgiOiIvNVFOUk9TUlYiLCJob3N0Ijoib3BsZzEuemh1amljbjIuY29tIn0=ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDg1LjIwOC4xMDguNjA6ODg4Mg==#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%ACvmess://eyJhZGQiOiIxOTguNDEuMjAzLjYiLCJ2IjoyLCJwcyI6ImRlZmF1bHRfbmFtZSIsInBvcnQiOjQ0MywiaWQiOiIyYjIxNDEyMi0xOTA2LTQyOGEtYmJiNy1hMDM5Y2JiN2NkNWMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiLzlKWkZEVEtFIiwiaG9zdCI6ImZyMS50cnVtcDIwMjMub3JnIn0=------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
