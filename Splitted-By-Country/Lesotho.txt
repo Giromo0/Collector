@@ -1,8 +1,2 @@
-trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%E6%9C%AA%E7%9F%A534
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Outline_ir
-vless://99bd2791-8e27-435b-a1e2-c9b625101af9@64.188.73.12:443?security=reality&encryption=none&pbk=PJQxY2FFwn9nXutKZx1t9TcMnRjqXpBAnIDB5jvwEAU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=d91248fbca#%40v2_mod_shop%F0%9F%9A%80
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.21:7443?&security=tls&fp=chrome&sni=2026.hhhhh.eu.org&type=ws&headerType=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.21%3A7443#HK_c0d86_0041
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.238.189.89:39738?&security=tls&fp=chrome&sni=snippet.danfeng.dedyn.io&type=ws&headerType=none&host=snippet.danfeng.dedyn.io&path=%2Fdanfeng#_%E7%91%9E%E5%A3%AB%202
-vless://26524cce-d514-4014-a426-365fb266a14d@162.159.60.59:443?&security=tls&fp=chrome&sni=snippet.danfeng.com.cfd&type=ws&headerType=none&host=snippet.danfeng.com.cfd&path=%2Fdanfeng%3Fed%3D2560#_%E6%9C%AA%E7%9F%A5%2075
-vless://26524cce-d514-4014-a426-365fb266a14d@103.106.228.126:2053?&security=tls&fp=chrome&sni=snippet.danfeng.com.cfd&type=ws&headerType=none&host=snippet.danfeng.com.cfd&path=%2Fdanfeng%3Fed%3D2560#_%E6%97%A5%E6%9C%AC%2013
-vless://26524cce-d514-4014-a426-365fb266a14d@168.138.165.174:443?&security=tls&fp=chrome&sni=snippet.fgfw.loc.cc&type=ws&headerType=none&host=snippet.fgfw.loc.cc&path=%2Fdanfeng%3Fed%3D2560#_%E6%96%B0%E5%8A%A0%E5%9D%A1%209
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%40v2_mod_shop%F0%9F%9A%80%F0%9F%87%B3%F0%9F%87%B1
+vless://26524cce-d514-4014-a426-365fb266a14d@210.231.178.90:443?&security=tls&fp=chrome&sni=snippet.danfeng.com.cfd&type=ws&headerType=none&host=snippet.danfeng.com.cfd&path=%2Fdanfeng%3Fed%3D2560#_%E6%97%A5%E6%9C%AC%2014
