@@ -1,5 +1,15 @@
-trojan://humanity@188.114.98.0:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#%20`
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.58.40.177:8443?allowInsecure=1&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=/security=tls#DE_speednode_0006
+trojan://telegram-id-privatevpns@51.44.87.80:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@35.181.252.180:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+vless://43488128-319e-f480-64ea-0acdc712e2a8@45.82.254.107:443?allowInsecure=0&sni=www.booking.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#CY_speednode_0004
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.221.152.21:443?allowInsecure=0&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=/?ed=2560fp=chrome&security=tls#FR_speednode_0008
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.52:7443?allowInsecure=0&sni=2026.hhhhh.eu.org&type=ws&host=2026.hhhhh.eu.org&path=/222.167.202.52:7443security=tls#HK_speednode_0015
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.45:7443?allowInsecure=0&sni=2026.hhhhh.eu.org&type=ws&host=2026.hhhhh.eu.org&path=/222.167.202.45:7443security=tls#HK_speednode_0016
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.10:7443?allowInsecure=0&sni=2026.hhhhh.eu.org&type=ws&host=2026.hhhhh.eu.org&path=/222.167.202.10:7443security=tls#HK_speednode_0017
+vless://d6cbf3e4-b7ca-a4b2-0b04-eacbdc28bc5a@188.132.184.148:8443?allowInsecure=0&sni=greenpepper.ir&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#TR_speednode_0028
+trojan://telegram-id-privatevpns@18.156.97.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#یام‌یام
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C_%D9%85%D9%84%DB%8C
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.10:7443?&security=tls&fp=chrome&sni=2026.hhhhh.eu.org&type=ws&headerType=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.10%3A7443#HK_speednode_0017
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.2:7443?&security=tls&fp=chrome&sni=2026.hhhhh.eu.org&type=ws&headerType=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.2%3A7443#HK_speednode_0013
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.50:7443?&security=tls&fp=chrome&sni=2026.hhhhh.eu.org&type=ws&headerType=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.50%3A7443#HK_speednode_0022
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.33:7443?&security=tls&fp=chrome&sni=2026.hhhhh.eu.org&type=ws&headerType=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.33%3A7443#HK_speednode_0023
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.23:7443?&security=tls&fp=chrome&sni=2026.hhhhh.eu.org&type=ws&headerType=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.23%3A7443#HK_speednode_0024
