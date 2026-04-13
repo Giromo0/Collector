@@ -1,2 +1,3 @@
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=y6-3cj.PAgES.DEV&amp;type=ws&amp;sni=y6-3cj.PAgES.DEV#vip_vpn_2022
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#CR🇨🇷
+vless://fd9a715b-340f-45d8-9296-c172e413bb87@arvancloud.ir:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=ai.faloweram.ir&amp;type=ws&amp;allowInsecure=0&amp;sni=ai.faloweram.ir#%F0%9D%97%A2%F0%9D%97%A5%F0%9D%97%AC%F0%9D%97%AB
+vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.conf…
