@@ -1,13 +1,13 @@
-vless://Telegram-Parsashonam@188.114.96.3:443?path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=ws&allowInsecure=0&sni=test.atlasw.ir#%40Parsashonam-14%3A55
+vmess://eyJhZGQiOiJjaGFubmVsLmRvbGxhcmRvb24uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjRhYzM5ZThhLTZkNWMtNDhiYi1iMGQwLWY2MzNjODI5MTEzZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU3MDkiLCJwcyI6IvCfn6Pwn5SlINqp2KfZhtmB24zZhtqvICDYp9iu2KrYtdin2LXbjCBAUGFyc2lWMnJheSDZvtixINiz2LHYudiqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiI0My4xOTkuMjQuMjQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzYi56aHVhbnNodS5jb20iLCJpZCI6ImNjMTAxZmYxLTM0NTItNDFjMy04OWZlLWMyYTVhMjBkYzZkYyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjMwMDAiLCJwcyI6IvCfn6Pwn5SlINqp2KfZhtmB24zZhtqvICDYp9iu2KrYtdin2LXbjCBAUGFyc2lWMnJheSDZvtixINiz2LHYudiqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=swdist.apple.com&amp;sid=232c6f7b520b89&amp;fp=ios&amp;pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&amp;spx=/WrlEujUojrpP7Bk&amp;headerType=none#Japan+AWS
+trojan://BxceQaOe@52.194.222.108:3022?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://868ecdaf6aed618ec98cf78585672b2b@13.231.134.78:4937?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+trojan://BxceQaOe@52.194.222.108:6313?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
+trojan://BxceQaOe@3.112.196.41:6313?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
 trojan://BxceQaOe@52.194.222.108:3022?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-trojan://868ecdaf6aed618ec98cf78585672b2b@13.231.134.78:4937?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+trojan://868ecdaf6aed618ec98cf78585672b2b@43.207.115.26:9201?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://868ecdaf6aed618ec98cf78585672b2b@43.207.115.26:4674?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://BxceQaOe@16.162.119.43:25675?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://868ecdaf6aed618ec98cf78585672b2b@43.207.115.26:4019?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
-vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?type=ws&amp;path=%2F&amp;host=&amp;security=none#s565-229065
-trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=kuame.missionsec.us#Japan%20Klayer%20LLC
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCJhZGQiOiJ2MTAuaGRhY2QuY29tIiwicG9ydCI6IjMwODA3IiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJ2MTAuaGRhY2QuY29tIiwidGxzIjoiIn0=
-trojan://868ecdaf6aed618ec98cf78585672b2b@43.207.115.26:9201?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://BxceQaOe@16.162.119.43:25675?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-vless://bb32b8af-7dd5-454c-8abc-fe6b0ce6fe9d@104.18.16.56:443?encryption=none&security=tls&sni=aref.cafearef.ir&alpn=h2,http/1.1&fp=chrome&type=ws&host=aref.cafearef.ir&path=/aref#𝐓𝐞𝐥 : 𝐒𝐭𝐚𝐫𝐥𝐢𝐧𝐤_𝐯𝐢𝐩
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#KingRezaPahlavi
-vless://6479e444-f0b1-4bfb-963d-ce1e04e8b159@v.abolfazlsafeti.top:46801?type=ws&security=none&path=%2F#%D9%88%DB%8C%DA%98%D9%87لینک برای ویپی ان nv پولیه بزنید جدیده✅
+trojan://868ecdaf6aed618ec98cf78585672b2b@13.231.134.78:3057?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
