@@ -1,14 +1,12 @@
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5Y+w5rm+fEByaXBhb2ppZWRpYW4iLCJhZGQiOiJ0dzUzXzIuY293dnBuLnNwYWNlIiwicG9ydCI6IjExNjEyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjBiZjFjZWFkLWJkZDQtNDY5Mi1iM2Q0LTY4NjZjY2I5ZjM3YSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IndzNTNfMi5iYWlkdS5jb20iLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysNHxAcmlwYW9qaWVkaWFuIiwiYWRkIjoianAyNDhfMi5jb3d2cG4uc3BhY2UiLCJwb3J0IjoiMTE2MTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiMGJmMWNlYWQtYmRkNC00NjkyLWIzZDQtNjg2NmNjYjlmMzdhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0Ijoid3MyNDhfMi5iYWlkdS5jb20iLCJ0bHMiOiIifQ==
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#%F0%9F%87%AB%F0%9F%87%B7%F0%9F%97%BC%20Paris
-trojan://868ecdaf6aed618ec98cf78585672b2b@13.114.50.40:4674?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://BxceQaOe@16.162.191.83:44386?allowInsecure=1&sni=t.me%2Fripaojiedian#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
-trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A520
-trojan://8r<[9'l6hAO#8ZQi@104.18.16.56:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#@Spartan_YT
-trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#All-@V2ray_Alpha
-trojan://BxceQaOe@3.112.196.41:6313?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
-vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C_%D9%85%D9%84%DB%8C
+trojan://868ecdaf6aed618ec98cf78585672b2b@52.194.218.62:4674?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://BxceQaOe@95.40.88.248:28033?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+vless://e8add82d-0a0a-4f3b-a22e-c74f83da73b9@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F138.2.64.229%3D443#%40v2_mod_shop%F0%9F%9A%80
+trojan://868ecdaf6aed618ec98cf78585672b2b@52.194.218.62:4674?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+vmess://eyJ2IjogIjIiLCAicHMiOiAi5Y+w5rm+fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInR3NTNfMi5jb3d2cG4uc3BhY2UiLCAicG9ydCI6ICIxMTYxMiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjBiZjFjZWFkLWJkZDQtNDY5Mi1iM2Q0LTY4NjZjY2I5ZjM3YSIsICJzbmkiOiAiIiwgImhvc3QiOiAid3M1M18yLmJhaWR1LmNvbSIsICJwYXRoIjogIi8ifQ==
+trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&type=ws&sni=xo.e0f.cx&path=/trojan-ws&host=xo.e0f.cx#%E6%9C%AA%E7%9F%A529
+trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#1و بعد وصل کنید به صورت معمول مرجع اصلی : @patterniha خیلی ممنون هستیم ازش ، به امید ادامه دار بودن مسیر ❤️‌‌@hamedvpns ☑️لایک   |   Like 👍❤️اشتراک بزارین   |   Share ⭐
+vless://b64248df-8f98-400c-9c7b-01081a3fa99f@172.64.152.23:443?encryption=none&security=tls&sni=fbi1.amirkaj.com&type=ws&host=fbi1.amirkaj.com&path=/#𝐓𝐞𝐥 : 𝐒𝐭𝐚𝐫𝐥𝐢𝐧𝐤_𝐯𝐢𝐩 🚀
+vless://f07e31fb-7491-450a-921f-b99400d34796@snapp.ir:80?path=/?ed=2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#Rz
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Japan%20NTT%20Pc
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#KingRezaPahlavi
-vless://8d5e71e6-1c60-4084-b573-a343879c9380@104.18.16.56:8080?path=%2F&amp;security=none&amp;encryption=none&amp;host=aref.tsabad.com&amp;type=ws#%40vip_vpn_2022
-trojan://BxceQaOe@58.152.25.253:443?allowInsecure=1#_CN_%E4%B8%AD%E5%9B%BD%E4%B8%A8yoyapai.com
-trojan://BxceQaOe@58.152.25.253:443?allowInsecure=1&sni=t.me/ripaojiedian#%E9%9F%A9%E5%9B%BD%E4%B8%A8yoyapai.com
+vless://d46056cf-da4e-4426-a3e4-39fcbfefa112@63.141.128.188:443?&security=tls&fp=chrome&sni=d2-us4.djwstlsweb.top&type=ws&headerType=none&host=d2-us4.djwstlsweb.top&path=%2Fdjjc%2Fus4#%E4%B8%8D%E9%99%90%E9%80%9F
