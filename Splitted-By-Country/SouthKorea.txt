@@ -1,4 +1,5 @@
-trojan://trojan@152.53.60.198:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
-vless://820409af-997a-41c4-9e51-46f373951a39@144.24.74.102:50911?allowInsecure=0&sni=www.iij.ad.jp&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#KR_speednode_0010
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=Pulavpn11.afrcloud22.mmv.kr#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
+hysteria2://820409af-997a-41c4-9e51-46f373951a39@144.24.74.102:50914?insecure=1&sni=www.bing.com#KR-Oracle_Cloud_2
 vless://820409af-997a-41c4-9e51-46f373951a39@144.24.74.102:50911?&security=reality&flow=xtls-rprx-vision&pbk=RGQRcZVfFRt6ioLDvH7HOicOXJcwonHFVqOgbix2w3w&fp=chrome&sni=www.iij.ad.jp&type=tcp&headerType=none&path=%2F#KR_99705_0010
-vmess://eyJhZGQiOiJzY2hlcmV0ZXN0MDEuc29iaHNlcGlkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6InNjaGVyZXRlc3QwMS5zb2Joc2VwaWQuY29tIiwiaWQiOiIzZGYyNzBkZi0zZTgwLTUzMTUtOGY0Yy1iY2VmYzg2ZGUzNzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpMDEiLCJwb3J0IjoiNDQzIiwicHMiOiJ0ZWxlZ3JhbSBAc2hhZG93bGlua3NlcnZlcnIiLCJzY3kiOiJhdXRvIiwic25pIjoiZjBjNmQzNTQtYjllMC0xMWVkLWIxMjUtNWUxMjIyMGFjNTJhLnNvYmhzZXBpZC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://820409af-997a-41c4-9e51-46f373951a39@144.24.74.102:50911?allowInsecure=0&sni=www.iij.ad.jp&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#KR_speednode_0010
+trojan://trojan@152.53.60.198:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
