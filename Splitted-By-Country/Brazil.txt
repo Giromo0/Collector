@@ -1,4 +1,4 @@
+vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@104.18.12.149:443?path=%2F&security=tls&encryption=none&host=labeller.neonime83.workers.dev&type=ws&sni=labeller.neonime83.workers.dev#Filter_breaker
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&encryption=none&host=zh.hollowspot.ir&type=ws&sni=zh.hollowspot.ir#Filter_breaker
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&encryption=none&alpn=http%2F1.1&host=zh.hollowspot.ir&type=ws&sni=zh.hollowspot.ir#Filter_breaker
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&host=2026.hhhhh.eu.org&type=ws&sni=2026.hhhhh.eu.org#Filter_breaker
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#Filter_breaker
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#Filter_breaker
