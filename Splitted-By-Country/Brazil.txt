@@ -1,1 +1,2 @@
-vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@188.114.98.0:443?path=%2F&security=tls&encryption=none&alpn=http%2F1.1&host=zh.hollowspot.ir&type=ws&sni=zh.hollowspot.ir#Filter_breaker
+vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@104.18.12.149:443?path=%2F&security=tls&encryption=none&host=labeller.neonime83.workers.dev&type=ws&sni=labeller.neonime83.workers.dev#Filter_breaker
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#Filter_breaker
