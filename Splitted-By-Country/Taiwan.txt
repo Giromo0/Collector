@@ -1,8 +1,6 @@
-trojan://1234567890@77.110.116.7:443?sni=kfm-bn0.pages.dev#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#%40mkill_network%20%F0%9F%A4%8D`
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5py65Zy65o6o6I2QOmRhZmVpLmRlIOWPsOa5viAwNCIsImFkZCI6InBsYW5iLm1vamNuLmNvbSIsInBvcnQiOiIxNjYxNiIsImlkIjoiZmQwMzk4YzItMzNjOC00NWQxLWJkZjktYTk3YjU3NmNhYzQ1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJmcCI6ImNocm9tZSIsInBhdGgiOiIvJTJGIiwiaG9zdCI6IjdmMWViYWFlNDViYWRhMmIyMGRjODQ1MDEyZGRkM2E0Lm1vYmdzbGIudGJjYWNoZS5jb20ifQ==
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?insecure=1&sni=vpn-tw-001.fastervpn.world#TW_1%7C1.7MB%2Fs
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?insecure=1&fp=&sni=vpn-tw-001.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C1.7MB/s
 vless://bfa61a19-30d7-4292-89fe-e76d2dd5c5de@taipei1.ap221.com:443?allowInsecure=1&sni=taipei.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2006%20TG%3A%20%40nodpai
-vless://f6ddddaf-dfd6-4134-9dae-03b93b03d146@125.227.219.98:6235?allowInsecure=1&sni=baidu.com&type=ws&path=/xxxxhttpsecurity=tls#C%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2009%20TG%3A%20%40nodpai
+trojan://1234567890@77.110.116.7:443?sni=kfm-bn0.pages.dev#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE
+vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh7nwn4e8XSBbdm0tbm8tcmFdIFsyNjA0MjUtMTM0NzE3LjYwN10iLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOiIzNTAzNCIsInR5cGUiOiJub25lIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?insecure=1&sni=vpn-tw-001.fastervpn.world#TW_1%7C1.7MB%2Fs
 vless://bfa61a19-30d7-4292-89fe-e76d2dd5c5de@taipei1.ap221.com:443?sni=taipei.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇹🇼[openproxylist.com]vless-TW
