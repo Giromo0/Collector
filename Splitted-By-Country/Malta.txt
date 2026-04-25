@@ -1,4 +1,4 @@
 trojan://humanity@8.6.112.0:443?type=ws&security=tls&path=%2Fassignment&host=www.multiplydose.com&sni=www.multiplydose.com&allowInsecure=1#`@mtproto_proserver
-trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#@mtproto_proserver
-vless://64a09c34-fbf2-48ff-977f-8e912c8ec2fb@arvancloud.ir:80?encryption=none&type=ws&path=/ed=2048&host=cdn-7ecec1db8c-ff.apps.ir-central1.arvancaas.ir#ProxyMtpVPN-166
-vmess://eyJhZGQiOiIxNjIuMTU5LjU4Ljg4IiwiYWlkIjoiMCIsImhvc3QiOiJqcC42NTc3NjE3Lnh5eiIsImlkIjoiYTQwNmI2MTItMjZmNy00YmYwLTg2NTItODE2OTcwYTFjMTIyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiQHYycmF5Y2hhbm5lbCAgICAgICAgICDYudi22Ygg2LTbjNivIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://abe2b171-afaf-484b-93f5-005d9d50fce4@188.121.113.159:443?mode=auto&path=/&security=none&encryption=none&type=xhttp#ProxyMtpVPN-261
+vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiUHJveHlNdHBWUE4tMzY0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://b95e1161-599d-4896-952a-a2c19b294d9c@nl1.vezze.lat:2095?path=/&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=httpupgrade#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40mt_proxy%20%232
