@@ -1,1 +1,11 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.222:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#v2ray_dalghak
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560#v2ray_dalghak
+vless://b738db04-c73c-4551-b6f2-9041e93914d4@uk2.sanzone.ir:4040?encryption=none&headerType=http&host=soft98.ir&security=none&type=tcp#v2ray_dalghak
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#v2ray_dalghak
+trojan://humanity@104.18.32.37:443/?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#v2ray_dalghak
+vless://7a5aed7d-8e71-499c-a6e6-d96a204ac88f@205.237.107.192:443?type=tcp&security=reality&sni=to-do.digital&flow=xtls-rprx-vision&pbk=yAIZa8Fp4M4KR2WgH4fObtHF-JMTCxDNKNib5yIZVmU#v2ray_dalghak
+vless://11348c0f-b646-446a-bad7-b2b39c6de767@138.124.9.190:16558?security=reality&encryption=none&pbk=vDKgmefC_2JaSrrvQSsb7DU3KBeKUlXG1V0vgdjv_i4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gpuopen.com&sid=0a856e071790b1#v2ray_dalghak
+vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlfZGFsZ2hhayIsICJhZGQiOiAiODIuMTk4LjI0Ni40NiIsICJwb3J0IjogIjE4MCIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIn0=
+vless://b738db04-c73c-4551-b6f2-9041e93914d4@de2.sanzone.ir:4040?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#v2ray_dalghak
+vless://e679aa5e-fde0-4e9f-ad46-63725e1c47f3@new-de.vcfco.ir:7500?security=reality&encryption=none&pbk=8a3blVdAACDlvRA5zrdNxHLZ9boU5QkwGMkf0WwyZVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn77.com&sid=77a3a1c829040294#v2ray_dalghak
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.129:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#v2ray_dalghak
