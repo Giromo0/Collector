@@ -1,1 +1,9 @@
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.197.3:52006?security=tls&type=tcp&sni=cluster-russia-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&encryption=none#v2ray_dalghak
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.129:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%3A443&sni=sni.111000.dynv6.net&type=ws#v2ray_dalghak
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#v2ray_dalghak
+vless://2c72881c-5609-4c10-999e-6f8ce8d0c2b4@104.18.16.56:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=vsgyajsb.zahramehri.ir&fp=chrome&type=ws&allowInsecure=0&sni=vsgyajsb.zahramehri.ir#v2ray_dalghak
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#v2ray_dalghak
+vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlfZGFsZ2hhayIsICJhZGQiOiAiODIuMTk4LjI0Ni40NiIsICJwb3J0IjogIjE4MCIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIn0=
+vless://b738db04-c73c-4551-b6f2-9041e93914d4@uk2.sanzone.ir:4040?encryption=none&headerType=http&host=soft98.ir&security=none&type=tcp#v2ray_dalghak
+vless://b738db04-c73c-4551-b6f2-9041e93914d4@de2.sanzone.ir:4040?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#v2ray_dalghak
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#v2ray_dalghak
