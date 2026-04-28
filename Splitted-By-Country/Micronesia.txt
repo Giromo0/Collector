@@ -1,7 +1,4 @@
-trojan://1234567890@194.87.77.91:443?sni=kfm-bn0.pages.dev#%E6%9C%AA%E7%9F%A55
-trojan://1234567890@178.17.48.170:443?sni=kfm-bn0.pages.dev#%E6%9C%AA%E7%9F%A58
-trojan://1234567890@220.84.186.84:10000?sni=kfm-bn0.pages.dev#%E6%9C%AA%E7%9F%A518
-trojan://1234567890@220.78.7.17:18001?sni=kfm-bn0.pages.dev#%E6%9C%AA%E7%9F%A520
-trojan://1234567890@103.109.234.64:443?sni=kfm-bn0.pages.dev#%E6%9C%AA%E7%9F%A538
-trojan://1234567890@143.20.175.77:443?sni=kfm-bn0.pages.dev#%E6%9C%AA%E7%9F%A540
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.20.6.134:443?encryption=none&security=tls&sni=2026.hhhhh.eu.org&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=2026.hhhhh.eu.org&path=%2F222.167.202.31%3A7443#T.me%2FMiTiVPN%205
+trojan://1234567890@152.53.227.239:8443?sni=kfm-bn0.pages.dev#%E6%9C%AA%E7%9F%A527
 trojan://1234567890@152.53.119.132:443?sni=kfm-bn0.pages.dev#%E6%9C%AA%E7%9F%A546
+trojan://1234567890@211.184.99.67:12309?sni=kfm-bn0.pages.dev#%E6%9C%AA%E7%9F%A558
