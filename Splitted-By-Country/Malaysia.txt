@@ -1,1 +1,2 @@
-trojan://humanity@104.20.6.134:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=0#@YamYamProxy
+trojan://humanity@104.20.6.134:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#@YamYamProxy
+trojan://humanity@104.20.6.134:443?type=ws&security=tls&path=/assignment&host=www.multiplydose.com&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#@YamYamProxy
