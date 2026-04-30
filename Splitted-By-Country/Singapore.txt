@@ -1,7 +1,7 @@
-vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@openai.com:443?sni=177-e06.pages.dev&type=ws&host=177-e06.pages.dev&path=/fp=chrome&security=tls#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2002%20TG%3A%20%40nodpai
 trojan://t5x8f9w2k4m6n1p0@43.160.247.81:443?sni=vpn5.rnmcnm.com&type=ws&host=vpn5.rnmcnm.com&path=/ws#C%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2004%20TG%3A%20%40nodpai
 vless://c603d9a2-a89a-4b62-ac96-346d3b52620c@lol-sgp-0001.api.neuralrelay.stream:443?sni=hls-svod.itunes.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#C%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2005%20TG%3A%20%40nodpai
-vless://5d3edd3f-7e6a-4c3d-a00e-9723c42cb2b4@centurylink.es:2096?sni=finite-node.rtxconfigz.com&alpn=h2%2Chttp/1.1&type=ws&host=finite-node.rtxconfigz.com&path=/fp=chrome&security=tls#C%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2007%20TG%3A%20%40nodpai
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.152.23:2096?allowInsecure=0&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/tr#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.4MB/s
 vless://26524cce-d514-4014-a426-365fb266a14d@cf9.danfeng.eu.org:2096?sni=ltaeqp.cdn-assets.fgfw.indevs.in&type=ws&host=ltaeqp.cdn-assets.fgfw.indevs.in&path=/danfeng?ed=2560fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C1.0MB/s
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@store.ubi.com:443?sni=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&type=ws&host=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_3%7C1.1MB/s
@@ -10,5 +10,4 @@ trojan://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cdns.doon.eu.org:443?allowInsecure
 trojan://BxceQaOe@43.199.202.143:7337?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://69ecb45889d99f31b8ccc10bf8f76a72@160.16.106.99:3057?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 trojan://69ecb45889d99f31b8ccc10bf8f76a72@160.16.132.38:32876?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
-trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
-vless://26524cce-d514-4014-a426-365fb266a14d@34.194.141.201:443?&security=tls&fp=chrome&sni=mug.support.gfw.hidns.co&type=ws&headerType=none&host=mug.support.gfw.hidns.co&path=%2Fdanfeng%3Fed%3D2560fp%3Dchrome#D%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2012%20TG%3A%20%40nodpai
+vless://bafacd98-136a-4530-838d-4e5c51838dac@139.59.107.148:443?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=firefox&insecure=0&allowInsecure=0&ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=juzi8186.qea.ccwu.cc&path=%2Fad%2Fjuzibaipiao%3Fed%3D2560#%3E%3E%40v2ray_configs_pool%3A%3ASG
