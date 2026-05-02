@@ -1,1 +1,6 @@
-vless://c65a8a4d-1891-4b7c-9070-5e2dbb2a9a6a@data.cloud-byte.ir:8888?security=none&encryption=none&headerType=none&type=tcp#FastNetTools
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDMiLCJhZGQiOiI0Ny44My4xOC4xMCIsInBvcnQiOiIzNjk2OCIsImlkIjoiMTc2YmYxZGQtNjQ3Zi00YzA5LTg5MmUtNWY5MjIzZGM4NjE3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI0MyJ9
+vless://0bbdd35b-d7b5-42df-b93d-140ec600a3dc@185.228.236.226:80?path=/preply&security=none&encryption=none&host=app.gplance.com&type=ws#FastNetTools
+vless://0bcd8ceb-aeef-4054-9c29-72916a76e066@v2.rootmasterr.com:39586?security=none&encryption=none&headerType=none&type=tcp#FastNetTools
+vless://7c1ee44e-01d0-426c-b182-9a8a4bac346d@185.143.234.22:2082?path=/path&security=none&encryption=none&host=tr-st2.ge9.ir&type=ws#FastNetTools
+vless://7d2bf633-d194-4763-8995-ff7771934230@130.185.72.17:443?security=none&encryption=none&headerType=none&type=tcp#FastNetTools
+vless://ba559782-c9d9-4cc9-a1e9-fec690382e64@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=hn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=hn.8lack.ir#FastNetTools
