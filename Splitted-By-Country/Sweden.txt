@@ -1,11 +1,8 @@
-trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&type=ws&sni=xo.e0f.cx&path=/trojan-ws&host=xo.e0f.cx#%E6%9C%AA%E7%9F%A512
-vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@159.194.213.95:52000?allowInsecure=0&sni=ozon.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#SE_speednode_0012
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.65.79.122:2053?&security=tls&fp=chrome&sni=sni.111000.dns.army&type=ws&headerType=none&host=sni.111000.dns.army&path=%2F#%E8%8D%B7%E5%85%B0%20171
-trojan://GZOof2R1ej4yML1NxajR2frGQ@hl-freedom-1.undef.network:443?allowInsecure=1&sni=hl-freedom-1.undef.network#%E8%8D%B7%E5%85%B0%2068
+trojan://strong-secret-pass-777@45.12.146.179:4443?allowInsecure=1#45.12.146.179%3A4443
 vmess://eyJ2IjoiMiIsInBzIjoiU0UtNDYuMjQ2LjEyNi4xNTQtMTEyMSIsImFkZCI6IjQ2LjI0Ni4xMjYuMTU0IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMmZkMDc4Ni0xMDU5LTRmNjQtZDU0ZS0zZjNhNTY4YzZjNjgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 vmess://eyJhZGQiOiJzZWxsdmlwdnBuLm15aXJhbjEucHciLCJhaWQiOiIwIiwiaG9zdCI6InNuYXBwLmlyIiwiaWQiOiIwZDBjZTMwMC03NDg5LTRiNmMtYmM1YS00YWYzYTU2OTRjMGMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDg3IiwicHMiOiJ0ZXN0MUBzZWxsX3ZpcHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJzZWxsdmlwdnBuLm15aXJhbjEucHciLCJhaWQiOiIwIiwiaG9zdCI6InNuYXBwLmlyIiwiaWQiOiIzMzkwYTYzMS05MGNmLTQ4YjMtY2QxMy0zYWQ1NTlmMDE3OTYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDgzIiwicHMiOiJ0ZXN0MkBzZWxsX3ZpcHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJzZWxsdmlwdnBuLm15aXJhbjEucHciLCJhaWQiOiIwIiwiaG9zdCI6InNuYXBwLmlyIiwiaWQiOiI4YTkwYzZkNy01OGRhLTQyNDgtZDAyNC01NzRhMWQzZjMyNjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUzIiwicHMiOiJ0ZXN0M0BzZWxsX3ZpcHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-trojan://telegram-id-privatevpns@63.184.151.28:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
-trojan://8r<[9'l6hAO#8ZQi@193.219.99.159:8443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#[43456] - Telegram : @V2All
 tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&amp%3Budp_relay_mode=native&amp%3Balpn=h3%2Cspdy/3.1&amp%3Ballow_insecure=1#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20TUIC%20%7C%20%40vipv2rey%20%231
+vless://0967ffed-a71d-424c-9917-cd2bd2b5b3d9@91.107.245.32:3419?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp#v3-%E2%9C%85+%40shadowlinkserverr+-+%D8%B1%D9%81%D8%B9+%D9%81%DB%8C%D9%84%D8%AA%D8%B1
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.211.204:81?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASE
