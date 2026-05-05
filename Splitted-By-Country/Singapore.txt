@@ -1,10 +1,16 @@
-trojan://ba62c023f9bce796ae334fecb20ef7cc@13.231.182.84:2511?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://BxceQaOe@13.231.251.168:2074?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
-trojan://ba62c023f9bce796ae334fecb20ef7cc@16.163.148.1:4840?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
-vless://0deb6f9d-9ad9-4b73-ac33-f3176e7ec1f2@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
+vless://26524cce-d514-4014-a426-365fb266a14d@59.11.151.238:37020?sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfengfp=chrome&security=tls#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2002%20TG%3A%20%40nodpai
 vless://EF3507AC-123A-4A39-9B4C-7D9BD69F8913@sg1-r.link-t7.com:10036?allowInsecure=0&sni=s0.awsstatic.com&type=grpc&serviceName=update&flow=-udp443&fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.9MB/s
+vless://26524cce-d514-4014-a426-365fb266a14d@59.18.192.132:11001?allowInsecure=0&sni=n63n17.mail.sh21.eu.org&alpn=http/1.1%0A&type=ws&host=n63n17.mail.sh21.eu.org&path=/danfengfp=firefox&security=tls#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2006%20TG%3A%20%40nodpai
+vless://26524cce-d514-4014-a426-365fb266a14d@151.242.164.33:443?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfengfp=chromeflow=-udp443&security=tls#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2009%20TG%3A%20%40nodpai
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@162.159.32.11:2083?sni=kalami-eew.pages.dev&type=ws&host=kalami-eew.pages.dev&path=/fp=chrome&security=tls#C%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2027%20TG%3A%20%40nodpai
 vless://26524cce-d514-4014-a426-365fb266a14d@43.159.4.165:443?allowInsecure=0&sni=m16itazc.api-core.chinat.indevs.in&alpn=http/1.1%0A&type=ws&host=m16itazc.api-core.chinat.indevs.in&path=/danfengfp=firefox&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C4.5MB/s
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@198.41.223.162:443?&security=tls&fp=chrome&sni=kalami-eew.pages.dev&type=ws&headerType=none&host=kalami-eew.pages.dev&path=%2Ffp%3Dchrome#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2010%20TG%3A%20%40nodpai
+vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.26.3.94:8443?&security=tls&fp=chrome&sni=kalami-eew.pages.dev&type=ws&headerType=none&host=kalami-eew.pages.dev&path=%2Ffp%3Dchrome#B%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2020%20TG%3A%20%40nodpai
+vless://26524cce-d514-4014-a426-365fb266a14d@54.254.116.18:443?&security=tls&fp=chrome&sni=n63n17.mail.sh21.eu.org&type=ws&headerType=none&host=n63n17.mail.sh21.eu.org&path=%2Fdanfeng%3Fed%3D2560fp%3Dchrome#A%20-%20%F0%9F%87%B8%F0%9F%87%AC%20SG%2001%20TG%3A%20%40nodpai
+trojan://BxceQaOe@13.231.251.168:2074?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://ba62c023f9bce796ae334fecb20ef7cc@16.163.148.1:4840?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://ba62c023f9bce796ae334fecb20ef7cc@13.231.182.84:2511?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/trojan-ws&security=tls&host=&type=ws&sni=#@GozargahAzad|🇸🇬
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:222.25ms
-trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
