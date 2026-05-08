@@ -1,7 +1,3 @@
-vless://46c4bca1-3899-496c-9fd5-358fc5b08d01@85.158.110.62:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&sni=google.com#VPNKEY-Netherlands
-vless://d2d42f0d-5090-4901-bb7d-8ce85cfb8142@192.142.53.38:16529?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%28%D9%87%D9%84%D9%86%D8%AF%29
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Z%202
-vless://bdffa6a0-8da1-4f6a-aede-bcda4daa6c1f@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#TEL%3BFather_vpn
-vless://19f186ea-47b4-4392-af52-88618ccd9ae8@vip7.freepath.ir:45807?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={  "xPaddingBytes" : "100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vip7.freepath.ir#TEL;Father_vpn¹
+trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%E2%99%A0%E2%99%A62
 vless://9d0b7f4e-b0fe-42bf-a550-31b7ecb0e053@2.144.4.245:23176?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn²
-vless://9f4c3a72-a88e-4ee3-bee8-40901085a352@Tapsi.ir:8080?path=/cdn&security=none&encryption=none&host=Zp.movizdl.ir&type=ws#TEL;Father_vpn
+vless://bdffa6a0-8da1-4f6a-aede-bcda4daa6c1f@camp.nahidapp.com:443?path=/IF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#TEL;Father_vpn
