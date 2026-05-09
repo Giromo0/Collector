@@ -1,7 +1,8 @@
 vless://d94c383d-cb22-4182-a0c0-ec2bc047996e@45.12.144.89:443?security=reality&encryption=none&pbk=KTnlR0JPWc5b56rPgQhVTLMuhNgsVcq0eZWLBsespwQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=039ac6674967d725#%F0%9F%87%B1%F0%9F%87%BA%5BMav2ray%5D
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&type=tcp&sni=yahoo.com&sid=df8611c07d#lrnbymaa
-vless://156c3200-265d-4257-9fa1-45a0fd1dfcb0@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#NormanV2ray-41
-vless://c8a390d4-743a-42d3-806c-2a4c6ee8b7df@cdn3.whitepol4.ir:2052?path=/&security=none&encryption=none&type=ws#NormanV2ray-285
-vmess://eyJhZGQiOiI5NC4xMDEuMTc4LjY5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjYyNWRkMTg3LTYwYzItNDBkNS04OTlkLTBhZjdjNWMyNWE4NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjQ1Mzg0IiwicHMiOiJATWF6bmV0LVBzaXBob24tNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 vless://c93db35e-d85f-45f3-ad3d-d71037f919d5@185.83.113.134:54465?security=none&encryption=none&headerType=none&type=tcp#NormanV2ray-288
+vless://255b8da7-01c7-4cf9-a8e2-3313f73d0b8a@sr.novatechsapr.ir:80?path=/&security=&encryption=none&host=sr.novatechsapr.ir&type=ws#UnNurmal
 vless://3618297d-a934-4e04-a548-856d186ed6a7@snapp.ir:80?encryption=none&type=ws&path=/&host=biawban.yeksancloud.ir#NormanV2ray-106
+vless://57847df6-3ef1-477f-986c-c8dfb55d4160@185.143.233.235:80?path=/&security=none&encryption=none&host=d.nsa03.com&type=ws#NormanV2ray-132
+vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkpvaW4tLS12MnJheW5nemVuZGVnaW1hbWFkIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQHYycmF5bmd6ZW5kZWdpbWFtYWTwn5WK77iPIiwic2N5IjoiYXV0byIsInNuaSI6InNlcmthdC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiI5NC4xMDEuMTc4LjY5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjYyNWRkMTg3LTYwYzItNDBkNS04OTlkLTBhZjdjNWMyNWE4NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjQ1Mzg0IiwicHMiOiJATWF6bmV0LVBzaXBob24tNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
+vless://0b69e6e7-3bf4-432f-a6bf-0ae060dc53a1@snapp.ir:80?security=none&type=ws&headerType=&path=/?ed=2080&host=1.jojo.avenflow.ir#NormanV2ray-27
