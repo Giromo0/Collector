@@ -1,9 +1,3 @@
+vless://f4d8b865-a620-4e1d-802a-6bcf5a48c49e@85.158.110.62:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=sOjlAEcrubT3nuRzox3bAkQSptuLhelt7CykvSZXW3I&sni=google.com#VPNKEY-Netherlands
 vless://d2d42f0d-5090-4901-bb7d-8ce85cfb8142@192.142.53.38:16529?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%28%D9%87%D9%84%D9%86%D8%AF%29
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
-trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%E6%9C%AA%E7%9F%A521
-hysteria2://e447d628-0acb-4154-b9db-0ec5557455c3@v2sg6.stableq.top:45303?insecure=0&sni=v2sg6.stableq.top&obfs=salamander&obfs-password=v3DkmNCkTvHQOenK#%E2%9D%93Other_1%7C1.8MB/s
-vless://59bc19e5-9384-45ea-99c6-0fc412975eee@adler-1g.adelshoop.net:80?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.217.177.48:8443?path=/&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#TEL;Father_vpn
-vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IlRFTDtGYXRoZXJfdnBuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@cf.877774.xyz:443?&security=tls&fp=chrome&sni=pagescm.freen24.cc.cd&type=ws&headerType=none&host=pagescm.freen24.cc.cd&path=%2Ffile%2Fsearch%2Ffaq#185
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@47.84.95.77:443?&security=tls&fp=chrome&sni=gogo.wknm.qzz.io&type=ws&headerType=none&host=gogo.wknm.qzz.io&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%20241
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws#%3E%3E%40v2nodes%3A%3ATH
