@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-hysteria2://DBUklcvOyH@45.81.19.251:443?security=tls&insecure=1&sni=web.bale.ai#@Proxy_Vpney v+p (4)
-hysteria2://DBUklcvOyH@45.81.19.251:443?security=tls&insecure=1&sni=web.bale.ai#@Proxy_Vpney v+p (3)
 vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh6bwn4exXSBbdm0tbm8td3NdIFsyNjA1MTUtMTMwNzQ5LjIwM10iLCJhZGQiOiI0NS4xNS4xNzAuMjM3IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjgyMGQ0YjRmLTMzNTctNGRjNy05MzgxLTZlNWZkNTJiNWYzOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwiaG9zdCI6InBlbGFuZy5vcmciLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiW3ZpcOKRoF3mlrDliqDlnaExfOS9juWAjeeOhyAtIE1HIE5ldHdvcmsiLCJhZGQiOiIxNi5tYW1hbWFqZC5zaXRlIiwicG9ydCI6IjIzNjE2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjllNWRlMDg2LTk4MTgtM2QyNS04ODQ5LTgyMWRhMDQ0NjRlYSIsImFpZCI6IjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIxNi5tYW1hbWFqZC5zaXRlIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh7nwn4e8XSBbdm0tbm8tcmFdIFsyNjA1MTUtMTMwNzUzLjEzNl0iLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOiIzNTAzNCIsInR5cGUiOiJub25lIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
@@ -502,3 +500,5 @@ vless://a114d067-b900-4f60-87a5-50d4d63972b8@104.18.3.150:443?allowInsecure=1&en
 vless://a114d067-b900-4f60-87a5-50d4d63972b8@104.18.2.150:443?allowInsecure=1&encryption=none&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&path=%2F&security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@45.80.110.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@45.142.120.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://a22bff60-a40a-4250-bde2-4c660e363b47@chatgpt.com:2096?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=index.harmony702.workers.dev&path=%2Faoz8sb9opsovdegg&security=tls&sni=inDEx.HArMOnY702.workeRS.DEv&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.18.32.47:2096?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=index.harmony702.workers.dev&path=%2Faoz8sb9opsovdegg&security=tls&sni=inDEx.HArMOnY702.workeRS.DEv&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS

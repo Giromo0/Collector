@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.5.191:443?encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2053?encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.198:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.223:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&fp=chrome&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@171.22.117.29:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=%2F&security=tls&sni=sni.111000.v6.army&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
@@ -502,3 +500,5 @@ trojan://humanity@104.20.6.134:443?security=tls&amp%3Bsni=www.calmloud.com&amp%3
 vless://e9e437c2-1ee5-4f0d-ae09-4bfafc835e47@185.143.233.120:2086?path=/wp-admin%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=getasa.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_iran88%20%231
 trojan://0a9f1f5a397bd427@125.227.86.47:443?allowInsecure=1&amp%3Bsni=TG.freecodes&amp%3Balpn=h2&amp%3Btype=grpc&amp%3BserviceName=db#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%7C%20TROJAN%20%7C%20%40v2ray_free_conf%20%231
 vless://9c181be2-83de-4885-b33a-724388ff28bb@185.143.233.5:2087?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=p1.sesrsa.com&amp%3Bfp=firefox&amp%3Btype=ws&amp%3BallowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
+vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?security=tls&amp%3Bsni=pqh23v5.hiddendom.shop&amp%3Balpn=h2&amp%3Btype=grpc&amp%3Bencryption=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40v2ray_collector%20%231
+vless://c931b432-cbab-47f4-ae30-917b17e5fb1f@208.67.105.196:443?security=reality&amp%3Bsni=www.tradingview.com&amp%3Bfp=chrome&amp%3Bpbk=ameppwaxPsbMnl1d5xQ4nbkdiRLRQL7XLsFDwOv2XAY&amp%3Bsid=ba2e91d5d7be&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bencryption=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20%40v2ray_collector%20%231
