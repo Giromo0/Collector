@@ -1,3 +1,2 @@
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkNoYW5uZWwgOiBARnJlZUNvbmZpZ0ZvcllvdfCfj7Twn4+zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://bm.boulvarmoein.shop@bm.boulvarmoein.shop:2095?path=%2FTelegram%40v2rayng_76%3D%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=bm.boulvarmoein.shop&type=ws&sni=bm.boulvarmoein.shop#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%28Aruba%20Networks%29
-trojan://3f5bc61547b1f0d9@125.227.86.46:443?sni=TG.freecodes#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2004%20TG%3A%20%40nodpai
+trojan://3f5bc61547b1f0d9@125.227.86.47:443?allowInsecure=1&sni=TG.freecodes&alpn=h2&type=grpc&serviceName=db#B%20-%20%F0%9F%87%B9%F0%9F%87%BC%20TW%2002%20TG%3A%20%40nodpai
