@@ -1,16 +1,6 @@
-trojan://humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%E6%9C%AA%E7%9F%A519
-trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%E6%9C%AA%E7%9F%A529
-vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@afrcloud22.mmv.kr:443?path=%2F107.174.121.122%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%40v2_mod_shop%F0%9F%9A%80
-vless://9751a75b-b27c-4766-9e67-380599588612@afrcloud22.mmv.kr:443?path=%2F138.2.95.61%3D1111&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%40v2_mod_shop%F0%9F%9A%80
-trojan://humanity@sourceforge.net:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&fp=chrome&sni=www.calmloud.com&alpn=http/1.1#ᴍɪɢᴀ
-trojan://8r<[9'l6hAO#8ZQi@127.0.0.1:40443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#HOPE @Erfwp ⭐
-trojan://8r<[9'l6hAO#8ZQi@127.0.0.1:40443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#🫛@ProxyVPN11
-trojan://humanity@37.32.6.121:40443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@kakajanترکیبی🎖
-vless://380de414-8a0c-431b-bf20-6651c55208df@127.0.0.1:40443?mode=auto&path=/GoOgLe&security=tls&encryption=none&insecure=0&host=tom.dnstt.space&fp=chrome&type=xhttp&allowInsecure=0&sni=tom.dnstt.space#spoof
-vless://8968718e-bf35-454f-b1ce-4f622883eae1@midibznim.pesarkhob.com:8080/?type=ws&encryption=none&path=/&host=midibznim.pesarkhob.com&security=none#🩸VPNshop666
-trojan://telegram-id-privatevpns@35.181.10.101:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.17.150.224:443?&security=tls&fp=chrome&sni=pagescm.freen15.cc.cd&type=ws&headerType=none&host=pagescm.freen15.cc.cd&path=%2Falbum%2Fbt#304
-vless://53353c51-ab85-4f1d-b81c-d855a0cdeeba@213.142.132.75:443?&security=false&fp=chrome&type=ws&headerType=none&path=%2F#%E5%9C%9F%E8%80%B3%E5%85%B6%20319
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@20.6.12.145:443?&security=tls&fp=chrome&sni=sni.skylee4.cloudns.ch&type=ws&headerType=none&host=sni.skylee4.cloudns.ch&path=%2Fproxyip%3DProxyIP.CMLiussss.net#%E6%96%B0%E5%8A%A0%E5%9D%A1%20348
-vmess://eyJ2IjogIjIiLCAicHMiOiAi6Ziy6IyD5aKD5aSW5Yq/5Yqb5riX6YCPICM3IiwgImFkZCI6ICIxMjcuMC4wLjUzIiwgInBvcnQiOiAiODciLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiODg4ODg4ODgtODg4OC04ODg4LTg4ODgtODg4ODg4ODg4ODg4In0=
-trojan://8r<[9'l6hAO#8ZQi@150.136.219.11:443?sni=Koma-YT.PAGeS.Dev&allowInsecure=1&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=Koma-YT.PAGeS.Dev&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2021
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTAiLCJhZGQiOiIxMDQuMTkuMTc0LjY4IiwicG9ydCI6IjgwODAiLCJpZCI6ImU4YjE1MDBiLWU5ZTgtNTQ5Mi04MzEyLWY0ZWFkZjdkMDc2NyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Im5hc25ldC01NzEyOTk2NjcucmFoYXZhcmQzNjUuY28iLCJwYXRoIjoiL05BU05FVC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMCJ9
+vless://1a83df32-42f2-4395-97bb-1fb91822c630@185.143.233.5:443?security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=hn.8lack.ir&amp;path=/chat?ed%3D128&amp;sni=hn.8lack.ir&amp;fp=firefox&amp;alpn=h2,http/1.1#
+vless://e8add82d-0a0a-4f3b-a22e-c74f83da73b9@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F138.2.64.229%3D443#%40v2_mod_shop%F0%9F%9A%80
+vless://f74d98a4-9198-4f78-b921-47d4f4950953@185.236.26.58:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=de3.teleport.lat#%40v2_mod_shop%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C_%D9%85%D9%84%DB%8C
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1#185.228.139.247%3A4433
