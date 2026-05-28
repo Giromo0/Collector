@@ -1,5 +1,2 @@
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.18.105:443?&security=tls&fp=chrome&sni=juzi.qea.ccwu.cc&type=ws&headerType=none&host=juzi.qea.ccwu.cc&path=%2F#292
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.13.206:443?&security=tls&fp=chrome&sni=juzi.qea.ccwu.cc&type=ws&headerType=none&host=juzi.qea.ccwu.cc&path=%2F#313
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=3k.pureboy.eu.org#%40v2rayan
-vless://762ca06a-daba-4510-8533-7ba0667fb1f1@188.137.230.245:8880?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#TEHRANARGO
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?mode=stream-one&amp;path=%2Fde&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=de.lezzatzone.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=de.lezzatzone.ir#TEHRANARGO
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir
