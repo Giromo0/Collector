@@ -1,5 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.181.14:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.138:8443?encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.235:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.49:443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.87:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%3E%3E%40configshub2%3A%3AGB
+vmess://eyJhZGQiOiJzaGFoaW5uZXQtZnJlZW5ldGNkbi5tZWxvZHlzaG9wb25lMi5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic29nLnNoYWhpbm5ldC5zaG9wIiwiaWQiOiI5NjU4ODkxMi0zYmNiLTQ5MWMtOGNlMy03YTk2NWJiZWMwN2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IkBDb25maWdmb3JWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi5b635ZyLXzEiLCJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsInBvcnQiOiIxODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
