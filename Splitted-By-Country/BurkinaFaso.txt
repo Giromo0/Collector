@@ -1,3 +1,7 @@
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20II%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@195.96.132.125:443?security=reality&type=tcp&sni=www.vk.ru&fp=chrome&flow=xtls-rprx-vision&sid=8237eb&pbk=WM-LMz6slGkGPD3zEM8Ntat27n6p6EfbxRsjYmTykV4&encryption=none#%F0%9F%87%AA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%A5%BF%E7%8F%AD%E7%89%99%2001
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=%F0%9F%94%92#%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A%20249
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20India%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDEwOS4xMDQuMTUyLjI3OjEyMzQ1#%F0%9F%87%A6%F0%9F%87%B1_AL_%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A_11
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
+trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click&fp=chrome&type=tcp#%E6%B3%95%E5%9B%BD+%E5%B7%B4%E9%BB%8EChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?&security=tls&fp=chrome&sni=m.udemy.com.cyylr.eu.cc&type=ws&headerType=none&host=m.udemy.com.cyylr.eu.cc&path=%2Fid-tksi#%E6%96%B0%E8%A5%BF%E5%85%B0%20174
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=%F0%9F%94%92#%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A%20259
