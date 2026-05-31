@@ -1,3 +1,2 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=uk1.fromblancwithlove.com#v2ray_dalghak
-trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&insecure=0&host=cdn.linkman1.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.linkman1.ir#@v2reya88 | @confinghub2
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:48697?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=gh.01.naiun.bilibili.com#@v2reya88 | @confinghub2
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#v2ray_dalghak
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?alpn=h2&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#v2ray_dalghak
