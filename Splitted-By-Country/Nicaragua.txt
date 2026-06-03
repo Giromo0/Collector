@@ -1,15 +1,19 @@
-vless://1c3b5f09-d3f4-44cc-adfc-5d74a71d33f2@91.107.240.177:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://2a269c03-fd20-46e2-8464-60b10a244801@104.20.2.1:80?path=%2Fdl%2Findex.php&amp;security=none&amp;encryption=none&amp;host=RFDJCK.%D8%B3%DB%8C%D8%B3%DB%8C.wOrLd&amp;type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=%2Ffflsws&amp;security=tls&amp;encryption=none&amp;host=lmn39.sbs&amp;type=ws&amp;sni=lmn39.sbs#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://47cb67c7-00ec-49b5-cd2b-a3edbcfcae2c@172.233.57.233:54538?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://c5baa583-b86e-4cff-9ae7-2e69bd99811e@all.v-2rayngvpn.cfd:2083?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=Loop.v2rayvpn2.sbs#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://da0c4b49-5565-4ff0-9848-1bb602fad0dd@168.119.184.138:57149?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=current.ircp.online&amp;type=ws&amp;sni=current.ircp.online#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.20.156.248:443?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=current.ircp.online&amp;type=ws&amp;sni=current.ircp.online#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
+vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@141.101.113.89:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=watashi.free.hkpublic.moh539.link&amp;type=ws&amp;sni=watashi.free.hkpublic.moh539.link#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://CONFIG-WANCLOUDFA@49.12.64.220:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyY0BzZXJpZXMtYTItbWVjLnNhbWFuZWhoYS5jbzo0NDM=#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgODkg4oaSIHRnQG5pY2V2cG4xMjMiLCJhZGQiOiIxNTIuNjcuMjE4LjM4IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJiNWU5NDgwYS1iN2FhLTQwYTQtZjlhNy01Mjk5YjVlMzYzYjQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NExiS0huQjNJTzc1OXVlRW5oZ01HQDUyLjE0Mi4xNjEuOTozNDQyNA==#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
+trojan://ecd5e68e-92a5-4f85-afe1-1775ec84bf54@5.239.245.250:443?security=tls&headerType=none&type=tcp&sni=empty.node#🟢 @VPNshop666
+trojan://fHngvzC1ut#YqsV4X@212.193.18.121:21936?fp=chrome&sni=singingrobot.click#🚘95@oneclickvpnkeys
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp&headerType=none#Brayirani
-vless://949139db-dcd3-4da9-a510-6bf22d1f5cb6@varzesh3.com:2052?path=/&security=&encryption=none&host=sajjad.panivo.ir&type=ws#Brayirani
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/#AzadMarz Humanity 1
 vless://be32aec6-9dde-4365-b574-2e0023462084@141.11.45.214:8080?path=/&security=none&encryption=none&host=net.hostingdata.ir&type=ws#Brayirani
-vless://4c67a898-2de1-49b4-c35d-43b65ab63bf7@s2.skullvpn.xyz:443?path=downloader%2F52915&security=tls&encryption=none&host=words.skullvpn.xyz&type=ws&sni=words.skullvpn.xyz#a57بزنید لینک پولیه nv😐✅
+vless://d8071158-424d-4d31-be9a-1e5cc8afda05@snapp.ir:443/?type=ws&encryption=none&path=/&host=ili8.pbvsrk.carnagesv.top&security=tls&fp=chrome&alpn=h3&sni=ili8.pbvsrk.carnagesv.top#V2RFA
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJob3BlIG9mIGZyZWVkb20gLSBAYW5vdGhlcm1lX25pZ2h0IiwKICAiYWRkIjogIjE3Mi4yMzMuMTcuNzYiLAogICJwb3J0IjogIjIyMzI0IiwKICAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwKICAiYWlkIjogIjAiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAiIiwKICAic25pIjogIiIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiY2hyb21lIiwKICAiaW5zZWN1cmUiOiAiMSIKfQ==
