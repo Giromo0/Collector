@@ -1,1 +1,4 @@
-trojan://Config0plus@45.130.125.76:443?security=tls&type=ws&sni=unnes.ac.id.cyylr.eu.cc&path=/sg-melbi&host=unnes.ac.id.cyylr.eu.cc#%E6%9C%AA%E7%9F%A511
+vless://8ad2869d-1571-45cc-8d02-10aea6d600ac@45.130.125.160:443?path=%2Fae-bo&security=tls&encryption=none&insecure=0&host=partner.catchplay.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=partner.catchplay.com.cyylr.eu.cc#
+trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443/?type=ws&host=edu.ruangguru.com.cyylr.eu.cc&path=%2Fid-tksi&security=tls&sni=edu.ruangguru.com.cyylr.eu.cc#@v2reya88
+trojan://bb45f73f-795b-4a05-a8e0-ba717bce87e3@216.24.57.7:443?security=tls&sni=api24-normal.tiktokv.com.cyylr.eu.cc&insecure=0&allowInsecure=0&type=ws&host=api24-normal.tiktokv.com.cyylr.eu.cc&path=%2Fid-tksi#@v2reya88
+trojan://Config0plus@45.130.125.160:443?path=%2Fid-tksi&amp;security=tls&amp;insecure=0&amp;host=api24-normal.tiktokv.com.cyylr.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=api24-normal.tiktokv.com.cyylr.eu.cc#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%99%82
