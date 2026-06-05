@@ -1,17 +1,8 @@
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=r1.mizulina.top&type=tcp&headerType=none&path=%2F#RU_4b3e5_0041
 vless://5e8ee155-0962-4307-98f2-b65f6bbbd5bb@213.108.2.130:443?&security=reality&flow=xtls-rprx-vision&pbk=c9eCHF41FReFLIdarpg8M5edw4_E133EJBzrvYS02Ck&sid=cd9a5f0edff48da4&fp=chrome&sni=cloudflare.com&type=tcp&headerType=none&path=%2F#RU_4b3e5_0042
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?&security=tls&flow=xtls-rprx-vision&fp=chrome&type=tcp&headerType=none&host=r1.mizulina.top&path=%2F#RU_4b3e5_0039
-vless://5e8ee155-0962-4307-98f2-b65f6bbbd5bb@213.108.2.130:443?&security=reality&flow=xtls-rprx-vision&pbk=c9eCHF41FReFLIdarpg8M5edw4_E133EJBzrvYS02Ck&sid=cd9a5f0edff48da4&fp=chrome&sni=cloudflare.com&type=tcp&headerType=none&path=%2F#RU_speednode_0042
-vless://3e41b124-28dc-40e9-82eb-ab0139e5951b@193.168.46.180:443?sni=rruu.persik.host&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_3%7C1.1MB/s
-vless://91d77752-10ef-447c-b1d9-8e41f1b140e9@193.168.46.180:443?sni=rruu.persik.host&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%B7%F0%9F%87%BARU_4%7C2.7MB/s
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0039
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443-udp443&fp=edge&security=tls#RU_speednode_0043
-vless://5e8ee155-0962-4307-98f2-b65f6bbbd5bb@213.108.2.130:443?allowInsecure=0&sni=cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0042
-vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%91%80
-vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=/ws-vless/&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#RU🇷🇺
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#🚀 @v2ray313
-trojan://386bd471-4e29-4e79-9a3c-6bc6076ce4b6@208.103.161.170:443?path=/id-tksi&security=tls&insecure=0&host=edu.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=edu.ruangguru.com.cyylr.eu.cc#🚄 @v2ray313
-vless://024bd761-7966-444b-a44b-255943eb67ec@185.143.233.122:443?type=ws&encryption=none&path=/&host=cyrus2.frtshop.ir&security=tls&fp=chrome&alpn=h2,http/1.1&sni=cyrus2.frtshop.ir#V2RFA
 vless://313bb497-4394-4a93-98ee-7bde50a3109b@31.177.111.182:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=chrome&sni=ads.x5.ru&pbk=sytCI7S-VsZw4N3KUAeIU86dJCRHlbEWBOVaA02sllg&sid=a1b2c3d4#🇷🇺49581 | ⚡️Telegram = t.me/SOSkeyNET
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.158.225:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#🇷🇺49605 | ⚡️Telegram = t.me/SOSkeyNET
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&type=tcp#🇷🇺 روسیه | https://t.me/FREECONFIGSPLUS ✨
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#🇷🇺49916 | ⚡️Telegram = t.me/SOSkeyNET
+vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=/ws-vless/&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#RU🇷🇺
