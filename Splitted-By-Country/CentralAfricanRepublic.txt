@@ -1,4 +1,3 @@
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20India%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
-vless://7d1591c2-c313-0029-a56a-cfff98808bdc@se01.goodmaximum.com:443?type=tcp&security=reality&sni=demo.sablefrost.com&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=31181028b56c8704&fp=firefox&encryption=none#
-vless://7d1591c2-c313-001e-a56a-cfff98808bdc@ru01.goodmaximum.com:443?type=tcp&security=reality&sni=ru-cloud.221131513.xyz&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=31181028b56c8704&fp=chrome&encryption=none#
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?allowInsecure=0#64.176.65.85%3A443%202
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.11.151:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=google.com&fp=random&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none#
+vless://7d1591c2-c313-000b-a56a-cfff98808bdc@nl02.goodmaximum.com:443?type=grpc&security=reality&sni=cloud.nimhogoa.com&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&fp=chrome&serviceName=QToNrKDvQT5AfnFM&encryption=none#
+vless://7d1591c2-c313-0014-a56a-cfff98808bdc@de01.goodmaximum.com:443?type=tcp&security=reality&sni=portal.glimmerhouse.com&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=31181028b56c8704&fp=chrome&encryption=none#
