@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0,20 * * * *" 
+    - cron: "0,21 * * * *" 
   workflow_dispatch:
 
 jobs:
@@ -15,15 +15,15 @@ jobs:
       contents: write
     steps:
       - name: Checkout repo content
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Check protocol files
         run: |
           ls -l Splitted-By-Protocol/
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-          python-version: '3.9'
+          python-version: '3.11'
 
       - name: Install Python packages
         run: |
@@ -33,7 +33,7 @@ jobs:
         run: |
           python Files/tester/Test.py
       - name: Commit and push results
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "☑️ Tested configs $(date)"
           file_pattern: tested/*
