@@ -1,13 +1,18 @@
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
-vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%97%BF
+vless://0261c8f9-413a-455b-942b-3713c6b0084a@172.66.40.99:443?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=www.dollardoon.com&fp=chrome&type=ws&sni=www.dollardoon.com#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%F0%9F%97%BF
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20II%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20USA%20III%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?sni=az.01.naiun.bilibili.com#%F0%9F%87%A6%F0%9F%87%BFAZ%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0160
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#_CA_%E5%8A%A0%E6%8B%BF%E5%A4%A7-%3E%F0%9F%87%A6%F0%9F%87%BF_AZ_%E9%98%BF%E5%A1%9E%E6%8B%9C%E7%96%86
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#%E5%8A%A0%E6%8B%BF%E5%A4%A7%204
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#%E5%8A%A0%E6%8B%BF%E5%A4%A7%206
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#%E5%8A%A0%E6%8B%BF%E5%A4%A7%205
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#%E5%8A%A0%E6%8B%BF%E5%A4%A7%207
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#%E5%8A%A0%E6%8B%BF%E5%A4%A7%208
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#%E5%8A%A0%E6%8B%BF%E5%A4%A7%2010
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#%E5%8A%A0%E6%8B%BF%E5%A4%A7%206
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#%E5%8A%A0%E6%8B%BF%E5%A4%A7%209
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#%E5%8A%A0%E6%8B%BF%E5%A4%A7%2010
 vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.56.188.60:7443?&security=reality&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&fp=chrome&sni=mi.com&type=tcp&headerType=none&path=%2F#%E9%98%BF%E8%81%94%E9%85%8B
+vless://5b96be74-656d-4bb7-85c2-d2d8a3b7c2f3@90.156.254.164:19562?&security=reality&pbk=T66pm2f_PN4Hya_A_5K0X1HQb717SUCODyoUO7Gk3Ws&sid=9e&fp=chrome&sni=yahoo.com&type=tcp&headerType=none&path=%2F#%E4%BF%84%E7%BE%85%E6%96%AF%E4%B8%A8yoyapai.com_6
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
+vless://4c67a898-2de1-49b4-c35d-43b65ab63bf7@s2.skullvpn.xyz:443?path=downloader%2F52915&security=tls&encryption=none&host=words.skullvpn.xyz&type=ws&sni=words.skullvpn.xyz#a57بزنید لینک پولیه nv😐✅
+vless://999bd2f6-a001-4013-9652-ce7cab8a3ddc@87.199.195.191:443?security=reality&encryption=none&pbk=I4mX3_v_BOUAHA06CQxNEn13NgjuTmN-DWzOy1182lc&headerType=none&fp=chrome&spx=/97taOq8bFpzhAor&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=2ed28a1e#V2RFA
