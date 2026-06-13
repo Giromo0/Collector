@@ -1,13 +1,3 @@
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?allowInsecure=0&sni=de-1.hysteria.ltd#DE_speednode_0001
-vless://bbaaff1e-c914-4817-9d33-58be35a3bee6@82.40.60.172:443?allowInsecure=0&sni=nl-1.liambo.ai&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#GB_speednode_0002
-vless://0a12381a-e241-4b63-a03c-1a5a45a95977@213.165.56.102:443?allowInsecure=0&sni=freede.aiage.work&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#LB_speednode_0004
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#US_speednode_0052
-vless://bbaaff1e-c914-4817-9d33-58be35a3bee6@82.40.60.172:443?&security=reality&flow=xtls-rprx-vision&pbk=9C7hhe8QFKasqMS7YrM_CE2YvTqREJGtFfZTcyPsfSs&sid=97470ad3d1b08e88&fp=chrome&packet-encoding=xudp&sni=nl-1.liambo.ai&type=tcp&headerType=none&path=%2F#GB_speednode_0002
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?&security=false&fp=chrome&type=ws&headerType=none&host=max-gb1.global.ssl.fastly.net&path=%2F#US_speednode_0049
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?allowInsecure=0&sni=de-1.hysteria.ltd#12%7CDE_speednode_0001%202
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?&security=false&fp=chrome&type=ws&headerType=none&host=max-gb1.global.ssl.fastly.net&path=%2F#US_speednode_0051%202
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?allowInsecure=0&sni=de-1.hysteria.ltd#DE_speednode_0001%202
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;sni=www.multiplydose.com#%F0%9F%83%8F%20-%2021
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:47909?sni=is.01.naiun.bilibili.com#@Hope_Net-join-us-on-Telegram
-trojan://humanity@104.18.13.149:443?security=tls&sni=www.calmloud.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=/assignment#🇺🇳☁️ UN
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE1NC4yMS4xOTUuMTY5IiwgInBvcnQiOiAiNDI0MzIiLCAiaWQiOiAiN2NjYmU3MTUtOTJiYi00MjU0LWVkYzYtNDNhNDQ3ZDA5ODdhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIlVTNCJ9
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=redfree8mahsang6.redfree8.ir&amp;type=ws#
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE3Mi42NC4xNjcuNSIsICJwb3J0IjogIjIwODYiLCAidHlwZSI6ICJub25lIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImlwMi4xNDU3MjMwLnh5eiIsICJ0bHMiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogImFtYnh4aWMwMWhrLmRvcmFiYmIudG9wIiwgInBvcnQiOiAiNDQ4MDYiLCAiaWQiOiAiYWU2NjMzMWUtYjZiNC00YzZmLTk1OWYtNmVkNjRjZjk3NjI4IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjIifQ==
