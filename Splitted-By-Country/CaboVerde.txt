@@ -3,4 +3,3 @@ trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&ho
 trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@icv2ray
 trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.de.ssl.global.fastly.co.mitivpn.site&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site#@icv2ray
 trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&host=mitivpn.de.ssl.global.fastly.net.mitivpn.site&fp=chrome&type=ws&allowInsecure=0&sni=2.1.mitivpn.dee.srfsl.gleobal.fastl3y.n3et.mitivpn.site#@icv2ray
-vless://b56c38ec-ab57-4d1b-ac72-9491be4845bf@185.200.179.85:49712?encryption=none&type=tcp&security=none#ChicVPNBot
