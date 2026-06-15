@@ -1,12 +1,14 @@
 trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#telegram%20%40mtmvpn
-trojan://SoftNetConnect@45.151.102.87:8443?security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=ca14e14437#telegram%20%40mtmvpn
-trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:49277?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#telegram%20%40mtmvpn
 trojan://SoftNetConnect@194.5.192.89:443?mode=auto&path=%2F&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=d591#telegram%20%40mtmvpn
+trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:49277?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#telegram%20%40mtmvpn
+trojan://SoftNetConnect@194.5.192.89:2087?mode=gun&security=reality&authority=45.151.102.87&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=160b91b3#telegram%20%40mtmvpn
 trojan://SoftNetConnect@194.5.192.89:443?mode=auto&path=/&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=d591#telegram @mtmvpn
+trojan://SoftNetConnect@45.151.102.87:8443?security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=ca14e14437#telegram @mtmvpn
+trojan://d02e3bb7e6b3333e818d36866d40de6e@18.166.223.23:17005?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#telegram @mtmvpn
+trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.203.3:49277?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#telegram @mtmvpn
 vless://ac81eae5-3f36-4832-a4e3-9d1d18180c94@ips.it.mobileemdad.top:42538?security=none&encryption=none&host=ips.it.mobileemdad.top&headerType=http&type=tcp#تلگرام : mtmvpn
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@45.85.119.122:2096?path=/ws?ed&security=tls&encryption=none&insecure=0&host=com.hozheen.ir&type=ws&allowInsecure=0&sni=872ede3847653442.hozheen.ir#تلگرام : mtmvpn
 vless://cc3806e9-a9df-4902-ad96-c56b6a171656@103.31.4.108:2087?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=panel.singoshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=panel.singoshop.ir#تلگرام : mtmvpn
 vless://cc3806e9-a9df-4902-ad96-c56b6a171656@103.31.4.140:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=panel.singoshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=panel.singoshop.ir#تلگرام : mtmvpn
 vless://cc3806e9-a9df-4902-ad96-c56b6a171656@104.16.174.88:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=panel.singoshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=panel.singoshop.ir#تلگرام : mtmvpn
-vless://cc3806e9-a9df-4902-ad96-c56b6a171656@104.16.174.94:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=panel.singoshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=panel.singoshop.ir#تلگرام : mtmvpn
 vless://cc3806e9-a9df-4902-ad96-c56b6a171656@108.162.194.165:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=panel.singoshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=panel.singoshop.ir#تلگرام : mtmvpn
-trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bpath=%252Fhowdy&amp%3Bsni=de1.test3.net&amp%3Bhost=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%231
