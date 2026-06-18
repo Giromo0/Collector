@@ -1,1 +1,4 @@
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Russia
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top#Russia
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&security=tls&allowInsecure=0&encryption=none&type=tcp&sni=r1.mizulina.top&fp=chrome&headerType=none#Russia
+vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20X
+trojan://%{q:qf}'ogr;@104.21.37.101:443?path=%2FeyJqdW5rIjoia3lhOG5VQlY2NU1tZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http/1.1&host=lumosconfig.codmdemonyt1.workers.dev&fp=chrome&allowinsecure=0&type=ws&sni=LUmOscoNfig.codmDemOnYt1.WORKeRS.DEV#@v2reya88

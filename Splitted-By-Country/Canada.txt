@@ -1,17 +1,20 @@
+vmess://eyJhZGQiOiJ5aWNodWVuZy5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfjJAgUmFuZG9tIExvY2F0aW9uIiwic2N5IjoiYXV0byIsInNuaSI6InlpY2h1ZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhIiwic2N5IjoiYXV0byIsInNuaSI6ImxhbW1hbGFuZC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&amp;mode=gun&amp;security=none#&amp;v2ray_cartel
+vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?mode=multi&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
+vmess://eyJ2IjogIjIiLCAicHMiOiAi6Ziy6IyD5aKD5aSW5Yq/5Yqb5riX6YCPICMzIiwgImFkZCI6ICIxMjcuMC4wLjUzIiwgInBvcnQiOiAiODMiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiODg4ODg4ODgtODg4OC04ODg4LTg4ODgtODg4ODg4ODg4ODg4In0=
 trojan://A4u^p(_UR*F6@www.speedtest.net:443?path=/eyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&host=027.electrocellco-cf-027.workers.dev&fp=chrome&type=ws&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv#Channel id: @internet_azad_2026 🇨🇦
-trojan://MiTiVPN@104.19.199.34:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#🇨🇦 @rayhub_ir 0618-4
 trojan://MiTiVPN@104.21.18.41:443?path=/cdn=mitivpn&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=linkkon-w.ir#Channel id: @internet_azad_2026 🇨🇦
 trojan://MiTiVPN@104.24.17.0:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#🇨🇦 @rayhub_ir 0618-12
-trojan://MiTiVPN@104.24.50.97:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#🇨🇦 @rayhub_ir 0618-3
+trojan://MiTiVPN@104.25.253.129:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#🇨🇦 @rayhub_ir 0619-1
 trojan://MiTiVPN@108.162.196.190:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#🇨🇦 @rayhub_ir 0618-11
 trojan://MiTiVPN@172.64.50.27:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#🇨🇦 @rayhub_ir 0618-17
+trojan://MiTiVPN@172.67.210.215:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#@Troll_Hastam 🇨🇦
 trojan://MiTiVPN@172.67.210.215:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#🇨🇦@FreakConfig
 trojan://humanity@104.16.7.70:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#Channel id: @internet_azad_2026 🇨🇦
 trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#Channel id: @internet_azad_2026 🇨🇦
 trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#Channel id: @internet_azad_2026 🇨🇦
 trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.ignitelimit.com#Channel id: @internet_azad_2026 🇨🇦
+trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#@V2raySup0 | 🚀
 trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#Channel id: @internet_azad_2026 🇨🇦
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#Channel id: @internet_azad_2026 🇨🇦
 trojan://humanity@172.67.200.219:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#Channel id: @internet_azad_2026 🇨🇦
@@ -22,7 +25,6 @@ trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=h2,http/1.
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#Channel id: @internet_azad_2026 🇨🇦
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#Channel id: @internet_azad_2026 🇨🇦
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#[]Kia_Net 🇨🇦 CA-12043
-trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2raySup0 | 🚀
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#Channel id: @internet_azad_2026 🇨🇦
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws#Channel id: @internet_azad_2026 🇨🇦
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#Channel id: @internet_azad_2026 🇨🇦
@@ -30,8 +32,6 @@ trojan://humanity@www.creationlong.org:443?path=/assignment&security=tls&fp=chro
 trojan://humanity@www.multiplydose.com:443?path=//assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#Channel id: @internet_azad_2026 🇨🇦
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#Channel id: @internet_azad_2026 🇨🇦
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&type=ws#Channel id: @internet_azad_2026 🇨🇦
-vless://24d49ddd-67c1-4821-b5b9-f12107366978@104.19.250.20:443?encryption=none&security=tls&sni=bahari.kiamobilepart.com&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=bahari.kiamobilepart.com&path=/api#canfingV2rayNG-136
+vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#test canada
 vmess://eyJhZGQiOiIxNTguNTEuMTIxLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJpYnVzLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoic2VyaWJ1cy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTA5NTdjYTYtZjYxMy00MDE3LWZmM2MtZWZmZDFkYTg4NzFhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MjYxMCIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4eo8J+HpiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?path=/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=capitalnet.jokerv2ray.store&amp%3Bfp=firefox&amp%3Btype=ws&amp%3Bsni=joinchannel.jokerv2ray.store#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20VLESS%20%7C%20%40jokerv2ray%20%231
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Btype=ws&amp%3BallowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20VLESS%20%7C%20%40rez1vpn%20%231
