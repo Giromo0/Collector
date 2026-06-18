@@ -1,8 +1,2 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.38:8443?&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=%2F#%E8%8D%B7%E5%85%B0%2010
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.41:8443?&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=%2F#%E8%8D%B7%E5%85%B0%209
-vless://4914cac8-d4f7-4ffe-9c58-1117c9cb1887@192.142.53.38:37321?mode=multi&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20II%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
-vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20USA%20III%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20India%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
-vless://fa8f8911-2e9b-494e-9a8d-f80239ee2214@144.31.38.207:55223?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CFalkenstein-GetAFreeNode
-vless://837e9ea2-cf0b-46a1-93a8-7e25c3a4066c@185.170.10.249:48350?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk&sni=stats.vk-portal.net
+vless://d0e97ee2-c6de-48f8-bd4a-8e63a9cd9e89@144.31.38.207:58253?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CFalkenstein-GetAFreeNode
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.12:8443?&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=%2F#NL-Amsterdam-h-9150245-tcfc
