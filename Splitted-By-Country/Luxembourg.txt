@@ -1,9 +1,4 @@
-trojan://f922fa0f-3311-4368-85ff-cf65e727c854@141.193.213.30:443?path=/br-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@v2rayNplus
 trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayNplus
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayNplus
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayNplus
-trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayNplus
-trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayNplus
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayNplus
-trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayNplus
-vless://2ae8331b-8390-460c-bd27-dfe0dc20602c@www.canva.com:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
+vless://8b310a73-4563-4e04-b0f7-b974a87cf0cf@104.17.121.243:443?type=ws&encryption=none&security=tls&host=37.27.200.55&path=/ws&sni=37.27.200.55&alpn=h2,http/1.1&fp=chrome#Lumosconfig
+vless://8b310a73-4563-4e04-b0f7-b974a87cf0cf@104.17.121.246:443?type=ws&encryption=none&security=tls&host=37.27.200.55&path=/ws&sni=37.27.200.55&alpn=h2,http/1.1&fp=chrome#Lumosconfig
+vless://ec015d59-fa78-4a41-9357-2c94f3a88a74@104.17.121.250:443?type=ws&encryption=none&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#Lumosconfig
