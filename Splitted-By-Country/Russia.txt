@@ -1,2 +1,2 @@
 vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=/ws-vless/&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#RU🇷🇺
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Russia
+trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#@qruzvpn
