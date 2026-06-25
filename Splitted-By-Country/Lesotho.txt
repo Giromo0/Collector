@@ -1,3 +1,5 @@
-vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.conf…
-vless://2bab4dfb-8bd2-4844-bfdb-48a019ca27c7@104.17.195.20:2087?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra=
-trojan://humanity@172.64.147.166:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%F0%9F%8C%8A54@NetFlowTools
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzQiLCJhZGQiOiIxMDQuMTYuNy43MCIsInBvcnQiOiI0NDMiLCJpZCI6IjY3Zjc5OTA3LTYxNjMtNDc1Yy1iNWJhLTJhM2ZhYTBjMDJjNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImEyNS5hcmlzcGluZy1pci5jbGljayIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiZGUuYXJpc3BpbmctaXIuY2xpY2siLCJ0ZXN0X25hbWUiOiIzNCJ9
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzgiLCJhZGQiOiIxMDMuMTc5LjE0Mi4yMTIiLCJwb3J0IjoiMjIwNDciLCJpZCI6Ijk0ODc2M2I1LWEwNjQtNDUzYy1hMDE1LTE4NWNiMTgzYmJmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNzgifQ==
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.119:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@V2raySup0 🚀
+vless://23ff3733-1de9-48b2-91dc-470d8155ab7d@103.160.204.239:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=pLeAsEbEttErCalLsAuL.hOzhEeN.iR&fp=chrome&type=ws&allowInsecure=0&sni=621dab159bff63b5.hozheen.ir#🇫
+vless://8538e089-883b-b50c-d3ed-ebb200000000@www.hcaptcha.com:443?encryption=none&security=tls&sni=cool-sea-001f.join-telegram-w570w.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cool-sea-001f.join-telegram-w570w.workers.dev&path=/w570w#w570w
