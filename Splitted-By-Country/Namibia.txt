@@ -1,5 +1,5 @@
-vless://8658fe29-466b-41d9-b1f9-05c268054f87@de-1.coinbridge.nl:443?encryption=none&security=reality&sni=google.com&fp=random&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&sid=d5c7f84e37e0c12d&type=grpc&authority=&serviceName=data-sync&mode=gun#%40W570W
-trojan://MiTiVPN@151.101.1.242:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=www.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.f6r.ir#@erfanandroid
+trojan://MiTiVPN@167.82.101.251:443?path=/nl=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=cdn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@erfanandroid
+trojan://MiTiVPN@45.131.4.118:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#@erfanandroid
 trojan://Mitivpn@151.101.110.219:443?path=/boost&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@TEHRANARGO
-trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@erfanandroid
+trojan://Mitivpn@151.101.56.6:443?path=/de=mitivpn&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@erfanandroid
 trojan://Mitivpn@151.101.56.6:443?path=/de=mitivpn&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@erfanandroid
