@@ -1,12 +1,7 @@
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@lv.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#1139
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.170:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdn3-87.vk-cdnvideo.com&fp=qq#[80833
-trojan://MITIVPN@164.38.155.135:443?allowInsecure=0&sni=95r.ir&type=ws&host=95r.ir&path=/MiTiVPN=De#GB_speednode_0005
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.13:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#ID_speednode_0010
-trojan://MiTiVPN@45.131.4.118:443?allowInsecure=0&sni=95r.ir&type=ws&host=95r.ir&path=/MiTiVPN=Se#NL_speednode_0016
-vless://057f3c26-0fe7-4315-aabc-90c79d413d70@38.244.20.69:443?allowInsecure=1&sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=safari&security=tls#US_speednode_0056
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.203:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#ID_speednode_0011
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.102:8443?allowInsecure=1&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#ID_speednode_0012
+vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.29:8443?allowInsecure=0&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#TW_speednode_0053
 trojan://Mitivpn@iranpoems.ir:443?allowInsecure=0&sni=www.gamingdll.ir&type=ws&host=www.gamingdll.ir&path=/usa=mitivpn#US_speednode_0063
-vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.76.38.18:7443?&security=reality&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&fp=chrome&sni=icloud.com&type=tcp&headerType=none&path=%2F#GB_speednode_0003
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.158:8443?&security=reality&flow=xtls-rprx-vision&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&fp=chrome&sni=storage.yandex.net&type=tcp&headerType=none&path=%2F#HU-Budapest-h-2112912-ocia
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de-1.hysteria.ltd#@hopev2ray🤍
 trojan://MiTiVPN@151.101.1.194:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=mitivpn-s2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#@hopev2ray❣️
 trojan://MiTiVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#@hopev2ray🧡
@@ -17,13 +12,6 @@ trojan://humanity@162.159.17.189:443?path=/assignment&security=tls&insecure=0&ho
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@hopev2ray🤎
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@hopev2ray🩶
 trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@hopev2ray🩵
-trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@hopev2rau💕
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&insecure=0&host=cdn.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#@hopev2ray🩷
 trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&insecure=0&host=www.gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#@hopev2ray🧡
-vless://26ca9191-5a90-40e5-9f03-c9181bcefb21@152.53.39.148:443?security=reality&encryption=none&pbk=zutw7YSzrZYrurfGmnWBKUNBJf72WW892RNZKwX9ozQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=usatruenetcup.grani.site&sid=8d1c7e3a5f0b9264#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆🥖
-vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#vip6373
-vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#[
-vless://8538e089-883b-b50c-d3ed-ebb200000000@www.hcaptcha.com:443?encryption=none&security=tls&sni=cool-sea-001f.join-telegram-w570w.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cool-sea-001f.join-telegram-w570w.workers.dev&path=/w570w#w570w
-vless://914b24f0-ad36-447a-8807-d6fdff103afb@172.67.223.49:443?security=tls&sni=sudoshark.workers.dev&alpn=http/1.1&type=ws&path=/ADvrAJEsvSViONF5?ed&host=g-r3hlvytx-ct024y-0fdnr0myhnad4i.sudoshark.workers.dev&packetEncoding=xudp&encryption=none#
-vless://d6258da1-9dd5-4861-8a01-30c51707a6ea@sr13.dmitri.sbs:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#
-vless://89743cca-6855-478c-b9a8-79ae9ab9c3e4@s2.skullvpn.xyz:443?path=%2Fdownloader%2F30665&security=tls&encryption=none&host=words.skullvpn.xyz&type=ws&sni=words.skullvpn.xyz#a56بزنید لینک پولی nv✅
+vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.76.38.18:7443?&security=reality&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&fp=chrome&sni=icloud.com&type=tcp&headerType=none&path=%2F#GB_speednode_0003
