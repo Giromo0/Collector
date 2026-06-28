@@ -1,5 +1,6 @@
-trojan://MiTiVPN@89.116.180.49:443?path=/nl=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=ws&allowInsecure=0&sni=f6r.ir#@TEHRANARGO
-trojan://Mitivpn@151.101.110.219:443?path=/boost&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@TEHRANARGO
-trojan://Mitivpn@151.101.56.6:443?path=/boost&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@TEHRANARGO
-trojan://Mitivpn@151.101.56.6:443?path=/fastly=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@TEHRANARGO
-vless://b8f58a98-313c-6882-1c90-a01d46418eb5@66.33.23.63:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/b8f58a98-313c-6882-1c90-a01d46418eb5#95-2
+trojan://Mitivpn@151.101.110.219:443?path=/boost&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
+trojan://Mitivpn@151.101.56.6:443?path=/boost&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
+trojan://SoftNetConnect@37.156.44.157:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#@mehrosaboran
+vless://06795288-3b02-0c10-9b72-f26b7bdcd82e@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/06795288-3b02-0c10-9b72-f26b7bdcd82e#94
+vless://df7f6532-8f1e-4b76-a3e9-2699771867d1@198.169.2.65:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=idk.subgift.xyz&path=/subgift&mode=auto&extra={"xPaddingBytes":"100-1000"}#102
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#dr

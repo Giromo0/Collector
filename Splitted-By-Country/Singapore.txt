@@ -1,17 +1,3 @@
-trojan://0ab59a11983d4ce7862d156c164d927d@www.speedtest.net:443?path=/eyJqdW5rIjoiajRMMndudHIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMDkuMTIyLjE5OC4xMjciXX0=?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=FAST-RouTE-Dd4E2d.fREefIREmO7964.wOrKerS.dev&fp=chrome&type=ws&allowInsecure=0&sni=FAST-Route-DD4E2D.FREEfiReMO7964.WOrkeRS.DEV#🇸🇬```
-trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=%2F16838%2Fc89d26b724fe%2F&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🆔freeconfigsplus%20🔒%20VL-WS-N/A%20🇸🇬%20SG%2062ms
-trojan://230012981ba34c12fec11deca0379005@54.46.30.217:48738?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTMiLCJhZGQiOiIxMDIuMTc3LjE4OS4xMDEiLCJwb3J0IjoiNDQzIiwiaWQiOiI4Zjc0ZWM4YS05NzFjLTExZWQtYThmYy0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiI0ZmMxMjhjZS00ODQ1LTExZjAtYTk0OC02YTc1ZjY2N2I0NzIuU2hvbWFQYXJ2YXpSb1lhZGV0b25OaXN0LUJ5cGFzc0lzSGVyZS5sYXQiLCJwYXRoIjoiLzRmYzEyOGNlLTQ4NDUtMTFmMC1hOTQ4LTZhNzVmNjY3YjQ3Mj9lZD0yMzY1IiwidGxzIjoidGxzIiwic25pIjoiNGZjMTI4Y2UtNDg0NS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyLlNob21hUGFydmF6Um9ZYWRldG9uTmlzdC1CeXBhc3NJc0hlcmUubGF0IiwidGVzdF9uYW1lIjoiNTMifQ==
-trojan://BxceQaOe@18.166.29.105:9149?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
-hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#新加坡1
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
-trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
-trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
-trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇸🇬 新加坡
-vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬 سنگاپور | https://t.me/FREECONFIGSPLUS ✨
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@213.35.127.18:443/?type=ws&host=hhcm.hhxaf.cc.cd&path=%2F&security=tls&sni=hhcm.hhxaf.cc.cd&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ASG
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@149.28.159.222:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%3E%3E%40configV2rayNG%3A%3ASG
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sni=bing.com#SG
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.165.76:443?insecure=1&sni=vpn-sg-001.fastervpn.world&obfs=&obfs-password=#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C2.5MB/s
 vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf6.466688.xyz:443?sni=cfoo-146.pages.dev&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C3.6MB/s
@@ -21,7 +7,22 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.13.196:8443?allowInsecure=0
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.10.87:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#%F0%9F%87%B8%F0%9F%87%ACSG_6%7C1.2MB/s
 vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf6.466688.xyz:443?&security=tls&fp=chrome&sni=cfoo-146.pages.dev&type=ws&headerType=none&host=cfoo-146.pages.dev&path=%2FQiangLieTuiJian%3Fed%3D2560fp%3Dchrome#SG_1%7C3.6MB%2Fs
 vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf8.466688.xyz:443?&security=tls&fp=chrome&sni=cfoo-146.pages.dev&type=ws&headerType=none&host=cfoo-146.pages.dev&path=%2FQiangLieTuiJian%3Fed%3D2560fp%3Dchrome#SG_3%7C4.1MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh7jwn4esXSBbdm0tbm8tcmFdIFsyNjA2MjgtMTMyNjI4LjMxMl0iLCJhZGQiOiIxNDkuODguMjMuMjA3IiwicG9ydCI6IjE4MDAwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh7jwn4esXSBbdm0tbm8tcmFdIFsyNjA2MjgtMTMyNjI4LjI2OF0iLCJhZGQiOiIxNDkuODguMjMuMjA3IiwicG9ydCI6IjE4MDAwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf6.466688.xyz:443?&security=tls&fp=chrome&sni=cfoo-146.pages.dev&type=ws&headerType=none&host=cfoo-146.pages.dev&path=%2FQiangLieTuiJian%3Fed%3D2560fp%3Dchrome#SG_1%7C3.6MB%2Fs%202
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.13.196:8443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2Ffp%3Dchrome#SG_5%7C1.2MB%2Fs%202
+trojan://230012981ba34c12fec11deca0379005@54.46.30.217:48738?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://BxceQaOe@18.166.29.105:9149?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
+trojan://0ab59a11983d4ce7862d156c164d927d@www.speedtest.net:443?path=/eyJqdW5rIjoiajRMMndudHIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMDkuMTIyLjE5OC4xMjciXX0=?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=FAST-RouTE-Dd4E2d.fREefIREmO7964.wOrKerS.dev&fp=chrome&type=ws&allowInsecure=0&sni=FAST-Route-DD4E2D.FREEfiReMO7964.WOrkeRS.DEV#🇸🇬```
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=%2F16838%2Fc89d26b724fe%2F&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🆔freeconfigsplus%20🔒%20VL-WS-N/A%20🇸🇬%20SG%2031ms
+vless://03d73bc8-01a9-46a7-90b9-3d27065ed328@43.160.247.113:9999?path=%2F&security=tls&encryption=none&insecure=0&host=c.eoa.ccwu.cc&type=ws&allowInsecure=0&sni=c.eoa.ccwu.cc#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇸🇬%20SG%20169ms
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#新加坡1
+hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
+trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
+trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
+trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇸🇬 新加坡
+vless://2c473bc0-484c-49d5-8cf3-c89d26b724fe@www.lianchuang123.com:443/?type=ws&encryption=none&host=smtp.mmadcoffee.info&path=/16838/c89d26b724fe/&security=tls&sni=sni.mmadcoffee.info&fp=chrome#🇸🇬 سنگاپور | https://t.me/FREECONFIGSPLUS ✨
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@146.235.16.191:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%3E%3E%40configV2rayNG%3A%3ASG
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@139.180.220.7:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ASG
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.117.69:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%3E%3E%40oneclickvpnkeys%3A%3ASG
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.143.178.20:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.179.158.79:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
