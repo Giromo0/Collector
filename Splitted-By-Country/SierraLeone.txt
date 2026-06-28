@@ -1,1 +1,2 @@
-trojan://MITIVPN@151.101.1.194:80?path=/ed&security=none&host=mitivpn--3.global.ssl.fastly.net&type=ws#همه اپراتور سرعتی
+trojan://Mitivpn@151.101.110.219:443?type=ws&security=tls&path=/de=mitivpn&host=3-mitivpn.global.ssl.fastly.net&sni=global.fastly.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#برای کانفیگ های جدید عضو بشید @W570W
+vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&amp%3BheaderType=http&amp%3Bfp=chrome&amp%3Bspx=/&amp%3Btype=tcp&amp%3Bsni=ftp.debian.org&amp%3Bsid=b5ecd44d#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40configasli%20%231
