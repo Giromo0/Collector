@@ -1,7 +1,8 @@
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
 vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.29:8443?&security=reality&flow=xtls-rprx-vision&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&fp=chrome&sni=storage.yandex.net&type=tcp&headerType=none&path=%2F#TW_295b5_0053
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?#%E6%9C%AA%E7%9F%A534%20281.3KB%2Fs
+vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.68:8443?security=reality&amp;encryption=none&amp;pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=storage.yandex.net&amp;sid=ea10cd5686751ec5#%40Network_442_Taiwan
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing.com#TW
-trojan://Mitivpn@151.101.56.6:443?path=/fastly=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#telegram:@sil3nt_network
+trojan://MiTiVPN@45.131.4.118:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#telegram:@sil3nt_network
 trojan://k2CQ2JboS7@188.114.97.6:443?path=/?ed=2048&security=tls&insecure=0&host=s6.aananas.ir&fp=chrome&type=ws&allowInsecure=0&sni=s6.aananas.ir#https://t.me/v2raynplus |🇹🇼
+vless://317876c4-3de6-4b46-a19e-59b920bb7a28@104.18.16.56:443?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=hostingiran.szirsina.ir&fp=chrome&type=ws&allowInsecure=0&sni=hostingiran.szirsina.ir#t.me/CratelNetwork
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=/proxyip&security=tls&encryption=none&host=nbhhh.mrcool.kdns.fr&type=ws&sni=nbhhh.mrcool.kdns.fr#🇹🇼
