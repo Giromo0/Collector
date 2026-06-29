@@ -1,11 +1,6 @@
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#HK-103.177.136.42-57
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#HK-103.177.136.42-58
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#HK-103.177.136.45-72
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:45553?allowInsecure=1&sni=ch.01.naiun.bilibili.com#HK-103.177.136.42-81
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#HK-103.177.136.45-96
-vmess://eyJ2IjoiMiIsInBzIjoidC5tZS92MkxpbmUgfCBGcmVlIHwgMzE5MSB8IENhbmFkYSIsImFkZCI6IjE1OC41MS4xMjEuNjMiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InNlcmlidXMub3JnIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhIiwic2N5IjoiYXV0byIsInNuaSI6ImxhbW1hbGFuZC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?encryption=none&type=ws&security=tls&path=%2F&host=newip.global.ssl.fastly.neT.&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#%F0%9F%A6%81%E2%98%80%EF%B8%8F%40varkana0
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#Tel-@NapsterNetvIrani🥶 2
-vless://9e65fe63-b771-c63d-5272-fdd700000000@nameless-moon-7c4d.shafmrhjlos23.workers.dev:443?path=/vasl&security=tls&encryption=none&insecure=0&host=nameless-moon-7c4d.shafmrhjlos23.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nameless-moon-7c4d.shafmrhjlos23.workers.dev#
-trojan://telegram-id-directvpn@3.236.90.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#@VPNAzadiOfficiali🔰
+vmess://eyJhZGQiOiJzaGFoaW5uZXQtZnJlZW5ldGNkbi5tZWxvZHlzaG9wb25lMi5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic29nLnNoYWhpbm5ldC5zaG9wIiwiaWQiOiI5NjU4ODkxMi0zYmNiLTQ5MWMtOGNlMy03YTk2NWJiZWMwN2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IkBDb25maWdmb3JWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+trojan://MiTiVPN@45.131.4.118:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#@erfanandroid
+trojan://Mitivpn@151.101.56.6:443?path=/de=mitivpn&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@erfanandroid
+trojan://Mitivpn@151.101.56.6:443?path=/fastly=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@TEHRANARGO
+vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#test canada
