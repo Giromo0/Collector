@@ -1,6 +1,7 @@
-trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-45.77.227.183-0101
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@eng.speedtrade.top:19668?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🆔configfa%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20107ms
+trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-45.77.227.183-0215
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB🇬🇧
+vmess://eyJ2IjoiMiIsInBzIjoiR0Loi7Hlm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSA4IiwiYWRkIjoiODIuMTk4LjI0Ni4yNTAiLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@eng.speedtrade.top:19668?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🆔configfa%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20107ms
 trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@v2rayNplus |🇬🇧
 vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.16.72.70:8443?path=/api/v1&security=tls&encryption=none&host=splash.ariyuz.org&type=ws&sni=splash.ariyuz.org#🇬🇧
 vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.18.153.10:8443?path=/api/v1&security=tls&encryption=none&host=splash.ariyuz.org&type=ws&sni=splash.ariyuz.org#🇬🇧
@@ -8,5 +9,5 @@ vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=t
 vless://977bac99-33d4-408a-91f5-0ce737793a00@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
 vless://977bac99-33d4-408a-91f5-0ce737793a50@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
 vless://977bac99-33d4-408a-91f5-0ce737793a54@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
-vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@208.103.161.45:2053?security=tls&type=ws&headerType=&path=&host=za12kl3.bingnet.online&sni=za12kl3.bingnet.online&fp=#⏳ 16 روز باقی‌مانده | 📦 89.65 GB حجم باقی‌مانده
-vless://fb27b0e8-e987-420e-8816-3870017bdbac@V2Clover.spdnet.store:17390?path=/&security=&encryption=mlkem768x25519plus.native.0rtt.JA7r_7iEj0xWLie2zKYoGhIpXd1GEvX6CUgIwIxhzQY&type=httpupgrade#🇺🇲 • 𝗨𝗻𝗶𝘁𝗲𝗱 𝗦𝘁𝗮𝘁𝗲𝘀¹-V2rayclover|📊59.81GB|⏳3D
+vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@66.245.196.212:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=a1c3e5f700b2d4e6#🇬🇧Manchester
+vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@lon.edgeptr.org:443?mode=auto&path=/api/v1/data&security=reality&encryption=none&pbk=NgeK43tvGe6YZNEdr4HL-CdimEA59KNFtu1nCNh8LFE&fp=chrome&spx=/assets/img?v=2&type=xhttp&sni=ajax.aspnetcdn.com&sid=b00bface11223344#🇬🇧 London
