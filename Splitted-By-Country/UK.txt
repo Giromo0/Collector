@@ -1,10 +1,5 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@eng.speedtrade.top:19668?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🆔configfa%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20107ms
-vless://47df3f6c-c3a0-463b-a6a0-ad4e8494c95b@20.0.105.19:443?&security=reality&flow=xtls-rprx-vision&pbk=zNtSqVR2dp454rIsJL8qQ-miOuSIP33Koyqc9gUGdV8&sid=60bf01f7&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&path=%2F#GB-London-h-01051-imga
 trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-45.77.227.183-0179
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB🇬🇧
-vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?sni=gb7.univesalsrv.com&alpn=h2&type=grpc&serviceName=mobile.api.Event&fp=chrome&security=tls#🇬🇧[openproxylist.com]vless-GB
-trojan://telegram-id-privatevpns@3.78.10.220:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
-trojan://telegram-id-privatevpns@13.36.137.47:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@v2rayNplus |🇬🇧
 vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.16.72.70:8443?path=/api/v1&security=tls&encryption=none&host=splash.ariyuz.org&type=ws&sni=splash.ariyuz.org#🇬🇧
 vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.18.153.10:8443?path=/api/v1&security=tls&encryption=none&host=splash.ariyuz.org&type=ws&sni=splash.ariyuz.org#🇬🇧
@@ -16,3 +11,6 @@ vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=/ws&security
 vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@66.245.196.212:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=a1c3e5f700b2d4e6#🇬🇧Manchester
 vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@lon.edgeptr.org:443?mode=auto&path=/api/v1/data&security=reality&encryption=none&pbk=NgeK43tvGe6YZNEdr4HL-CdimEA59KNFtu1nCNh8LFE&fp=chrome&spx=/assets/img?v=2&type=xhttp&sni=ajax.aspnetcdn.com&sid=b00bface11223344#🇬🇧 London
 vless://fb27b0e8-e987-420e-8816-3870017bdbac@V2Clover.spdnet.store:17390?path=/&security=&encryption=mlkem768x25519plus.native.0rtt.JA7r_7iEj0xWLie2zKYoGhIpXd1GEvX6CUgIwIxhzQY&type=httpupgrade#🇺🇲 • 𝗨𝗻𝗶𝘁𝗲𝗱 𝗦𝘁𝗮𝘁𝗲𝘀¹-V2rayclover|📊59.81GB|⏳3D
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@eng.speedtrade.top:19668?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🆔configfa%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20107ms
+vmess://eyJ2IjoiMiIsInBzIjoiR0Loi7Hlm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSA4IiwiYWRkIjoiODIuMTk4LjI0Ni4yNTAiLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiR0Loi7Hlm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSA5IiwiYWRkIjoiODIuMTk4LjI0Ni4yNTAiLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
