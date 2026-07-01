@@ -1,8 +1,14 @@
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@eng.speedtrade.top:19668?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🆔configfa%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20107ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB🇬🇧
 trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-45.77.227.183-0215
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@eng.speedtrade.top:19668?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🆔configfa%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20107ms
+vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?sni=gb7.univesalsrv.com&alpn=h2&type=grpc&serviceName=mobile.api.Event&fp=chrome&security=tls#🇬🇧[openproxylist.com]vless-GB
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.128.176.87:443?fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9113
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.128.176.87:443?&security=tls&fp=chrome&sni=vpn47.cc.cd&type=ws&headerType=none&host=vpn47.cc.cd&path=%2F#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%9113
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.128.176.87:443?&security=tls&fp=chrome&sni=vpn47.cc.cd&type=ws&headerType=none&host=vpn47.cc.cd&path=%2F#GB%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa9a.xyz%E3%80%9113%202
+vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.53:8443?&security=reality&flow=xtls-rprx-vision&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&fp=chrome&sni=storage.yandex.net&type=tcp&headerType=none&path=%2F#GB-London-61061889-imsa
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB🇬🇧
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#🇬🇧GB-🚀@VPNine1
 trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@v2rayNplus |🇬🇧
+vless://41dcf135-49a8-45ee-85ac-581731e0fa2c@185.226.93.160:1102?encryption=none&fp=chrome&pbk=pn91tsuZ1PlyIi2l80Ei28jXgvPrnuVsBseihnlpVxg&security=reality&sid=584a18e749209589&sni=yahoo.com&spx=/VJO40r0Tu05fVkG&type=tcp#TRY-FREE_1TR-1000.00GB📊
 vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.16.72.70:8443?path=/api/v1&security=tls&encryption=none&host=splash.ariyuz.org&type=ws&sni=splash.ariyuz.org#🇬🇧
 vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.18.153.10:8443?path=/api/v1&security=tls&encryption=none&host=splash.ariyuz.org&type=ws&sni=splash.ariyuz.org#🇬🇧
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=rouwwwfrance.appleseraj.ir&sni=rouwwwfrance.appleseraj.ir&fp=chrome#🇬🇧| 𝐋𝐨𝐧𝐝𝐨𝐧
@@ -12,5 +18,3 @@ vless://977bac99-33d4-408a-91f5-0ce737793a54@172.64.159.64:80?security=none&allo
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=/ws&security=tls&encryption=none&host=newgen14.hozheen.ir&type=ws&sni=4dcb0d80784f3081.hozheen.ir#2GB
 vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@66.245.196.212:443?security=reality&encryption=none&pbk=EtKRG8sxUJsdy-KwUOtYUNJnSn5VMx2sfKvvdpzg2X0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=a1c3e5f700b2d4e6#🇬🇧Manchester
 vless://de3fb5b2-af5d-4002-87b0-ff7d1f569d94@lon.edgeptr.org:443?mode=auto&path=/api/v1/data&security=reality&encryption=none&pbk=NgeK43tvGe6YZNEdr4HL-CdimEA59KNFtu1nCNh8LFE&fp=chrome&spx=/assets/img?v=2&type=xhttp&sni=ajax.aspnetcdn.com&sid=b00bface11223344#🇬🇧 London
-vless://fb27b0e8-e987-420e-8816-3870017bdbac@V2Clover.spdnet.store:17390?path=/&security=&encryption=mlkem768x25519plus.native.0rtt.JA7r_7iEj0xWLie2zKYoGhIpXd1GEvX6CUgIwIxhzQY&type=httpupgrade#🇺🇲 • 𝗨𝗻𝗶𝘁𝗲𝗱 𝗦𝘁𝗮𝘁𝗲𝘀¹-V2rayclover|📊59.81GB|⏳3D
-vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?sni=gb7.univesalsrv.com&alpn=h2&type=grpc&serviceName=mobile.api.Event&fp=chrome&security=tls#🇬🇧[openproxylist.com]vless-GB
