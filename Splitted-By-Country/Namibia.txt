@@ -1,13 +1,7 @@
-trojan://humanity@208.103.161.170:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%A6%81%E2%98%80%EF%B8%8F%40varkana0
-trojan://Mitivpn@151.101.110.219:443?type=ws&security=tls&path=%2Fde%3Dmitivpn&host=3-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%A6%81%E2%98%80%EF%B8%8F%40varkana0
-trojan://MITIVPN@164.38.155.135:443?type=ws&security=tls&path=%2FMiTiVPN%3DDe&host=95r.ir&sni=95r.ir&alpn=http%2F1.1&fp=firefox&insecure=1&allowInsecure=1#%F0%9F%A6%81%E2%98%80%EF%B8%8F%40varkana0
-trojan://Mitivpn@151.101.56.6:443?type=ws&security=tls&path=%2Fboost&host=4-4-3-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=1&allowInsecure=1#%25%F0%9F%A6%81%E2%98%80%EF%B8%8F%40varkana0
-trojan://MITIVPN@94.140.0.100:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@erfanandroid
-trojan://MiTiVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🐰@TEHRANARGO🐰
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#HK-103.177.136.45-66
+vmess://eyJ2IjoiMiIsInBzIjoidC5tZS92MkxpbmUgfCBGcmVlIHwgMzE5MSB8IENhbmFkYSIsImFkZCI6IjE1OC41MS4xMjEuNjMiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InNlcmlidXMub3JnIiwiYWxwbiI6IiIsImZwIjoiIn0=
 trojan://MiTiVPN@199.181.197.176:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🐰@TEHRANARGO🐰
-trojan://MiTiVPN@89.116.180.49:443?path=/nl=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=ws&allowInsecure=0&sni=f6r.ir#@TEHRANARGO
-trojan://Mitivpn@151.101.56.6:443?path=/boost&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@TEHRANARGO
+trojan://Mitivpn@151.101.110.219:443?path=/boost&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@TEHRANARGO
 trojan://Mitivpn@151.101.56.6:443?path=/fastly=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@TEHRANARGO
-vless://5e1e2f5b-e52e-40de-8435-89487f5c5918@104.252.53.181:14708?security=&encryption=none&headerType=&type=tcp#TEHRANARGO
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#HK-103.177.136.45-115
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:48697?allowInsecure=1&sni=gh.01.naiun.bilibili.com#HK-103.177.136.45-137
+vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#test canada
+vmess://eyJhZGQiOiJpcHMuY29uZmlnZm9ydnBuLmZ1biIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoicm9vdC5jb25maWdmb3J2cG4uZnVuIiwiaWQiOiJkYTI4Yzg1ZS1lNzFiLTQ1NTQtYTlmYy0xNjJiYzk0YzdjYjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg4ODAiLCJwcyI6IkBDb25maWdmb3JWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
