@@ -1,2 +1,4 @@
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@14.53.107.138:29999?sni=vpn.rnmcnm.com#%E6%9C%AA%E7%9F%A543
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.125:443?encryption=none&security=tls&sni=kingcloud.biack.ir&fp=firefox&alpn=h3&insecure=0&allowInsecure=0&type=ws&path=%2FLiL%3Fed%3D2560#%40Zlinkid%20%F0%9F%87%A8%F0%9F%87%A6_MCI_iranc```
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL&security=tls&encryption=none&insecure=0&host=kingcloud.biack.ir&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#%40Zlinkid%20%F0%9F%87%B3%F0%9F%87%B1_MCI_iranc%20`
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjgiLCJhZGQiOiI4LjIxNy4xMy43NCIsInBvcnQiOiIzMTc2OSIsImlkIjoiY2YxYWQ2YzctNTk4Ny00MzE0LTgyYmItYjQzOTkwNDBkMDQ3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNjgifQ==
+vless://f814efd4-b84c-4ec2-9fc5-9a69d9aac87b@151.101.110.219:443?path=%2F&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#configraygan_mci_1
+trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#configraygan_mci_2
