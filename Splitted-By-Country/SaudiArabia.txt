@@ -1,9 +1,3 @@
-vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20USA%20III%20%23%D0%BC%D1%8F_%CE%B1%CA%9F%CF%83%D0%BF%CE%B5
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&authority=%2F%3FJOIN---PLANB_PROXY&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20by%20PlanB%20Proxy
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20X
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?allowInsecure=0&sni=149.104.104.58#SA-149.104.104.58-0128
+trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@mehrosaboran
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#%F0%9F%87%B8%F0%9F%87%A6SA-149.104.104.58-0192
-trojan://MITIVPN@velocore.co:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=Usa.App-Cloud.ir&sni=Usa.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
-trojan://MiTiVPN@151.101.193.242:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆🥝
-trojan://MiTiVPN@www.hcaptcha.com:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#@mehrosaboran
-trojan://Mitivpn@151.101.110.219:443?path=/boost&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
