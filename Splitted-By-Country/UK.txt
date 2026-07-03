@@ -1,7 +1,8 @@
 trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-45.77.227.183-0226
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB🇬🇧
+trojan://telegram-id-privatevpns@52.57.13.95:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&headerType=none&fp=chrome&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#🆔soskeynet%20🔒%20VL-TCP-%20🇬🇧%20GB%20down
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto&path=%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&host=frankloyal.appleseraj.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=frankloyal.appleseraj.ir#🆔ar14n24b%20🔒%20VL-XHTTP-N/A%20🇬🇧%20GB%20177ms
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB🇬🇧
 trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@v2rayNplus |🇬🇧
 vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.16.72.70:8443?path=/api/v1&security=tls&encryption=none&host=splash.ariyuz.org&type=ws&sni=splash.ariyuz.org#🇬🇧
 vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.18.153.10:8443?path=/api/v1&security=tls&encryption=none&host=splash.ariyuz.org&type=ws&sni=splash.ariyuz.org#🇬🇧
