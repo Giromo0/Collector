@@ -1,15 +1,29 @@
 vmess://eyJ2IjoiMiIsInBzIjoidC5tZS92MkxpbmUgfCBGcmVlIHwgMzE5MSB8IENhbmFkYSIsImFkZCI6IjE1OC41MS4xMjEuNjMiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InNlcmlidXMub3JnIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vmess://eyJhZGQiOiIxNS4yMzUuODMuMjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqPCfh6YgQ2FuYWRhIiwic2N5IjoiYXV0byIsInNuaSI6ImxhbW1hbGFuZC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://3da6f38f-a41b-4012-b892-d3c2594d3d8d@91.107.190.12:23426?type=tcp&encryption=none&security=reality&pbk=uLsdtjN_l8VRQN6DOi8p-ykSY3UYqotD2cpraC0KbVY&fp=chrome&sni=play.google.com&sid=9186&spx=%2Fnaranv2ray#naranv2ray`
+trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&amp;security=tls&amp;fp=chrome&amp;type=grpc&amp;serviceName=db&amp;sni=n2.gladns.com#United%20State%20Nato
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.5.231:443?encryption=none&type=ws&security=tls&path=%2Ffp&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=1&allowInsecure=1#%F0%9F%A6%81%E2%98%80%EF%B8%8F%40varkana0
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&type=ws&security=tls&path=%2FLiL%3Fed&sni=kingcloud.biack.ir&alpn=h3&fp=firefox&insecure=1&allowInsecure=1#%F0%9F%A6%81%E2%98%80%EF%B8%8F%40varkana0
+trojan://------------BanV2ray------------@179.237.75.217:13961?security=reality&pbk=S6Urxz22KIfwiMpEip65mTaA8JKe_d-Ocav2KXlG0lo&headerType=none&fp=chrome&spx=/pg7A2CqFsqP6t0d&type=tcp&sni=promotion.yahoo.com&sid=3b661d5f#@erfanandroid
+trojan://------------BanV2ray------------@179.237.75.217:16360?security=reality&pbk=S6Urxz22KIfwiMpEip65mTaA8JKe_d-Ocav2KXlG0lo&headerType=none&fp=chrome&spx=/YF6DAe1ZQB57EmP&type=tcp&sni=promotion.yahoo.com&sid=7fe58b16f2d6c3#@erfanandroid
+trojan://------------BanV2ray------------@179.237.75.217:26786?security=reality&pbk=S6Urxz22KIfwiMpEip65mTaA8JKe_d-Ocav2KXlG0lo&headerType=none&fp=chrome&spx=/pHzP0Ab3ZYU8pQc&type=tcp&sni=promotion.yahoo.com&sid=5b77e973a2e70c48#@erfanandroid
+trojan://MITIVPN@104.16.72.41:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#@erfanandroid
+trojan://MITIVPN@104.16.72.41:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#@erfanandroid
+trojan://MITIVPN@104.25.193.8:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=D-e.MaQror.ir&fp=chrome&type=ws&allowInsecure=0&sni=G-Dee.MaQror.ir#@erfanandroid
 trojan://MITIVPN@104.31.16.65:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Us&security=tls&alpn=http/1.1&insecure=0&host=U-s.MaQror.ir&fp=chrome&type=ws&allowInsecure=0&sni=U-S-A.MaQror.ir#@erfanandroid
+trojan://MITIVPN@188.114.98.193:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=Ge.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Ge.App-Cloud.ir#@erfanandroid
 trojan://MITIVPN@assets.fiverr.com:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=Usa.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Usa.App-Cloud.ir#@erfanandroid
-trojan://MITIVPN@openai.com:443?type=ws&security=tls&path=/MiTiVPN=De&host=germany.App-Cloud.ir&sni=germany.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
-trojan://MiTiVPN@104.19.230.21:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#@erfanandroid
-trojan://MiTiVPN@104.26.15.137:443?path=/MiTiVPN=USA&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=us-a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us-a.App-Cloud.ir#@TEHRANARGO🦁کانال کانفیگ و پروکسی
-trojan://MiTiVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🐰@TEHRANARGO🐰
-trojan://MiTiVPN@199.181.197.176:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🐰@TEHRANARGO🐰
-trojan://MiTiVPN@45.131.4.118:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🐰@TEHRANARGO🐰
-trojan://Mitivpn@151.101.110.219:443?path=/boost&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@TEHRANARGO کانال تلگرام 🕊️
-trojan://Mitivpn@151.101.56.6:443?path=/fastly=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@TEHRANARGO
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Tel-@NapsterNetvIrani🤓 2
-vless://5c00c141-856a-4439-56ec-e1ccffb310fe@s1.zynavo.ir:2087?mode=auto&path=
+trojan://MITIVPN@www.speedtest.net:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=germany.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=germany.App-Cloud.ir#@erfanandroid
+trojan://MiTiVPN@104.16.72.41:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#@erfanandroid
+trojan://MiTiVPN@104.18.37.237:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Sw&security=tls&alpn=http/1.1&insecure=0&host=S-W.MaQror.ir&fp=chrome&type=ws&allowInsecure=0&sni=S-o-W.MaQror.ir#@erfanandroid
+trojan://MiTiVPN@104.18.42.98:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&insecure=0&host=s-w.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=s-w.App-Cloud.ir#@erfanandroid
+trojan://MiTiVPN@104.21.33.129:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Fl&security=tls&alpn=http/1.1&insecure=0&host=F-l.MaQror.ir&fp=chrome&type=ws&allowInsecure=0&sni=Fo-F-lL.MaQror.ir#@erfanandroid
+trojan://MiTiVPN@104.26.4.60:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Nl&security=tls&alpn=http/1.1&insecure=0&host=N-l.MaQror.ir&fp=chrome&type=ws&allowInsecure=0&sni=NL-L-ll.MaQror.ir#@erfanandroid
+trojan://MiTiVPN@88.216.67.230:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nel.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nel.App-Cloud.ir#@erfanandroid
+trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#@erfanandroid
+trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#@erfanandroid
+trojan://MiTiVPN@assets.fiverr.com:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl.App-Cloud.ir#@erfanandroid
+trojan://MiTiVPN@assets.fiverr.com:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Fl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=fl.App-Cloud.ir#@erfanandroid
+trojan://MiTiVPN@openai.com:443?type=ws&security=tls&path=/MiTiVPN=NL&host=Nel.App-Cloud.ir&sni=Nel.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
+trojan://MiTiVPN@openai.com:443?type=ws&security=tls&path=/MiTiVPN=Se&host=swe.App-Cloud.ir&sni=swe.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
+vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#test canada
+vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI0Ny4yNTAuNDUuMjM0IiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraSIsInBvcnQiOiI0MzA2MyIsInBzIjoi4pyoIEBOYW1pcmFDb25maWdzIHwg4p2k77iPINmI2LXZhCDYtNiv24wg2KzZiNuM2YYg2LTZiCB8IOKaoSB8IPCfh7Lwn4e+Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
