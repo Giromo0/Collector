@@ -1,42 +1,50 @@
-vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=%2F&security=none&encryption=none&type=ws#Test-Config-4
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?encryption=none&security=none&type=grpc#Test-Config-5
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Z
-trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&amp;security=tls&amp;fp=chrome&amp;type=grpc&amp;serviceName=db&amp;sni=n2.gladns.com#United%20State%20Nato
-trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#@fastkanfig . تلگرام عضو باش
-trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@fastkanfig 1
-trojan://MITIVPN@94.140.0.100:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@fastkanfig 4
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTA3LTA3IC0gMTE6MDQgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🪅
+vless://9b0b4404-f1eb-4551-9b88-e0aac7843c86@earthpro.wasmer.app:443?path=/9b0b4404&security=tls&encryption=none&insecure=0&host=earthpro.wasmer.app&type=ws&allowInsecure=0&sni=earthpro.wasmer.app#🔋
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan
+hysteria2://rjj39jg8iphgd06h@pro2.riziro.ir:44100?alpn=h3&fp=chrome&sni=pro2.riziro.ir&obfs=salamander&obfs-password=2gg0tx9d2etug8n9#%F0%9F%87%B1%F0%9F%87%BBhysteria
+vless://e1cc26b3-df0b-477b-afb0-53659a25e978@144.31.38.207:40035?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CFalkenstein-GetAFreeNode
+vless://075232d9-82c0-4500-b049-812e944c655c@shop.frahidx.ir:2044?encryption=none&amp;fp=ios&amp;headerType=http&amp;host=play.google.com&amp;path=%2F&amp;pbk=gjTtmitQwQ-RqfeieYrfdba0R08zcdwh4h4YGBCnVRo&amp;security=reality&amp;sid=0be408ac733a5da5&amp;sni=google-analytics.com&amp;spx=%2FGOJJb7rYbXlqVHW&amp;type=tcp#test
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de-1.hysteria.ltd#@V2raySup0🚀
+trojan://MITIVPN@104.16.72.41:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&host=De.App-Cloud.ir&fp=chrome&type=ws&sni=De.App-Cloud.ir#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MITIVPN@104.16.72.41:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=De#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MITIVPN@140.248.185.252:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=USA&security=tls&alpn=http/1.1&host=mitivpn----a.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MITIVPN@199.232.2.79:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&host=mitivpn----a.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MITIVPN@45.131.4.115:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=Usa#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MITIVPN@94.140.0.100:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&host=95r.ir&fp=chrome&type=ws&sni=95r.ir#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://MiTiVPN@104.16.72.2:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=Nlw&security=tls&alpn=http/1.1&host=sjus-kdid-iodp.Maqror.ir&fp=chrome&type=ws&sni=nl-ll-nl.Maqror.ir#✅  @vistav2ray  👈👈کانال ما ✅
-trojan://MiTiVPN@151.101.1.242:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=www.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.f6r.ir#عضو باش :@fastkanfig
-trojan://MiTiVPN@151.101.110.219:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#کانفیگ رایگان @fastkanfig
-trojan://MiTiVPN@151.101.193.242:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#@fastkanfig کانال تلگرام
+trojan://MiTiVPN@104.16.72.41:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=Se#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MiTiVPN@104.19.230.21:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&host=Nl.App-Cloud.ir&fp=chrome&type=ws&sni=Nl.App-Cloud.ir#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MiTiVPN@104.21.5.75:443?path=/MiTiVPN=Sw&security=tls&alpn=h3,h2,http/1.1&host=sw-W.App-Cloud.ir&fp=chrome&type=ws&sni=sw-W.App-Cloud.ir#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MiTiVPN@104.21.61.186:443?type=ws&security=tls&path=/MiTiVPN=Sw&host=sw-Ws.App-Cloud.ir&sni=sw-Ws.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@W570W
+trojan://MiTiVPN@167.82.101.252:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&host=miticonfig.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MiTiVPN@172.67.74.47:443?path=/MiTiVPN=fll&security=tls&alpn=h3,h2,http/1.1&host=F-ll.App-Cloud.ir&fp=chrome&type=ws&sni=F-ll.App-Cloud.ir#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://MiTiVPN@172.67.74.47:443?security=tls&sni=F-ll.App-Cloud.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=F-ll.App-Cloud.ir&path=/MiTiVPN=fll#✅  @vistav2ray  👈👈کانال ما ✅
-trojan://MiTiVPN@199.181.197.176:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@fastkanfig 3
+trojan://MiTiVPN@199.181.197.176:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&host=95r.ir&fp=chrome&type=ws&sni=95r.ir#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://MiTiVPN@199.181.197.176:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@fastkanfig 54
-trojan://MiTiVPN@45.131.4.118:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@fastkanfig 2
-trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@fastkanfig 6
-trojan://MiTiVPN@91.193.58.201:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=NL#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MiTiVPN@199.232.78.140:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fl&security=tls&alpn=http/1.1&host=miticonfig.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MiTiVPN@199.232.78.140:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&host=miticonfig.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MiTiVPN@45.131.4.115:443?path=/MiTiVPN=N-L&security=tls&alpn=h3,h2,http/1.1&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&sni=Nl-L.App-Cloud.ir#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MiTiVPN@45.131.4.115:443?security=tls&sni=Nl-L.App-Cloud.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=Nl-L.App-Cloud.ir&path=/MiTiVPN=N-L#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://MiTiVPN@45.131.4.118:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&host=95r.ir&fp=chrome&type=ws&sni=95r.ir#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@fastkanfig 4
+trojan://Mitivpn@151.101.110.219:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=3-mitivpn.global.ssl.fastly.net&path=/de=mitivpn#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://Mitivpn@151.101.56.6:443?path=/&security=tls&alpn=h2&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/fastly=mitivpn#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/fast-speed#✅  @vistav2ray  👈👈کانال ما ✅
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmloud.com#@fastkanfig تلگرام
+trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/slowdns#✅  @vistav2ray  👈👈کانال ما ✅
+trojan://Mitivpn@167.82.101.251:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=3-mitivpn.global.ssl.fastly.net&path=/de#✅  @vistav2ray  👈👈کانال ما ✅
 trojan://kZSruDyvxP@45.130.125.2:443?path=/da&security=tls&insecure=0&host=sk.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=sk.farxmode.ir#V2rayng_Fast
 vless://13f99069-a259-4422-a294-ee59d21b54b3@tuns.textin.ir:2096?security=tls&type=ws&headerType=&path=/cdn-sync&host=tuns.textin.ir&sni=tuns.textin.ir&fp=chrome&alpn=http/1.1#V2rayng_Fast
 vless://37b6394a-eba6-4c2d-8d00-d69f48090387@104.16.45.222:2053?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-ct0i83.zeus-witof2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-ct0i83.zeus-witof2.workers.dev#best net-6-2053
-vless://37b6394a-eba6-4c2d-8d00-d69f48090387@104.16.45.222:80?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=none&encryption=none&insecure=0&host=zeus-panel-ct0i83.zeus-witof2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-ct0i83.zeus-witof2.workers.dev#best net-6-80
-vless://37b6394a-eba6-4c2d-8d00-d69f48090387@172.67.193.59:2083?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-ct0i83.zeus-witof2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-ct0i83.zeus-witof2.workers.dev#best net-7-2083
-vless://37b6394a-eba6-4c2d-8d00-d69f48090387@172.67.193.59:80?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=none&encryption=none&insecure=0&host=zeus-panel-ct0i83.zeus-witof2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-ct0i83.zeus-witof2.workers.dev#best net-7-80
 vless://45165c2e-f97e-437a-8b40-d94a61a3f400@Snapp.ir:80?path=/Vip-magnolia&security=&encryption=none&host=Happy.phynanc.ir&type=ws#V2rayng_Fast
 vless://564397f8-4805-4433-ab5b-a24aa133bac2@hub.oneoknews.com:443?mode=gun&security=reality&encryption=none&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&type=grpc&serviceName=api.v1.StreamService&sni=hub.oneoknews.com&sid=064c2d37308aeeb6#V2rayng_Fast
-vless://58d23d23-0d2b-4cf1-809b-2625ded3dba0@las.dearhossein-taktaz.ir:46176?fp=chrome&host=play.google.com&encryption=none&pbk=D4hKOdrSTKmI0HIYFf1-Ggy0ADaB39k7AQAZmeK9qCM&security=reality&sid=70&sni=www.yahoo.com&spx=/t9MMErPLlzdH7wc&type=tcp&headerType=http#V2rayng_Fast
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?encryption=none&allowInsecure=0&path=/proxyip&fp=chrome&sni=nbhhh.mrcool.kdns.fr&insecure=0&security=tls&host=nbhhh.mrcool.kdns.fr&type=ws#V2rayng_Fast
-vless://7dce5fa8-b724-41d4-b124-4dd643a98465@C1C1C1C1C1C1.rjwarehousing.ir:443?path=/&security=tls&encryption=none&insecure=0&host=cdcdcdcdcdcddccccddddnnn.rjwarehousing.ir&type=ws&allowInsecure=0&sni=cdcdcdcdcdcddccccddddnnn.rjwarehousing.ir#V2rayng_Fast
-vless://80816cd5-dcd1-4a7b-b12d-1b8561a5f097@my.kiomars.shop:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#V2rayng_Fast
 vless://89bbf99d-1ac9-46bb-9aeb-ef31ee54f178@172.66.213.38:2095?path=/&security=none&encryption=none&host=qsqsw.monopolitass.ir&type=httpupgrade#V2rayng_Fast
 vless://89bbf99d-1ac9-46bb-9aeb-ef31ee54f178@cdn1.portalcode.ir:2095?path=/&security=none&encryption=none&host=zenesky.rainzone.ir&type=httpupgrade#V2rayng_Fast
-vless://986907c0-34b9-428f-8810-954e91d926a1@104.16.174.118:443?encryption=none&security=tls&sni=rfrcdn.ultran.ir&allowinsecure=0&type=xhttp&mode=auto&host=rfrcdn.ultran.ir&path=/frcdn#V2rayng_Fast
-vless://a50f130c-5962-4500-8f17-e897f4dc1061@dl4.gooniforoshi.fun:443?encryption=none&security=tls&sni=dl4.gooniforoshi.fun&allowinsecure=0&type=ws&host=dl4.gooniforoshi.fun&path=/download.php#V2rayng_Fast
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&type=ws&security=tls&path=/LiL?ed=2560&sni=kingcloud.biack.ir&alpn=h3&fp=chrome&insecure=0&allowInsecure=0#V2rayng_Fast
+vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#test canada
+vless://9e1671d2-4092-4ae4-93b3-1d2db0f1a071@89.39.121.54:110?type=tcp&headerType=none&encryption=none&security=none#V2rayng_Fast
 vless://aa92a4a2-875a-4ee7-989c-9649072f42d7@37.152.190.59:80?encryption=none&type=ws&path=/&host=ir.mgwarrior.ir#V2rayng_Fast
-vmess://eyJhZGQiOiI0Ny4yNTEuOTEuMjQxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA5MjViMzU1LTJiY2QtNGVhZS05NzIwLWQyNzA5ZTRmN2UzNiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDI4OTkiLCJwcyI6IvCfh7rwn4e4IFRlbGVncmFtOkBnaG9zdHZwbjE0MSDwn4e68J+HuCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-hysteria2://hk6ah4vgb0qp2koh@panel.riziro.ir:4526?alpn=h3&fp=chrome&sni=ger1.riziro.ir#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%92%8Ehysteria-%40hollowcon
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?allowInsecure=0#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA%20starcorenode.com
+vless://b8cd6ca4-57ad-b45c-db2f-c2c560e3cd3d@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/b8cd6ca4-57ad-b45c-db2f-c2c560e3cd3d#102
+vless://f0b26394-a5a5-4b83-a639-94e49ea46108@104.16.103.153:443?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=zeus-panel-xzftot.zeus-aww3i3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-xzftot.zeus-aww3i3.workers.dev#V2rayng_Fast
+vless://f0b26394-a5a5-4b83-a639-94e49ea46108@ravan-plus.ir:80?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=none&encryption=none&insecure=0&host=zeus-panel-xzftot.zeus-aww3i3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-xzftot.zeus-aww3i3.workers.dev#V2rayng_Fast
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@server.xv98.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#V2rayng_Fast
