@@ -1,8 +1,9 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB🇬🇧
-vmess://eyJ2IjoiMiIsImFkZCI6IjY2LjE2My4xMTcuNTgiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJwcyI6IkdCIPCfh6zwn4enIHwgQFJheWRpa2FseCB8IDI2ODQiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.135:2085?encryption=none&security=none&serviceName=vless&type=grpc#🆔ar14n24b%20🔓%20VL-GRPC-N/A%20🇬🇧%20GB%20149ms
-vless://367ff772-a8f4-4895-8e99-3702a868f0c6@osit1.ghast.sbs:443?sni=osit1.ghast.sbs&type=grpc&serviceName=grpc-api&fp=chrome&security=tls#🇬🇧[openproxylist.com]vless-GB
-vless://47df3f6c-c3a0-463b-a6a0-ad4e8494c95b@20.0.105.19:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zNtSqVR2dp454rIsJL8qQ-miOuSIP33Koyqc9gUGdV8&security=reality&sid=60bf01f7&sni=www.cloudflare.com&type=tcp#🇬🇧[openproxylist.com]vless-GB
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB🇬🇧
+vmess://eyJ2IjoiMiIsInBzIjoiW/Cfh6zwn4enXSBbdm0tbm8tcmFdIFsyNjA3MTAtMjM0NjE3LjI5N10iLCJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwicG9ydCI6IjIyMzI0IiwidHlwZSI6Im5vbmUiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+vless://d8b42cd5-a149-4356-9e61-000000000000@110.34.38.174:2552?#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C3.1MB/s
+vless://d8b42cd5-a149-4356-9e61-111111111111@110.34.38.2:1445?#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C3.2MB/s
+trojan://MITIVPN@164.38.155.135:443?allowInsecure=0&sni=95r.ir&type=ws&host=95r.ir&path=/MiTiVPN=De#GB_speednode_0005
 vless://20e59ea7-b17c-4799-abbc-a90d686809e4@1:1010?encryption=none&security=none&type=tcp&headerType=none#100.0 GB | 100.0 GB |⏳1405-04-26
 vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.16.72.70:8443?path=/api/v1&security=tls&encryption=none&host=splash.ariyuz.org&type=ws&sni=splash.ariyuz.org#🇬🇧
 vless://54147015-1fb7-4a2d-93dc-c0acaa00f558@1:1010?encryption=none&security=none&type=tcp&headerType=none#100.0 GB | 100.0 GB |⏳1405-04-26
@@ -11,3 +12,7 @@ vless://977bac99-33d4-408a-91f5-0ce737793a00@172.64.159.64:80?security=none&allo
 vless://977bac99-33d4-408a-91f5-0ce737793a50@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
 vless://977bac99-33d4-408a-91f5-0ce737793a54@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
 vless://bbb9db67-9cb1-4dc6-9b92-5fef93331332@213.156.152.234:13852?security=reality&encryption=none&pbk=GoV94qiMciumXTs0_K2bYdXHPYZx6Qez_RoF-oqqCzo&headerType=http&fp=chrome&spx=/gVCLnTsaoc7silZ&type=tcp&sni=www.oracle.com&sid=6b59#Ray-80.50GB📊
+vless://df7f6532-8f1e-4b76-a3e9-2699771867d1@198.169.2.65:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=idk.subgift.xyz&path=/subgift&mode=auto&extra={"xPaddingBytes":"100-1000"}#102
+vless://fb15c6cb-2a01-41a4-b7a2-acc0fccd3f87@167.82.101.250:443?mode=auto&path=/?ed=2048&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=imei.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.fastly.com#Xht-14-umimd4h5sw-50.00GB📊-1D⏳
+vless://47df3f6c-c3a0-463b-a6a0-ad4e8494c95b@20.0.105.19:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zNtSqVR2dp454rIsJL8qQ-miOuSIP33Koyqc9gUGdV8&security=reality&sid=60bf01f7&sni=www.cloudflare.com&type=tcp#🇬🇧[openproxylist.com]vless-GB
+vless://367ff772-a8f4-4895-8e99-3702a868f0c6@osit1.ghast.sbs:443?sni=osit1.ghast.sbs&type=grpc&serviceName=grpc-api&fp=chrome&security=tls#🇬🇧[openproxylist.com]vless-GB
