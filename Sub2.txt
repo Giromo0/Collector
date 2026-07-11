@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
+vless://81caa837-c213-4731-a02e-662380ad1e2f@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/VeJJ5MwyXaAbhkV8?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN - Free (3)
+vless://81caa837-c213-4731-a02e-662380ad1e2f@104.21.80.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/BJMz0Rpb9gejBzKP?ed=2560#CxrolVPN - Free (2)
+vless://81caa837-c213-4731-a02e-662380ad1e2f@104.21.16.1:443?security=tls&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/3BzRkDnEVV1LI56p?ed=2560&sni=cxrolvpn.freev2-edb.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN - Free (4)
 vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gbw40.moyvpns.com:443?encryption=none&security=tls&sni=gbw40.moyvpns.com&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=grpc-api&mode=gun#مخصوص ایرانسل 🔥
 vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=gb7.univesalsrv.com#Proxy_Se7en
 vless://810b8ba9-3232-42ac-a474-3e921fdc8845@gb7.univesalsrv.com:443?encryption=none&security=tls&sni=gb7.univesalsrv.com&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=mobile.api.Event&mode=gun#مخصوص ایرانسل 🔥
@@ -17,6 +20,7 @@ vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?path=/rsedgws&sec
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Proxy_Se7en
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.50:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🇩🇪
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#V2ray_Alpha🦅 12
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#ProxyMtpVPN-230
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#%V2raySaman
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&host=shegeftihaaa.net&type=ws&sni=shegeftihaaa.net#🇩🇪
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🚀 t.me/iProxyChannel 7
@@ -55,7 +59,6 @@ vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?path=/&security=
 vless://74705348-bb9c-47c6-9e91-057c6407bb20@104.16.72.41:8880?path=/pyip&security=&encryption=none&host=small-glitter-aa35.76-21d.workers.dev&type=ws#🇰🇷
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=&encryption=none&headerType=none&type=tcp#Proxy_Se7en
 vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@backend.xwhiteness.site:443?security=reality&encryption=none&pbk=gifIrcPX_n54pgouOfegoOXfTtQTE3DUHjjrVqF0qGY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=backend.xwhiteness.site#TEL;Father_vpn
-vless://738f170e-e674-7991-9902-f182a8fa9b1c@fn4.sannest.ir:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=DJ9B-OWkR4FwRvEfHpdAKqEasnRdVcZHoAaMueWEGWA&sid=bd&spx=/&allowinsecure=0&type=tcp&headerType=none#ProxyMtpVPN-222
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@172.64.32.75:443?path=/jdhfyws&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#Proxy_Se7en
 vless://729a43e6-6926-4c27-92f6-b70a67471afc@hub.oneoknews.com:443?mode=gun&security=reality&encryption=none&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=hub.oneoknews.com&sid=064c2d37308aeeb6#🚀 t.me/v2ray_configs_pools 10
 vless://729a43e6-6926-4c27-92f6-b70a67471afc@hub.oneoknews.com:443?mode=gun&security=reality&encryption=none&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=hub.oneoknews.com&sid=064c2d37308aeeb6#🚀 t.me/iProxyChannel 10
@@ -99,7 +102,7 @@ vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.2:443?path=/proxyip&secur
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.2:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#Proxy_Se7en
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.101:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#Proxy_Se7en
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.101:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=NBHhh.MRCooL.KDNs.Fr&type=ws&allowInsecure=0&sni=NBHhh.MRCooL.KDNs.Fr#RayNet VIP
-vless://64a28ed6-2238-42d9-8452-b83674f741e5@7nXKCe_VLESS:1402?security=reality&type=tcp&headerType=&path=&host=&sni=f.d&fp=chrome&pbk=ciPKFr9TEbF41ECucqPFlAaHkG54CoZ0CFfHcX3i3iI&sid=#canfingV2rayNG-205
+vless://64a28ed6-2238-42d9-8452-b83674f741e5@7nXKCe_VLESS:1402?security=reality&type=tcp&headerType=&path=&host=&sni=f.d&fp=chrome&pbk=ciPKFr9TEbF41ECucqPFlAaHkG54CoZ0CFfHcX3i3iI&sid=#canfingV2rayNG-195
 vless://649fa5d0-b54e-4d90-9c2e-cb89bb7702b4@195.216.168.194:443?mode=gun&security=reality&encryption=none&type=grpc#RayNet VIP
 vless://63ec2a82-e47c-4782-a89e-9aca2baf17ef@188.114.97.6:443?path=/id-pusat&security=tls&encryption=none&insecure=0&host=quiz.int.vidio.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=quiz.int.vidio.com.ex33r.eu.cc#TEL;Father_vpn
 vless://62cbd29f-c6a6-41cb-835e-a7bfe8799224@german.musichubmel.ir:32459?security=none&encryption=none&host=play.google.com&headerType=none&type=tcp#V2ray_Alpha🦛 6
@@ -120,8 +123,10 @@ vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=t
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=latvia.aroonsid.ir#🇱🇻| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=buligh.aroonsid.ir#🇧🇬| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=bastona.aroonsid.ir#🇹🇷| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
+vless://5e10ed29-42b9-4057-aa2e-41696823acea@95.217.16.41:4431?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#filembad-178
 vless://5dec493b-22c2-4def-976e-9c5d4c954ebd@157.180.72.116:55849?security=none&encryption=none&headerType=http&type=tcp#برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
 vless://5bb4eea6-7786-44c9-aafa-bd0113c1b800@telegram.private-networks-zk.com:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=50#kurdconfig
+vless://5b9fa73b-b549-480b-add9-c45e650d236f@www.shopify.com:443?security=tls&type=ws&path=/&host=gddy.hhlfy.de5.net&packetEncoding=xudp&sni=gddy.hhlfy.de5.net&fp=chrome&encryption=none#v2ray_configs_pool-188
 vless://5aa54d70-0714-5d00-2007-c80cc10f7cae@x4g-production-42ec.up.railway.app:443?path=/ws/5aa54d70-0714-5d00-2007-c80cc10f7cae&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-42ec.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-42ec.up.railway.app# https://t.me/mtmvpn
 vless://59dc27e9-6b31-738d-eb04-bd66dc037892@ansooyefilter.up.railway.app:443?path=/ws/59dc27e9-6b31-738d-eb04-bd66dc037892&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=ansooyefilter.up.railway.app#Proxy_Se7en
 vless://59d08a71-f206-4ca3-9a42-8c56d3bfdc3c@46.8.229.199:443?security=reality&encryption=none&pbk=4o2G9iT8IN7YWwiDLgjMrpPmvwU5IQT6C6nE5Rh-wSQ&headerType=none&fp=chrome&spx=/zr8bwtC4DLf7P62&type=tcp&flow=xtls-rprx-vision&sni=intel.com&sid=da#kurdconfig
@@ -146,6 +151,7 @@ vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@172.64.32.75:443?path=/poiuyws&secu
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#FREE_VPN02
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#%FREE_VPN02 🌊
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=amoosamiii.net#Proxy_Se7en
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.72.41:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#ProxyMtpVPN-158
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.72.41:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#%V2raySaman
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.72.41:443?path=/poiuyws&security=tls&encryption=none&host=amoosamiii.net&type=ws&sni=amoosamiii.net#🇩🇪
 vless://4d1d33b2-96d9-40c7-964d-a5016ba65984@saja.foot8all.ir:50567?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=chrome&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&sid=6115f6a9eb8467c6#🇸🇪 ⟡ ✨ ʀᴇᴀʟɪᴛʏ
@@ -174,8 +180,6 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=realit
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#The Netherlands 🇳🇱
 vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=?ed=2560&security=tls&alpn=h2&encryption=none&insecure=0&host=pandura.lat&fp=chrome&type=ws&allowInsecure=0&sni=pandura.lat#Arshiavpn12
 vless://47422044-85e3-426b-b6c4-3588cb24a3e5@45.130.125.160:443?path=/ae-bo&security=tls&encryption=none&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#TEL:Father_vpn
-vless://45fefc81-1245-4452-b618-7496445f9da5@cd3.postshup.ir:8880?encryption=none&security=none&type=httpupgrade&headerType=none&path=/?ed=2082&host=nnnnnnnn.postshup.ir#filembad-160
-vless://45fefc81-1245-4452-b618-7496445f9da5@cd3.postshup.ir:8880?encryption=none&security=none&type=httpupgrade&headerType=none&path=/?ed=2082&host=cdn8-prooooo.postshup.ir#filembad-167
 vless://4550993c-2191-493a-a612-aaba4a4ec083@89.105.202.117:443?security=reality&encryption=none&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=g2.steptofsvo.com&sid=6d6f13013d3e1d0c#🚀 t.me/iProxyChannel 2
 vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#TEL;Father_vpn
 vless://42a1c069-9dc9-4181-86b8-13bf28632851@lala.baguvix.ir:8080?security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&headerType=http&type=tcp#Proxy_Se7en
@@ -232,6 +236,7 @@ vless://2b8738de-1af5-4267-b101-c05707769ed4@fans.liverpool.qzz.io:2083?path=/ey
 vless://29fe2f63-38de-4457-90b4-9d912bb87edc@104.21.37.62:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=NoDe-LINk-81aEfC-EdG.SAmyArhashM8.woRKers.dEv&type=ws&allowInsecure=0&sni=nODE-lInk-81AEFc-EDg.saMYARHashm8.WorkERs.DEv#🚀 t.me/iProxyChannel 20
 vless://2977ddae-0f86-2501-d6df-d09c91759115@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/2977ddae-0f86-2501-d6df-d09c91759115#105
 vless://28e9aff5-e64f-648b-7476-8a81bb73b93b@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/28e9aff5-e64f-648b-7476-8a81bb73b93b#103
+vless://2860e569-4c06-4950-af3e-3b72d892cdf2@faranse.duravex.net:8443?path=/&security=&encryption=none&host=faranse.duravex.net&type=ws#canfingV2rayNG-106
 vless://28201cd6-c2a9-4703-a31b-eaf31ecb18fd@104.16.72.41:8880?path=/pyip&security=&encryption=none&host=summer-butterfly-cbc8.26-971.workers.dev&type=ws#🇺🇸
 vless://27f914c5-bdcc-441a-9459-368daf552606@media.hihidress.com:443?security=reality&encryption=none&pbk=zCeRZCK7gCGFmPlOzBaTWHVkmysMFJlPqgDTPZRjRx0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mi.com&sid=6ba85179e30d4fc2#Proxy_Se7en
 vless://25e0282e-7bb8-4aeb-be15-b5b610f2235a@www.speedtest.net:443?path=/eyJqdW5rIjoiczlRdnZ2OTdrdWFwQyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=jolly-snowflake-951d.apextunnelnumber3.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jOLLY-snOwFlAKE-951d.apExtunNElnumbEr3.WORkERS.deV#TEL;Father_vpn
@@ -259,7 +264,6 @@ vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.32.1:443?security=tls&encryp
 vless://1737df47-a4b2-4096-9fc3-1d869aa50c08@104.21.16.1:80?security=none&encryption=none&type=ws&host=cxrolvpn.freev2-edb.workers.dev&path=/Lf40Du14nxmNjCFx?ed=2560#CxrolVPN Free (4)
 vless://17239063-e23e-4e3d-8217-cafa67124003@104.21.67.141:8080?encryption=none&security=none&sni=zeus-panel-j9dmh2.zeus-2zgd21.workers.dev&type=ws&host=zeus-panel-j9dmh2.zeus-2zgd21.workers.dev&path=/#t.me/ConfigFori  -  Config 88280
 vless://15ce0fde-88e2-42b0-91e6-e4a1b4568f6e@104.16.72.41:8880?path=/pyip&security=&encryption=none&host=old-truth-de8a.110-187.workers.dev&type=ws#🇸🇬
-vless://159101fb-aa1d-9052-0f89-ba14cb8aee5f@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/159101fb-aa1d-9052-0f89-ba14cb8aee5f#98
 vless://14f9c83f-626f-40eb-b9b3-e22b6274ae6a@osre3.jykvpn.com:2048?path=/&security=&encryption=none&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws#Proxy_Se7en
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#Proxy_Se7en
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@news.microsoft.com:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.vangoghhh.info#Proxy_Se7en
@@ -360,7 +364,6 @@ trojan://zBfIAxaXtz@151.101.34.144:443?mode=packet-up&path=/db&security=tls&alpn
 trojan://zBfIAxaXtz@151.101.34.144:443?mode=packet-up&path=/db&security=tls&alpn=h2,http/1.1&host=edgezvx.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.fastly.com#@appsooner کانال تلگرام 🕊️
 trojan://zBfIAxaXtz@104.16.72.50:443?security=tls&alpn=&fp=chrome&sni=sn.farxmode.ir&type=ws&path=/db&host=sn.farxmode.ir#🇩🇪
 trojan://zBfIAxaXtz@104.16.72.50:443?path=/db&security=tls&insecure=0&host=sn.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=sn.farxmode.ir#🇩🇪Telegram. @V2raySaman
-trojan://vpn@45.82.14.144:2025?encryption=none&security=none&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=/#[92130] - Telegram : @V2All
 trojan://v2TkL6FH3h@45.130.125.2:443?type=ws&security=tls&path=/da&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sm.farxmode.ir&sni=sm.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN
 trojan://v2TkL6FH3h@104.16.72.50:443?security=tls&alpn=&fp=chrome&sni=sm.farxmode.ir&type=ws&path=/da&host=sm.farxmode.ir#🇩🇪
 trojan://v2TkL6FH3h@104.16.72.50:443?path=/da&security=tls&insecure=0&host=sm.farxmode.ir&fp=chrome&type=ws&allowInsecure=0&sni=sm.farxmode.ir#🇩🇪Telegram. @V2raySaman
@@ -371,7 +374,6 @@ trojan://telegram-id-privatevpns@51.102.191.76:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@35.157.167.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.203.97.93:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-privatevpns@13.39.153.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.37.210.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#@V2raySup0🚀
 trojan://t.me/PhoenixNTWK@94.101.187.234:443?alpn=h2&fp=chrome&security=tls&sni=irs1.momoeint1.ir&type=tcp#PhoenixNetwork-1-50.00GB📊
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#TEL;Father_vpn
@@ -398,7 +400,9 @@ trojan://mSzFVhUczD@104.20.6.134:443?security=tls&sni=abest.api-tel.xyz&fp=chrom
 trojan://lhxmbdock4mu5lfx@144.225.65.181:443?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=4Ve_UMg6HVoF4Iy8eraMOuSIwecQ4jJmjlA0aNHGZV4&fp=chrome&spx=/q9AefYkPyQ6yh9v&type=xhttp&sni=www.sony.com&sid=ff#🦉@FreeConfigForYou
 trojan://lhxmbdock4mu5lfx@144.225.65.181:443?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=4Ve_UMg6HVoF4Iy8eraMOuSIwecQ4jJmjlA0aNHGZV4&fp=chrome&spx=/q9AefYkPyQ6yh9v&type=xhttp&sni=www.sony.com&sid=ff#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆🍇
 trojan://lhxmbdock4mu5lfx@144.225.65.181:443?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=4Ve_UMg6HVoF4Iy8eraMOuSIwecQ4jJmjlA0aNHGZV4&fp=chrome&spx=/q9AefYkPyQ6yh9v&type=xhttp&sni=www.sony.com&sid=ff#@appsooner کانال تلگرام 🕊️
+trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@149.28.241.235:443?security=tls&sni=149.28.241.235#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#🇿🇦 Join+Telegram:@Farah_VPN 🇿🇦
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
 trojan://kZSruDyvxP@45.130.125.2:443?type=ws&security=tls&path=/da&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sk.farxmode.ir&sni=sk.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN
 trojan://kZSruDyvxP@45.130.125.2:443?path=/da&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=sk.farxmode.ir#Proxy_Se7en
 trojan://kZSruDyvxP@45.130.125.2:443?path=/da&security=tls&alpn=-@Soul737&insecure=0&host=Soul737---Soul737---Soul737---Soul737---Soul737---Soul737---Soul737&fp=chrome&type=ws&allowInsecure=0&sni=sk.farxmode.ir#@Soul737
@@ -410,23 +414,17 @@ trojan://itX52H4tiA@151.101.34.144:443?type=xhttp&security=tls&path=/da&alpn=-@S
 trojan://itX52H4tiA@151.101.34.144:443?mode=packet-up&path=/da&security=tls&alpn=h2,http/1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@v2raybaaz [🌶]
 trojan://itX52H4tiA@151.101.34.144:443?mode=packet-up&path=/da&security=tls&alpn=h2,http/1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@Generalconfiig
 trojan://itX52H4tiA@151.101.34.144:443?mode=packet-up&path=/da&security=tls&alpn=h2,http/1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@FarazV2ray
+trojan://humanity@www.speedtest.net:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2,http/1.1&fp=chrome&type=ws&host=www.creationlong.org&path=/assignment#[92178] - Telegram : @V2All
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#⚡Telegram =@CUSTOMVPNSERVER
 trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#@CUSTOMVPNSERVER
-trojan://humanity@www.multiplydose.com:443?encryption=none&security=tls&type=ws&path=//assignment#[92119] - Telegram : @V2All
-trojan://humanity@www.ignitelimit.com:443?encryption=none&security=tls&alpn=http/1.1&fp=chrome&type=ws&path=/assignment#[92115] - Telegram : @V2All
-trojan://humanity@www.gossipglove.com:443?encryption=none&security=tls&alpn=http/1.1&type=ws&path=/assignment#[92127] - Telegram : @V2All
-trojan://humanity@www.creationlong.org:443?encryption=none&security=tls&fp=chrome&type=ws&path=/assignment#[92092] - Telegram : @V2All
-trojan://humanity@www.calmlunch.com:443?path=/assignment&type=ws#4🐞@oneclickvpnkeys
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
+trojan://humanity@www.calmloud.com:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment#🇫🇷 Join+Telegram:@Farah_VPN 🇫🇷
 trojan://humanity@www.calmloud.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmloud.com#🇫🇷 @V2raySup0
-trojan://humanity@vip3.kaixincloud.top:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=/assignment#[92126] - Telegram : @V2All
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2raySup0 | 🚀
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Ap_Ir6
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#@Ap_Ir6
 trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#@icv2ray
-trojan://humanity@chatgpt.com:443?encryption=none&security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#[92120] - Telegram : @V2All
-trojan://humanity@89.116.46.210:443?encryption=none&security=tls&sni=www.calmloud.com&alpn=http/1.1&type=ws&host=www.calmloud.com&path=/assignment#[92107] - Telegram : @V2All
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.calmlunch.com#Proxy_Se7en
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.calmlunch.com#@Soul737
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
@@ -448,6 +446,7 @@ trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp
 trojan://humanity@45.130.125.0:443?host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#🟢81@v2ray_configs_pools
 trojan://humanity@45.130.125.0:443?host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#🟢81@oneclickvpnkeys
 trojan://humanity@45.130.125.0:443?host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#🇸🇨SC-🚀@VPNine1
+trojan://humanity@212.183.88.136:443?encryption=none&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#[92147] - Telegram : @V2All
 trojan://humanity@212.183.88.136:443/?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#🇦🇹 اتریش | https://t.me/FREECONFIGSPLUS ✨
 trojan://humanity@208.103.161.170:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@Soul737
 trojan://humanity@208.103.161.170:443?path=/assignment&security=tls&alpn=h2&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@Ap_Ir6
@@ -471,7 +470,7 @@ trojan://humanity@188.114.97.6:443?alpn=http/1.1&fp=chrome&host=www.calmloud.com
 trojan://humanity@188.114.97.6:443?alpn=http/1.1&fp=chrome&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#🟢22@oneclickvpnkeys
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@V2raySup0🚀
 trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=www.calmlunch.com#Proxy_Se7en
-trojan://humanity@188.114.96.250:443?encryption=none&security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&type=ws&host=www.calmloud.com&path=/assignment#[92109] - Telegram : @V2All
+trojan://humanity@188.114.96.250:443?encryption=none&security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&type=ws&path=/assignment#[92172] - Telegram : @V2All
 trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#@v2rayngzendegimamad🕊️
 trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.multiplydose.com#@V2raySup0 | 🚀
 trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🕯️ - 5
@@ -484,17 +483,14 @@ trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@meliproxyy
 trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#Proxy_Se7en
 trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#@appsooner کانال تلگرام 🕊️
+trojan://humanity@172.64.152.38:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=/assignment#[92177] - Telegram : @V2All
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🕯️ - 7
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇳🇱 @irconfiig
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇳🇱 @V2rayng_Fast
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇳🇱 @FreakConfig
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#kurdconfig
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇵🇱 Join+Telegram:@Farah_VPN 🇵🇱
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇫🇷 - FR - @FreeOnlineVPN
-trojan://humanity@172.64.147.52:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=/assignment#[92121] - Telegram : @V2All
 trojan://humanity@172.64.147.2:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🚀 t.me/iProxyChannel 17
-trojan://humanity@172.64.147.210:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=/assignment#[92111] - Telegram : @V2All
-trojan://humanity@172.64.146.127:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=/assignment#[92128] - Telegram : @V2All
 trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#@hi_proxy_iran :👈کانال تلگرام
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
@@ -502,3 +498,7 @@ trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&ho
 trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸@V2raySup0
 trojan://humanity@165.215.250.14:443?allowInsecure=1&fp=chrome&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🟢87@v2ray_configs_pools
 trojan://humanity@165.215.250.14:443?allowInsecure=1&fp=chrome&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#🟢87@oneclickvpnkeys
+trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&insecure=0&allowInsecure=0#@meliproxyy
+trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#irconfiig🥥 15
+trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#V2ray_Alpha🥥 15
+trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@vmesskhodam
