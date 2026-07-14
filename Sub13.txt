@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
+vless://26acab49-7cf6-489a-924d-7fae7b643f5a@ar4nh.sannest.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
+vless://266ad96d-b764-4c2c-93cb-b02c6f911282@104.16.72.50:8443?mode=auto&path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=theash.mmandi78.mom&fp=chrome&type=xhttp&allowInsecure=0&sni=theash.mmandi78.mom#EPODONIOS
+vless://266ad96d-b764-4c2c-93cb-b02c6f911282@104.16.72.101:8443?mode=auto&path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=theash.mmandi78.mom&fp=chrome&type=xhttp&allowInsecure=0&sni=theash.mmandi78.mom#EPODONIOS
+vless://2650433b-4ee1-3c57-e3a7-43c678e8068c@x4g-production-ea42.up.railway.app:443?path=/ws/2650433b-4ee1-3c57-e3a7-43c678e8068c&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-ea42.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-ea42.up.railway.app#EPODONIOS
 vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#EPODONIOS
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#EPODONIOS
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#EPODONIOS
@@ -498,7 +502,3 @@ trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&ins
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#EPODONIOS
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443#EPODONIOS
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#EPODONIOS
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443#EPODONIOS
-trojan://dfdse334053vuohm@104.16.72.2:443?path=/&security=tls&insecure=0&host=alternative.mhjstudio.ir&type=ws&allowInsecure=0&sni=alternative.mhjstudio.ir#EPODONIOS
-trojan://de4dbc41-fe13-4498-b5b4-083e451270f6@89.116.46.68:443?path=/my-wbv&security=tls&insecure=0&host=zaintest.vuclip.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=zaintest.vuclip.com.cyylr.eu.cc#EPODONIOS
-trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#EPODONIOS

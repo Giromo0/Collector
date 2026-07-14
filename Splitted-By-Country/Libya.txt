@@ -1,8 +1,4 @@
-trojan://humanity@104.19.230.21:443?type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A516
-trojan://Mitivpn@151.101.56.6:443?sni=ssl.fastly.com#%E6%9C%AA%E7%9F%A569
-trojan://humanity@104.18.152.225:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#Channel%20%3A%20%40Daily_Configs
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=%2F#%40Daily_Configs
 vless://b1a0ca85-93ec-4bcb-a6cc-dad52fda897f@:80?encryption=none&security=none&type=xhttp&host=&path=%2F&mode=auto#%40GRIZZLYVPN
-hysteria2://uQUfGOf9Mx@140.233.177.48:33884?sni=www.oracle.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#Channel : @Daily_Configs
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=%2F#%40GrizzlyVPN
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.2:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@flyv2ray
 trojan://humanity@104.18.152.246:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@flyv2ray

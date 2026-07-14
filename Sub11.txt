@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
+vless://94fb0e5b-eb40-4c06-a465-5dd7a9d2f6d2@3x-ui-upgrade-production-9831.up.railway.app:443?encryption=none&type=xhttp&security=tls&mode=auto&sni=3x-ui-upgrade-production-9831.up.railway.app&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
+vless://94fb0e5b-eb40-4c06-a465-5dd7a9d2f6d2@3x-ui-upgrade-production-9831.up.railway.app:443?encryption=none&fp=chrome&mode=auto&security=tls&sni=3x-ui-upgrade-production-9831.up.railway.app&type=xhttp#EPODONIOS
+vless://94a1b05b-be5f-45ed-8cc1-37eb25d10341@zeus-panel-tln7ap.kingworkerr.workers.dev:8443?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-tln7ap.kingworkerr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-tln7ap.kingworkerr.workers.dev#EPODONIOS
+vless://94a1b05b-be5f-45ed-8cc1-37eb25d10341@zeus-panel-tln7ap.kingworkerr.workers.dev:80?path=/&security=none&encryption=none&insecure=0&host=zeus-panel-tln7ap.kingworkerr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-tln7ap.kingworkerr.workers.dev#EPODONIOS
 vless://94a1b05b-be5f-45ed-8cc1-37eb25d10341@zeus-panel-tln7ap.kingworkerr.workers.dev:8080?path=/&security=none&encryption=none&insecure=0&host=zeus-panel-tln7ap.kingworkerr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-tln7ap.kingworkerr.workers.dev#EPODONIOS
 vless://94a1b05b-be5f-45ed-8cc1-37eb25d10341@zeus-panel-tln7ap.kingworkerr.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-tln7ap.kingworkerr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-tln7ap.kingworkerr.workers.dev#EPODONIOS
 vless://94a1b05b-be5f-45ed-8cc1-37eb25d10341@zeus-panel-tln7ap.kingworkerr.workers.dev:2096?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-tln7ap.kingworkerr.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-tln7ap.kingworkerr.workers.dev#EPODONIOS
@@ -498,7 +502,3 @@ vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@37.59.96.25:443?encryption=none&typ
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@217.154.94.41:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@217.154.94.41:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=/sg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#EPODONIOS
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.45.6:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.45.6:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/sg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#EPODONIOS
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.38.119:443?path=/au-mt?ed=2082&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.38.119:443?path=/au-mt&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS

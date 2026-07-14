@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.45.6:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.45.6:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/sg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#EPODONIOS
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.38.119:443?path=/au-mt?ed=2082&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.38.119:443?path=/au-mt&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.38.119:443?path=/au-mt#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2082&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.2:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.110:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#EPODONIOS
@@ -498,7 +502,3 @@ vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&
 vless://2797a040-443c-4249-ab49-546b37519642@94.126.204.73:5443?mode=stream-one&path=/&security=reality&encryption=none&pbk=GDAE47AZLxgYihOLHNgZdSrRQBSzEEJhrKZx4vm6PgE&fp=chrome&type=xhttp&sni=api-maps.yandex.ru&sid=9c4d6cc74ba8968d#EPODONIOS
 vless://276733b9-25c8-47b0-b651-b18cd4909128@132.243.213.174:37037?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://26acab49-7cf6-489a-924d-7fae7b643f5a@ar4nh.sannest.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://26acab49-7cf6-489a-924d-7fae7b643f5a@ar4nh.sannest.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
-vless://266ad96d-b764-4c2c-93cb-b02c6f911282@104.16.72.50:8443?mode=auto&path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=theash.mmandi78.mom&fp=chrome&type=xhttp&allowInsecure=0&sni=theash.mmandi78.mom#EPODONIOS
-vless://266ad96d-b764-4c2c-93cb-b02c6f911282@104.16.72.101:8443?mode=auto&path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=theash.mmandi78.mom&fp=chrome&type=xhttp&allowInsecure=0&sni=theash.mmandi78.mom#EPODONIOS
-vless://2650433b-4ee1-3c57-e3a7-43c678e8068c@x4g-production-ea42.up.railway.app:443?path=/ws/2650433b-4ee1-3c57-e3a7-43c678e8068c&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-ea42.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-ea42.up.railway.app#EPODONIOS
