@@ -1,2 +1,1 @@
-trojan://humanity@127.0.0.1:40443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/assignment#10
-trojan://humanity@127.0.0.1:40443?security=tls&sni=www.multiplydose.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#3
+vmess://eyJ2IjoiMiIsInBzIjoiSEs1IiwiYWRkIjoiNDcuNzYuMTI3Ljg4IiwicG9ydCI6IjU1NjYiLCJpZCI6ImFkMjk4ZDFkLTJhZTktNDZmYS04OTVjLWYwNDAxZjM4YjAyYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IkhLNSJ9
