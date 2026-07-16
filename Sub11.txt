@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
+vless://3cae7515-8967-49bc-ae9d-49fcf3d9dc3e@2.26.61.127:8443?security=reality&encryption=none&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d82c4b67f9a13e5c#EPODONIOS
+vless://3cae7515-8967-49bc-ae9d-49fcf3d9dc3e@2.26.61.127:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=tradingview.com&type=tcp#EPODONIOS
+vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=/ws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#EPODONIOS
 vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?encryption=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=/ws&security=none#EPODONIOS
 vless://3c333556-5e17-4e31-70c2-f5dcba6af032@telegram-production-a02b.up.railway.app:443?path=/ws/3c333556-5e17-4e31-70c2-f5dcba6af032&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=telegram-production-a02b.up.railway.app#EPODONIOS
 vless://3be4a124-a437-4eef-8d14-00175978a826@45.131.182.141:443?security=reality&encryption=none&pbk=3BbMRgbSVAi881UEncK5aHJiicG27Fvx7Vr9xmnc-14&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=4b2519a45b0f35c4#EPODONIOS
@@ -499,6 +502,3 @@ trojan://humanity@join-telegram-channel.kdns.fr:443?path=/assignment&security=tl
 trojan://humanity@join-telegram-channel.kdns.fr:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#EPODONIOS
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.calmlunch.com#EPODONIOS
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
-trojan://humanity@45.130.125.75:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
-trojan://humanity@45.130.125.32:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#EPODONIOS
-trojan://humanity@45.130.125.2:443?path=/assignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#EPODONIOS

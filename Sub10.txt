@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
+vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.50:443?path=/cbasur&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#EPODONIOS
+vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.50:443?path=/cbasur#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#EPODONIOS
+vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.50:443?path=/cbasur#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2082&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#EPODONIOS
 vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?encryption=none&flow=xtls-rprx-vision&fp=&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&security=reality&sid=59625eb3275249ca&sni=www.tesla.com&type=tcp#EPODONIOS
 vless://7943183f-5c33-4728-8d57-8f18efe6ce25@pan1.mashkestan.com:2087?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://7943183f-5c33-4728-8d57-8f18efe6ce25@fast.motorbazan.com:443?security=tls&encryption=none&insecure=0&host=sevenfeshab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
@@ -499,6 +502,3 @@ vless://3d244afc-60ef-468a-9b19-f4bbad7e8ef1@81.31.211.111:2085?mode=gun&encrypt
 vless://3d244afc-60ef-468a-9b19-f4bbad7e8ef1@81.31.211.111:2085?mode=gun&encryption=none&security=none&type=grpc&serviceName=vless#EPODONIOS
 vless://3ccfd1ea-27f6-4af7-a025-7dc1867ae214@x.pars-azad.shop:9000?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:20141?security=reality&encryption=none&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=none&fp=chrome&spx=/fuyDxo1D1hIDYFH&type=tcp&flow=xtls-rprx-vision&sni=arvancloud.ir&sid=14#EPODONIOS
-vless://3cae7515-8967-49bc-ae9d-49fcf3d9dc3e@2.26.61.127:8443?security=reality&encryption=none&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d82c4b67f9a13e5c#EPODONIOS
-vless://3cae7515-8967-49bc-ae9d-49fcf3d9dc3e@2.26.61.127:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=tradingview.com&type=tcp#EPODONIOS
-vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=/ws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#EPODONIOS

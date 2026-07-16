@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.187:2095?encryption=none&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=%2F&security=none&type=ws#EPODONIOS
+vless://7ed93ccf-6a54-4b19-a9b4-aedfc79bab7d@104.27.82.154:8880?encryption=none&host=muddy-sky-4767.344-7a7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#EPODONIOS
+vless://84270e8b-567e-45c6-b2f2-56ec9a67ae1e@log.bpminecraft.com:8880?encryption=none&type=ws&path=%2Fpyip&host=young-leaf-a723.162-4da.workers.dev#EPODONIOS
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#EPODONIOS
 vless://850371e8-bce4-4500-abd7-2a76df3b78da@104.21.4.230:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=eVENT-bus-C22219-edG.StAGING-Api-5De174.woRKERS.deV&path=%2F&security=tls&sni=EveNt-bUS-c22219-edG.STaGIng-Api-5De174.woRKers.dEV&type=ws#EPODONIOS
 vless://828aa918-2ed3-4541-8519-083f9efeaaf7@162.159.46.0:8880?encryption=none&host=icy-hall-bfba.266-f4e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#EPODONIOS
@@ -499,6 +502,3 @@ vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?type=tcp&encryption
 vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://f99e4bcb-39f3-5188-96a1-08f56c7ecf16@104.21.51.208:2095?path=/Tel-ELiV2ry-ELiV2ry-?ed=2048&security=none&encryption=none&host=rubika.ir.joinTelegram.ELiV2ry.fi2.vless.Sitespeedtest.net.&type=ws#EPODONIOS
 vless://f8e32ccb-7e0b-4966-837a-2a9503bc3d82@64.49.45.57:15540?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&pbk=Yg0SBHkbrgAxsRKnsNXn4SStVURNYMiPor2oMSRTblA&sid=3a81ee2c998d0e&type=tcp&headerType=none#EPODONIOS
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@185.253.116.149:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@185.253.116.149:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://f885cecc-a6ea-4e9b-87da-c7dc4b745348@217.179.220.67:8443?mode=gun&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&type=grpc&serviceName=grpc-yandex&sni=avatars.mds.yandex.net&sid=844352756c1fabba#EPODONIOS
