@@ -1,10 +1,7 @@
 vless://f885cecc-a6ea-4e9b-87da-c7dc4b745348@uk.riotvpn.eu:8443?sni=avatars.mds.yandex.net&type=grpc&serviceName=grpc-yandex&fp=qq&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C2.1MB/s
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@77.110.113.188:443?sni=www.samsung.com&fp=qq&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C1.7MB/s
-trojan://55ebc800-7d03-11f1-b622-1239d0255272@uk1.test3.net:443?allowInsecure=1&sni=uk1.test3.net#GB-Erith-386515-last
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB🇬🇧
 trojan://telegram-id-privatevpns@35.179.199.133:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇬🇧114137 | ⚡️Telegram = t.me/SOSkeyNET
-vless://361faea2-99b7-4d62-b11f-f2471f75ab12@england.lion-game.ir:443?path=/&security=none&encryption=none&host=lion-game.ir&type=ws#🇬🇧114094 | ⚡️Telegram = t.me/SOSkeyNET
-vless://361faea2-99b7-4d62-b11f-f2471f75ab12@soskeynets.lion-game.ir:443?path=/&security=none&encryption=none&host=lion-game.ir&type=ws#🇬🇧114094 | ⚡️Telegram = t.me/SOSkeyNET
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=rouwwwfrance.appleseraj.ir&sni=rouwwwfrance.appleseraj.ir&fp=chrome#🇬🇧| 𝐋𝐨𝐧𝐝𝐨𝐧
 vless://977bac99-33d4-408a-91f5-0ce737793a00@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
 vless://977bac99-33d4-408a-91f5-0ce737793a50@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
@@ -16,8 +13,9 @@ vless://9d66932d-9eec-47de-972a-e98dee7231c1@ukall.lorqina.ir:27963?security=rea
 vless://9d66932d-9eec-47de-972a-e98dee7231c1@ukall.lorqina.ir:27963?security=reality&encryption=none&pbk=c-qVOyBxsHQIoMiMZf7XdmCi5c0Me-xnc7Oh1mOeFkc&headerType=none&fp=chrome&spx=/6D37KjDY9E4pmLf&type=tcp&flow=xtls-rprx-vision&sni=s.aolcdn.com&sid=72fd3538a005#🇬🇧114157 | ⚡️Telegram = t.me/SOSkeyNET
 vless://9d66932d-9eec-47de-972a-e98dee7231c1@ukall.lorqina.ir:31118?security=reality&encryption=none&pbk=LUCLCEE0jswfTEzoonfVHLw_1l-j4uROgNJi12jJsnc&headerType=none&fp=chrome&spx=/ivz6hbvizWPPCpo&type=tcp&flow=xtls-rprx-vision&sni=de.nachrichten.yahoo.com&sid=1604fe#🇬🇧114156 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a757e837-a6b4-4ed1-990e-5ce23250ef98@199.232.250.122:443?encryption=none&security=tls&sni=global.fastly.com&fp=chrome&insecure=0&allowInsecure=0&type=xhttp&host=tamashasdasaf3800.com&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#Xhttp-14-Vistav2ray-50.00GB📊-1D⏳
+vless://af475b0e-0c07-40fe-b4db-3dea2c0a481d@91.193.58.17:2083?encryption=none&fp=chrome&host=edgetunnel-cmliu.lyqnihao.dpdns.org&path=/fp=chrome&security=tls&sni=edgetunnel-cmliu.lyqnihao.dpdns.org&type=ws#🇬🇧114284 | ⚡️Telegram = t.me/SOSkeyNET
 vless://bbb9db67-9cb1-4dc6-9b92-5fef93331332@213.156.152.234:13852?security=reality&encryption=none&pbk=GoV94qiMciumXTs0_K2bYdXHPYZx6Qez_RoF-oqqCzo&headerType=http&fp=chrome&spx=/gVCLnTsaoc7silZ&type=tcp&sni=www.oracle.com&sid=6b59#Ray-80.50GB📊
 vless://c578ddf7-ae2b-4a6f-b7f7-a2e8bb82e2bc@91.193.58.201:443?encryption=none&host=site.iotdev4.workers.dev&path=/&security=tls&sni=site.iotdev4.workers.dev&type=ws#🇬🇧114130 | ⚡️Telegram = t.me/SOSkeyNET
+vless://ca812bc0-6332-4e9a-b1cc-987649780fa6@soskeynets.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇬🇧114278 | ⚡️Telegram = t.me/SOSkeyNET
+vless://ca812bc0-6332-4e9a-b1cc-987649780fa6@udf4532193.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#🇬🇧114278 | ⚡️Telegram = t.me/SOSkeyNET
 vless://cfb7f5f1-320b-47d6-9f9a-7a67e355ac30@bot.sobhanpor.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=bot.sobhanpor.ir#🇬🇧 𓏺 𝐔𝐧𝐢𝐭𝐞𝐝 𝐊𝐢𝐧𝐠𝐝𝐨𝐦
-vless://fb15c6cb-2a01-41a4-b7a2-acc0fccd3f87@167.82.101.250:443?mode=auto&path=/?ed=2048&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=imei.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.fastly.com#Xht-14-umimd4h5sw-50.00GB📊-1D⏳
-vless://fb15c6cb-2a01-41a4-b7a2-acc0fccd3f87@199.232.250.246:443?mode=auto&path=/?ed=2048&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=imei.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.fastly.com#Xht-14-umimd4h5sw-50.00GB📊-1D⏳
