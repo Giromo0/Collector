@@ -1,2 +1,5 @@
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@grid.onetimeok.com:443?encryption=none&security=reality&sni=grid.onetimeok.com&fp=firefox&pbk=28oR3ji9c2CneMNkbvcDL8WfvNWHS3GfA3RdtaF-pSg&sid=89e97b6542785ca6&type=grpc&authority=&serviceName=gw.v1.MetricsService&mode=gun#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@add.oneoker.com:443?mode=gun&security=reality&encryption=none&pbk=W329R9_hAiG_wGLcIhfbm0AA8Si7DVhz4es2aASZACY&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=add.oneoker.com&sid=9c478d3655bfa85d#Channel%20%3A%20%40Daily_Configs
+vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#Channe%20%3A%20%40Daily_Configs
+trojan://humanity@127.0.0.1:40443?security=tls&sni=www.multiplydose.com&insecure=0&allowInsecure=0&type=ws&path=/assignment#3
 vless://b1a0ca85-93ec-4bcb-a6cc-dad52fda897f@:80?encryption=none&security=none&type=xhttp&host=&path=%2F&mode=auto#%40GRIZZLYVPN
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=%2F#%40GrizzlyVPN
