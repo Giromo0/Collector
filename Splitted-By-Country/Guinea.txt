@@ -1,4 +1,6 @@
-trojan://humanity@104.16.174.71:443?type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A530
-trojan://humanity@104.16.174.121:443?type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A596
-trojan://humanity@104.18.152.225:443?type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A5119
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@M4DVPN
+trojan://humanity@104.18.152.208:443?type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A521
+trojan://humanity@104.18.152.97:443?type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A549
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzUgOTUuNU1CL3MiLCJhZGQiOiI4Mi4xOTguMjQ2LjM3IiwicG9ydCI6IjE4MCIsInR5cGUiOiJub25lIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+trojan://humanity@162.159.38.119:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#@M4DVPN
+vless://50414e45-4c5f-5a45-5553-16f6f0d31bf0@zeus-panel-yjc3oq.zeus-gnbogw.workers.dev:2096?path=/stream/PANEL_ZEUS/50414e45&security=tls&encryption=none&insecure=0&host=zeus-panel-yjc3oq.zeus-gnbogw.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-yjc3oq.zeus-gnbogw.workers.dev#🌐 | TELEGRAMPeekConfig | ‎zeus-panel-yjc3oq.zeus-gnbogw.workers.dev | ‎2096
+vless://50414e45-4c5f-5a45-5553-16f6f0d31bf0@zeus-panel-yjc3oq.zeus-gnbogw.workers.dev:443?path=/stream/PANEL_ZEUS/50414e45&security=tls&encryption=none&insecure=0&host=zeus-panel-yjc3oq.zeus-gnbogw.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-yjc3oq.zeus-gnbogw.workers.dev#🌐 | TELEGRAMPeekConfig | ‎zeus-panel-yjc3oq.zeus-gnbogw.workers.dev | ‎443
