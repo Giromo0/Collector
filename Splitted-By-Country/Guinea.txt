@@ -1,4 +1,7 @@
-trojan://humanity@104.26.14.137:443?type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A576
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOTIgMi4zTUIvcyIsImFkZCI6IjU3LjEyOS4xMzIuMjIzIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImEyNWNiZjExLTI5MDgtNGExYi1hM2E4LTlhNTcxNzc3ZGNhMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJ0bHMiOiIifQ==
-trojan://humanity@45.130.125.112:443?type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#@M4DVPN
-vless://50414e45-4c5f-5a45-5553-16f6f0d31bf0@zeus-panel-yjc3oq.zeus-gnbogw.workers.dev:443?path=/stream/PANEL_ZEUS/50414e45&security=tls&encryption=none&insecure=0&host=zeus-panel-yjc3oq.zeus-gnbogw.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-yjc3oq.zeus-gnbogw.workers.dev#🌐 | TELEGRAMPeekConfig | ‎zeus-panel-yjc3oq.zeus-gnbogw.workers.dev | ‎443
+trojan://humanity@104.16.174.71:443?type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A556
+trojan://humanity@104.17.111.8:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A586
+trojan://humanity@104.16.174.37:443?type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#%E6%9C%AA%E7%9F%A589
+trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%E6%9C%AA%E7%9F%A5110
+trojan://humanity@127.0.0.1:40443?security=tls&sni=www.creationlong.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#5
+trojan://humanity@127.0.0.1:40443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#8
+trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#@M4DVPN
