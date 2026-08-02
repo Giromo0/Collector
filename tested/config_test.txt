@@ -1,123 +1,129 @@
-#🌐 به‌روزرسانی‌شده در Mor-12 | 00:41 | MTSRVRS
-vless://934f2038-17f8-4ec5-9204-8381e19fc6e3@188.114.97.6:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=TIGHT-busH-0Bb4.BSHXYyXhDJdGGb.wOrkERS.DEV&path=%2FeyJqdW5rIjoiVXFEMlhKZVY4dzNoTUtpZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=TIGHT-busH-0Bb4.BSHXYyXhDJdGGb.wOrkERS.DEV&type=ws#EPODONIOS
-#🌐سرور 1 | vless | Mor-12 | 00:41 | Ping: 5.51ms
-vless://0dd1347e-e342-456c-b802-779b859cca42@104.31.16.32:443?path=%2Fmhdshws&amp;security=tls&amp;encryption=none&amp;host=loolu.tech&amp;type=ws&amp;sni=loolu.tech#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
-#🌐سرور 2 | vless | Mor-12 | 00:41 | Ping: 5.76ms
-vless://56a182fc-c306-4701-8eef-6f8e08be3d1a@188.114.98.47:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=icy-dust-3024.shirokhorshid1212.workers.dev&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=icy-dust-3024.shirokhorshid1212.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
-#🌐سرور 3 | vless | Mor-12 | 00:41 | Ping: 5.87ms
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&amp;security=none&amp;encryption=none&amp;host=de.vpnbase.net&amp;type=ws#%F0%9F%87%AB%F0%9F%87%B7%40ELiV2ray%20%7C%20OVH
-#🌐سرور 4 | vless | Mor-12 | 00:41 | Ping: 5.97ms
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?path=/hdgrbws&security=tls&encryption=none&host=terazhediii.info&type=ws&sni=terazhediii.info#EPODONIOS
-#🌐سرور 5 | vless | Mor-12 | 00:41 | Ping: 6.01ms
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#EPODONIOS
-#🌐سرور 6 | vless | Mor-12 | 00:41 | Ping: 6.42ms
-vless://d98c757d-2be3-49ff-8b9f-76ffdc924a61@188.114.97.6:443?path=/cloud-vps&security=tls&alpn=http/1.1&encryption=none&fm={"udp":[{"settings":{"header":"","value":""},"type":"mkcp-legacy"}]}&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=chrome.yas-nowin.ir#EPODONIOS
-#🌐سرور 7 | vless | Mor-12 | 00:41 | Ping: 6.69ms
-vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@104.21.41.131:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-020.vector9nmb3.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-020.vector9nmb3.info#EPODONIOS
-#🌐سرور 8 | vless | Mor-12 | 00:41 | Ping: 7.00ms
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#canfingV2rayNG-365
-#🌐سرور 9 | vless | Mor-12 | 00:41 | Ping: 11.48ms
-vless://1a7015d0-1790-452f-a31d-d863b69b7bcb@web-production-9a1f3.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-9a1f3.up.railway.app&path=/ws/1a7015d0-1790-452f-a31d-d863b69b7bcb&sni=web-production-9a1f3.up.railway.app&fp=chrome&alpn=http/1.1#EPODONIOS
-#🌐سرور 10 | vless | Mor-12 | 00:41 | Ping: 20.93ms
-vless://b3be45af-c907-4320-9532-614c8cef5953@adambarfi.up.railway.app:443?encryption=none&security=tls&sni=adambarfi.up.railway.app&insecure=0&allowInsecure=0&type=xhttp&host=adambarfi.up.railway.app&path=/adambarfi3&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConcurrency":"","maxConnections":"0"}}#AdamBarfi-xhttp
-#🌐سرور 11 | vless | Mor-12 | 00:41 | Ping: 23.13ms
-vless://e9346960-a429-4c1a-b661-512611450fea@45.192.2.51:443?encryption=none&type=tcp&security=reality&headerType=none&sni=yandex.net&insecure=1&allowInsecure=1&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&flow=xtls-rprx-vision#EPODONIOS
-#🌐سرور 12 | vless | Mor-12 | 00:41 | Ping: 89.52ms
-vless://696915f2-5ad4-452b-987c-d83d29d0503a@185.191.118.33:443?security=reality&encryption=none&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.moktana.app&sid=89c7866901c21bce#TEL;Father_vpn
-#🌐سرور 13 | vless | Mor-12 | 00:41 | Ping: 92.87ms
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@195.15.213.66:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#EPODONIOS
-#🌐سرور 14 | vless | Mor-12 | 00:41 | Ping: 100.22ms
-vless://4cce4586-4850-4286-8698-6bd60958e66a@s3.vip-canepanel.shop:4568?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-#🌐سرور 15 | vless | Mor-12 | 00:41 | Ping: 106.97ms
-vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:8443/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=download.nvidia.com&fp=chrome&security=reality&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sid=&packetEncoding=xudp#🇹🇷Turkey
-#🌐سرور 16 | vless | Mor-12 | 00:41 | Ping: 113.32ms
-vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@37.27.40.220:443?allowInsecure=1&sni=sni.ehb.cc.cd&type=ws&host=sni.ehb.cc.cd&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#FI_speednode_0025
-#🌐سرور 17 | vless | Mor-12 | 00:41 | Ping: 117.49ms
-vless://c6666ab2-c3e4-4504-bf2f-8b6672b00927@62.238.51.180:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-#🌐سرور 18 | vless | Mor-12 | 00:41 | Ping: 121.73ms
-vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#configraygan_26
-#🌐سرور 19 | vless | Mor-12 | 00:41 | Ping: 131.49ms
-vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#EPODONIOS
-#🌐سرور 20 | vless | Mor-12 | 00:41 | Ping: 133.60ms
-trojan://MITIVPN@104.18.42.68:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fusa---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=usa-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&sni=Ussa1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%208
-#🌐سرور 21 | trojan | Mor-12 | 00:41 | Ping: 5.18ms
-trojan://MiTiVPN@151.101.1.194:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsws-s&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85😋vless://612d16de-aebd-4738-829e-533dbfa9e936@new.akinamo.willbe.sinitk.outforyou.ir:20580?security=reality&encryption=none&pbk=gqjS9wwxycF16Qf02GDt1UrvdrF_neQgj1Crduo_xB0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=d5c1b9#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85😍vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85🥰vless://68d3fcbe-f025-1f40-82d6-9455c5e5f6b5@secget.ru:8443?security=reality&encryption=none&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=secget.ru&sid=f8a8ee8381529673#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85😘vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85💋vless://68d3fcbe-f025-1f40-82d6-9455c5e5f6b5@212.233.78.243:8443?security=reality&encryption=none&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=secget.ru&sid=f8a8ee8381529673#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-#🌐سرور 22 | trojan | Mor-12 | 00:41 | Ping: 5.54ms
-trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=1&host=s-mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&allowInsecure=1&sni=sadszdx.global.ssl.fastly.net.b5r.ir#🔥Join+Telegram:@Farah_VPN🟣
-#🌐سرور 23 | trojan | Mor-12 | 00:41 | Ping: 5.55ms
-trojan://MiTiVPN@172.67.75.194:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=s---w&security=tls&alpn=http/1.1&insecure=1&host=bw--ivs-b--vvs.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=wbjj-bbcs-.MaQRor.Ir#@prrofile_purple  ♥️👈 تلگرام
-#🌐سرور 24 | trojan | Mor-12 | 00:41 | Ping: 5.65ms
-trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EPODONIOS
-#🌐سرور 25 | trojan | Mor-12 | 00:41 | Ping: 5.69ms
-trojan://MITIVPN@199.232.22.39:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=u--s&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
-#🌐سرور 26 | trojan | Mor-12 | 00:41 | Ping: 5.92ms
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🔥Join+Telegram:@Farah_VPN🟣
-#🌐سرور 27 | trojan | Mor-12 | 00:41 | Ping: 5.95ms
-trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🇳🇱@V2rayng_Fast
-#🌐سرور 28 | trojan | Mor-12 | 00:41 | Ping: 5.99ms
-trojan://MiTiVPN@104.21.40.208:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=De1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&sni=dde1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#@Capoit
-#🌐سرور 29 | trojan | Mor-12 | 00:41 | Ping: 6.06ms
-trojan://MiTiVPN@104.20.39.109:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FSG---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=sg1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&sni=S-G-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%40MiTiVPN%20%7C%20%F0%9D%91%B5%F0%9D%92%86%F0%9D%91%BB%F0%9D%91%B4%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8A%20%F0%9F%87%B8%F0%9F%87%AC
-#🌐سرور 30 | trojan | Mor-12 | 00:41 | Ping: 6.08ms
-trojan://MITIVPN@170.114.45.6:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s&security=tls&alpn=http%2F1.1&insecure=1&host=my-usa-ol.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=UsAa-bUs.MaQRor.Ir#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85🎖
-#🌐سرور 31 | trojan | Mor-12 | 00:41 | Ping: 6.95ms
-trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsw&security=tls&alpn=http%2F1.1&insecure=1&host=sw-www-w.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=bsw-wwlslw-w.Maqror.ir#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85🍌
-#🌐سرور 32 | trojan | Mor-12 | 00:41 | Ping: 7.08ms
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@172.67.149.60:443?path=%2Fin-pdr&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&ech=encryptedsni.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#%F0%9D%97%A1%F0%9D%97%B2%F0%9D%97%A7%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B6%E2%9A%A1%EF%B8%8F%40prrofile_purple%20%F0%9F%8C%
-#🌐سرور 33 | trojan | Mor-12 | 00:41 | Ping: 7.22ms
-trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#V2ray_Alpha🌶️ 9
-#🌐سرور 34 | trojan | Mor-12 | 00:41 | Ping: 7.24ms
-trojan://MITIVPN@104.18.42.68:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fusa---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=Ussa1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
-#🌐سرور 35 | trojan | Mor-12 | 00:41 | Ping: 8.00ms
-trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#free%F0%9F%A6%81%20-%20%40Golestan_VPN
-#🌐سرور 36 | trojan | Mor-12 | 00:41 | Ping: 9.41ms
-trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🔥Join+Telegram:@Farah_VPN🟣
-#🌐سرور 37 | trojan | Mor-12 | 00:41 | Ping: 9.47ms
-trojan://MITIVPN@104.18.42.68:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fusa---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=usa-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&sni=Ussa1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%40MiTiVPN%20%7C%20%F0%9D%91%B5%F0%9D%92%86%F0%9D%91%BB%F0%9D%91%B4%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8A%20%F0%9F%87%BA%F0%9F%87%B2
-#🌐سرور 38 | trojan | Mor-12 | 00:41 | Ping: 13.19ms
-trojan://5xjmr1dz66pgsew0@undef.network:8443?allowInsecure=0&sni=com.digitalposts.dpdns.org&ws=1&wspath=%2Fbkdicj#🔥Join+Telegram:@Farah_VPN🟣
-#🌐سرور 39 | trojan | Mor-12 | 00:41 | Ping: 22.42ms
-trojan://humanity@www.speedtest.org:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-#🌐سرور 40 | trojan | Mor-12 | 00:41 | Ping: 30.24ms
+#🌐 به‌روزرسانی‌شده در Mor-12 | 01:40 | MTSRVRS
+vless://27a292ee-50aa-4232-93d2-4729a52ce5a2@167.82.101.210:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=1&host=farangis.global.ssl.fastly.neT.&fp=chrome&type=xhttp&allowInsecure=1&sni=global.fastly.coM.#⚫ HORMOZ 🏞️
+#🌐سرور 1 | vless | Mor-12 | 01:40 | Ping: 17.26ms
+vless://86fdb625-1a7f-4784-99a6-a96b3a80fc6d@140.248.180.30:443?path=/vip1&security=tls&encryption=none&insecure=1&host=hamshahriesfahan.com&type=ws&allowInsecure=1&sni=speedtest.net#EPODONIOS
+#🌐سرور 2 | vless | Mor-12 | 01:40 | Ping: 17.61ms
+vless://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.92.229:80?path=/&security=&encryption=none&host=ads01-cdn.sabzi.name.ng.&type=ws#EPODONIOS
+#🌐سرور 3 | vless | Mor-12 | 01:40 | Ping: 17.80ms
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#EPODONIOS
+#🌐سرور 4 | vless | Mor-12 | 01:40 | Ping: 17.91ms
+vless://a473b55e-4449-47dd-8b6b-2b583e659d7a@104.21.45.141:443?path=/ZEUS_PANEL_BOT&security=tls&encryption=none&insecure=0&host=zeus-panel-01z515.zeus-05l98s.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-01z515.zeus-05l98s.workers.dev#EPODONIOS
+#🌐سرور 5 | vless | Mor-12 | 01:40 | Ping: 17.94ms
+vless://926bc4cd-709e-4e90-8aa7-78db75fbe86b@188.114.97.6:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fsw---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ssssw-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&fp=chrome&type=ws&allowInsecure=0&sni=sw-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#configraygan_11
+#🌐سرور 6 | vless | Mor-12 | 01:40 | Ping: 18.01ms
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=1&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=1&sni=de.xn--q9jyb4c.online#EPODONIOS
+#🌐سرور 7 | vless | Mor-12 | 01:40 | Ping: 18.01ms
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.42.83:80?security=none&type=ws&host=us3.rtacg.com&path=/#EPODONIOS
+#🌐سرور 8 | vless | Mor-12 | 01:40 | Ping: 18.19ms
+vless://926bc4cd-709e-4e90-8aa7-78db75fbe86b@104.18.152.229:443?encryption=none&type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FHK---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=Hk-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&sni=H-k-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&alpn=h2%2Chttp%2F1.1&fp=chrome#🆔configfa%20🔒%20VL-WS-N/A%20❔%20XX%202ms
+#🌐سرور 9 | vless | Mor-12 | 01:40 | Ping: 18.40ms
+vless://29ca503d-e6b8-4509-b666-48133f450857@188.114.98.0:2053?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#EPODONIOS
+#🌐سرور 10 | vless | Mor-12 | 01:40 | Ping: 18.54ms
+vless://72c2b7cc-fcd9-494f-8a2e-21dcd062ff11@45.40.150.4:80?encryption=none&host=holy-breeze-0bac.47-dec.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3++&security=none&type=ws#🆔ar14n24b%20🔓%20VL-WS-N/A%20❔%20XX%202ms
+#🌐سرور 11 | vless | Mor-12 | 01:40 | Ping: 18.76ms
+vless://b2974faf-4dc2-4a6d-9359-7fa657015bee@104.25.193.8:2053?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=zeus-panel-55srwb.arynzlfkhany.workers.dev&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=zeus-panel-55srwb.arynzlfkhany.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+#🌐سرور 12 | vless | Mor-12 | 01:40 | Ping: 18.83ms
+vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.38.206:8443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#EPODONIOS
+#🌐سرور 13 | vless | Mor-12 | 01:40 | Ping: 20.32ms
+vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.44.66:2053?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#🚀t.me/iProxyChannel 13
+#🌐سرور 14 | vless | Mor-12 | 01:40 | Ping: 21.26ms
+vless://b5316e4d-e060-4ee2-c37b-23e8f3951eda@69.46.46.92:443?path=/ws/b5316e4d-e060-4ee2-c37b-23e8f3951eda&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-f4fe.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-f4fe.up.railway.app#EPODONIOS
+#🌐سرور 15 | vless | Mor-12 | 01:40 | Ping: 24.26ms
+vless://2dfe97eb-a306-4eb1-8f84-71ad4ced2aed@3x-ui-production-2dec.up.railway.app:443?path=/in1&security=tls&encryption=none&insecure=0&host=3x-ui-production-2dec.up.railway.app&type=ws&allowInsecure=0&sni=3x-ui-production-2dec.up.railway.app#MTMVPN 21
+#🌐سرور 16 | vless | Mor-12 | 01:40 | Ping: 69.12ms
+vless://Default@web-production-397a4.up.railway.app:443?encryption=none&security=tls&sni=web-production-397a4.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=web-production-397a4.up.railway.app&path=/ws/Default#EPODONIOS
+#🌐سرور 17 | vless | Mor-12 | 01:40 | Ping: 90.41ms
+vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7
+#🌐سرور 18 | vless | Mor-12 | 01:40 | Ping: 119.74ms
+vless://37c8b06a-25cf-42d7-b2ea-31d3c8561998@cncdn.cc:80?path=/14708/31d3c8561998/&security=none&encryption=none&host=imap.mmadcoffee.info&type=ws#EPODONIOS
+#🌐سرور 19 | vless | Mor-12 | 01:40 | Ping: 125.46ms
+vless://12929592-a7bd-41eb-ab4d-d804f76c4ff9@144.31.38.207:16220?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=video.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#%E2%9D%8CFalkenstein-GetAFreeNode
+#🌐سرور 20 | vless | Mor-12 | 01:40 | Ping: 137.78ms
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.16.7.70:443?path=%2Ftr&amp;security=tls&amp;insecure=1&amp;host=Koma-YT.PAGeS.Dev&amp;type=ws&amp;allowInsecure=1&amp;sni=Koma-YT.PAGeS.Dev#🔥Join+Telegram:@Farah_VPN🟣
+#🌐سرور 21 | trojan | Mor-12 | 01:40 | Ping: 17.69ms
+trojan://humanity@45.130.125.160:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#@v2rayng3
+#🌐سرور 22 | trojan | Mor-12 | 01:40 | Ping: 17.81ms
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2Sourcevless://83a589e2-3680-4bc2-a4e6-ed8f2d2452b4@188.114.97.6:2096?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=entekhab.ir.iribnews.ir.alalamtv.net.sharghdaily.com.ifpnews.com.alef.ir.hamshahrionline.ir&allowInsecure=0&sni=emotioNAl-haPPInEsswO85E1O13D.oNeeAt.co#@v2Sourcevless://17540a16-a0dd-5694-7e1e-14e281ccc032@217.177.44.252:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#@v2Sourcevless://17540a16-a0dd-5694-7e1e-14e281ccc032@188.114.96.250:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#@v2Sourcevless://17540a16-a0dd-5694-7e1e-14e281ccc032@104.18.139.67:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#@v2Sourcevless://17540a16-a0dd-5694-7e1e-14e281ccc032@104.16.118.43:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#@v2Sourcevless://17540a16-a0dd-5694-7e1e-14e281ccc032@216.24.57.1:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#@v2Sourcevless://17540a16-a0dd-5694-7e1e-14e281ccc032@104.19.229.21:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#@v2Sourcevless://17540a16-a0dd-5694-7e1e-14e281ccc032@188.114.97.0:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#@v2Sourcevless://dccfaf5b-634c-4b04-b5cc-fe78cc201dcf@104.19.229.21:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=defensive-alarm17rrmk7y7y.samsungovens.ir.&type=ws&allowInsecure=0&sni=defensive-alarm17rrmk7y7y.samsungovens.ir.#@v2Sourcevless://d59a47d8-f344-4a0b-81d6-9f68cb8be873@188.114.97.6:2095?path=%2F%3Fed%3D2048&security=none&encryption=none&host=iNFoRmeD-PArt0Y2KT5cRvl.SaMSunGovenS.ir.&type=ws#@v2Sourcevless://17540a16-a0dd-5694-7e1e-14e281ccc032@104.16.117.43:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#@v2Sourcevless://17540a16-a0dd-5694-7e1e-14e281ccc032@141.193.213.30:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#@v2Sourcevless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.193.28.212:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#@v2Sourcevless://17540a16-a0dd-5694-7e1e-14e281ccc032@141.193.213.21:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#@v2Sourcevless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#@v2Source
+#🌐سرور 23 | trojan | Mor-12 | 01:40 | Ping: 17.97ms
+trojan://MiTiVPN@172.66.40.99:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=Flll-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#🇨🇦@FreakConfig
+#🌐سرور 24 | trojan | Mor-12 | 01:40 | Ping: 18.01ms
+trojan://humanity@103.133.1.2:443#https://t.me/ShadowsocksM10
+#🌐سرور 25 | trojan | Mor-12 | 01:40 | Ping: 18.01ms
+trojan://humanity@45.130.125.158:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🔥Join+Telegram:@Farah_VPN🟣
+#🌐سرور 26 | trojan | Mor-12 | 01:40 | Ping: 18.11ms
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#%40v2raying
+#🌐سرور 27 | trojan | Mor-12 | 01:40 | Ping: 18.17ms
+trojan://MITIVPN@104.18.152.225:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e&security=tls&alpn=http/1.1&insecure=1&host=d-e-mitivpn---MiTiVPN---MiTiVPN.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=Dee---7-MiTiVPN----o.aPp-cLoud.IR#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩
+#🌐سرور 28 | trojan | Mor-12 | 01:40 | Ping: 18.20ms
+trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&fp=chrome&type=ws&allowInsecure=0&sni=www.ssl.global.digi.my.mitivpn.xyz#🔥Join+Telegram:@Farah_VPN🟣
+#🌐سرور 29 | trojan | Mor-12 | 01:40 | Ping: 18.23ms
+trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2rayng3
+#🌐سرور 30 | trojan | Mor-12 | 01:40 | Ping: 18.26ms
+trojan://humanity@104.18.152.225:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+#🌐سرور 31 | trojan | Mor-12 | 01:40 | Ping: 18.39ms
+trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#@Capoit
+#🌐سرور 32 | trojan | Mor-12 | 01:40 | Ping: 18.46ms
+trojan://humanity@104.17.111.8:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&fp=chrome&allowInsecure=0&echfq=none#🔥Join+Telegram:@Farah_VPN🟣
+#🌐سرور 33 | trojan | Mor-12 | 01:40 | Ping: 18.73ms
+trojan://humanity@104.16.174.44:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
+#🌐سرور 34 | trojan | Mor-12 | 01:40 | Ping: 18.95ms
+trojan://MITIVPN@188.114.97.6:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FU-sa&host=U-sa-mitivpn--MiTiVPN---MiTiVPN-av.aPp-cLoud.IR&sni=usa-i--MiTiVPN---MiTiVPN-7.aPp-cLoud.IR&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#%40MiTiVPN%20-ViP%F0%9F%87%BA%F0%9F%87%B2
+#🌐سرور 35 | trojan | Mor-12 | 01:40 | Ping: 18.99ms
+trojan://humanity@162.159.38.119:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.creationlong.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.creationlong.org#@V2rayng3
+#🌐سرور 36 | trojan | Mor-12 | 01:40 | Ping: 19.88ms
+trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&allowinsecure=0&type=ws&path=%2Fassignment#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86vless://ba61c89c-38de-4afe-9a52-2c7dbfec13ad@4aem4.pastilbastani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86vless://7968c546-02dc-4f8c-b791-934591a94cb2@millionaire.levikogjgfdd.ir:443?path=%2Fcbasur&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86vless://d11e2923-a968-4c2b-98c4-41b9b6da1c9e@DGFHf548fgFS.dadashinet10.ir:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#%40orangevpns_bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+#🌐سرور 37 | trojan | Mor-12 | 01:40 | Ping: 69.58ms
+trojan://2eutknankxtbgkwcajzt@193.148.19.213:52794?security=tls&sni=193.148.19.213#🔥Join+Telegram:@Farah_VPN🟣
+#🌐سرور 38 | trojan | Mor-12 | 01:40 | Ping: 152.48ms
+trojan://521314@millionaire.levikogjgfdd.ir:443?type=ws&security=tls&path=/Leviko_v2ray&host=tjplay.lxdxo.kdns.fr&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0#🔥Join+Telegram:@Farah_VPN🟣
+#🌐سرور 39 | trojan | Mor-12 | 01:40 | Ping: 164.04ms
+trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#@tootffarangi🍓-11
+#🌐سرور 40 | trojan | Mor-12 | 01:40 | Ping: 165.65ms
 hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@83.243.86.80:443?sni=prodfr.h2corp.org#%F0%9F%A7%AC29%40oneclickvpnkeys
-#🌐سرور 41 | hysteria2 | Mor-12 | 00:41 | Ping: 89.13ms
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com#%F0%9F%87%B3%F0%9F%87%B1
-#🌐سرور 42 | hysteria2 | Mor-12 | 00:41 | Ping: 90.43ms
-hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#%40erfanandroid
-#🌐سرور 43 | hysteria2 | Mor-12 | 00:41 | Ping: 115.14ms
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#@FarazV2ray
-#🌐سرور 44 | hysteria2 | Mor-12 | 00:41 | Ping: 115.21ms
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
-#🌐سرور 45 | hysteria2 | Mor-12 | 00:41 | Ping: 115.78ms
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#✅ t.me/bigAVPN ایران آزاد 👑
-#🌐سرور 46 | hysteria2 | Mor-12 | 00:41 | Ping: 116.82ms
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?insecure=0&obfs-password=93lc6r07zfx4crct&sni=assets.gateway-stream.com&security=tls&obfs=salamander#@Alpha_v2rayIP
-#🌐سرور 47 | hysteria2 | Mor-12 | 00:41 | Ping: 117.07ms
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
-#🌐سرور 48 | hysteria2 | Mor-12 | 00:41 | Ping: 117.87ms
+#🌐سرور 41 | hysteria2 | Mor-12 | 01:40 | Ping: 139.16ms
+hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@83.243.86.80:443/?sni=prodfr.h2corp.org#🧬29@oneclickvpnkeys
+#🌐سرور 42 | hysteria2 | Mor-12 | 01:40 | Ping: 139.38ms
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=93lc6r07zfx4crct#%E2%9C%85%20t.me/bigAVPN%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%A2%D8%B2%D8%A7%D8%AF%20%F0%9F%91%91
+#🌐سرور 43 | hysteria2 | Mor-12 | 01:40 | Ping: 149.62ms
 hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=w0tx1ju9iix6913p&insecure=1&sni=assets.gateway-stream.com#🇫🇮@V2rayng_Fast
-#🌐سرور 49 | hysteria2 | Mor-12 | 00:41 | Ping: 119.94ms
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️491🌐🆕️
-#🌐سرور 50 | hysteria2 | Mor-12 | 00:41 | Ping: 121.88ms
-hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
-#🌐سرور 51 | hysteria2 | Mor-12 | 00:41 | Ping: 131.30ms
-hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=w0tx1ju9iix6913p&insecure=1&sni=assets.gateway-stream.com#kurdconfig
-#🌐سرور 52 | hysteria2 | Mor-12 | 00:41 | Ping: 132.08ms
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?insecure=0&security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&sni=assets.gateway-stream.com#EPODONIOS
-#🌐سرور 53 | hysteria2 | Mor-12 | 00:41 | Ping: 132.23ms
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?insecure=0&sni=ro.h2corp.org#%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F84%40oneclickvpnkeys%202
-#🌐سرور 54 | hysteria2 | Mor-12 | 00:41 | Ping: 151.88ms
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F76%40oneclickvpnkeys
-#🌐سرور 55 | hysteria2 | Mor-12 | 00:41 | Ping: 154.01ms
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443?sni=swe-one.quiet-rogue.site#%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F65%40oneclickvpnkeys
-#🌐سرور 56 | hysteria2 | Mor-12 | 00:41 | Ping: 172.72ms
+#🌐سرور 44 | hysteria2 | Mor-12 | 01:40 | Ping: 150.19ms
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443/?sni=swe-one.quiet-rogue.site#👁️‍🗨️65@oneclickvpnkeys
-#🌐سرور 57 | hysteria2 | Mor-12 | 00:41 | Ping: 354.20ms
-hy2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443/?insecure=1&sni=www.microsoft.com#🇳🇱
-#🌐سرور 58 | hy2 | Mor-12 | 00:41 | Ping: 93.53ms
-hy2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443/?insecure=1&sni=www.microsoft.com#EPODONIOS
-#🌐سرور 59 | hy2 | Mor-12 | 00:41 | Ping: 94.49ms
-hy2://https://xship.2fa.cat@starlink-ft.251313.xyz:443/?insecure=1&sni=www.cloudflare.com#EPODONIOS
-#🌐سرور 60 | hy2 | Mor-12 | 00:41 | Ping: 136.80ms
+#🌐سرور 45 | hysteria2 | Mor-12 | 01:40 | Ping: 150.83ms
+hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#@erfanandroid
+#🌐سرور 46 | hysteria2 | Mor-12 | 01:40 | Ping: 154.15ms
+hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#configraygan_4
+#🌐سرور 47 | hysteria2 | Mor-12 | 01:40 | Ping: 155.21ms
+hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#EPODONIOS
+#🌐سرور 48 | hysteria2 | Mor-12 | 01:40 | Ping: 155.31ms
+hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️491🌐🆕️
+#🌐سرور 49 | hysteria2 | Mor-12 | 01:40 | Ping: 161.14ms
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443/?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#👁️‍🗨️76@oneclickvpnkeys
+#🌐سرور 50 | hysteria2 | Mor-12 | 01:40 | Ping: 163.41ms
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?insecure=0&obfs-password=93lc6r07zfx4crct&sni=assets.gateway-stream.com&security=tls&obfs=salamander#@Alpha_v2rayIP
+#🌐سرور 51 | hysteria2 | Mor-12 | 01:40 | Ping: 167.11ms
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?insecure=0&obfs-password=93lc6r07zfx4crct&sni=assets.gateway-stream.com&security=tls&obfs=salamander#EPODONIOS
+#🌐سرور 52 | hysteria2 | Mor-12 | 01:40 | Ping: 167.59ms
+hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=w0tx1ju9iix6913p&insecure=1&sni=assets.gateway-stream.com#kurdconfig
+#🌐سرور 53 | hysteria2 | Mor-12 | 01:40 | Ping: 198.68ms
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#@FarazV2ray
+#🌐سرور 54 | hysteria2 | Mor-12 | 01:40 | Ping: 203.32ms
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?insecure=0&security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&sni=assets.gateway-stream.com#@Napsternetvirani
+#🌐سرور 55 | hysteria2 | Mor-12 | 01:40 | Ping: 205.58ms
+hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?sni=assets.gateway-stream.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=w0tx1ju9iix6913p#@Daily_Configs
+#🌐سرور 56 | hysteria2 | Mor-12 | 01:40 | Ping: 208.76ms
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+#🌐سرور 57 | hysteria2 | Mor-12 | 01:40 | Ping: 211.19ms
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?insecure=1&sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F76%40oneclickvpnkeys
+#🌐سرور 58 | hysteria2 | Mor-12 | 01:40 | Ping: 268.56ms
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443?sni=swe-one.quiet-rogue.site#%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F65%40oneclickvpnkeys
+#🌐سرور 59 | hysteria2 | Mor-12 | 01:40 | Ping: 315.27ms
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443?insecure=0&sni=swe-one.quiet-rogue.site#%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F65%40oneclickvpnkeys%202
+#🌐سرور 60 | hysteria2 | Mor-12 | 01:40 | Ping: 405.46ms
 hy2://https://xship.2fa.cat@starlink-ft.251313.xyz:443/?insecure=1&sni=www.cloudflare.com#US🇺🇸
-#🌐سرور 61 | hy2 | Mor-12 | 00:41 | Ping: 141.02ms
+#🌐سرور 61 | hy2 | Mor-12 | 01:40 | Ping: 123.41ms
+hy2://https://xship.2fa.cat@starlink-ft.251313.xyz:443/?insecure=1&sni=www.cloudflare.com#EPODONIOS
+#🌐سرور 62 | hy2 | Mor-12 | 01:40 | Ping: 125.20ms
+hy2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443/?insecure=1&sni=www.microsoft.com#EPODONIOS
+#🌐سرور 63 | hy2 | Mor-12 | 01:40 | Ping: 129.49ms
+hy2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443/?insecure=1&sni=www.microsoft.com#🇳🇱
+#🌐سرور 64 | hy2 | Mor-12 | 01:40 | Ping: 133.41ms
