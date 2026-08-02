@@ -1,5 +1,2 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.27.66:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
-vless://1b24ebe4-b8e5-4e27-baa1-2f84d94f0e78@167.99.254.100:440?security=&encryption=none&host=play.google.com&headerType=http&type=tcp
-vless://753933f9-c41f-4d69-bcce-70aff3e76ce5@104.248.39.95:52914?security=&encryption=none&host=play.google.com&headerType=http&type=tcp
-vless://e096af6b-24b5-4bae-a412-5773fb067ec1@vip.pro1.dpdns.org:57984?mode=auto&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&type=xhttp
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#ARGO_VPNN_8
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@162.159.38.119:443?path=/api/v1/irc#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=vod.ensf.top&type=ws&allowInsecure=0&sni=vod.ensf.top#EPODONIOS
+vless://b5316e4d-e060-4ee2-c37b-23e8f3951eda@69.46.46.92:443?path=/ws/b5316e4d-e060-4ee2-c37b-23e8f3951eda&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-f4fe.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-f4fe.up.railway.app#𝐕𝟐𝐗𝐍𝐄𝐓
