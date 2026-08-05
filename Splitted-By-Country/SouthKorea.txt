@@ -1,5 +1,8 @@
-hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=127.0.0.1#%F0%9F%87%B0%F0%9F%87%B7KR
-hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=hg1.yuanbaojc.site#%F0%9F%87%B0%F0%9F%87%B7%20KR
+trojan://ND91608427@definite-malamute.rooster465.autos:443?security=tls&sni=definite-malamute.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.247.197-0156
+trojan://ND91608427@uncommon-feline.rooster465.autos:443?security=tls&sni=uncommon-feline.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.119.20-2363
+trojan://ND91608427@moved-meerkat.rooster465.autos:443?security=tls&sni=moved-meerkat.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.140.99-0158
+trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.239.182-0157
+vmess://eyJ2IjoiMiIsImFkZCI6IjE0Ni41Ni4xMTIuMTEwIiwicG9ydCI6Ijg4ODgiLCJpZCI6ImU3YzMwMmYzLTkwZDYtNDJkZC05ZDdkLTk0YTM2ODNhMzcwNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6IiIsInRscyI6IiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgRUQ1MzQzIn0=
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=0&sni=moved-meerkat.rooster465.autos#KR-3.35.140.99-0158
 trojan://ND91608427@definite-malamute.rooster465.autos:443?allowInsecure=0&sni=definite-malamute.rooster465.autos#KR-43.203.247.197-0156
 trojan://ND91608427@saving-octopus.rooster465.autos:443?allowInsecure=0&sni=saving-octopus.rooster465.autos#KR-13.125.239.182-0157
@@ -7,14 +10,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiS1ItMTUyLjY3LjIxOC4zOC0wMTY2IiwiYWRkIjoiMTUyLjY3LjIx
 vmess://eyJ2IjoiMiIsInBzIjoiS1ItMTMyLjE0NS44MC4yMzAtMDU4MiIsImFkZCI6IjEzMi4xNDUuODAuMjMwIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjUxNTU4NjBlLWQwN2QtNDZjMy05MTI4LTNhZmJkODQ2MjZjNyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiS1ItMjE3LjE0Mi4xMzguNjEtMDcwNiIsImFkZCI6IjIxNy4xNDIuMTM4LjYxIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImFjMWI5MzNkLWFmZmYtNDQ4Ny05M2VmLWY1NzEzMGE1NWRmZiIsImFpZCI6IjAiLCJuZXQiOiJodHRwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
 trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=0&sni=uncommon-feline.rooster465.autos#KR-43.203.119.20-2363
-trojan://ND91608427@definite-malamute.rooster465.autos:443?security=tls&sni=definite-malamute.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.247.197-0156
-trojan://ND91608427@uncommon-feline.rooster465.autos:443?security=tls&sni=uncommon-feline.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.119.20-2363
-trojan://ND91608427@moved-meerkat.rooster465.autos:443?security=tls&sni=moved-meerkat.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.140.99-0158
-trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-13.125.239.182-0157
-vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6IktSIPCfh7Dwn4e3IHwgQFJheWRpa2FseCB8IEE5OUQ3MyIsInNjeSI6ImF1dG8iLCJzZXJ2ZXJQb3J0IjowLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgMkQ2MzUxIiwiYWRkIjoiMTQ2LjU2LjExMC4xMjkiLCJwb3J0IjoiNTM3MDIiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDBlZThlYzAtZWY2My00MWFhLTkwODctMTFlZGY3YTk3OGI5IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IjE0Ni41Ni4xMTAuMTI5IiwidGxzIjoiIn0=
-vmess://eyJ2IjoiMiIsImFkZCI6IjE0Ni41Ni4xMTIuMTEwIiwicG9ydCI6Ijg4ODgiLCJpZCI6ImU3YzMwMmYzLTkwZDYtNDJkZC05ZDdkLTk0YTM2ODNhMzcwNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6IiIsInRscyI6IiIsInBzIjoiS1Ig8J+HsPCfh7cgfCBAUmF5ZGlrYWx4IHwgRUQ1MzQzIn0=
-vmess://eyJ2IjoiMiIsImFkZCI6IjIxNy4xNDIuMTM4LjYxIiwicG9ydCI6IjgwIiwiaWQiOiJhYzFiOTMzZC1hZmZmLTQ0ODctOTNlZi1mNTcxMzBhNTVkZmYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwidGxzIjoiIiwicGF0aCI6Ii8iLCJwcyI6IktSIPCfh7Dwn4e3IHwgQFJheWRpa2FseCB8IDE2ODExOCJ9
+hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=127.0.0.1#%F0%9F%87%B0%F0%9F%87%B7KR
+hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=hg1.yuanbaojc.site#%F0%9F%87%B0%F0%9F%87%B7%20KR
 hy2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801/?insecure=1&sni=127.0.0.1#🇰🇷KR
 hy2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801/?insecure=1&sni=hg1.yuanbaojc.site#🇰🇷 KR
 trojan://fac593ac-d6aa-4523-bea9-b3eb2a2b3da3@f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com:21101/?type=tcp&security=tls&sni=261.yuanul.com&allowInsecure=1#🇰🇷 KR
