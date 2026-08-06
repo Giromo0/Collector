@@ -1,5 +1,7 @@
+vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%91%80
+vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&amp;encryption=none&amp;pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=c2fa#Cyprus%20WorkTitans
 vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=/ws-vless/&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#RU🇷🇺
-vmess://eyJ2IjoiMiIsInBzIjoiSEsyIDE4LjBLQi9zIiwiYWRkIjoibWg3cjVhcmRsMHo1anRneS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJtaDdSNUFyZEwwejVqVEdZLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoibWg3UjVBcmRMMHo1alRHWS52LjNkbnMudmlwIiwidGVzdF9uYW1lIjoiSEsyIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiSEsxMCA3LjJLQi9zIiwiYWRkIjoid3dhZmo1bGhsNmJpOGF1OS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ3d2FmajVMSGw2Ykk4YVU5LnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwidGxzIjoidGxzIiwic25pIjoid3dhZmo1TEhsNmJJOGFVOS52LjNkbnMudmlwIiwidGVzdF9uYW1lIjoiSEsxMCJ9
 hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga3.api3-max.ru:443/?sni=taga3.api3-max.ru#🇷🇺俄罗斯
 hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga4.api3-max.ru:443/?sni=taga4.api3-max.ru#🇷🇺俄罗斯
 hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443/?sni=wopa5.api3-max.ru#🇷🇺俄罗斯
@@ -7,13 +9,9 @@ hy2://71cada65-d23e-418c-88e4-a06188d14689@82.117.87.248:8443/?insecure=1&sni=de
 hy2://71cada65-d23e-418c-88e4-a06188d14689@82.117.87.248:8443/?sni=de-two.quiet-rogue.site#🇷🇺俄罗斯
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@157.22.241.152:7443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=icloud.com&fp=chrome&security=reality&pbk=P5eqN_q-Vq7M8YgrTIS_yZBgWLskGKQ9hAHhW__R6js&sid=89136b6e&packetEncoding=xudp#🇷🇺RU
 vless://347e34f2-3211-4e01-b475-409f46788d3f@85.209.135.66:2053/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=dns.adguard-dns.com&alpn=http/1.1&fp=chrome&security=reality&pbk=RaAQd349NbMoL5WJOfT_RWvlT2s6sav0pOgEsoSm2zw&sid=f0131a4772b494d4&packetEncoding=xudp#俄罗斯
-vless://47947923-49ac-49f8-86ed-2912bcbf2d18@104.171.134.67:4100?encryption=none&type=ws&path=/v1&host=live.ok.ru#[🇷🇺]t.me/ConfigsHub
-vless://47947923-49ac-49f8-86ed-2912bcbf2d18@104.171.134.67:4100?path=/v1&security=none&encryption=none&host=live.ok.ru&type=ws#[🇷🇺]t.me/ConfigsHub
-vless://47947923-49ac-49f8-86ed-2912bcbf2d18@104.171.134.67:4100?path=/v1&security=none&encryption=none&host=live.ok.ru&type=ws#🇷🇺135037 | ⚡️Telegram = t.me/SOSkeyNET
 vless://594f6aef-16f8-4a86-8e2e-a217344a96aa@pro-ru-bridge.emrata.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pro-ru-bridge.emrata.top&fp=chrome&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&sid=#俄罗斯
 vless://a8f84171-5f96-4547-b621-59758fe668c8@94.139.251.19:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api.browser.yandex.ru&fp=chrome&security=reality&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781#俄罗斯
+vless://aa8b4a23-655f-480c-aef6-27b0c45e7877@178.248.236.155:14443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=szC_0ZhoT_nwOrJcYXRrMw3EGJkiOAYCU-6atQo6mXQ&security=reality&sid=0dacf3306f&sni=rutube.ru&type=tcp#🇷🇺135231 | ⚡️Telegram = t.me/SOSkeyNET
+vless://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&security=reality&sid=000443436f&sni=rutube.ru&type=tcp#🇷🇺135235 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@83.143.106.3:8443/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=res.cdn.office.net&fp=chrome&security=reality&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&sid=#俄罗斯
-vless://31c2a8e8-0ab2-4f3f-8767-11f3a35d4228@72.56.7.195:2200?path=%2Fv1&type=ws#RU%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9129
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443?#%E5%9C%9F%E8%80%B3%E5%85%B6
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga2.api3-max.ru:443?sni=taga2.api3-max.ru#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6
 vless://fd22ad82-2d89-4338-b72c-5092ae699c7d@8.47.69.0:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=rutube.ummapeople.online&path=%2Frutube#RU_24%7C339KB%2Fs%7CT001-260618%2001
