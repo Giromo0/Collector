@@ -1,8 +1,6 @@
-vmess://eyJ2IjoiMiIsInBzIjoiVFcg8J+HufCfh7wgfCBAUmF5ZGlrYWx4IHwgQzdGOTVFIiwiYWRkIjoibHQuYmFkbnMuaGVscCIsInBvcnQiOiI1MTM2MCIsInR5cGUiOiJub25lIiwiaWQiOiI4NWFkMjFlMS1jMmNkLTM0MDctYWE5MC04MTVmM2YzZWE2MzYiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoibHQuYmFkbnMuaGVscCIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?&security=false&fp=chrome&packet-encoding=xudp&type=tcp&headerType=none&path=%2F#TW_6%7C76KB%2Fs%7CA004-260618%2001
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?&security=false&fp=chrome&packet-encoding=xudp&type=tcp&headerType=none&path=%2F#TW_9%7C77KB%2Fs%7CA003-260618%2001
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.16:10000?&security=false&fp=chrome&packet-encoding=xudp&type=tcp&headerType=none&path=%2F#TW_12%7C82KB%2Fs%7CB007-260618%2001
-trojan://55354c2b8ee339571bd657a9bb9858cc@speed-01.aliyun-web-tracker.cn:39221?allowInsecure=1&sni=speed-01.aliyun-web-tracker.cn#🇹🇼[openproxylist.com]trojan-TW
 trojan://55354c2b8ee339571bd657a9bb9858cc@speed-01.aliyun-web-tracker.cn:39221/?type=tcp&security=tls&sni=speed-01.aliyun-web-tracker.cn&allowInsecure=1&fp=chrome#台湾
 trojan://55354c2b8ee339571bd657a9bb9858cc@speed-01.aliyun-web-tracker.cn:39221/?type=tcp&security=tls&sni=speed-01.aliyun-web-tracker.cn&allowInsecure=1&fp=chrome#🇹🇼TW
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@23.133.52.10:2053/?type=ws&encryption=none&flow=&host=s5gydl.936.us.ci&path=/proxyip=tw.william.us.ci?uuid=f4e91fac-25eb-4d26-a14c-c82c3778a0e4&security=tls&sni=s5gydl.936.us.ci&fp=chrome&packetEncoding=xudp#🇹🇼 TW
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJjaGFubmVsX0BuZXR3b3JsZF92cG4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
