@@ -1,7 +1,7 @@
 vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.126.206.129:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=raw#🆔soskeynet%20🔒%20VL-RAW-%20🇷🇺%20RU%20142ms
 vless://112912a9-cedf-485d-b8ed-d8f8d4774437@31.129.96.186:2200?type=ws&encryption=none&flow=&path=%2Fv1#🆔soskeynet%20🔓%20VL-WS-N/A%20🇷🇺%20RU%20155ms
-vless://5d0206d9-fb42-4c8b-a84b-3d95ab0f42c7@109.73.196.160:2200?host=rzd.ru&path=%2Fv1&type=ws#RU%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9121
 vless://f1e74548-4c0b-463b-b68d-0d1ec48c965d@45.12.114.73:8443?path=/ws-vless/&security=tls&encryption=none&insecure=1&host=rus21.unboundworld.org&type=ws&allowInsecure=1&sni=rus21.unboundworld.org#RU🇷🇺
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443?#%E5%9C%9F%E8%80%B3%E5%85%B6
 hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga3.api3-max.ru:443/?sni=taga3.api3-max.ru#🇷🇺俄罗斯
 hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga4.api3-max.ru:443/?sni=taga4.api3-max.ru#🇷🇺俄罗斯
 hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443/?sni=wopa5.api3-max.ru#🇷🇺俄罗斯
@@ -12,12 +12,8 @@ vless://218fd696-e3a2-4c33-b397-a5f13a82969e@157.22.241.152:7443/?type=grpc&encr
 vless://347e34f2-3211-4e01-b475-409f46788d3f@85.209.135.66:2053/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=dns.adguard-dns.com&alpn=http/1.1&fp=chrome&security=reality&pbk=RaAQd349NbMoL5WJOfT_RWvlT2s6sav0pOgEsoSm2zw&sid=f0131a4772b494d4&packetEncoding=xudp#俄罗斯
 vless://435d616b-f0e6-489d-a70d-bdde70750b43@ruded1.onlinestreamself.com:443?security=reality&encryption=none&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#🇷🇺136698 | ⚡️Telegram = t.me/SOSkeyNET
 vless://435d616b-f0e6-489d-a70d-bdde70750b43@soskeynets.onlinestreamself.com:443?security=reality&encryption=none&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#🇷🇺136698 | ⚡️Telegram = t.me/SOSkeyNET
-vless://5502312d-b5cf-4652-8c59-4d670dd047be@104.171.137.109:2200?path=/v1&security=none&encryption=none&type=ws#🇷🇺136690 | ⚡️Telegram = t.me/SOSkeyNET
 vless://594f6aef-16f8-4a86-8e2e-a217344a96aa@pro-ru-bridge.emrata.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pro-ru-bridge.emrata.top&fp=chrome&security=reality&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&sid=#俄罗斯
 vless://a8f84171-5f96-4547-b621-59758fe668c8@94.139.251.19:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api.browser.yandex.ru&fp=chrome&security=reality&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781#俄罗斯
 vless://aef0e934-09d7-4b8f-b3bc-de78d2eec928@194.26.229.220:4100?path=/v1&security=none&encryption=none&type=ws#🇷🇺
-vless://b17fa109-615f-4fcc-abee-8ac8358664e1@77.110.113.103:443?security=reality&encryption=none&pbk=YbSMmjuRFkilXmQH_RZ9uDFwA17yDulRSTBHRVilzXs&headerType=none&fp=chrome&spx=/video&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=a3dbdfb829#🇷🇺136689 | ⚡️Telegram = t.me/SOSkeyNET
-vless://dbeffc3c-529b-4c25-9fd9-9f0969380534@37.77.105.11:420?security=none&encryption=none&headerType=none&type=tcp#[🇷🇺]t.me/ConfigsHub
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@45.143.201.8:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hasty-dolphin.cdn.cachefleet.com#[🇷🇺]t.me/ConfigsHub
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@83.143.106.3:8443/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=res.cdn.office.net&fp=chrome&security=reality&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&sid=#俄罗斯
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
-trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?allowInsecure=0&sni=dynamic-grubworm.rooster465.autos#HK-91.199.84.120-0489
