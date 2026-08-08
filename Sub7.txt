@@ -2,14 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.26:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#EPODONIOS
-vless://df6bcab7-8445-44c7-a6d0-c1a688eef0db@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-vless://df41e720-656c-4c2b-91e8-9c3fcd820802@45.95.96.249:443?security=reality&encryption=none&pbk=IybE2UVOhYpuPLPmCxWCKpskIyXqprjSs5-Pu8t5Wxw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=de.nalkonici.com&sid=aa608fb3545ec55b#EPODONIOS
-vless://df301b32-1152-4526-9a63-beedd93d3156@172.67.75.172:80?encryption=none&host=vl.dalazhi.cloudns.biz&path=/&security=none&type=ws#EPODONIOS
-vless://df301b32-1152-4526-9a63-beedd93d3156@104.16.27.134:80?security=none&type=ws&path=/&host=vl.dalazhi.cloudns.biz&ed=2048&packetEncoding=xudp&encryption=none#EPODONIOS
-vless://ded017f2-8f18-4e0b-b0ed-8451cd664e55@104.20.6.134:8443?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=cloud.dns.xn--q9jyb4c&fp=chrome&type=xhttp&allowInsecure=0&sni=cloud.dns.xn--q9jyb4c#EPODONIOS
-vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@5.180.173.248:25198?path=/xray&security=none&encryption=none&type=ws#EPODONIOS
-vless://deb06db2-5dda-4ce7-9a75-a5ab0acbf6b2@37.32.26.173:11328?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://de92dc6a-4eed-4888-9077-1fc006ad339d@sy2.syragame.com:443?type=xhttp&host=sy.syragame.com&path=/&mode=auto&security=tls&sni=sy.syragame.com&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#EPODONIOS
 vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&type=xhttp&sni=www.google.com&sid=44#EPODONIOS
 vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=chrome&type=xhttp&sni=www.google.com&sid=44#EPODONIOS
@@ -502,3 +494,11 @@ vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&securi
 vless://b54dc30a-3b98-4224-87d0-955996042bb8@188.114.96.6:443?security=tls&type=xhttp&headerType=&path=/one&host=cdn.tinfary.ir&mode=auto&extra={"scMaxEachPostBytes": "500000-1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": true, "noSSEHeader": false, "xPaddingObfsMode": true, "xPaddingMethod": "tokenish", "xPaddingPlacement": "queryInHeader", "xPaddingHeader": "X-Cache", "xPaddingKey": "_dc"}&sni=cdn.tinfary.ir&fp=chrome&alpn=h2#EPODONIOS
 vless://b54cdb1e-7664-4f13-b1b6-a07c8f6560db@speedtest.net:80?encryption=none&security=none&type=ws&host=SvnTeamChannel.global.ssl.fastly.net&path=/#EPODONIOS
 vless://b54cdb1e-7664-4f13-b1b6-a07c8f6560db@SPEEDTEST.NET:80?encryption=none&security=none&type=ws&headerType=none&path=/&host=SvnTeamChannel.global.ssl.fastly.net#EPODONIOS
+vless://b54cdb1e-7664-4f13-b1b6-a07c8f6560db@199.232.78.159:443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=SvnTeamChannel.global.ssl.fastly.net&sni=ssl.fastly.com#EPODONIOS
+vless://b54cdb1e-7664-4f13-b1b6-a07c8f6560db@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=SvnTeamChannel.global.ssl.fastly.net&path=/#EPODONIOS
+vless://b54cdb1e-7664-4f13-b1b6-a07c8f6560db@104.17.122.116:2087?encryption=none&security=tls&type=xhttp&headerType=none&path=/&host=9.mobilezahra.com&mode=auto&sni=9.mobilezahra.com&fp=chrome&alpn=h3,h2,http/1.1#EPODONIOS
+vless://b4469373-b425-4902-80d4-a00e00ada7de@91.124.63.210:50303?path=/&security=&encryption=none&host=play.google.com&type=ws#EPODONIOS
+vless://b4469373-b425-4902-80d4-a00e00ada7de@91.124.63.210:50303?encryption=none&security=none&type=ws&host=play.google.com&path=/#EPODONIOS
+vless://b4469373-b425-4902-80d4-a00e00ada7de@65.108.156.124:50303?path=/&security=none&encryption=none&host=play.google.com&type=ws#EPODONIOS
+vless://b4469373-b425-4902-80d4-a00e00ada7de@65.108.156.124:50303?path=/&security=&encryption=none&host=play.google.com&type=ws#EPODONIOS
+vless://b4469373-b425-4902-80d4-a00e00ada7de@31.57.228.37:50303?type=ws&path=/&encryption=none&security=none&host=play.google.com#EPODONIOS

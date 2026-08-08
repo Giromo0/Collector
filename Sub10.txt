@@ -2,13 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/#EPODONIOS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.30:8880?security=&encryption=none&host=vms.lifetime59.workers.dev&type=ws#EPODONIOS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.121.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime42.workers.dev&path=/&packetEncoding=xudp#EPODONIOS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#EPODONIOS
-vless://61e688aa-3e6f-4b74-bf6e-22362a2edb26@fin3.flotaw.ir:8443?path=/api&security=tls&encryption=mlkem768x25519plus.native.0rtt.TUi7u5UXHqLaEQK2w69XWLPOiKYd5Ded1AwEPgAvphg&insecure=0&host=api.flotaw.ir&fp=chrome&type=ws&allowInsecure=0&sni=api.flotaw.ir#EPODONIOS
-vless://61b08368-97cf-4f24-9e17-8c4a20cc2eea@87.251.77.95:443?mode=gun&security=reality&encryption=none&pbk=S4n22MVLxeJL3E58_Jm6x5X2RtRvGZRi0fcGUZp27lQ&fp=chrome&spx=/&type=grpc&sni=www.apple.com&sid=fa3c4d0d247a82d8#EPODONIOS
-vless://61b08368-97cf-4f24-9e17-8c4a20cc2eea@5.129.216.51:443?mode=gun&security=reality&encryption=none&pbk=O-qEq2GXcEKCTcTckXxC2AHpXgIcoi6Erwx0bPAJYhA&fp=chrome&spx=/&type=grpc&sni=www.apple.com&sid=22ccd7d675a181cf#EPODONIOS
 vless://612d16de-aebd-4738-829e-533dbfa9e936@new.akinamo.willbe.sinitk.outforyou.ir:20580?security=reality&encryption=none&pbk=gqjS9wwxycF16Qf02GDt1UrvdrF_neQgj1Crduo_xB0&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=d5c1b9#EPODONIOS
 vless://60ba3369-9a78-40fe-98c3-233a6f107043@uk1.denverpresents.top:443?path=/assets/build/_app/immutable/chunks/stream-one/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=uk1.denverpresents.top&fp=chrome&type=xhttp&allowInsecure=0&sni=uk1.denverpresents.top#EPODONIOS
 vless://60ba3369-9a78-40fe-98c3-233a6f107043@45.86.159.114:443?path=/assets/build/_app/immutable/chunks/stream-one/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=uk1.denverpresents.top&fp=chrome&type=xhttp&allowInsecure=0&sni=uk1.denverpresents.top#EPODONIOS
@@ -502,3 +495,10 @@ vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000?security=none&e
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?encryption=none&security=none&type=tcp#EPODONIOS
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#EPODONIOS
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#EPODONIOS
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#EPODONIOS
+vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/K2w7vCx3fNcdCrSc?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#EPODONIOS
+vless://428f4386-9d8e-4c52-8fbe-2e7708fd108b@194.87.30.92:37305?path=/&security=none&encryption=none&type=ws#EPODONIOS
+vless://426b17cf-400c-417f-8b36-459a01e57351@38.93.136.8:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=miui.com#EPODONIOS
+vless://42632980-9f42-4762-a313-a31e8ec88da4@77.42.125.134:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=/vless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#EPODONIOS
+vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?path=/?ed=2560&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=mzaxmc0.lizard2shop.com#EPODONIOS
