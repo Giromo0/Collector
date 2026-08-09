@@ -1,5 +1,4 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.77.122.78:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.64.99.156:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
-vless://c57a318c-04b5-4f95-9439-f47aa4b6b585@62.60.238.19:53945?encryption=none&amp;type=raw&amp;security=reality&amp;sni=www.intel.com&amp;fp=chrome&amp;pbk=VBRv9MUX-FTu5W4ufrOrneJoVUQbmfFlBz6YJXwqcn8&amp;sid=b966b2b323&amp;spx=/
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#TELEGRAM-TGRVPN&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#EPODONIOS
-vless://0ac6ad68-45cb-cd9e-459b-446568d15f69@tmesubgift.up.railway.app:443?encryption=none&security=tls&type=ws&host=tmesubgift.up.railway.app&path=/ws/0ac6ad68-45cb-cd9e-459b-446568d15f69&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1#107  حجم: 50
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.103.244:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
+trojan://ptvZ8vjK9i@176.124.198.224:11400?security=reality&amp;sni=aws.amazon.com&amp;fp=chrome&amp;pbk=Y9ek0L1QfGCEv3ov0iJpcIS8a5E8ryrthVrDiYZGfWU&amp;sid=f5c33752&amp;type=xhttp&amp;path=/
+trojan://wE0CA+qFy6HpXEYDckEg1SlhqL37BPtJaCPotkzYjE0=@91.107.157.137:35558?security=none&headerType=&type=tcp#nyq0u184n2
+vless://ff4873f3-ed68-7059-926c-6958fde22478@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/ff4873f3-ed68-7059-926c-6958fde22478#113
