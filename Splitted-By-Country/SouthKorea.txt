@@ -1,3 +1,5 @@
+hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=127.0.0.1#%F0%9F%87%B0%F0%9F%87%B7KR
+hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=hg1.yuanbaojc.site#%F0%9F%87%B0%F0%9F%87%B7%20KR
 trojan://ND91608427@43.203.119.20:443?security=tls&sni=uncommon-feline.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.119.20-0174
 trojan://ND91608427@select-ferret.rooster465.autos:443?security=tls&sni=select-ferret.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.36.59.34-0171
 trojan://ND91608427@uncommon-feline.rooster465.autos:443?security=tls&sni=uncommon-feline.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.119.20-0160
@@ -23,8 +25,6 @@ trojan://ND91608427@3.36.59.34:443?security=tls&sni=select-ferret.rooster465.aut
 trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.247.197-0179
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?security=tls&sni=moved-meerkat.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.140.99-0168
 trojan://ND91608427@3.35.140.99:443?security=tls&sni=moved-meerkat.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-3.35.140.99-0180
-hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=127.0.0.1#%F0%9F%87%B0%F0%9F%87%B7KR
-hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1&sni=hg1.yuanbaojc.site#%F0%9F%87%B0%F0%9F%87%B7%20KR
 trojan://ND91608427@43.203.119.20:443?allowInsecure=0&sni=uncommon-feline.rooster465.autos#KR-43.203.119.20-0172
 trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=0#KR-54.180.228.238-0171
 trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=0&sni=select-ferret.rooster465.autos#KR-3.36.59.34-0170
@@ -60,7 +60,14 @@ vmess://eyJ2IjoiMiIsInBzIjoiS1JfMTJ8MTg0S0Ivc3xNMDAyLTI2MDYxOCAwMSIsImFkZCI6IjE0
 trojan://ND91608427@saving-octopus.rooster465.autos:443?allowInsecure=1&sni=saving-octopus.rooster465.autos#KR_29%7C183KB%2Fs%7CS001-260618%2001
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#KR_30%7C72KB%2Fs%7CS001-260618%2001
 trojan://ND91608427@saving-octopus.rooster465.autos:443?allowInsecure=1&sni=saving-octopus.rooster465.autos#KR_32%7C155KB%2Fs%7CA001-260618%2001
-trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#KR_40%7C257KB%2Fs%7CR002-260618%2001
+trojan://ND91608427@definite-malamute.rooster465.autos:443?allowInsecure=1&sni=definite-malamute.rooster465.autos#KR_31%7C69KB%2Fs%7CA001-260618%2001
+trojan://ND91608427@humorous-malamute.rooster465.autos:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#KR_33%7C140KB%2Fs%7CR002-260618%2001
+trojan://ND91608427@chief-bluegill.rooster465.autos:443?allowInsecure=1&sni=chief-bluegill.rooster465.autos#KR_34%7C114KB%2Fs%7CR002-260618%2001
+trojan://ND91608427@main-whippet.rooster465.autos:443?allowInsecure=1&sni=main-whippet.rooster465.autos#KR_35%7C72KB%2Fs%7CR002-260618%2001
+trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=1&sni=pure-ram.rooster465.autos#KR_38%7C69KB%2Fs%7CR002-260618%2001
+trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#KR_37%7C118KB%2Fs%7CR002-260618%2001
+trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#KR_36%7C148KB%2Fs%7CR002-260618%2001
+trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#KR_39%7C103KB%2Fs%7CR002-260618%2001
 trojan://ND91608427@chief-bluegill.rooster465.autos:443?allowInsecure=1&sni=chief-bluegill.rooster465.autos#KR_41%7C126KB%2Fs%2001
 trojan://ND91608427@communal-sunbird.rooster465.autos:443?allowInsecure=1&sni=communal-sunbird.rooster465.autos#KR_42%7C185KB%2Fs%7CA001-260618%2001
 trojan://ND91608427@grateful-owl.rooster465.autos:443?allowInsecure=1&sni=grateful-owl.rooster465.autos#KR_43%7C160KB%2Fs%7CA001-260618%2001
@@ -72,22 +79,21 @@ trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=inti
 trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#KR_49%7C182KB%2Fs%7CA001-260618%2001
 trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#KR_50%7C111KB%2Fs%7CA001-260618%2001
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved-meerkat.rooster465.autos#KR_51%7C226KB%2Fs%7CA001-260618%2001
+trojan://ND91608427@upward-puma.rooster465.autos:443?allowInsecure=1&sni=upward-puma.rooster465.autos#KR_52%7C174KB%2Fs%7CA004-260618%2001
 trojan://ND91608427@distinct-llama.rooster465.autos:443?allowInsecure=1&sni=distinct-llama.rooster465.autos#KR_53%7C108KB%2Fs%7CP002-260618%2001
 trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#KR_54%7C224KB%2Fs%7CP002-260618%2001
 trojan://ND91608427@43.203.244.203:443?allowInsecure=0&sni=grateful-owl.rooster465.autos#KR_55%7C172KB%2Fs%7CS001-260618%2001
 trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#KR_56%7C65KB%2Fs%7CB007-260618%2001
-trojan://ND91608427@43.203.119.20:443?allowInsecure=0&sni=uncommon-feline.rooster465.autos#KR_57%7C125KB%2Fs%7CA003-260618%2001
 trojan://ND91608427@intimate-moray.rooster465.autos:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#KR_58%7C426KB%2Fs%7CA004-260618%2001
 trojan://ND91608427@43.201.46.108:443?allowInsecure=0&sni=exotic-chow.rooster465.autos#KR_60%7C118KB%2Fs%7CA004-260618%2001
 trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#KR_59%7C137KB%2Fs%7CA004-260618%2001
 trojan://ND91608427@chief-bluegill.rooster465.autos:443?allowInsecure=1&sni=chief-bluegill.rooster465.autos#KR_61%7C115KB%2Fs%7CA004-260618%2001
 trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=1&sni=pure-ram.rooster465.autos#KR_62%7C136KB%2Fs%7CA004-260618%2001
 trojan://ND91608427@grateful-owl.rooster465.autos:443?allowInsecure=1&sni=grateful-owl.rooster465.autos#KR_63%7C93KB%2Fs%7CA004-260618%2001
-trojan://ND91608427@humorous-malamute.rooster465.autos:443?allowInsecure=1&sni=humorous-malamute.rooster465.autos#KR_64%7C180KB%2Fs%7CA004-260618%2001
-trojan://ND91608427@3.36.59.34:443?allowInsecure=0&sni=select-ferret.rooster465.autos#KR_66%7C211KB%2Fs%7CA004-260618%2001
 trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#KR_65%7C76KB%2Fs%7CA004-260618%2001
-trojan://ND91608427@52.78.13.238:443?allowInsecure=0&sni=upward-puma.rooster465.autos#KR_69%7C125KB%2Fs%7CM002-260618%2001
 hy2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801/?insecure=1&sni=127.0.0.1#🇰🇷KR
 hy2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801/?insecure=1&sni=hg1.yuanbaojc.site#🇰🇷 KR
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.89.239:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#韩国
 trojan://fac593ac-d6aa-4523-bea9-b3eb2a2b3da3@f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com:21101/?type=tcp&security=tls&sni=261.yuanul.com&allowInsecure=1#🇰🇷 KR
+vless://ddb2c86f-2a07-4aaf-86dd-8ccc0f4b8c7a@95.163.176.238:55059?encryption=none&security=reality&sni=www.oracle.com&fp=chrome&pbk=Q5exK3qkGM7ktAsdQw6gR_b52HoaKDzWvpf2HrnXNBw&sid=c5d3a757&spx=/&type=tcp&headerType=none#ykr1ce10
+vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjcgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
