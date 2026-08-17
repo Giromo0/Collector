@@ -1,2 +1,1 @@
-trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@65.109.215.50:54673?security=none&type=tcp#@SylphNet | 2026-07-12 21:36
-trojan://Mitivpn@151.101.0.0:80?type=ws&security=none&path=@SylphNet&host=@SylphNet#@SylphNet | 2026-06-27 02:22
+vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@107.189.7.124:2053?&security=tls&fp=chrome&sni=kjgdksgghre466.pages.dev&type=ws&headerType=none&host=kjgdksgghre466.pages.dev&path=%2F#CH-Winterthur-42816311-ghng
