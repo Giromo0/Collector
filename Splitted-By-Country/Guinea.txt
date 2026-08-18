@@ -1,2 +1,7 @@
-trojan://humanity@104.18.152.143:443?sni=www.ignitelimit.com#%E6%9C%AA%E7%9F%A517
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzEgNC4zTUIvcyIsImFkZCI6IjY2LjE2My4xMTcuNTgiLCJwb3J0IjoiMjIzMjQiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8gQFByb3h5VlBOMTEiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI3MSJ9
+trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#1
+trojan://humanity@104.18.152.246:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#1
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#3
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDIiLCJhZGQiOiJzaGFoaW5uZXQtZnJlZW5ldGNkbi5tZWxvZHlzaG9wb25lMi5pciIsInBvcnQiOiI4MDgwIiwiaWQiOiI5NjU4ODkxMi0zYmNiLTQ5MWMtOGNlMy03YTk2NWJiZWMwN2YiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJzb2cuc2hhaGlubmV0LnNob3AiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQyIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNTYiLCJhZGQiOiJtYXgtaXAuaGlyb21hbjU0NDUuaXIiLCJwb3J0IjoiMzU4NiIsImlkIjoiYTY2M2JiYWItNGU5ZS00MDgwLWI4YWItZWRkNTlmZTFmZGNlIiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoienVsYS5pciIsInBhdGgiOiIvT1VJcHh3d210cEpHSVd6cmFXN2RsNSIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjU2In0=
+trojan://humanity@104.18.152.143:443?sni=www.ignitelimit.com#%E6%9C%AA%E7%9F%A562
+trojan://humanity@www.ignitelimit.com:443?#%E6%9C%AA%E7%9F%A577
