@@ -1,1 +1,2 @@
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#Channel : @Daily_Configs
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lODEiLCJhZGQiOiJjb25uZWN0bzMua29sbWFuLmNvbS5kZSIsInBvcnQiOiI4MDgwIiwiaWQiOiI1MTkwODEzZS0zNWUxLTQ1ZGMtYjkxNS0xODlhYjRiZjQ2YmYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHB1cGdyYWRlIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJjZDUuZG9jdG9ycHl0aG9uLmlyIiwicGF0aCI6Ii9mOWJHYkc3Wk55NUwwdHpYS1pOeFNYNHEiLCJ0bHMiOiIiLCJzbmkiOiJjZDUuZG9jdG9ycHl0aG9uLmlyIiwidGVzdF9uYW1lIjoiODEifQ==
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=%2F#%40GrizzlyVPN
