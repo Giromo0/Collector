@@ -1,9 +1,7 @@
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjgyLjE5OC4yNDYuMjUwIiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJhZHMueDUucnUiLCAidGxzIjogIiJ9
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.160.167:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
+vless://3217c0c1-240b-4c98-8e06-4c364298fc64@104.16.6.70:8443?mode=packet-up&amp;path=%2Fhome%2Fnovinser%2Fpublic_html%2Fmy%2Fmodules%2Fservers%2Fcdnserver%2Fcdnserver.php&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=cd.solidesign.uk#
+vless://5905d91f-c3bc-4e80-bd66-4b17beb166cb@38.244.4.1:443?allowInsecure=0&sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0130
 vless://f06c6039-a489-3d78-a676-ed43be6deca3@155.117.199.13:39399?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0137
-vless://9638a83e-f1f7-4cc8-a602-924965d9534f@wr28-6njjgu.linenheath.site:443?allowInsecure=0&sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0139
-vless://ec31f6d7-c71a-413d-93aa-24296805a594@nsuc-znkbig.avonex.top:443?allowInsecure=0&sni=www.bing.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0144
-vless://9638a83e-f1f7-4cc8-a602-924965d9534f@wr28-6njjgu.linenheath.site:443?&security=reality&flow=xtls-rprx-vision&pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&sid=59ccabb0a1483c4b&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=wr28-6njjgu.linenheath.site&path=%2F#US_speednode_0139
-trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#EPODONIOS
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php#mehrosaboran?ed=2048&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#EPODONIOS
-vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@xiweini.dpdns.org:30100/?type=tcp&encryption=none&flow=&security=tls&sni=xiweini.dpdns.org&alpn=h2,http/1.1&fp=chrome#香港
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi#TELEGRAM-MUSICLOVERS85?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#Generalconfiig
+vless://055dce30-0ee3-44c3-b680-be1c95b8d6e7@107.151.250.68:443?allowInsecure=0&sni=www.bing.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#US_speednode_0138
+vless://a429499b-6237-44b2-ae4d-0d53d14cf46a@188.114.97.6:8080?path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=small-wave-9851.441-57f.workers.dev&type=ws#کانال ما
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528/?type=tcp&encryption=none&flow=&packetEncoding=xudp#HK
