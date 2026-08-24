@@ -1,3 +1,6 @@
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@50.62.89.123:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=notls.lukongtou.eu.org&type=ws&headerType=none&host=notls.lukongtou.eu.org&path=%2FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3#FR_322%7C300KB%2Fs%7CV007-260618%2001
+vless://d5598622-46b8-b017-3af3-232500000001@104.16.72.101:80?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=nahan-core.netizo09.workers.dev&path=%2Fsync#FR_624%7C176KB%2Fs%7CV010-260618%2001
+vless://4ce7cb8a-f9b1-4bfa-a80d-9e168c61a633@104.21.78.225:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=curly-night-6928.ggdhchjk.workers.dev&type=ws&headerType=none&host=curly-night-6928.ggdhchjk.workers.dev&path=%2Fsync#FR_625%7C215KB%2Fs%7CV010-260618%2001
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=193.124.46.65#@icv2ray
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
 trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@icv2ray
