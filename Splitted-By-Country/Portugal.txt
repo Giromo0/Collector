@@ -1,4 +1,5 @@
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi#TELEGRAM-leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
-vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=/connect#TELEGRAM-Cnetvpn?ed=512&security=tls&encryption=none&insecure=0&host=129.121.95.159&fp=chrome&type=ws&allowInsecure=0&sni=129.121.95.159#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.226.39:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
-vless://8c3f6768-6e56-432f-864a-1b40a1269dce@srvpl1.e404ng.fun:2083?alpn=h2,http/1.1,h3&encryption=mlkem768x25519plus.native.0rtt.FbDgDkr9zVUNTJ4k_LHxv6UXgFU7_6gBImNSh9NxjkY&fp=chrome&host=srvpl1.e404ng.fun&path=/&security=tls&sni=srvpl1.e404ng.fun&type=ws#کانال ما
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.43.250:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?path=%2FTelegram8%2F%3Fed%3D2560&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;host=ipsycho.suex12.ir&amp;fp=randomized&amp;type=ws&amp;sni=ipsychO.SUEx12.Ir#8
+vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?path=/&security=none&encryption=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&type=ws#کانال ما
+vless://afc61b94-d9d6-f085-c7c5-5ad2405170ff@tr.vezoo.fast.hardvezoo.ir:8088?path=/&security=&encryption=none&host=play.google.com&type=ws#کانال ما
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.129.194:22224?security=none&encryption=none&headerType=none&type=tcp#کانال ما
