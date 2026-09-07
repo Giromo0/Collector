@@ -1,10 +1,9 @@
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTU5IiwiYWRkIjoiMTY5LjQwLjMyLjQ4IiwicG9ydCI6IjUwNTgiLCJpZCI6ImY1NGU5M2QxLWNkOGUtNDM0Zi04MTIyLTQ4ODdlNjJjOTdmNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIxNjkuNDAuMzIuNDgiLCJwYXRoIjoiL25kaXdud2lkaWU4MklzbXNpT3AiLCJ0bHMiOiJub25lIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTU5In0=
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.177.61:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#6
+vless://0ac6ad68-45cb-cd9e-459b-446568d15f69@tmesubgift.up.railway.app:443?encryption=none&security=tls&type=ws&host=tmesubgift.up.railway.app&path=/ws/0ac6ad68-45cb-cd9e-459b-446568d15f69&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1#107
+vless://263a627b-7a5e-4180-b6af-a6cb0f03cc90@87.58.154.128:443?path=/&security=none&encryption=none&type=httpupgrade#کانال ما
+vless://6c8782a8-d350-4b70-89c5-4f430c6582cb@185.199.108.151:80?mode=auto&path=/&security=none&encryption=none&host=cghkppv2868.global.ssl.fastly.net&type=xhttp#کانال ما
+vless://85479e2e-8b2e-c7f7-6075-ea4fa1f2b2e2@subgift.up.railway.app:443?path=/ws/85479e2e-8b2e-c7f7-6075-ea4fa1f2b2e2&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=subgift.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=subgift.up.railway.app#114
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.226.39:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.121.241:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%
+vless://0183ea01-1071-4b3b-97fa-67dd115fe8f8@176.120.17.90:2083?encryption=none&type=http&path=/&method=GET&packetEncoding=xudp#o1ts3264
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi#TELEGRAM-leviconfigs_leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
-vless://903daa6f-534c-4f4a-bbc8-024993f5cb01@www.speedtest.net:443?path=/CMlsadnCISdss#TELEGRAM-leviconfigs?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=ptr.cyberbear.io&fp=chrome&type=ws&allowInsecure=0&sni=ptr.cyberbear.io#EPODONIOS
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=chrome&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#کانال ما
-vless://55ed97fc-77d1-4802-baf3-acef70776331@185.147.26.175:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.orpheous.ru&sid=e4aa362b5f9d07d7#‎
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.144.198.50:62145?encryption=none&security=none&type=tcp#کانال ما
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.180.12.191:62145?encryption=none&security=none&type=tcp#کانال ما
-vless://ff4873f3-ed68-7059-926c-6958fde22478@tmesubgift1.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift1.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift1.up.railway.app&path=/ws/ff4873f3-ed68-7059-926c-6958fde22478#114
