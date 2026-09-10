@@ -1,12 +1,8 @@
-vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@66.81.247.155:443?path=%2F%3Fed%3D%23%3Fed%3D512&security=tls&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.69.42:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.207.182:80?security=none&type=ws&host=us3.rtacg.com&path=/#کانال ما
-vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@130.12.102.125:443/?type=tcp&encryption=none&flow=&sni=localhost&fp=chrome&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=#咕
-vless://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.113.202:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sciencedirect.com&fp=chrome&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5&type=tcp&headerType=none#کانال ما
+vless://f1fa0ad9-b122-4b7c-da82-4bea9edc48dd@51.81.223.225:11094?allowInsecure=1&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0132
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@89.117.123.243:443?allowInsecure=0&sni=us.savesafe.cc&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#US_speednode_0135
+vless://f06c6039-a489-3d78-a676-ed43be6deca3@155.117.199.13:29893?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0136
+trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@i10VPN4️⃣
+vless://85479e2e-8b2e-c7f7-6075-ea4fa1f2b2e2@subgift.up.railway.app:443?path=/ws/85479e2e-8b2e-c7f7-6075-ea4fa1f2b2e2&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=subgift.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=subgift.up.railway.app#114
+vless://F2987FBA-B653-444D-8057-6B6474E448C6@hk3-r.link-t7.com:10128/?type=grpc&encryption=none&flow=&serviceName=movie&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#香港
 vless://F2987FBA-B653-444D-8057-6B6474E448C6@hk4-r.link-t7.com:10129/?type=grpc&encryption=none&flow=&serviceName=movie&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#香港
-vless://F2987FBA-B653-444D-8057-6B6474E448C6@hk6-r.link-t7.com:10136/?type=grpc&encryption=none&flow=&serviceName=movie&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#香港
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.57.245.232:443?security=tls&sni=hkd.ylks.link&type=ws&path=/#کانال ما
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.221.169:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#کانال ما
-vless://df08fd27-d7c2-4cd2-8a79-a32287682a79@193.239.179.15:443?security=reality&encryption=none&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=worldoftanks.eu#کانال ما
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.171.125:22222?encryption=none&security=none&type=tcp&headerType=none#🇺🇳 UN
-vless://e982aa04-033d-4811-a6eb-724ea8e5300d@172.105.18.131:443?security=tls&sni=ca2-full.privateip.net&type=ws&path=/VLESS&allowInsecure=1#کانال ما
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4xOC41Ny4xMTEiLCAicG9ydCI6ICIyMDg2IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAiaG9zdCI6ICJpcDE0LmZyZWVncmFkZWx5Lnh5eiIsICJ0bHMiOiAiIn0=
