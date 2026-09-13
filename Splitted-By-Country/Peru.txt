@@ -1,7 +1,12 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.145.224:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
-vless://%40awlix_ir@v2.jexu.ir:40338?type=tcp&amp;encryption=none&amp;security=none#bkbxopp8
+trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1#咕咕嘎嘎
+vless://7f55b425-a623-439b-bbd5-0b1778162054@172.67.73.174:80?security=none&type=ws&host=Fre1V2rayGod.xn--hssjg9ekdj8f1f.site.#کانال ما
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@roma3.moritech.net:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=roma3.moritech.net#کانال ما
+vless://d6e792d5-ea82-4e6c-b679-89f49ff7996e@194.87.59.7:2085?security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=grpc&serviceName=vless#کانال ما
 vless://5905d91f-c3bc-4e80-bd66-4b17beb166cb@38.244.4.1:443?allowInsecure=0&sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0130
-vless://f1fa0ad9-b122-4b7c-da82-4bea9edc48dd@51.81.223.225:11094?allowInsecure=1&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0132
-vless://ec31f6d7-c71a-413d-93aa-24296805a594@nsuc-znkbig.avonex.top:443?allowInsecure=0&sni=www.bing.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0144
-vless://6030877e-32a0-4f16-b65e-92e076f9e3f9@47.79.32.249:443?security=reality&encryption=none&pbk=5-5-JEuwU97zcy-IJg32zruuHAOZ-85DM0YhRmzWbG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=25d14b49bd77142e#کانال ما
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.130.157:22223/?type=tcp&encryption=none&flow=#نتورلد تو تلگرام جستجو کنید
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@89.117.123.243:443?allowInsecure=0&sni=us.savesafe.cc&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#US_speednode_0135
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=/sg-melbi#TELEGRAM-TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi#TELEGRAM-leviconfigs_leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
+vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&path=/ws#/?TELEGRAM-TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#EPODONIOS
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.117.250:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
+vless://%40awlix_ir@v2.jexu.ir:40338?type=tcp&amp;encryption=none&amp;security=none#bkbxopp8
+vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.conf…
