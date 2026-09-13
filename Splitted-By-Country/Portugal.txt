@@ -1,9 +1,6 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.172.122:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.40.234.23:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.6.135:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
+vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
 vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=%2Fwebsocket&amp;security=tls&amp;encryption=none&amp;host=de02.abvpn.ru&amp;type=ws&amp;sni=de02.abvpn.ru#7
-vless://%40awlix_ir@v2.jexu.ir:40338?type=tcp&amp;encryption=none&amp;security=none#bkbxopp8
-vless://1205caca-020f-4b79-a002-e344cc81fb2c@plt.starferi.ir:8460?security=none&encryption=none&headerType=none&type=tcp#حجم ۲۵۰ گیگ
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.171.125:22222?encryption=none&security=none&type=tcp&headerType=none#🇺🇳 UN
-vless://e4668a2b-66d6-4500-bcef-5ed52414e40a@78.141.221.126:25585?security=none&encryption=none&headerType=none&type=tcp#کانال ما
-vless://f1dcdda0-b2d2-4e18-88e2-c87c9257128e@38.244.21.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=5iZBmQ9iLLxvEHo_XilfjC7OM2-EmYTPQp-bzxlTqUU&sid=4568f3e435322cc8#嘎
+vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.26.230:2053?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#7
+vless://92c8098f-1143-05ef-4d67-004d9c81343d@subgift3.up.railway.app:443?encryption=none&security=tls&sni=subgift3.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=subgift3.up.railway.app&path=/ws/92c8098f-1143-05ef-4d67-004d9c81343d&packetEncoding=xudp#117
+vless://DFDBA849-E8F0-4C1B-9BD6-C4C87679B0A3@hk6-r.link-t7.com:10136/?type=grpc&encryption=none&flow=&serviceName=movie&sni=s0.awsstatic.com&fp=chrome&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&packetEncoding=xudp#香港
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi#TELEGRAM-leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
