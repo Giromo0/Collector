@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Giromo0/Collector
 #profile-web-page-url: https://github.com/Giromo0/Collector
-vless://903cbea5-278a-4f9b-b841-e97077d94633@66.33.22.238:49194?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=oho2ZfrpJKDlXr9w4VsAE-61QJLG_y070pOMvEzHzyY&fp=chrome&spx=/65252048ef0ebb8&type=xhttp&sni=yellow.ai&sid=6b58f6#EPODONIOS
-vless://903bb12e-ac86-414c-adf1-b9c41e213da8@208.103.161.1:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=viju.allomroll.org#EPODONIOS
-vless://901e6dca-1b73-4266-978b-f7dc1266a7f6@153.80.249.125:443?security=reality&encryption=none&pbk=1_a2G1x-DIEjDogZAiV4WFuOczGWcj-3zPiPxenUZhs&host=/?BIA--TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=23ae46816e87c7b8#EPODONIOS
 vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?security=reality&encryption=none&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&headerType=none&fp=chrome&spx=/ozks0ksxmyHue4v&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=85c86a9863#EPODONIOS
 vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.intel.com&fp=chrome&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&sid=85c86a9863&spx=/ozks0ksxmyHue4v&type=tcp&headerType=none#EPODONIOS
 vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#EPODONIOS
@@ -502,3 +499,6 @@ vless://6f1f88fe-2a9b-4e99-95fc-d56fcb8c62ef@49.13.19.156:28113?security=none&en
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:8443?path=/&security=none&encryption=none&host=play.google.com&type=ws#EPODONIOS
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:8080?path=/&security=none&encryption=none&host=play.google.com&type=httpupgrade#EPODONIOS
 vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2087?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=64.49.13.77#EPODONIOS
+vless://6f1f7a2f-88ac-4dd4-8f21-131c4d075242@64.49.13.77:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=1&host=64.49.13.77&fp=chrome&type=xhttp&allowInsecure=1&sni=64.49.13.77#EPODONIOS
+vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@78.141.221.126:25585?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://6eebb521-1844-4c3c-bf54-fb0e19870f80@64.176.64.194:25585?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
