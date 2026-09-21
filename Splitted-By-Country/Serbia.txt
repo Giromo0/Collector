@@ -19,3 +19,4 @@ vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.141.129:443?path=/139.99.124
 vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.141.129:443?path=/194.127.193.124=24467&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://ecd01b9c-8172-41a4-be72-6167fd7d932d@104.19.141.3:443?path=/194.127.193.124=24467&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://ee4bdede-a6cf-4931-a6cf-7ee4792ee76e@1conf.top:3333?security=none&encryption=none&headerType=http&type=tcp#Arshiavpn12
+vmess://eyJhZGQiOiJzdXBlcnBhbmVsLnNvYnUuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmYyYzJmZTktMjY0Yy00ZTZjLThkYWEtOGViZmNlN2ZlZjBlIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyNTAyNSIsInBzIjoi4pyI77iPIEBGcmVlQ29uZmlnRm9yWW91Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
