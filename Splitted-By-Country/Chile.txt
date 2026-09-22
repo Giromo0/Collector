@@ -1,21 +1,8 @@
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B2%20ProxyCloud%20USA%20%F0%9F%91%91
-vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ProxyCloud%20DO
-vless://6bb4d50a-56f9-47d5-8ce8-d8b7fe9aa474@64.225.9.191:25023?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20ProxyCloud
-vless://ff3685d5-f031-46d3-88c0-0b6b0d1f1558@64.227.41.160:57996?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ProxyCloud
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20NL%202%20by%20%40oneclickvpnkeys
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ProxyCloud%20France
-trojan://humanity@104.18.152.159:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.18.152.113:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@141.101.90.101:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.18.152.77:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.16.174.185:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@172.67.188.109:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ProxyCloud%20DO%202
+trojan://humanity@104.26.15.137:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 hysteria2://gf1@173.212.201.85:443?insecure=1&sni=www.docker.com#%F0%9F%9B%9660%40oneclickvpnkeys
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@se.xiaoliyu.cyou:4433/?insecure=1&sni=se.xiaoliyu.cyou#🛖93@oneclickvpnkeys
-trojan://MiTIVPN@151.101.56.56:443?alpn=http/1.1&fp=chrome&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&sni=ssl.fastly.com&type=ws#🛖82@oneclickvpnkeys
-trojan://MiTIVPN@167.82.76.7:443?alpn=http/1.1&fp=chrome&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&sni=ssl.fastly.com&type=ws#🛖81@oneclickvpnkeys
-vless://4fe7ceb2-160c-4564-89e6-8f5fd0b05cd5@34.176.98.128:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=3ekBKAuIIAOjtkKJ0T-qpC7uJsqsY2fVLRB6C70A5hw&sid=d7676b6a468a03b3&type=tcp&headerType=none#🇨🇱178396 | ⚡️Telegram = t.me/SOSkeyNET
-vless://b2593749-691c-428c-9481-14979cba3446@66.235.200.101:443?&security=tls&fp=chrome&sni=xi.tbv.ccwu.cc&type=ws&headerType=none&host=xi.tbv.ccwu.cc&path=%2Fproxyip%3Dus.xiabibi.cf#%E7%BE%8E%E5%9B%BD%20CloudFlare%E5%85%AC%E5%8F%B8CDN%E8%8A%82%E7%82%B9%28iPower%29
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.97:2096?&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F#%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9%208
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=/sg-melbi#TELEGRAM-TOOTFFARANGI?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi#TELEGRAM-leviconfigs?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#EPODONIOS
+hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443/?insecure=1&sni=hys28.wba-pn.ru#🛖91@oneclickvpnkeys
+trojan://MiTIVPN@199.232.78.160:443?alpn=http/1.1&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&sni=ssl.fastly.com&type=ws#🛖84@oneclickvpnkeys
+trojan://humanity@8.47.69.0:443?host=www.pleadcourt.org&path=/assignment&sni=www.pleadcourt.org&type=ws#🚨95@oneclickvpnkeys
