@@ -1,9 +1,4 @@
-vless://303c2140-19ff-4eea-b1b1-865d4160d261@2.26.124.199:443?encryption=none&amp;type=grpc&amp;security=reality&amp;sni=ai.android&amp;fp=chrome&amp;pbk=uE1WBdW9se1rQnx8Vh-a1jjaehzK-iUmCVrPui5KU3g&amp;sid=53499a662395&amp;spx=/
-vless://550d6eb0-1775-44a4-a464-9176e3d74b50@172.67.130.159:2096?&security=tls&fp=chrome&packet-encoding=xudp&sni=cdn-us.skyvora.app&type=ws&headerType=none&host=cdn-us.skyvora.app&path=%2F0i027asku#US_750%7C714KB%2Fs%7CV003-260618%2001
-vless://1d54a125-8f1e-46bb-9a23-0ecf4ac92db8@172.67.130.159:2096?&security=tls&fp=chrome&packet-encoding=xudp&sni=cdn-ca.skyvora.app&type=ws&headerType=none&host=cdn-ca.skyvora.app&path=%2Ffqg7aacd8s#CA_41%7C764KB%2Fs%7CV005-260618%2001
-vless://bdc5e450-3e2d-4001-928e-e3bc6cecb249@172.67.130.159:2096?&security=tls&fp=chrome&packet-encoding=xudp&sni=cdn.skyvora.app&type=ws&headerType=none&host=cdn.skyvora.app&path=%2Fhux9duzm54#NL_322%7C3.0MB%2Fs%7CV003-260618%2001
-vless://832c8f42-7fe1-4aa4-9171-eb9dddbf6fef@104.21.8.201:2096?&security=tls&fp=chrome&packet-encoding=xudp&sni=cdn-sg.skyvora.app&type=ws&headerType=none&host=cdn-sg.skyvora.app&path=%2F78bc8#SG_58%7C631KB%2Fs%7CV005-260618%2001
-vless://bdc5e450-3e2d-4001-928e-e3bc6cecb249@104.21.8.201:2096?&security=tls&fp=chrome&packet-encoding=xudp&sni=cdn.skyvora.app&type=ws&headerType=none&host=cdn.skyvora.app&path=%2Fhux9duzm54#NL_323%7C2.1MB%2Fs%7CV008-260618%2001
+hysteria2://telegram-ID-conf0088@api.ohbah.com:25287?insecure=0&obfs=salamander&obfs-password=telegram-ID-conf0088#%40ICV2RAY
 hysteria2://telegram-ID-conf0088@api.ohbah.com:25287?security=tls&obfs=salamander&obfs-password=telegram-ID-conf0088&insecure=0#@ICV2RAY
 trojan://MiTIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ICV2RAY
 trojan://U&RdRdcsoeB;VU9.IO@172.67.167.173:8443?path=/tr/oUxHeBhI2aoGvGd83MTCkEy2kmdXsBX0?ed=2560&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Te096C8unFj1zOKTL5peU24bS.878nAMn3I0xJ17no6p3.wORkErS.Dev#@ICV2RAY
