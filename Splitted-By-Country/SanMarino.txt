@@ -1,4 +1,1 @@
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.219.77:62145?encryption=none&amp;packetEncoding=xudp#https://t.me/ShadowsocksM1
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081?encryption=none&amp;type=ws&amp;path=/vless-test&amp;packetEncoding=xudp#https://t.me/ShadowsocksM19
 vless://5ba9f3dc-e8ec-4c8c-b273-68daed2fef12@153.76.185.88:3090?encryption=none&amp;type=grpc&amp;serviceName=vless&amp;packetEncoding=xudp#https://t.me/ShadowsocksM31
-vless://8abb648a-b004-42a4-aa05-49cdc2f94d4e@199.232.78.159:443?encryption=none&amp;security=tls&amp;sni=global.fastly.com&amp;fp=chrome&amp;type=ws&amp;host=skyfarst.global.ssl.fastly.net&amp;path=/&amp;packetEncoding=xudp#https://t.me/ShadowsocksM35
