@@ -1,6 +1,2 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.183.70:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.148.54:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.41.243:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
-vless://%40awlix_ir@v2.jexu.ir:40338?type=tcp&amp;encryption=none&amp;security=none#bkbxopp8
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=/222.167.202.31:7443&security=tls&encryption=none&insecure=1&host=2026.hhhhh.eu.org&type=ws&allowInsecure=1&sni=2026.hhhhh.eu.org#‌
-vless://50414e45-4c5f-5a45-5553-f42c641ffe6e@104.21.238.39:2052?path=/stream/PANEL_ZEUS/f42c641ffe6e&security=none&encryption=none&host=xozhtlekujts.akbar-25mor.workers.dev&type=ws#41
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#3
+vless://50414e45-4c5f-5a45-5553-f42c641ffe6e@185.148.104.156:2052?path=/stream/PANEL_ZEUS/f42c641ffe6e&security=none&encryption=none&host=xozhtlekujts.akbar-25mor.workers.dev&type=ws#49
