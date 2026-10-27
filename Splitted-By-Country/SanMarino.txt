@@ -1,3 +1,2 @@
-vless://5be7fb02-b6a5-450f-b041-3243b98e8420@72.56.41.33:40443?encryption=none&amp;flow=xtls-rprx-vision&amp;type=raw&amp;security=reality&amp;sni=deepl.com&amp;fp=edge&amp;pbk=Uvj5H9pDJP0HX2bN7NN7sCQwVCrC5N2NbKf-yuy1ikE&amp;sid=ee33#https://t.me/ShadowsocksM29
-vless://5ba9f3dc-e8ec-4c8c-b273-68daed2fef12@153.76.185.88:3090?encryption=none&amp;type=grpc&amp;serviceName=vless&amp;packetEncoding=xudp#https://t.me/ShadowsocksM31
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&amp;sni=pl2.dedushka.top#https://t.me/ShadowsocksM1
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@us3.dedushka.top:443?security=tls&amp;sni=us3.dedushka.top&amp;alpn=http/1.1&amp;fp=firefox#https://t.me/ShadowsocksM2
