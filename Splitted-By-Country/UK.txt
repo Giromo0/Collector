@@ -1,22 +1,13 @@
-vmess://eyJhZGQiOiIyMDYuMjQ1LjE2Ni4xMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjAwNDU0N2ItNThlYy00NTM2LTk2MDgtMGQ2ODk4MmVhOTA0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIzNDIwNCIsInBzIjoiR0Ig8J+HrPCfh6cgfCBAUmF5ZGlrYWx4IHwgODhGMzA2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
-vmess://eyJhZGQiOiJ2c3Bqajh3Mi5zZWxxb3JhLmlyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6Ijk2MWFjZDJiLTM3YTYtNDIxNC1iMDU1LTYzYmE2YmY0ZjQyNSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTE1OTUiLCJwcyI6IkdCIPCfh6zwn4enIHwgQFJheWRpa2FseCB8IDIzQUZFNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJbMjgwMzpmODAwOjUzOjpmZThkOmU0ZmNdIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiR0Ig8J+HrPCfh6cgfCBAUmF5ZGlrYWx4IHwgOUM3MDNCIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+vmess://eyJhZGQiOiJvdmhwb2suZ29hbGlyLmNvLnVrIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZmNDUzNjI3LTVlN2ItNDk0My04Mjc5LWZjNWYzNGJkMzkyNyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjA4MyIsInBzIjoiR0Ig8J+HrPCfh6cgfCBAUmF5ZGlrYWx4IHwgNEMzOEZDIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 vless://fe3d30b7-82a7-44cc-9680-7e6aaf6bd7fa@pjzfbokfkg.liberty-nodes.online:8443?security=reality&encryption=none&pbk=ur0hPeVOiN-1EwdJKQ7sLa8kDNMmkLuxt5v7epB6_2c&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kfg9gzxsy1.mail.ru&sid=bb7091c6d24abb18#🆔soskeynet%20🔒%20VL-TCP-%20🇬🇧%20GB%20211ms
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@213.130.137.160:443?encryption=none&type=xhttp&security=reality&path=%2F&host=panel.freesavesafe.com&sni=panel.freesavesafe.com&fp=firefox&insecure=1&allowInsecure=1&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&sid=812609fa663c57fb#🆔configfa%20🔒%20VL-XHTTP-%20🇬🇧%20GB%20200ms
-trojan://5e4a2c58499345c3@ikuk204.zxom.eu.org:20022?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-145.241.235.204-0645
-vless://64c05afc-ce81-4ba0-b697-afa04da1427e@195.72.166.251:443?sni=www.lloydsbankinggroup.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%AC%F0%9F%87%A7%5Bwww.v2nodes.com%5D%20vless-GB-1...%20%231
-vless://bc058e69-0444-4c7b-98da-bd67f0b143da@130.12.242.106:443?sni=deepl.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7%5Bwww.v2nodes.com%5D%20vless-GB-1...%20%235
-vless://77479eaf-c35e-4088-ae47-a2beb88a7272@uk.2ul.top:443?sni=www.cloudflare.com&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7%5Bwww.v2nodes.com%5D%20vless-GB-1...%20%236
-vless://22e6604e-0481-411f-8028-ffbd65f624b6@vpn.kovira.site:443?sni=vpn.kovira.site&alpn=http/1.1&type=ws&host=vpn.kovira.site&path=/ws-738d2d0c5eba7609f3c37de2fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7%5Bwww.v2nodes.com%5D%20vless-GB-1...%20%237
-vless://54d1afe5-f5aa-47e6-a02f-6c41a6f886b3@147.45.47.152:443?sni=gb.ozon.ru&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20%7C%20GBR%20%231
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@201.58.181.179:4443?insecure=1&sni=pl1.shvpn.ru#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20%7C%20GBR%20%232
-vless://f29bb776-4e2d-4884-b628-98d8907132be@146.75.35.31:443?sni=accounts.fastly.com&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20%7C%20GBR%20%235
+trojan://5e4a2c58499345c3@ikuk204.zxom.eu.org:20022?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-145.241.235.204-0186
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.136.139:443?path=/&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#GB🇬🇧
-vless://09931b77-0f40-4734-9b36-5df6e2308e4e@rabin.142.251.153.7.savfasf.ir:41432?&security=false&fp=chrome&type=tcp&headerType=none&host=rabin.142.251.153.7.savfasf.ir&path=%2F#%E8%8B%B1%E5%9B%BD%20%7C%20GBR%20%231%203
-trojan://5e4a2c58499345c3@145.241.235.204:20022?allowInsecure=1&sni=ikuk204.zxom.eu.org#🇬🇧201041 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://mitivpn@199.232.78.188:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇬🇧@AZARBAYJAB1
 trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@139.59.238.97:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#🇬🇧 direct
 vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@31.76.246.59:443?security=reality&encryption=none&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=v.gb-cdn.ru&sid=7a3f9e2b1c8d4f6a#🇬🇧139812 | ⚡️Telegram = t.me/SOSkeyNET
-vless://0b694f0a-48c3-4394-8862-a1b7cd1a184e@18.171.164.29:32073?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇬🇧201115 | ⚡️Telegram = t.me/SOSkeyNET
+vless://19722042-d2e0-4c5e-aac6-f74d1ea9a970@89.125.11.57:443?security=reality&encryption=none&pbk=ikLQ5dfCqs8QkJM7HJBhO9II6blBL9etrPx8-jD1MRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de-room10.filesnap.tech&sid=6684cb92eab730e6#🇬🇧201388 | ⚡️Telegram = t.me/SOSkeyNET
 vless://391a01e9-b664-407b-9158-610fab3f5920@3.9.135.156:51847?security=reality&encryption=none&pbk=S6noV0L8eNASnTe1gXLutLZNdfENsvKMsOJiGQYi6nc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=0eec442e7b34d2f2#🇬🇧 | 2
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=rouwwwfrance.appleseraj.ir&sni=rouwwwfrance.appleseraj.ir&fp=chrome#🇬🇧| 𝐋𝐨𝐧𝐝𝐨𝐧
 vless://69eb5502-0090-47be-a602-2c61c2074d93@tamiiiiz.aryan-sport.ir:2095?encryption=none&security=none&type=httpupgrade&host=Dr15.aryan-sport.ir&path=/#🇬🇧 𝐔𝐧𝐢𝐭𝐞𝐝 𝐊𝐢𝐧𝐠𝐝𝐨𝐦 ☁️
@@ -25,7 +16,9 @@ vless://977bac99-33d4-408a-91f5-0ce737793a00@172.64.159.64:80?security=none&allo
 vless://977bac99-33d4-408a-91f5-0ce737793a50@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
 vless://977bac99-33d4-408a-91f5-0ce737793a54@172.64.159.64:80?security=none&allowInsecure=0&encryption=none&type=ws&host=britain.vipserver14.workers.dev&path=/?ed=2048#🇬🇧 CxrolVPN
 vless://9d328839-6d44-44bb-af3e-075f7f0002d6@cdn.devmixa.ir:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=english.havray2025.ir&fp=chrome&type=ws&allowInsecure=0&sni=english.havray2025.ir#🇬🇧139804 | ⚡️Telegram = t.me/SOSkeyNET
+vless://a3412c24-aedd-4bed-b313-2b327562e159@62.233.33.60:443?path=/community/updates/stream/&security=reality&encryption=none&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":0,"maxConnections":3,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"}}&pbk=iEAxENy4cyV78Z2CJyAS59YPCNH8BrdGIR-l7sqBh2k&fp=chrome&type=xhttp&sni=uk-room05.filesnap.tech&sid=dec060b2ac4e78f5#🇬🇧201360 | ⚡️Telegram = t.me/SOSkeyNET
 vless://a6c5f4c7-073f-416b-b5e3-4a86ec2d9f22@139.59.191.88:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JeaMU58AmMJ2JqJ-QGotRFua9DYxxveqw7I_XMWCu34&security=reality&sid=2da3ecc3ad9a323b&sni=www.stanford.edu&type=tcp#🇬🇧139842 | ⚡️Telegram = t.me/SOSkeyNET
+vless://abca037b-bee5-41cc-a888-0668e4c66176@144.31.213.229:443?path=/conv4/stream/77dd2aeeb94331fbff325bb48850392b&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=6d160a52.con.fernarchive.online#🇬🇧201384 | ⚡️Telegram = t.me/SOSkeyNET
 vless://bbb9db67-9cb1-4dc6-9b92-5fef93331332@213.156.152.234:13852?security=reality&encryption=none&pbk=GoV94qiMciumXTs0_K2bYdXHPYZx6Qez_RoF-oqqCzo&headerType=http&fp=chrome&spx=/gVCLnTsaoc7silZ&type=tcp&sni=www.oracle.com&sid=6b59#Ray-80.50GB📊
 vless://be21521c-ab53-473e-9041-f51888c9906f@uk2.moon-night.ir:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=377d#🇬🇧UK 2 Irancell
 vless://be21521c-ab53-473e-9041-f51888c9906f@ukm.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=testspeed-foreign.tci.ir&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=070a23aed243#🇬🇧 United Kingdom New
@@ -33,21 +26,28 @@ vless://c28ee61d-0d43-0064-8e6a-6397ed0ffc03@164.37.109.187:443?security=reality
 vless://c28ee61d-0d43-0065-8e6a-6397ed0ffc03@164.37.104.149:443?security=reality&encryption=none&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#🇬🇧139820 | ⚡️Telegram = t.me/SOSkeyNET
 vless://cbc5c74f-95f8-4c52-835c-c6e3429cb9f4@cdn.devmixa.ir:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=english.havray2025.ir&fp=chrome&type=ws&allowInsecure=0&sni=english.havray2025.ir#🇬🇧139751 | ⚡️Telegram = t.me/SOSkeyNET
 vless://cbc5c74f-95f8-4c52-835c-c6e3429cb9f4@cdn.devmixa.ir:8880?path=/?ed=2082&security=none&encryption=none&host=Gowspobhgln.5.postshup.ir&type=httpupgrade#🇬🇧139750 | ⚡️Telegram = t.me/SOSkeyNET
-vless://d1b33bcd-88e8-428f-87da-cc8bfb2d426c@89.125.11.26:443?security=reality&encryption=none&pbk=BTRF6cX_1ul5lAN31QmqrPNl9yMNo8JrsUJOhi9K71U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=room8.filesnap.tech&sid=3cb2d38fbac380fa#🇬🇧201055 | ⚡️Telegram = t.me/SOSkeyNET
+vless://ce334334-3ab8-45a2-8af7-f151f413e402@uk2.zanzelo.ir:2196?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&pbk=72syjF50mzlhjtKDTOS4HGhPFgOncmbK45PmZL5wXQo&fp=chrome&type=xhttp&sni=aparat.com&sid=31c73fbd73dacd59#🇬🇧201328 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.84.84:22222?encryption=none&security=none&type=tcp#(S102)🇬🇧t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.84.84:22222?encryption=none&security=none&type=tcp#🇬🇧201373 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.84.84:22223?encryption=none&security=none&type=tcp#🇬🇧201374 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.84.84:22224?encryption=none&security=none&type=tcp#🇬🇧201372 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.215.117:22222?encryption=none&security=none&type=tcp#(S101)🇬🇧t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.215.117:22222?encryption=none&security=none&type=tcp#🇬🇧201353 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.215.117:22223?encryption=none&security=none&type=tcp#🇬🇧201351 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.215.117:22224?encryption=none&security=none&type=tcp#🇬🇧201352 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.243.89:22222?encryption=none&security=none&type=tcp#(S101)🇬🇧t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.243.89:22222?encryption=none&security=none&type=tcp#🇬🇧201011 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.243.89:22223?encryption=none&security=none&type=tcp#🇬🇧201012 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.243.89:22224?encryption=none&security=none&type=tcp#🇬🇧201010 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.199.59:22222?encryption=none&security=none&type=tcp#(S101)🇬🇧t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.198.0:22222?encryption=none&security=none&type=tcp#(S102)🇬🇧t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.198.0:22222?encryption=none&security=none&type=tcp#🇬🇧201377 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.198.0:22223?encryption=none&security=none&type=tcp#🇬🇧201378 | ⚡️Telegram = t.me/SOSkeyNET
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.198.0:22224?encryption=none&security=none&type=tcp#🇬🇧201376 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.217.238:22222?encryption=none&security=none&type=tcp#(S102)🇬🇧t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.217.238:22222?encryption=none&security=none&type=tcp#🇬🇧201108 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.217.238:22223?encryption=none&security=none&type=tcp#🇬🇧201107 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.217.238:22224?encryption=none&security=none&type=tcp#🇬🇧201106 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.171.254:22222?encryption=none&security=none&type=tcp#(S101)🇬🇧t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.214.225:22222?encryption=none&security=none&type=tcp#(S102)🇬🇧t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.2.178:22224?security=none&type=tcp&encryption=none#🩻🇬🇧GB
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.170.161.150:22222?encryption=none&security=none&type=tcp#(S102)🇬🇧t.me/PrivateVPNs
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.171.125.127:22222?encryption=none&security=none&type=tcp#(S101)🇬🇧t.me/PrivateVPNs
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.171.125.127:22222?encryption=none&security=none&type=tcp#🇬🇧201013 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.171.125.127:22223?encryption=none&security=none&type=tcp#🇬🇧201015 | ⚡️Telegram = t.me/SOSkeyNET
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.171.125.127:22224?encryption=none&security=none&type=tcp#🇬🇧201014 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.16.186:22222?encryption=none&security=none&type=tcp#(S102)🇬🇧t.me/PrivateVPNs
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.209.55:22224?security=none&type=tcp#🌐🇬🇧GB
+vmess://eyJhZGQiOiI1Ny4xMjguMTY0LjIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJodHRwcy5odHRwLnd3dy5uZXQuY29tLnJhbXNleXYyLmlyLiIsImlkIjoiYmRhODJiY2QtZjZlMi00NmFlLTk1NTItNjczZjBiODdhYzMwIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q/ZWRcdTAwM2QyNTYwIiwicGNzIjoiIiwicG9ydCI6IjgwIiwicHMiOiLwn4es8J+Hp0dCXzMxX0BTdXJmYm9hcmR2MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+vless://09931b77-0f40-4734-9b36-5df6e2308e4e@rabin.142.251.153.7.savfasf.ir:41432?&security=false&fp=chrome&type=tcp&headerType=none&host=rabin.142.251.153.7.savfasf.ir&path=%2F#%E8%8B%B1%E5%9B%BD%20%7C%20GBR%20%231%203
