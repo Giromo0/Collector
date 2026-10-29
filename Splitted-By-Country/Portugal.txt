@@ -1,7 +1,6 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.132.146.67:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.19.247:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.117.210:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#6
-vless://%40awlix_ir@v2.jexu.ir:40338?type=tcp&amp;encryption=none&amp;security=none#bkbxopp8
-vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&security=&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#[115118]
-vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.19.144.99:8443?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#8
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.73.239:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.65.148:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
+vless://bc52c632-5549-4f23-9037-27d7d8c2cec6@biography.com:80?path=%2Fdownload&amp;security=&amp;encryption=none&amp;host=melovy.ir&amp;type=ws#
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#[112017]
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#8
+vless://7327168e-4da6-4104-82ab-d52dd7128c47@104.17.23.106:2053?path=/?u=ommkkobot&security=tls&encryption=none&insecure=0&host=nova-mango-cloud-c883.nova-5dd64d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-mango-cloud-c883.nova-5dd64d.workers.dev#4
