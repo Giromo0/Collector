@@ -1,4 +1,5 @@
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMzUgMS42TUIvcyIsImFkZCI6Indqb2ZIc1F0RXVFeXd4RXEudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiYTlmNGRlOGItNjhmMS00NGI2LWI2YTItMWRiNjA5NDA1MDNhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsImhvc3QiOiJ3am9mSHNRdEV1RXl3eEVxLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjciLCJhZGQiOiJlY29ub21pYy5pcC1zdGF0aWMuY29tIiwicG9ydCI6IjUwMzUiLCJpZCI6IjhlYWRkNDNkLTM4OGMtNDQzNi1hOWQ3LWM2YTFjNWZkOWRkYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjY3In0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTA2IiwiYWRkIjoidGVzdC10dW4uYXJtdGVjaC5pciIsInBvcnQiOiI0NDMiLCJpZCI6ImM0ZTI0ZmQwLTIxOTQtNDRmNS1hMDU4LTY5ZGYzZGMwMzVhMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjEwNiJ9
 trojan://humanity@104.16.34.14:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#@MigMigVPNSHOP
 trojan://humanity@104.18.37.127:443?path=/assignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#@MigMigVPNSHOP
 trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@MigMigVPNSHOP
@@ -7,4 +8,3 @@ trojan://humanity@104.20.55.137:443?path=/assignment&security=tls&alpn=http/1.1&
 trojan://humanity@164.92.223.252:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@MigMigVPNSHOP
 trojan://humanity@172.64.145.133:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@MigMigVPNSHOP
 trojan://humanity@95.85.54.197:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@MigMigVPNSHOP
-vless://26d493a6-e1fc-4813-8f6d-49010ae97d7f@igyeqfz.videoruru.shop:443?mode=packet-up&path=/v3/b9305903/segments/&security=tls&alpn=h2,http/1.1&encryption=none&extra={#[118620]
