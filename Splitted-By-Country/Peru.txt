@@ -1,21 +1,3 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.62.190:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.138.188:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.140.219:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#3
-vless://%40awlix_ir@v2.jexu.ir:40338?type=tcp&amp;encryption=none&amp;security=none#bkbxopp8
-vless://bcf07b50-9da7-44dc-a955-43302f12e1e5@147.45.46.183:443?allowInsecure=0&sni=gb.ozon.ru&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#RU_speednode_0035
-vless://680e92ac-1688-49e0-af96-7327fbc30ce8@45.151.71.167:443?allowInsecure=0&sni=abuse.ozon.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0036
-vless://10997f19-2951-4a9b-a26f-611a6bd72d02@185.18.250.2:443?&security=tls&fp=chrome&sni=worker3.sicoro1729.workers.dev&type=ws&headerType=none&host=worker3.sicoro1729.workers.dev&path=%2F#_%E7%91%9E%E5%A3%AB%20%2812%29
-vless://e5d062f0-7bad-4c80-9417-ae083eef61c1@146.103.118.189:443?&security=tls&fp=chrome&sni=nl2.574ck.xyz&type=ws&headerType=none&host=nl2.574ck.xyz&path=%2Fws#_%E8%8D%B7%E5%85%B0%20%2855%29
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?security=tls&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp&headerType=none#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ💀
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#@i10VPN²
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#@v2ray313 کانالمون 🍭
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.nextjobopportunityandclaimyouridealrole.com#@i10VPN²
-trojan://MiTiVPN@199.232.78.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mtlooabmakaakaoijji.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#@v2ray313 کانالمون 🍇
-trojan://humanity@104.16.72.50:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[129952]
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2ray313 کانالمون 🌙
-trojan://mitivpn@151.101.56.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#❤️4
-vless://1205caca-020f-4b79-a002-e344cc81fb2c@plt.starferi.ir:8460?security=none&encryption=none&headerType=none&type=tcp#حجم ۲۵۰ گیگ
-vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&type=tcp&security=none
-vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.24:444?path=/stream/updates/a66d7902?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=neplay603.gangtype.com&fp=chrome&type=ws&allowInsecure=0&sni=neplay603.gangtype.com#VCONFING
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjE4My4yNDAuMjM1LjE2NCIsICJwb3J0IjogIjU1OTA4IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@64.110.70.64:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd#[154356]
+vless://40f2aa9a-05cc-44aa-bd79-5e973046c062@206.1.99.63:49985?security=reality&encryption=none&pbk=sw1jKj94Ko31_R9VrRAPQZJxoUY9_HRkvEA_-O1q6iE&headerType=&fp=chrome&spx=/acf016f7fcf8f80&type=tcp&sni=play.google.com&sid=5f61974010c2#[129951]
+vmess://eyJhZGQiOiAibWNpLm1vc2kubW9zaXByby5tbCIsICJhaWQiOiAiMCIsICJob3N0IjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAiaWQiOiAiM2YxOTcyODAtN2IyMS00ZjM5LWI3NjMtNGJiMDA0ZTgwMjFmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0ifQ==
